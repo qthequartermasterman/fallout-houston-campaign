@@ -2,6 +2,25 @@
 
 
 
+## v0.2.0 (2023-10-04)
+
+### Ci
+
+* ci: read-the-docs ([`450ad36`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/450ad3697e69760dbe8bdc702a36e641ea8ad9ca))
+
+* ci: read-the-docs ([`347f0ef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/347f0ef01692b5204e04e951c13486367a631893))
+
+* ci: read-the-docs ([`f8a4642`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f8a4642db168c4589be909ff09c8c71d7c71350b))
+
+### Feature
+
+* feat: explanations of borrowed sim-settlements-elements.md ([`bcd6675`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/bcd66754edfe6e1271e9606f2ef603c5c424b949))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`6c58cb7`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6c58cb7034553e34fcaa5110de105b269dfa9db0))
+
+
 ## v0.1.0 (2023-10-04)
 
 ### Ci
