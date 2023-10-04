@@ -509,6 +509,9 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ### Minor Settlements
 
+- Bayou Vista: NLTC maintains a well-protected but small marina at the Bayou Vista, where their protected ships land.
+  Although they do not use warships, the Galveston Pirates usually leave them alone, after a few early, failed attempts
+  to raid their ships. The NLTC has a small but well-armed security force, and they are not afraid to use it.
 - Bayou Outpost: Located deep in the swampy bayou regions to the south of Houston, the Bayou Outpost is a secluded and
   self-sufficient community. Its inhabitants are skilled hunters and gatherers, relying on the bayou's resources for
   sustenance. They are known for their herbal remedies and have a mysterious connection to the Bayou Brotherhood.
@@ -805,13 +808,17 @@ Pirates.
 
 ### State Highway 6
 
-Connections: State Highway 6 stretches westward from Houston, connecting the city to Sugar Land, Richmond, and further
-points west.
+Connections: State Highway 6 stretches westward from Houston, connecting the city to Sugar Junction, Richmond, and
+further points west.
 State: Parts of State Highway 6 have remained accessible for caravans and travelers, while others have suffered from
 disrepair and damage.
 Influence: Sugar Land, located along this highway, serves as a trading outpost for the New Liberty Trading Company (
 NLTC). The highway facilitates trade between Sugar Land and other settlements, making it a crucial route for the NLTC's
-operations.
+operations. At the south, near the intersection of I-45 and SH-6, NLTC maintains a well-protected but small marina at
+the
+Bayou Vista, where their protected ships land. Although they do not use warships, the Galveston Pirates usually leave
+them alone, after a few early, failed attempts to raid their ships. The NLTC has a small but well-armed security force,
+and they are not afraid to use it.
 
 ### Interstate 610 (I-610)
 
