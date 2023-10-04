@@ -17,7 +17,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ## Neighborhoods and Settlements
 
-### Downtown Houston:
+### Downtown Houston
 
 - Downtown Houston, once a thriving hub of commerce and culture, now lies in ruin. The towering skyscrapers that once
   defined the cityscape have crumbled into skeletal structures, and the streets are filled with debris and remnants of
@@ -36,7 +36,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   escape route for wealthy executives. These tunnels are said to contain caches of valuable resources and secrets,
   making them a coveted prize for daring adventurers.
 
-### The Heights:
+### The Heights
 
 - The Heights, known for its historic bungalow-style houses, has seen better days. Many of the homes have fallen into
   disrepair or lie in ruins, their once-charming facades marred by time and neglect.
@@ -46,7 +46,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The Lone Star Republic maintains a presence in The Heights, working to secure vital resources and maintain order among
   the survivors. They have established checkpoints and supply depots to support their operations.
 
-### Third Ward:
+### Third Ward
 
 - The Third Ward, a predominantly African American neighborhood with a rich cultural history, has become a hub for
   cultural preservation. Survivors here have worked diligently to maintain their heritage through art, music, and
@@ -58,7 +58,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   believe that the nearby bayous hold mystical and cosmic connections, making this neighborhood a site of importance for
   their rituals and gatherings.
 
-### East End:
+### East End
 
 - The East End, once an industrial and shipping hub, has experienced renewed activity in the post-apocalyptic era.
   Abandoned warehouses and factories have been repurposed for various uses, from shelter to workshops.
@@ -68,7 +68,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The East End's strategic location makes it a key battleground in the ongoing struggle for dominance over sea routes
   and trade in the region.
 
-### Montrose:
+### Montrose
 
 - Montrose, a district known for its vibrant arts and cultural scene in the pre-war era, has transformed into a bustling
   marketplace in the post-apocalyptic wasteland. Its streets are lined with makeshift market stalls, and traders from
@@ -82,7 +82,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the challenges of the wasteland, Montrose remains a place where survivors come to trade, barter, and exchange
   stories, keeping a semblance of commerce and culture alive in this harsh world.
 
-### Rice Village:
+### Rice Village
 
 - Rice Village, known for its upscale shopping and dining options in the pre-war era, has undergone a stark
   transformation. Many of the once-elegant shops and restaurants now lie in ruins, their windows shattered and interiors
@@ -95,7 +95,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   Rice University Campus. The Republic has cleaned up both the University Campus and the surrounding area. The
   Republic's presence has attracted traders and settlers to the area, turning it into a bustling marketplace.
 
-### Medical Center:
+### Medical Center
 
 - The Texas Medical Center, although not directly hit by nuclear strikes, faced turmoil in the aftermath of the Great
   War. Many patients, staff, and researchers perished during the chaos that followed, leaving the medical facilities in
@@ -106,7 +106,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The Lone Star Republic occasionally conducts reconnaissance missions in the Medical Center to gather medical resources
   and intelligence.
 
-### Spaceport District (Johnson Space Center):
+### Spaceport District (Johnson Space Center)
 
 - The Johnson Space Center's Spaceport District endured a direct nuclear strike during the Great War. The surface
   facilities were severely damaged, but the underground vault, Vault 117, remained intact.
@@ -124,7 +124,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   rocket launch. This district represents the hope and ambition of returning to the stars after centuries of
   devastation.
 
-### The Energy Corridor:
+### The Energy Corridor
 
 - The Energy Corridor, once a vital center for the energy industry, was targeted during the Great War due to its
   strategic importance. Many of the oil refineries and energy infrastructure in the area were destroyed.
@@ -140,7 +140,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The Barons have set up a clandestine research facility within the Energy Corridor, where they explore new ways to
   harness energy and investigate the connection between their pre-war predecessors and the Enclave.
 
-### Uptown Houston:
+### Uptown Houston
 
 - Uptown Houston, known for its commercial and residential affluence in the pre-war era, has suffered significant decay.
   Luxury apartments and high-end shops now stand in varying states of disrepair, their opulence faded.
@@ -156,7 +156,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The lavish pre-war apartments in Uptown have become sought-after shelters for those who can secure them. These
   apartments offer a stark contrast to the surrounding decay, with remnants of opulent lifestyles still visible.
 
-### Port of Houston:
+### Port of Houston
 
 - The Port of Houston, a critical gateway for trade and commerce, faced extensive damage during the Great War due to its
   economic significance. Many port facilities were heavily impacted by the destruction.
@@ -174,7 +174,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   those who can secure control over it. It has become a center for smuggling, bartering, and backroom deals among
   factions.
 
-### The Bayous and Wetlands:
+### The Bayous and Wetlands
 
 - The bayous and wetlands surrounding Houston have become both a refuge and a danger. The Bayou Brotherhood, an
   isolationist faction, has made these waterlogged areas their home, preserving their unique culture and traditions.
@@ -205,7 +205,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   stand as a testament to human history and creativity, juxtaposed against the struggles and adaptations of survivors in
   the present day.
 
-### Western Reach (formerly Katy):
+### Western Reach (formerly Katy)
 
 - Western Reach, situated to the west of the city, was once known as Katy in the pre-war era. It has since evolved into
   a resilient suburban community surrounded by the sprawling Energy Corridor.
@@ -216,7 +216,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   exchange for a degree of protection and access to energy resources. This delicate balance ensures the survival of both
   factions in this strategic region.
 
-### The Verdant Haven (formerly The Woodlands):
+### The Verdant Haven (formerly The Woodlands)
 
 - The Verdant Haven, formerly known as The Woodlands, is a haven of natural beauty and growth amidst the wasteland. The
   massive shopping mall that once defined the district has been partially reclaimed by nature and is now a treetop
@@ -229,7 +229,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   environment and utilizing its resources to support their way of life.
 - Member settlement of the Lone Star Republic
 
-### Sugar Junction (formerly Sugar Land):
+### Sugar Junction (formerly Sugar Land)
 
 - Sugar Junction, once known as Sugar Land, serves as a vital trade nexus in the Gulf Coast Wasteland. The New Liberty
   Trading Company (NLTC) established trading posts here, connecting the region with NLTC's capital elsewhere.
@@ -241,7 +241,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   making Sugar Junction a hub of diplomacy and economic activity.
 - Member settlement of the Lone Star Republic
 
-### Radiant Shores (formerly Pearland):
+### Radiant Shores (formerly Pearland)
 
 - Radiant Shores, formerly known as Pearland, is an independent settlement known for its strong sense of community and
   resourcefulness. While not officially part of the Lone Star Republic, the settlers here share common values with the
@@ -253,7 +253,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   maintaining order and protecting their community from external threats. Radiant Shores serves as a beacon of
   cooperation between independent settlements and the Republic.
 
-### Cypress Fields (formerly Cypress):
+### Cypress Fields (formerly Cypress)
 
 - Cypress Fields, once known simply as Cypress, stands as a prominent and influential settlement within the Lone Star
   Republic. This thriving agricultural community has embraced its vast open lands, turning them into the primary source
@@ -264,7 +264,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - With its vast farmlands and ranches, Cypress Fields contributes significantly to the Republic's self-sufficiency and
   stability, making it a linchpin in the region's efforts to rebuild and prosper.
 
-### Galveston Docks (Galveston):
+### Galveston Docks (Galveston)
 
 - The Galveston Docks is a major settlement on Galveston Island, known for its bustling maritime activity and the
   stronghold of the Galveston Pirates. The docks serve as the pirates' primary base of operations, from where they
@@ -274,7 +274,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the dangers posed by the pirates, some independent traders and factions maintain a presence in the area, drawn
   by the potential for lucrative maritime trade and access to the Gulf of Mexico.
 
-### Brazos Haven (Brazoria County):
+### Brazos Haven (Brazoria County)
 
 - Located along the Brazos River, Brazos Haven is a settlement primarily focused on fishing and trade along the
   riverbanks. The residents rely on the river's resources for sustenance and transportation.
@@ -284,7 +284,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The settlement's leadership is vested in a council of elders who make decisions for the community, ensuring a sense of
   democracy and representation among its residents.
 
-### Bayou Enclave (Bayou Wilderness):
+### Bayou Enclave (Bayou Wilderness)
 
 - The Bayou Enclave is a hidden and secluded community nestled deep within the bayous and wetlands. It is inhabited by a
   mix of descendants of pre-war scientists, environmentalists, and Cajun swamp dwellers.
@@ -294,7 +294,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   of the wilderness and their ability to provide valuable resources, such as purified water and herbal remedies, to
   those who gain their trust.
 
-### Harbor's Rest (Baytown):
+### Harbor's Rest (Baytown)
 
 - Harbor's Rest is a settlement situated in the ruins of Baytown, known for its maritime heritage and salvage
   operations. The residents scavenge and salvage goods from sunken ships and submerged buildings in the area.
@@ -303,7 +303,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the challenges of dealing with unpredictable tides, radiation, and underwater dangers, Harbor's Rest remains a
   vital hub of maritime activity, where fortunes can be made and lost on the waves.
 
-### Port Arthur Outpost (Port Arthur):
+### Port Arthur Outpost (Port Arthur)
 
 - The Port Arthur Outpost was established by a group of survivors who once worked in the shipping and maritime industry.
   They recognized the strategic importance of Port Arthur's location for trade and decided to set up a trading post
@@ -314,7 +314,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The outpost is governed by a council of former sailors and traders who use their knowledge of maritime routes and
   navigation to ensure the safety and prosperity of their community.
 
-### Bolivar Settlement (Bolivar Peninsula):
+### Bolivar Settlement (Bolivar Peninsula)
 
 - The Bolivar Settlement is a coastal community of survivors who found refuge on the Bolivar Peninsula, a challenging
   environment marked by constant threats from both the sea and the mainland.
@@ -323,7 +323,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the ongoing pirate raids from nearby Galveston, the residents of Bolivar Settlement are a tight-knit group,
   determined to defend their home and preserve the coastal heritage of the region.
 
-### Clear Lake Refuge (Clear Lake):
+### Clear Lake Refuge (Clear Lake)
 
 - Clear Lake Refuge is a hidden community of survivors who have chosen to live off the land and maintain a sustainable
   lifestyle. They are wary of the larger factions and prefer to remain self-reliant.
@@ -333,7 +333,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Clear Lake Refuge values isolation and self-sufficiency, and its members are known for their commitment to preserving
   the beauty of Clear Lake and its surroundings.
 
-### Highway Hub (Greenspoint):
+### Highway Hub (Greenspoint)
 
 - The Highway Hub is a makeshift trading post located along the remnants of Interstate 45, a critical route for
   travelers and caravans moving goods between Houston and other regions.
@@ -342,7 +342,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The settlement operates as a neutral ground where different factions and traders come to negotiate, barter, and form
   alliances. It is governed by a council of experienced traders who maintain order and ensure fair trade practices.
 
-### San Jacinto Stronghold (San Jacinto Monument):
+### San Jacinto Stronghold (San Jacinto Monument)
 
 - The San Jacinto Stronghold is a unique settlement that has taken refuge in the towering San Jacinto Monument, a
   structure once built to commemorate a historic battle.
@@ -354,7 +354,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - These settlements bring additional layers of depth and diversity to the Gulf Coast Wasteland, showcasing the
   creativity and adaptability of survivors in the post-apocalyptic world.
 
-### Harvest Haven (Conroe):
+### Harvest Haven (Conroe)
 
 - Harvest Haven, formerly known as Conroe, is a bustling agricultural settlement located to the north of Houston along
   Interstate 45. The town's rebirth was driven by a group of survivors who recognized the fertile lands surrounding
@@ -578,7 +578,7 @@ event of a nuclear war. The Vault is also unique in that it is equipped with an 
 its engineers to continue launching rockets for some time after the Great War. In addition to USSA employees, the vault
 also ended up housing a number of defense and government contractors, as well as their families, including officials and
 engineers from major Aerospace companies such
-as [REPCONN Aerospace](./companies.md#repconn-aerospace), [Ball Aerospace](./companies.md#ball-aerospace), [Cosmic Voyage Innovations (CosV)](./companies.md#cosmic-voyage-industries-cosmicv)
+as [REPCONN Aerospace](companies.md#repconn-aerospace), [Ball Aerospace](companies.md#ball-aerospace), [Cosmic Voyage Innovations (CosV)](companies.md#cosmic-voyage-industries-cosmicv)
 and Vault-Tec.
 
 Vault 117 was one of the first Vaults constructed as part of Project Safehouse (the government initiative, which in
@@ -612,8 +612,9 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   self-sustaining ecosystem. They may assist the residents with agricultural challenges or explore the vault's unique
   flora and fauna. Trade opportunities and alliances may emerge, but there could be hidden conflicts within this
   seemingly idyllic environment.
+- Location: Beneath the Houston Botanic Garden, southwest of the Houston City Center
 
-### Vault 61 - Eternal Darkness Experiment:
+### Vault 61 - Eternal Darkness Experiment
 
 - Purpose: Vault 61 was built to investigate the effects of perpetual darkness on human physiology and psychology,
   preparing residents for a world with limited light.
@@ -625,8 +626,9 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   generations, are unable to tolerate the bright light of the outside world. Players can enter Vault 61, where they must
   adapt to perpetual darkness. They may uncover secrets hidden in the shadows or assist the vault's stealthy inhabitants
   in shadowy quests. The vault could be a refuge for characters with nocturnal abilities.
+- Location: Situated beneath the Woodlands area, northeast of the Mall
 
-### Vault 84 - Sleep Deprivation Experiment:
+### Vault 84 - Sleep Deprivation Experiment
 
 - Purpose: Vault 84 was designed to study the impact of chronic sleep deprivation on human cognitive function and
   interpersonal dynamics.
@@ -643,8 +645,9 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   successfully elected, and the irate, sleep-deprived residents broke out into a Civil War, leaving only a single
   survivor, who left holo-tapes detailing the Vault's fate.
 - Interaction: Raiders opened Vault 84 approximately 70 years ago, finding all of its inhabitants dead.
+- Location: Positioned beneath the Medical Center district in the heart of Houston
 
-### Vault 99 - Hallucinogenic Horror Experiment:
+### Vault 99 - Hallucinogenic Horror Experiment
 
 - Purpose: Vault 99 delved into the effects of potent hallucinogenic substances and twisted, disoriented architecture on
   human perception and behavior.
@@ -654,8 +657,9 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   Some have harnessed their experiences to become skilled illusionists in the wasteland.
 - Interaction: The Vault opened about 50 years ago. It has some contact with the outside world, but most wastelanders
   are scared away by the psychedelic and uneasy feelings they have while in the Vault, so most tend to stay away.
+- Location: Hidden deep below the Buffalo Bayou Park Cistern, an underground reservoir just west of downtown
 
-### Vault 113 - Virtual Reality Matrix Experiment:
+### Vault 113 - Virtual Reality Matrix Experiment
 
 - Purpose: Vault 113 immersed residents in an intricate virtual world, isolating them from the physical realm to observe
   the long-term effects of simulated existence.
@@ -674,8 +678,9 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   and explore the virtual world, which is a mix of pre-war and post-war elements. They may also encounter the Overseer,
   who may ask them to help him keep the Vault running. Players may also encounter the aforementioned robots exploring
   the wastes.
+- Location: Concealed beneath the ruins of the Houston Museum of Natural Science
 
-### Vault 184 - Extreme Isolation Study:
+### Vault 184 - Extreme Isolation Study
 
 - Purpose: Vault 184 focused on extreme isolation to understand the psychological impacts. Residents were isolated from
   one another and subjected to prolonged solitude and sensory deprivation.
@@ -690,10 +695,11 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 - Interaction: Vault 184 was never intended to open up. Players may stumble upon it and find a group of people who are
   extremely wary of outsiders. They may be able to gain access to the Vault, but the residents will be extremely
   suspicious of them.
+- Location: Beneath the remains of the former Katy Mills shopping center, to the west of Houston
 
 ## Major roads/highways/rails
 
-### Interstate 10 and the Energy Corridor:
+### Interstate 10 and the Energy Corridor
 
 - Interstate 10, which passes through Katy and the Energy Corridor, remains a crucial transportation route in the Gulf
   Coast Wasteland. However, portions of it have still suffered significant damage, including collapsed overpasses and
@@ -768,7 +774,7 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   world. Sections of I-45 leading to Huntsville are adorned with makeshift signs directing travelers to a "Wasteland
   University," where knowledge and skills are shared and preserved.
 
-### Interstate 69 (I-69):
+### Interstate 69 (I-69)
 
 Connections: I-69 runs northeast from Houston, connecting the city to the Texan cities of Livingston, Cleveland, and
 beyond.
@@ -778,7 +784,7 @@ Influence: The towns and settlements along I-69, including Cleveland and Livings
 transportation. While it has suffered damage, it remains a vital route for connecting the Gulf Coast Wasteland to the
 north.
 
-### State Highway 146:
+### State Highway 146
 
 Connections: State Highway 146 extends along the Gulf Coast, passing through Baytown and continuing southward to connect
 with Galveston.
@@ -787,7 +793,7 @@ settlements to Galveston.
 Influence: This highway is crucial for maritime trade, allowing settlements along the Gulf Coast to transport goods to
 and from Galveston. It's also an area where the Galveston Pirates exert control, regulating maritime traffic.
 
-### State Highway 288:
+### State Highway 288
 
 Connections: State Highway 288 links Houston to the southern regions, passing through Pearland and connecting to
 Freeport on the Gulf of Mexico.
@@ -797,7 +803,7 @@ Influence: Pearland relies on State Highway 288 for trade and transportation. Th
 strategic port town in the region. However, it may be subject to raids and control by factions like the Galveston
 Pirates.
 
-### State Highway 6:
+### State Highway 6
 
 Connections: State Highway 6 stretches westward from Houston, connecting the city to Sugar Land, Richmond, and further
 points west.
@@ -807,7 +813,7 @@ Influence: Sugar Land, located along this highway, serves as a trading outpost f
 NLTC). The highway facilitates trade between Sugar Land and other settlements, making it a crucial route for the NLTC's
 operations.
 
-### Interstate 610 (I-610):
+### Interstate 610 (I-610)
 
 Route: I-610, commonly referred to as "The Loop," encircles the city of Houston, forming a circular highway loop around
 the urban center.
@@ -817,7 +823,7 @@ Influence: While I-610 itself does not directly connect to many settlements or k
 strategic route for navigating Houston and reaching other highways that extend outward to the Gulf Coast Wasteland.
 Various factions and scavengers may use it as a means of transit and for scavenging within the city.
 
-### Beltway 8 (Sam Houston Tollway):
+### Beltway 8 (Sam Houston Tollway)
 
 Route: Beltway 8, also known as the Sam Houston Tollway, is a larger loop encircling Houston, including parts of Harris
 County. It connects to I-610 in multiple places and provides a peripheral route around the city.
@@ -827,7 +833,7 @@ Influence: Beltway 8 is an essential transportation artery for those traveling a
 access to key areas, including the Energy Corridor and Houston suburbs, making it a crucial route for trade,
 reconnaissance, and faction movements.
 
-### Grand Parkway:
+### Grand Parkway
 
 Route: The Grand Parkway, also known as State Highway 99, forms a large, outer loop around the greater Houston
 metropolitan area, extending far into the suburbs and surrounding regions.
@@ -837,7 +843,7 @@ Influence: The Grand Parkway serves as a major transportation route connecting v
 of the Gulf Coast Wasteland. It facilitates trade, communication, and the movement of factions and travelers,
 contributing to the region's interconnectedness.
 
-### High-Speed Rail to Dallas (Out of Service):
+### High-Speed Rail to Dallas (Out of Service)
 
 Before the Great War, a state-of-the-art high-speed rail system connected Houston to Dallas, offering rapid
 transportation between the two major Texan cities. However, this rail line has fallen into disrepair and is currently
@@ -849,7 +855,7 @@ The remains of the high-speed rail serve as a reminder of the pre-war era's tech
 subsequent decline of infrastructure in the post-apocalyptic world. Travelers and scavengers sometimes venture along the
 rail for shortcuts or resources.
 
-### Freight Rail Lines (Repaired by the Barons):
+### Freight Rail Lines (Repaired by the Barons)
 
 The Oil Barons, with their significant economic influence and interest in resource management, have made efforts to
 repair and maintain select freight rail lines connecting Houston to other major cities in Texas and beyond.
@@ -928,49 +934,49 @@ protecting the rail lines from sabotage or interference by rival factions.
 
 ## Miscellaneous Notes on the Geography
 
-### Rivers and Waterways:
+### Rivers and Waterways
 
 The region is crisscrossed by several rivers and waterways, including the Brazos River to the west and the San Jacinto
 River to the east. These water sources play a crucial role in the distribution of freshwater and serve as natural
 boundaries between different factions and territories.
 
-### Radiation Zones:
+### Radiation Zones
 
 There are pockets of heavily irradiated areas throughout the Gulf Coast Wasteland, especially in proximity to former
 military bases, nuclear power plants, and impact sites. These zones are extremely hazardous and require specialized
 protective gear to navigate.
 
-### Coastal Erosion:
+### Coastal Erosion
 
 Due to the passage of time and environmental changes, coastal areas have experienced significant erosion. This has led
 to the gradual encroachment of the Gulf of Mexico on the land, causing some pre-war coastal towns to become partially
 submerged and transformed into dangerous, waterlogged ruins.
 
-### Ruined Infrastructure:
+### Ruined Infrastructure
 
 Pre-war highways, bridges, and tunnels have fallen into disrepair, with many sections completely collapsed. Traveling
 through the Gulf Coast Wasteland often involves navigating around these obstacles, leading to the creation of makeshift
 paths and detours.
 
-### Wildlife:
+### Wildlife
 
-__Main articles: [Flora](./flora.md) and [Fauna](./fauna.md)__
+*Main articles: [Flora](flora.md) and [Fauna](fauna.md)*
 
 The wasteland is home to a variety of mutated wildlife, some of which are aggressive and territorial. Players will
 encounter creatures like radstags, mutant alligators, irradiated insects, and more as they explore the wilderness.
 
-### Islands:
+### Islands
 
 Off the coast of Galveston, several small islands and barrier islands can be found. These islands may contain hidden
 caches, pirates' hideouts, or remnants of pre-war coastal facilities.
 
-### Swamp Lands:
+### Swamp Lands
 
 The Bayou Swamps to the south and southeast of Houston are characterized by tangled vegetation, standing water, and
 perilous terrain. Navigating these swamps can be challenging, but they offer unique resources and secrets for those who
 dare to venture into them.
 
-### Radiation Storms:
+### Radiation Storms
 
 The Gulf Coast Wasteland experiences occasional radiation storms, which can pose a severe threat to unprepared
 travelers. Seek shelter or protective gear when a storm approaches.

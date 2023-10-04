@@ -1,0 +1,17 @@
+site_name: "Fallout: Houston"
+site_url: "https://fallouthouston.com"
+site_author: Andrew P. Sansom
+site_description: "A Fallout Tabletop RPG campaign set in Houston, Texas."
+nav:
+  - Home: index.md
+  - "Chapter 0: Background":
+      - "Chapter 0.1: Geography": 0-Background/geography.md
+      - "Chapter 0.2: Factions": 0-Background/factions.md
+      - "Chapter 0.3: Pre-war Companies": 0-Background/companies.md
+      - "Chapter 0.4: Fauna": 0-Background/fauna.md
+      - "Chapter 0.5: Flora": 0-Background/flora.md
+  - About:
+      - License: about/license.md
+
+
+theme: readthedocs
