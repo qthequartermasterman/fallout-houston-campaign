@@ -1,0 +1,2 @@
+[tool.semantic_release]
+major_on_zero = false
