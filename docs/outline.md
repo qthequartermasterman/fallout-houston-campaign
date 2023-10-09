@@ -33,7 +33,7 @@ The player, along with their chosen faction, discovers that the Enclave has begu
 
 ### Plot Beats:
 
--Preparing for the Launch: As the launch date for the manned space mission approaches, tension in the Gulf Coast Wasteland escalates. The player's actions and alliances determine the resources they have at their disposal.
+- Preparing for the Launch: As the launch date for the manned space mission approaches, tension in the Gulf Coast Wasteland escalates. The player's actions and alliances determine the resources they have at their disposal.
 - Alliances and Betrayals: Faction relationships reach a breaking point. The player must choose allies wisely, as some factions may betray them if it serves their interests. The Lone Star Republic, Galveston Pirates, Bayou Brotherhood, and Oil and Energy Barons all have a stake in the outcome.
 - Confronting the Enclave: The player confronts the Enclave within the Spaceport Survivors, leading to a climactic battle within the spaceport's hidden chambers. The Enclave's plan to seize control of the space mission must be thwarted.
 - Spaceport Standoff: The final act culminates in a standoff at the spaceport. The player, along with their chosen allies, faces off against the Enclave forces and Spaceport Survivors loyal to the conspiracy. The fate of the manned space mission hangs in the balance.
