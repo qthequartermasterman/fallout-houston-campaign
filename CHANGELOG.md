@@ -2,6 +2,19 @@
 
 
 
+## v0.3.0 (2023-10-09)
+
+### Feature
+
+* feat: basic story outline ([`9628009`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/9628009f6007b3c150277b60418dae8d4b7e1b88))
+
+* feat: prologue.md ([`8825f1f`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/8825f1fd8bec250e41a3e0ba122a8f4287d3df30))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`6d70355`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6d7035517ded147679f7d27c3ee7038c4dad7a5b))
+
+
 ## v0.2.0 (2023-10-04)
 
 ### Ci
