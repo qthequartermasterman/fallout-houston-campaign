@@ -2,6 +2,17 @@
 
 
 
+## v0.4.1 (2023-10-09)
+
+### Fix
+
+* fix: revised story outline ([`c91b8c7`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c91b8c7cb925793c23c6881af45353c3afe6e0b1))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`d0be870`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d0be8709f06ca5bcb8fe22157e02e24232124ec4))
+
+
 ## v0.4.0 (2023-10-09)
 
 ### Feature
