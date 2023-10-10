@@ -170,7 +170,7 @@
       potentially nefarious intentions.
 - **Notable Figures:**
     - Leonard "Ironclad" Duvall: A high-ranking member of the Oil and Energy Barons, responsible for resource management
-      and trade negotiations. Ghoul who prior to the Great War was a high-ranking executive at Poseidon Energy.
+      and trade negotiations. Ghoul who, prior to the Great War, was a high-ranking executive at Poseidon Energy.
     - Dr. Emily "Fusion" Wells: A scientist rumored to be working on advanced energy technologies within their ranks.
 - **Conflict:** The Oil and Energy Barons' monopoly over power sources has contributed to the energy crisis, leading to
   tension with other factions and the Lone Star Republic's aggressive actions.
