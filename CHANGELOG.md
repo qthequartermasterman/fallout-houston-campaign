@@ -2,6 +2,21 @@
 
 
 
+## v0.5.0 (2023-10-10)
+
+### Feature
+
+* feat: Add concept art to front page ([`5133166`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/5133166b1f7e1ba04427081764c3d3e60a52d31f))
+
+### Fix
+
+* fix: revised story outline ([`7599799`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/759979981e408c1555019781d43c1030a6687470))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`3a66fca`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/3a66fca9b49a386ded82b008396dd15fa4d18d48))
+
+
 ## v0.4.1 (2023-10-09)
 
 ### Fix
