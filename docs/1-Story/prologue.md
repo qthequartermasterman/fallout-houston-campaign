@@ -7,14 +7,14 @@ pristine, advanced Vault-Tec facility located on the Moon. This serves as a high
 operated in partnership with the US government to extract valuable resources. As the player acclimates to the
 surroundings and learns about their role as a Vault-Tec security officer, they are thrust into an unexpected conflict.
 
-## Act 1: Exposition
+## Exposition
 
 The player character awakens inside the Vault-Tec lunar facility, greeted by fellow Vault-Tec personnel. They receive a
 briefing about their role as a security officer and the importance of the lunar mining operation.
 Hints of an imminent lunar sneak attack are subtly introduced through conversations and glimpses of suspicious
 activities.
 
-## Act 2: Rising Action
+## Rising Action
 
 A surprise attack occurs, with the Chinese launching a covert assault on the lunar facility. Chaos ensues as the player
 must navigate the facility's corridors and chambers to protect the Vault-Tec operation.
@@ -22,7 +22,7 @@ The attack reveals a concealed conspiracy within the USSA or military, as some o
 suspiciously, potentially collaborating with the enemy.
 The player must fight off the Chinese intruders while trying to uncover the identity of the conspirators.
 
-## Act 3: Climax
+## Climax
 
 Amid the intense lunar firefight, the player confronts one of the conspirators who is attempting to sabotage the
 facility's defenses. The conspirator hints at a deeper plan that threatens the stability of the United States.
