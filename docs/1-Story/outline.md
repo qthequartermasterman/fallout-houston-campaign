@@ -1,5 +1,12 @@
 # Fallout: Houston Outline
 
+## Prologue: Dawn of Tranquility
+
+### Plot Beats:
+
+- Player wakes up in a unique and unfamiliar environment: a pristine, advanced Vault-Tec facility located on the Moon. This Vault serves as a highly secretive lunar mining operation, operated in partnership with the US government to extract valuable resources. 
+- As the player acclimates to the surroundings and learns about their role as a Vault-Tec security officer, they are thrust into an unexpected conflict, when the Chinese launch a covert attack on the lunar facility, assisted by traitors within the player's squadron.
+
 ## Act 1: Rising Tensions
 
 ### Plot Beats:
