@@ -2,6 +2,17 @@
 
 
 
+## v0.6.0 (2023-10-11)
+
+### Feature
+
+* feat: Add prologue quest ([`cde7e54`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/cde7e540fe9e7c05958e5ba4065370cb10fcd02a))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`ebe1bf4`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ebe1bf4f3e1461e36359cafdfcf04c575d169913))
+
+
 ## v0.5.0 (2023-10-10)
 
 ### Feature
