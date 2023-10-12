@@ -15,6 +15,7 @@ nav:
   - "Chapter 1: Story":
       - "Chapter 1.0: Outline": 1-Story/outline.md
       - "Chapter 1.1: Prologue": 1-Story/prologue.md
+      - "Chapter 1.1: Rising Tensions": 1-Story/act1.md
 
   - About:
       - License: about/license.md
