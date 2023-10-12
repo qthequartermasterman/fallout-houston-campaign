@@ -2,6 +2,19 @@
 
 
 
+## v0.7.0 (2023-10-12)
+
+### Feature
+
+* feat: Initial Act 1 quests ([`040dd18`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/040dd18796f257fc197498f901136a7054f6b326))
+
+* feat: Concept art for a few locations ([`681123d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/681123d2ce7aa2912759d741816f42ae0892928b))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`322aa50`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/322aa50cbb4652c1539a4f3c0187ead3f20718ed))
+
+
 ## v0.6.1 (2023-10-11)
 
 ### Fix
