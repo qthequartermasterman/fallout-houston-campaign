@@ -2,6 +2,17 @@
 
 
 
+## v0.7.1 (2023-10-12)
+
+### Fix
+
+* fix: Initial Act 1 quests added to navbar ([`f701c16`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f701c16c3d2fc3345a230da0967123b7e3957361))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`11a4fef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/11a4fef4a5b6b23dc5f642a2e1dcee076c7be67a))
+
+
 ## v0.7.0 (2023-10-12)
 
 ### Feature
