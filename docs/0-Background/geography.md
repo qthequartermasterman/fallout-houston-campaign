@@ -84,6 +84,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ### Rice Village
 
+![Rice Village](../Assets/rice-university-ruins.jpeg)
+
 - Rice Village, known for its upscale shopping and dining options in the pre-war era, has undergone a stark
   transformation. Many of the once-elegant shops and restaurants now lie in ruins, their windows shattered and interiors
   ransacked.
@@ -97,6 +99,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ### Medical Center
 
+![Medical Center](../Assets/medical-district-ruins.jpeg)
+
 - The Texas Medical Center, although not directly hit by nuclear strikes, faced turmoil in the aftermath of the Great
   War. Many patients, staff, and researchers perished during the chaos that followed, leaving the medical facilities in
   disarray.
@@ -107,6 +111,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
   and intelligence.
 
 ### Spaceport District (Johnson Space Center)
+
+![Spaceport District](../Assets/johnson-space-center-ruins.jpeg)
 
 - The Johnson Space Center's Spaceport District endured a direct nuclear strike during the Great War. The surface
   facilities were severely damaged, but the underground vault, Vault 117, remained intact.
@@ -157,6 +163,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
   apartments offer a stark contrast to the surrounding decay, with remnants of opulent lifestyles still visible.
 
 ### Port of Houston
+
+![Port of Houston](../Assets/port-ruins.jpeg)
 
 - The Port of Houston, a critical gateway for trade and commerce, faced extensive damage during the Great War due to its
   economic significance. Many port facilities were heavily impacted by the destruction.
