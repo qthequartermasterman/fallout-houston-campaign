@@ -1,4 +1,4 @@
-# Prologue to Fallout: Houston
+# Background to Fallout: Houston
 
 This Prologue explains the events occurring the Gulf Coast Wasteland in the years leading up to the campaign. It is
 intended to be read by the Gamemaster, and is not necessary for players to read. It provides additional context for the
