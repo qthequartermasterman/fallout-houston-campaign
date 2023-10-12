@@ -2,6 +2,17 @@
 
 
 
+## v0.6.1 (2023-10-11)
+
+### Fix
+
+* fix: Remove &#34;act&#34; designations within the prologue quest to avoid confusion ([`90e8b73`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/90e8b7344f5b74602581d232e13319bc4570d1c8))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`7b53c8e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7b53c8e2d737b04b5e2af8ba3a17ee814198e912))
+
+
 ## v0.6.0 (2023-10-11)
 
 ### Feature
