@@ -302,7 +302,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   of the wilderness and their ability to provide valuable resources, such as purified water and herbal remedies, to
   those who gain their trust.
 
-### Harbor's Rest (Baytown)
+### Harbor's Rest (formerly Baytown)
 
 - Harbor's Rest is a settlement situated in the ruins of Baytown, known for its maritime heritage and salvage
   operations. The residents scavenge and salvage goods from sunken ships and submerged buildings in the area.
