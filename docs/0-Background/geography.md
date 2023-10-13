@@ -203,6 +203,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ### Museum District
 
+![Museum District](../Assets/museum-district-ruins.jpeg)
+
 - Before the Great War, the Museum District was a cultural haven, home to a collection of world-class museums, art
   galleries, and educational institutions. It was a place where history, science, and art were celebrated and preserved.
 - The district's iconic museums, including the Houston Museum of Natural Science and the Museum of Fine Arts, were
