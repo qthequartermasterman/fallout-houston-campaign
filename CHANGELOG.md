@@ -2,6 +2,17 @@
 
 
 
+## v0.9.2 (2023-10-13)
+
+### Fix
+
+* fix: museum district img ([`49bb949`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/49bb9495090fc124cffa5278f5cc01a994e09b4a))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`0f781f6`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0f781f6810bf17c44b66d42f2c8c3f3b1da82091))
+
+
 ## v0.9.1 (2023-10-13)
 
 ### Fix
