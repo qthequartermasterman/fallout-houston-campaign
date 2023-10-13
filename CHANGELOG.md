@@ -2,6 +2,17 @@
 
 
 
+## v0.9.0 (2023-10-13)
+
+### Feature
+
+* feat: update energy corridor image ([`fca9a4a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fca9a4ae5ae2bc5cf14c1d9e3ec9a1c7bfcb171e))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`dbe6b10`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/dbe6b1046ba254246d600780d94350e39bc6a808))
+
+
 ## v0.8.0 (2023-10-13)
 
 ### Feature
