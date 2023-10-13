@@ -2,6 +2,17 @@
 
 
 
+## v0.9.1 (2023-10-13)
+
+### Fix
+
+* fix: fix markdown formatting for act 1 ([`300a939`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/300a939aae88b66a63ccd0a5e8cb3fde7ad35e2b))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`be7f2ef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/be7f2ef42765fcabc186acd5595780d3f9b0ec56))
+
+
 ## v0.9.0 (2023-10-13)
 
 ### Feature
