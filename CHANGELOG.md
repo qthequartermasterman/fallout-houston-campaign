@@ -2,6 +2,13 @@
 
 
 
+## v0.8.0 (2023-10-13)
+
+### Feature
+
+* feat: Plots for Questions 1.1-1.4 ([`782d973`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/782d973f2fecffdb7c21dfefa129bc9b18047b7b))
+
+
 ## v0.7.1 (2023-10-12)
 
 ### Fix
