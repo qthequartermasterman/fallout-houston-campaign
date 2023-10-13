@@ -132,6 +132,8 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ### The Energy Corridor
 
+![Energy Corridor](../Assets/energy-corridor-ruins.jpeg)
+
 - The Energy Corridor, once a vital center for the energy industry, was targeted during the Great War due to its
   strategic importance. Many of the oil refineries and energy infrastructure in the area were destroyed.
 - The Oil and Energy Barons have established control over what remains of the energy corridor. They oversee the remnants
