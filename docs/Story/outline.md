@@ -8,6 +8,7 @@
 - As the player acclimates to the surroundings and learns about their role as a Vault-Tec security officer, they are thrust into an unexpected conflict, when the Chinese launch a covert attack on the lunar facility, assisted by traitors within the player's squadron.
 
 ## Act 1: Rising Tensions
+*Main Article [Act 1: Rising Tensions](./Act1/index.md)*
 
 ### Plot Beats:
 
@@ -23,6 +24,7 @@
 The first act reaches its climax when the player discovers concrete evidence of the Enclave's infiltration within the Spaceport Survivors. This revelation threatens not only the launch but also the stability of the entire region. The player must decide whether to confront the Enclave immediately or gather more information.
 
 ## Act 2: The Faction Game
+*Main Article [Act 2: The Faction Game](./Act2/index.md)*
 
 ### Plot Beats:
 
@@ -37,6 +39,7 @@ The first act reaches its climax when the player discovers concrete evidence of 
 The player, along with their chosen faction, discovers that the Enclave has begun executing their plan. They must decide whether to confront the Enclave directly, attempt to negotiate, or sabotage their plans. The fate of the Gulf Coast Wasteland hangs in the balance.
 
 ## Act 3: The Final Showdown
+*Main Article [Act 3: The Final Showdown](./Act3/index.md)*
 
 ### Plot Beats:
 
