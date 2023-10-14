@@ -15,7 +15,13 @@ nav:
   - "Story":
       - "Outline": Story/outline.md
       - "Prologue": Story/prologue.md
-      - "Act I: Rising Tensions": Story/act1.md
+      - "Act I: Rising Tensions":
+          - "Lost in the Bayou": Story/Act1/Quest1.md
+          - "Diplomatic Relations": Story/Act1/Quest2.md
+          - "Pirates' Plunder": Story/Act1/Quest3.md
+          - "Lone Star Ambitions": Story/Act1/Quest4.md
+          - "Visions of Betrayal": Story/Act1/Quest5.md
+          - "Unveiling the Conspiracy": Story/Act1/Quest6.md
 
   - About:
       - License: about/license.md
