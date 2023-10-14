@@ -2,6 +2,17 @@
 
 
 
+## v0.11.0 (2023-10-14)
+
+### Feature
+
+* feat: :truck: split act 1 quests into different files ([`f244caa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f244caa44e5b58dc469d420416908db47a1608d1))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`2f3e504`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/2f3e504c529f741f894360b4b93e6000d8328cdc))
+
+
 ## v0.10.0 (2023-10-14)
 
 ### Feature
