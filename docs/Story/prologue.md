@@ -1,6 +1,6 @@
-# Prologue Quest: "Dawn of Tranquility"
+# Prologue Quest: Dawn of Tranquility
 
-## Summary:
+## Summary
 
 In the "Dawn of Tranquility" prologue quest, the player character wakes up in a unique and unfamiliar environment: a
 pristine, advanced Vault-Tec facility located on the Moon. This serves as a highly secretive lunar mining operation,

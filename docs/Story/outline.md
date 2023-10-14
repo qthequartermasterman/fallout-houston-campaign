@@ -38,7 +38,7 @@ The first act reaches its climax when the player discovers concrete evidence of 
 
 The player, along with their chosen faction, discovers that the Enclave has begun executing their plan. They must decide whether to confront the Enclave directly, attempt to negotiate, or sabotage their plans. The fate of the Gulf Coast Wasteland hangs in the balance.
 
-## Act 3: The Final Showdown
+## Act 3: The Battle for the Spaceport
 *Main Article [Act 3: The Final Showdown](./Act3/index.md)*
 
 ### Plot Beats:
