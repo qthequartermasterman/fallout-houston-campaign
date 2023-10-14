@@ -2,6 +2,21 @@
 
 
 
+## v0.10.0 (2023-10-14)
+
+### Feature
+
+* feat: Finish first draft of Act 1 ([`878ccb8`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/878ccb8cf96f336f5cb6abf68734e18a080b9d16))
+
+### Refactor
+
+* refactor: :truck: rearrange files ([`6dcee96`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6dcee96e3b8de966aea6c002ad77b3b7f5e3ca6c))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`b4a4608`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b4a46088df3dc0e6696902131c955dce860453ca))
+
+
 ## v0.9.2 (2023-10-13)
 
 ### Fix
