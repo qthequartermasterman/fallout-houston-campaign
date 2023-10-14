@@ -2,6 +2,21 @@
 
 
 
+## v0.12.0 (2023-10-14)
+
+### Chore
+
+* chore: add toc ([`7cc940c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7cc940ce2577d44e64b4dc47086553fe4e09cc2c))
+
+### Feature
+
+* feat: add index page to Act I ([`68baa89`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/68baa894f4f37e045cf029516c44f4e39dd52ab1))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`c5744b9`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c5744b95bac76ac7afdd68dae9360aeaf317f39d))
+
+
 ## v0.11.0 (2023-10-14)
 
 ### Feature
