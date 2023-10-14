@@ -29,3 +29,7 @@ nav:
 
 
 theme: readthedocs
+
+markdown_extensions:
+  - toc:
+      permalink: true
