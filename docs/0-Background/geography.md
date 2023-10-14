@@ -276,7 +276,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - With its vast farmlands and ranches, Cypress Fields contributes significantly to the Republic's self-sufficiency and
   stability, making it a linchpin in the region's efforts to rebuild and prosper.
 
-### Galveston Docks (Galveston)
+### Galveston Docks (formerly Galveston)
 
 - The Galveston Docks is a major settlement on Galveston Island, known for its bustling maritime activity and the
   stronghold of the Galveston Pirates. The docks serve as the pirates' primary base of operations, from where they
@@ -296,16 +296,6 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - The settlement's leadership is vested in a council of elders who make decisions for the community, ensuring a sense of
   democracy and representation among its residents.
 
-### Bayou Enclave (Bayou Wilderness)
-
-- The Bayou Enclave is a hidden and secluded community nestled deep within the bayous and wetlands. It is inhabited by a
-  mix of descendants of pre-war scientists, environmentalists, and Cajun swamp dwellers.
-- The Bayou Enclave possesses advanced knowledge of preserving the environment and has developed a unique blend of
-  sustainable technology and ancient practices to thrive in their secluded home.
-- While the Enclave is wary of outsiders and remains neutral in most conflicts, they are respected for their knowledge
-  of the wilderness and their ability to provide valuable resources, such as purified water and herbal remedies, to
-  those who gain their trust.
-
 ### Harbor's Rest (formerly Baytown)
 
 - Harbor's Rest is a settlement situated in the ruins of Baytown, known for its maritime heritage and salvage
@@ -315,7 +305,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the challenges of dealing with unpredictable tides, radiation, and underwater dangers, Harbor's Rest remains a
   vital hub of maritime activity, where fortunes can be made and lost on the waves.
 
-### Port Arthur Outpost (Port Arthur)
+### Port Arthur Outpost (formerly Port Arthur)
 
 - The Port Arthur Outpost was established by a group of survivors who once worked in the shipping and maritime industry.
   They recognized the strategic importance of Port Arthur's location for trade and decided to set up a trading post
@@ -335,7 +325,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Despite the ongoing pirate raids from nearby Galveston, the residents of Bolivar Settlement are a tight-knit group,
   determined to defend their home and preserve the coastal heritage of the region.
 
-### Clear Lake Refuge (Clear Lake)
+### Clear Lake Refuge (formerly Clear Lake)
 
 - Clear Lake Refuge is a hidden community of survivors who have chosen to live off the land and maintain a sustainable
   lifestyle. They are wary of the larger factions and prefer to remain self-reliant.
@@ -345,7 +335,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - Clear Lake Refuge values isolation and self-sufficiency, and its members are known for their commitment to preserving
   the beauty of Clear Lake and its surroundings.
 
-### Highway Hub (Greenspoint)
+### Highway Hub (formerly Greenspoint)
 
 - The Highway Hub is a makeshift trading post located along the remnants of Interstate 45, a critical route for
   travelers and caravans moving goods between Houston and other regions.
@@ -366,7 +356,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - These settlements bring additional layers of depth and diversity to the Gulf Coast Wasteland, showcasing the
   creativity and adaptability of survivors in the post-apocalyptic world.
 
-### Harvest Haven (Conroe)
+### Harvest Haven (formerly Conroe)
 
 - Harvest Haven, formerly known as Conroe, is a bustling agricultural settlement located to the north of Houston along
   Interstate 45. The town's rebirth was driven by a group of survivors who recognized the fertile lands surrounding
@@ -382,7 +372,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
   maintaining its self-sufficiency.
 - Member of the Lone Star Republic
 
-### Scholar's Summit (Huntsville)
+### Scholar's Summit (formerly Huntsville)
 
 - Scholar's Summit, formerly known as Huntsville, stands as a beacon of knowledge and education in the post-apocalyptic
   world. The town's transformation began with a group of educators, historians, and intellectuals who recognized the
@@ -401,7 +391,7 @@ One additional target is USSA Mission Control (Johnson Space Center).
 - South of Scholar's Summit is a prison operated by the Lone Star Republic. The prison houses dangerous criminals and is
   guarded by a contingent of Texas Rangers.
 
-### Petroclave (Beaumont)
+### Petroclave (formerly Beaumont)
 
 - Following the Great War, Beaumont, once a thriving center of the oil industry, experienced a significant decline in
   influence and population due to the widespread devastation caused by the nuclear conflict. Much of its vital oil
@@ -415,16 +405,23 @@ One additional target is USSA Mission Control (Johnson Space Center).
 
 ### Ellington Field
 
+![Ellington Field](../Assets/ellington-field-ruins.jpeg)
+
 Ellington Field is a significant location in the Gulf Coast Wasteland, especially due to its historical and strategic
 importance. Here's more information about Ellington Field and its role in the post-apocalyptic setting:
 
-Pre-War History:
+#### Pre-War History
 
 Ellington Field, located to the southeast of Houston, was originally an active military installation used by the United
 States military and NASA. It served as a hub for aerospace and aviation activities.
 Before the Great War, the field was home to various military units, aviation schools, and research facilities. It played
 a crucial role in supporting space exploration missions, as well as military training and operations.
-Post-Apocalyptic Transformation:
+
+Some members of the Enclave, a secretive pre-war organization that had infiltrated the US Government and Military, were 
+stationed at Ellington Field. It was here that they conducted covert operations including the sabotage of the Vault-Tec 
+mining facility on the Moon prior to the Battle of the Sea of Tranquility.
+
+#### Post-Apocalyptic Transformation
 
 In the aftermath of the Great War, Ellington Field experienced a significant transformation. The once-thriving military
 and aerospace hub fell into disrepair and disuse.
@@ -432,7 +429,7 @@ The field's runways and hangars, while still standing, have deteriorated over th
 become shelter for survivors, scavengers, or even small factions.
 While some of the old military equipment and aircraft may remain in various states of disrepair, they are often
 cannibalized for spare parts or repurposed for makeshift defenses.
-Faction Interests:
+#### Faction Interests
 
 Ellington Field has attracted the attention of various factions in the Gulf Coast Wasteland due to its strategic
 location, historical significance, and potential resources.
