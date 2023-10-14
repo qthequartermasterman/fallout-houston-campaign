@@ -8,7 +8,6 @@
 - The player finds himself in a settlement in the Bayou, surrounded by the Bayou Brotherhood, who tell him that they found him adrift in a shipwreck. The player has no memory of how he arrived in the Bayou.
 - The Bayou Brotherhood leader, Cyrus "Gator" Boudreaux, senses the player's unease and explains the importance of the Bayou's mystical connection. He tasks the player with investigating the mysterious disturbances plaguing the Bayou lately.
 - The player explores the Bayou, encountering strange occurrences and faint echoes of their great-great-grandfather's decisions during the Sea of Tranquility campaign. They uncover an ancient relic, a key to understanding the visions, and bring it back to the Brotherhood's settlement.
-- Purpose: This quest introduces the player to the Bayou Brotherhood and their spiritual connection to the Bayou. It hints at the player's connection to their great-great-grandfather and the recurring visions, establishing a central mystery.
 
 
 ## Quest 2: Diplomatic Relations
@@ -25,8 +24,11 @@
 
 
 ## Quest 3: Pirates' Plunder
+
 *Main Article [Pirates' Plunder](./Quest3.md)*
+
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 4: Lone Star Ambitions.*
+
 ### Summary
 
 - The player, now known to the Galveston Pirates, is approached by a group of Pirates led by Captain Sofia "Serpent" Vega. They have a proposal for the player.
@@ -40,8 +42,11 @@
 
 
 ## Quest 4: Lone Star Ambitions
+
 *Main Article [Lone Star Ambitions](./Quest4.md)*
+
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 3: Pirates' Plunder.*
+
 ### Summary
 
 - The player, summoned to Rice Village by the Lone Star Republic, embarks on a mission to negotiate the acquisition of a Fusion Core Stabilizer from the Oil Barons, with the goal of ensuring energy stability for the Lone Star Republic's northern settlements.
@@ -51,8 +56,11 @@
 
 
 ## Quest 5: Visions of Betrayal
+
 *Main Article [Visions of Betrayal](./Quest5.md)*
+
 *Available after completing Quest 3: Pirates' Plunder and Quest 4: Lone Star Ambitions.*
+
 ### Summary
 
 - Vision of Lunar Conspiracy: The player experiences a vision of their great-great-grandfather's role in a secretive lunar mission, hinting at a hidden agenda and a loss of communication with the lunar base.
@@ -64,8 +72,11 @@
 
 
 ## Quest 6: Unveiling the Conspiracy
+
 *Main Article [Unveiling the Conspiracy](./Quest6.md)*
+
 *Available after completing Quest 5: Visions of Betrayal.*
+
 
 ### Summary
 - The player discovers a conspiracy among Spaceport Survivors, involving an external force.
