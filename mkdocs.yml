@@ -4,18 +4,18 @@ site_author: Andrew P. Sansom
 site_description: "A Fallout Tabletop RPG campaign set in Houston, Texas."
 nav:
   - Home: index.md
-  - "Chapter 0: Background":
-      - "Chapter 0.1: Geography": 0-Background/geography.md
-      - "Chapter 0.2: Factions": 0-Background/factions.md
-      - "Chapter 0.3: Pre-war Companies": 0-Background/companies.md
-      - "Chapter 0.4: Fauna": 0-Background/fauna.md
-      - "Chapter 0.5: Flora": 0-Background/flora.md
-      - "Chapter 0.6: Sim Settlements 2 Elements": 0-Background/sim-settlements-elements.md
-      - "Chapter 0.7: Background": 0-Background/background.md
-  - "Chapter 1: Story":
-      - "Chapter 1.0: Outline": 1-Story/outline.md
-      - "Chapter 1.1: Prologue": 1-Story/prologue.md
-      - "Chapter 1.1: Rising Tensions": 1-Story/act1.md
+  - "Background":
+      - "Geography": Background/geography.md
+      - "Factions": Background/factions.md
+      - "Pre-war Companies": Background/companies.md
+      - "Fauna": Background/fauna.md
+      - "Flora": Background/flora.md
+      - "Sim Settlements 2 Elements": Background/sim-settlements-elements.md
+      - "Background Events": Background/background.md
+  - "Story":
+      - "Outline": Story/outline.md
+      - "Prologue": Story/prologue.md
+      - "Act I: Rising Tensions": Story/act1.md
 
   - About:
       - License: about/license.md
