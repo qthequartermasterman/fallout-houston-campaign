@@ -2,6 +2,25 @@
 
 
 
+## v0.13.0 (2023-10-14)
+
+### Feature
+
+* feat: Clean up site structure ([`f4e127e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f4e127ed2aba0ae1cc5bd18b2ba10c16314d3337))
+
+### Fix
+
+* fix:  add links to the various acts ([`9149be2`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/9149be220c9f85da8f90fdad8c71be7655c1f8b4))
+
+### Style
+
+* style: format act 1 outline ([`452c480`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/452c48067e2c2d143971bfcbdcb055ec9a52f587))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`0b2d5ea`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0b2d5ea9d1094f32f68a655cdc048a164bbba487))
+
+
 ## v0.12.0 (2023-10-14)
 
 ### Chore
