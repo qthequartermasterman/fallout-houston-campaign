@@ -2,6 +2,27 @@
 
 
 
+## v0.14.0 (2023-10-16)
+
+### Feature
+
+* feat: Add setting links to quest pages ([`0fc20a5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0fc20a5ee80c42204e8396527accdad94cac2423))
+
+### Refactor
+
+* refactor: flesh out gm notes for first few parts of quest 1 ([`41e0baf`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/41e0baf5c6a26a410ca3ff503de97cf2f9ca1277))
+
+### Style
+
+* style: fix formatting ([`d784a14`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d784a1419da185689646e8a65fffc61d86442100))
+
+* style: Add setting links to quest pages ([`be6359d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/be6359d01a4a5065a81a11425eb6c6b4e66fbe58))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`71a3293`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/71a329341c5e7c0ec9a549bb8dd0b6da97da14a3))
+
+
 ## v0.13.0 (2023-10-14)
 
 ### Feature
