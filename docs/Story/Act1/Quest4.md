@@ -3,10 +3,13 @@
 
 ## Setting
 [Rice Village](../../Background/geography/neighborhoods.md#rice-village)
+
 [Western Reach](../../Background/geography/neighborhoods.md#western-reach-formerly-katy)
 
 Possibly:
+
 [Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
+
 [Energy Corridor](../../Background/geography/neighborhoods.md#the-energy-corridor)
 
 

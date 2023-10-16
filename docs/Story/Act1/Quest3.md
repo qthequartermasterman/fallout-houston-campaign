@@ -2,7 +2,9 @@
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 4: Lone Star Ambitions.*
 
 ## Setting
+
 [Galveston Island](../../Background/geography/neighborhoods.md#galveston-docks-formerly-galveston)
+
 [Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
 
 ## Plot
