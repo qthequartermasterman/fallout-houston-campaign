@@ -1,6 +1,10 @@
 # Quest 5: Visions of Betrayal
 *Available after completing Quest 3: Pirates' Plunder and Quest 4: Lone Star Ambitions.*
 
+## Setting
+[Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
+
+
 ## Plot
 ### The Mysterious Vision
 - The player's vision takes them to the Moon, where their great-great-grandfather is shown standing in front of a control panel in the lunar base. He appears conflicted and is having a conversation with another astronaut.

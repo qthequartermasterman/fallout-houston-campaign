@@ -1,6 +1,9 @@
 # Quest 2: Diplomatic Relations
 *Available after completing Quest 1: Lost in the Bayou*
 
+## Setting
+[Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
+
 ## Plot
 
 ### 2.1: Whispered Rumors

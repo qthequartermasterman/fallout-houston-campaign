@@ -1,6 +1,14 @@
 # Quest 6: Unveiling the Conspiracy
 *Available after completing Quest 5: Visions of Betrayal.*
 
+## Setting
+[Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
+[Ellington Field](../../Background/geography/neighborhoods.md#ellington-field)
+
+Possibly:
+[Buffalo Bayou](../../Background/geography/neighborhoods.md#the-bayous-and-wetlands)
+
+
 ## Plot
 ### Seeking Guidance in the Bayou (Optional Subquest)
 

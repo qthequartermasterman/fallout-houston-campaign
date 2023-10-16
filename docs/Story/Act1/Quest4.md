@@ -1,6 +1,14 @@
 # Quest 4: Lone Star Ambitions
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 3: Pirates' Plunder.*
 
+## Setting
+[Rice Village](../../Background/geography/neighborhoods.md#rice-village)
+[Western Reach](../../Background/geography/neighborhoods.md#western-reach-formerly-katy)
+
+Possibly:
+[Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
+[Energy Corridor](../../Background/geography/neighborhoods.md#the-energy-corridor)
+
 
 ## Plot
 ### The Call to Rice Village

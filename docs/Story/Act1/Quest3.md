@@ -1,13 +1,9 @@
 # Quest 3: Pirates' Plunder
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 4: Lone Star Ambitions.*
-## Summary
 
-- The player, now known to the Galveston Pirates, is approached by a group of Pirates led by Captain Sofia "Serpent" Vega. They have a proposal for the player.
-- The Pirates suspect that the Spaceport holds valuable resources and plan to raid it. They need the player to infiltrate the Spaceport, gather intelligence on its defenses and loot, and provide key information about its layout.
-- The player can choose to accept the Pirates' proposal or inform the Lone Star Republic about the impending raid, leading to different consequences. 
-- If the player accepts the proposal, and infiltrates the Spaceport, they discover that the Spaceport Survivors are planning a manned space mission. 
-- If the player informs the Lone Star Republic, Lone Star officials inform the player that the Spaceport Survivors are planning a manned space mission.
-- The player can decide whether to share this information with the Galveston Pirates or keep it to themselves, when they report the results of their infiltration back to the Pirates.
+## Setting
+[Galveston Island](../../Background/geography/neighborhoods.md#galveston-docks-formerly-galveston)
+[Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
 
 ## Plot
 

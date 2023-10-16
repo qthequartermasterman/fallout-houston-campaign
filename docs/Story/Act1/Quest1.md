@@ -1,6 +1,9 @@
 
 # Quest 1: Lost in the Bayou
 
+## Setting
+[Buffalo Bayou](../../Background/geography/neighborhoods.md#the-bayous-and-wetlands) 
+
 ## Plot
 ### 1.1: The Shipwreck Survivor
 
