@@ -63,6 +63,8 @@ Gator tasks the player with exploring the Bayou to find clues related to their v
 - As they explore, they encounter strange phenomena: unexplained lights, shadowy figures, and eerie sounds echoing through the swamps, which they can choose to investigate and/or engage.
 - The player also discovers an ancient relic, a worn medallion engraved with cryptic symbols. It resonates with the visions and provides a connection to the past.
 
+
+
 ### Return to the Brotherhood
 
 - The player returns to the Bayou Brotherhood's settlement, clutching the enigmatic medallion.

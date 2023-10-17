@@ -1,6 +1,12 @@
+---
+locations: 
+---
+
 # Neighborhoods and Settlements
 
 ## Downtown Houston
+
+[Downtown Houston](geo:29.759460655823844,-95.36803566374721)
 
 - Downtown Houston, once a thriving hub of commerce and culture, now lies in ruin. The towering skyscrapers that once
   defined the cityscape have crumbled into skeletal structures, and the streets are filled with debris and remnants of
@@ -21,6 +27,7 @@
 
 ## The Heights
 
+[The Heights](geo:29.798385570901733,-95.39802007903164)
 - The Heights, known for its historic bungalow-style houses, has seen better days. Many of the homes have fallen into
   disrepair or lie in ruins, their once-charming facades marred by time and neglect.
 - Survivors in The Heights have repurposed some of the buildings for shelter, transforming them into makeshift homes and
@@ -30,6 +37,8 @@
   the survivors. They have established checkpoints and supply depots to support their operations.
 
 ## Third Ward
+
+[Third Ward](geo:29.7243844,-95.359051)
 
 - The Third Ward, a predominantly African American neighborhood with a rich cultural history, has become a hub for
   cultural preservation. Survivors here have worked diligently to maintain their heritage through art, music, and
@@ -43,6 +52,8 @@
 
 ## East End
 
+[East End](geo:29.7360857,-95.3060972)
+
 - The East End, once an industrial and shipping hub, has experienced renewed activity in the post-apocalyptic era.
   Abandoned warehouses and factories have been repurposed for various uses, from shelter to workshops.
 - The area has become a hotbed of conflict, as factions like the Galveston Pirates vie for control of ports along the
@@ -52,6 +63,8 @@
   and trade in the region.
 
 ## Montrose
+
+[Montrose](geo:29.74687555,-95.39730335255877)
 
 - Montrose, a district known for its vibrant arts and cultural scene in the pre-war era, has transformed into a bustling
   marketplace in the post-apocalyptic wasteland. Its streets are lined with makeshift market stalls, and traders from
@@ -69,6 +82,8 @@
 
 ![Rice Village](../../Assets/rice-university-ruins.jpeg)
 
+[Rice Village](geo:29.7166504,-95.4166625)
+
 - Rice Village, known for its upscale shopping and dining options in the pre-war era, has undergone a stark
   transformation. Many of the once-elegant shops and restaurants now lie in ruins, their windows shattered and interiors
   ransacked.
@@ -84,6 +99,8 @@
 
 ![Medical Center](../../Assets/medical-district-ruins.jpeg)
 
+[Medical Center](geo:29.70775320462402,-95.40242768427136)
+
 - The Texas Medical Center, although not directly hit by nuclear strikes, faced turmoil in the aftermath of the Great
   War. Many patients, staff, and researchers perished during the chaos that followed, leaving the medical facilities in
   disarray.
@@ -96,6 +113,8 @@
 ## Spaceport District (Johnson Space Center)
 
 ![Spaceport District](../../Assets/johnson-space-center-ruins.jpeg)
+
+[Spaceport District](geo:29.560091666521437,-95.09296989056149)
 
 - The Johnson Space Center's Spaceport District endured a direct nuclear strike during the Great War. The surface
   facilities were severely damaged, but the underground vault, Vault 117, remained intact.
@@ -117,6 +136,8 @@
 
 ![Energy Corridor](../../Assets/energy-corridor-ruins.jpeg)
 
+[Energy Corridor](geo:29.78475344563217,-95.63607055649126)
+
 - The Energy Corridor, once a vital center for the energy industry, was targeted during the Great War due to its
   strategic importance. Many of the oil refineries and energy infrastructure in the area were destroyed.
 - The Oil and Energy Barons have established control over what remains of the energy corridor. They oversee the remnants
@@ -132,6 +153,8 @@
   harness energy and investigate the connection between their pre-war predecessors and the Enclave.
 
 ## Uptown Houston
+
+[Uptown Houston](geo:29.7458025,-95.46424437845525)
 
 - Uptown Houston, known for its commercial and residential affluence in the pre-war era, has suffered significant decay.
   Luxury apartments and high-end shops now stand in varying states of disrepair, their opulence faded.
@@ -151,6 +174,8 @@
 
 ![Port of Houston](../../Assets/port-ruins.jpeg)
 
+[Port of Houston](geo:29.609583371060147,-95.01935161643323)
+
 - The Port of Houston, a critical gateway for trade and commerce, faced extensive damage during the Great War due to its
   economic significance. Many port facilities were heavily impacted by the destruction.
 - The Galveston Pirates have claimed control over key sections of the Port, allowing them to levy tolls on incoming and
@@ -168,6 +193,8 @@
   factions.
 
 ## The Bayous and Wetlands
+
+[The Bayou](geo:29.762666342793505,-95.3954616894298)
 
 - The bayous and wetlands surrounding Houston have become both a refuge and a danger. The Bayou Brotherhood, an
   isolationist faction, has made these waterlogged areas their home, preserving their unique culture and traditions.
@@ -188,6 +215,8 @@
 
 ![Museum District](../../Assets/museum-district-ruins.jpeg)
 
+[Museum District](geo:29.72187722141612,-95.39052797351329)
+
 - Before the Great War, the Museum District was a cultural haven, home to a collection of world-class museums, art
   galleries, and educational institutions. It was a place where history, science, and art were celebrated and preserved.
 - The district's iconic museums, including the Houston Museum of Natural Science and the Museum of Fine Arts, were
@@ -202,6 +231,10 @@
 
 ## Western Reach (formerly Katy)
 
+![Western Reach Center](../../Assets/katy-mills-ruins.jpeg)
+
+[Western Reach](geo:29.779522718157338, -95.812958453289)
+
 - Western Reach, situated to the west of the city, was once known as Katy in the pre-war era. It has since evolved into
   a resilient suburban community surrounded by the sprawling Energy Corridor.
 - The settlers of Western Reach have developed a complex relationship with the Oil and Energy Barons who control the
@@ -212,6 +245,10 @@
   factions in this strategic region.
 
 ## The Verdant Haven (formerly The Woodlands)
+
+![The Verdant Haven](../../Assets/woodlands-mall-ruins.jpeg)
+
+[The Verdant Haven](geo:30.163108904541257,-95.45169046114991)
 
 - The Verdant Haven, formerly known as The Woodlands, is a haven of natural beauty and growth amidst the wasteland. The
   massive shopping mall that once defined the district has been partially reclaimed by nature and is now a treetop
@@ -226,6 +263,8 @@
 
 ## Sugar Junction (formerly Sugar Land)
 
+[Sugar Junction](geo:29.596879336664248,-95.619345941272)
+
 - Sugar Junction, once known as Sugar Land, serves as a vital trade nexus in the Gulf Coast Wasteland. The New Liberty
   Trading Company (NLTC) established trading posts here, connecting the region with NLTC's capital elsewhere.
 - NLTC's presence in Sugar Junction has transformed the settlement into a bustling marketplace, attracting traders from
@@ -237,6 +276,8 @@
 - Member settlement of the Lone Star Republic
 
 ## Radiant Shores (formerly Pearland)
+
+[Radiant Shores](geo:29.560551516530104, -95.28420078774923)
 
 - Radiant Shores, formerly known as Pearland, is an independent settlement known for its strong sense of community and
   resourcefulness. While not officially part of the Lone Star Republic, the settlers here share common values with the
@@ -250,6 +291,8 @@
 
 ## Cypress Fields (formerly Cypress)
 
+[Cypress Fields](geo:29.970438298463094,-95.69711770464674)
+
 - Cypress Fields, once known simply as Cypress, stands as a prominent and influential settlement within the Lone Star
   Republic. This thriving agricultural community has embraced its vast open lands, turning them into the primary source
   of food production for the Republic and its surrounding territories.
@@ -261,6 +304,10 @@
 
 ## Galveston Docks (formerly Galveston)
 
+![Galveston Docks](../../Assets/moody-gardens-ruins.jpeg)
+
+[Galveston Docks](geo:29.271817270864048,-94.85169693780138)
+
 - The Galveston Docks is a major settlement on Galveston Island, known for its bustling maritime activity and the
   stronghold of the Galveston Pirates. The docks serve as the pirates' primary base of operations, from where they
   control access to the Port of Houston.
@@ -269,8 +316,9 @@
 - Despite the dangers posed by the pirates, some independent traders and factions maintain a presence in the area, drawn
   by the potential for lucrative maritime trade and access to the Gulf of Mexico.
 
-## Brazos Haven (Brazoria County)
+## Brazos Haven (formerly Lake Jackson)
 
+[Brazos Haven](geo:29.03200938919746,-95.43494032708179)
 - Located along the Brazos River, Brazos Haven is a settlement primarily focused on fishing and trade along the
   riverbanks. The residents rely on the river's resources for sustenance and transportation.
 - While it maintains independence from the major factions of the region, Brazos Haven is known for its hospitality and
@@ -281,6 +329,8 @@
 
 ## Harbor's Rest (formerly Baytown)
 
+[Harbor's Rest](geo:29.727274195705373,-94.99653112174364)
+
 - Harbor's Rest is a settlement situated in the ruins of Baytown, known for its maritime heritage and salvage
   operations. The residents scavenge and salvage goods from sunken ships and submerged buildings in the area.
 - The settlement has a robust economy built around trade, with a variety of goods recovered from the Gulf of Mexico and
@@ -289,6 +339,8 @@
   vital hub of maritime activity, where fortunes can be made and lost on the waves.
 
 ## Port Arthur Outpost (formerly Port Arthur)
+
+[Port Arthur](geo:29.89823855110362,-93.92249704419454)
 
 - The Port Arthur Outpost was established by a group of survivors who once worked in the shipping and maritime industry.
   They recognized the strategic importance of Port Arthur's location for trade and decided to set up a trading post
@@ -301,6 +353,8 @@
 
 ## Bolivar Settlement (Bolivar Peninsula)
 
+[Bolivar Settlement](geo:29.455829628874557,-94.64104080246054)
+
 - The Bolivar Settlement is a coastal community of survivors who found refuge on the Bolivar Peninsula, a challenging
   environment marked by constant threats from both the sea and the mainland.
 - Originally fishermen and vacationers, the settlers banded together to protect their way of life. They've become
@@ -309,6 +363,8 @@
   determined to defend their home and preserve the coastal heritage of the region.
 
 ## Clear Lake Refuge (formerly Clear Lake)
+
+[Clear Lake Refuge](geo:29.60732196391364,-95.11601795269615)
 
 - Clear Lake Refuge is a hidden community of survivors who have chosen to live off the land and maintain a sustainable
   lifestyle. They are wary of the larger factions and prefer to remain self-reliant.
@@ -320,6 +376,8 @@
 
 ## Highway Hub (formerly Greenspoint)
 
+[Highway Hub](geo:29.948867738881624,-95.41319652659553)
+
 - The Highway Hub is a makeshift trading post located along the remnants of Interstate 45, a critical route for
   travelers and caravans moving goods between Houston and other regions.
 - It was established by a resourceful group of survivors who recognized the strategic importance of this location for
@@ -328,6 +386,8 @@
   alliances. It is governed by a council of experienced traders who maintain order and ensure fair trade practices.
 
 ## San Jacinto Stronghold (San Jacinto Monument)
+
+[San Jacinto Stronghold](geo:29.749687116950135,-95.0805676912006)
 
 - The San Jacinto Stronghold is a unique settlement that has taken refuge in the towering San Jacinto Monument, a
   structure once built to commemorate a historic battle.
@@ -340,6 +400,8 @@
   creativity and adaptability of survivors in the post-apocalyptic world.
 
 ## Harvest Haven (formerly Conroe)
+
+[Harvest Haven](geo:30.333103427645987,-95.47711786182347)
 
 - Harvest Haven, formerly known as Conroe, is a bustling agricultural settlement located to the north of Houston along
   Interstate 45. The town's rebirth was driven by a group of survivors who recognized the fertile lands surrounding
@@ -356,6 +418,8 @@
 - Member of the Lone Star Republic
 
 ## Scholar's Summit (formerly Huntsville)
+
+[Scholar's Summit](geo:30.71356276127107,-95.5474691387572)
 
 - Scholar's Summit, formerly known as Huntsville, stands as a beacon of knowledge and education in the post-apocalyptic
   world. The town's transformation began with a group of educators, historians, and intellectuals who recognized the
@@ -376,6 +440,8 @@
 
 ## Petroclave (formerly Beaumont)
 
+[Petroclave](geo:30.085242078473243,-94.10136486070702)
+
 - Following the Great War, Beaumont, once a thriving center of the oil industry, experienced a significant decline in
   influence and population due to the widespread devastation caused by the nuclear conflict. Much of its vital oil
   infrastructure was severely damaged, rendering it inoperable.
@@ -389,6 +455,8 @@
 ## Ellington Field
 
 ![Ellington Field](../../Assets/ellington-field-ruins.jpeg)
+
+[Ellington Field](geo:29.61973374830343, -95.17395740312563)
 
 Ellington Field is a significant location in the Gulf Coast Wasteland, especially due to its historical and strategic
 importance. Here's more information about Ellington Field and its role in the post-apocalyptic setting:
@@ -436,9 +504,13 @@ exploration, interaction with factions, and storytelling within the game.
 
 ## Houston International Airport (IAH)
 
+[Houston International Airport](geo:29.99328232450453,-95.3418400798264)
+
 Remains of an airport, used by the Lone Star Republic as a base of operations for their military.
 
 ## Tomball
+
+[Tomball](geo:30.090750800484926,-95.63690501740697)
 
 - Tomball's pre-war suburban charm has given way to a resilient survivor's haven. The once orderly streets are now lined
   with makeshift shelters and fortified structures, constructed from the remnants of the town's original buildings and
@@ -461,6 +533,8 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ## Humble Haven (formerly Humble, pronounced with a silent H)
 
+[Humble Haven](geo:30.006845093386108,-95.26569366657448)
+
 - Humble's pre-war identity as a quiet suburban town has been reshaped by the harsh realities of the post-apocalyptic
   world. Its streets, once lined with tidy houses and local businesses, now feature a mix of improvised shelters,
   scavenged materials, and fortifications.
@@ -482,7 +556,9 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
   Star Republic. The Republic has established a military base at the airport, using it as a staging area for operations
   and a hub for intelligence gathering.
 
-## Navasota Output
+## Navasota Outpost
+
+[Navasota Outpost](geo:30.388792479443126,-96.08814721515886)
 
 - Navasota's former small-town charm has given way to a thriving post-apocalyptic settlement known as "Navasota
   Outpost." The town's streets, once quiet and lined with historic buildings, are now bustling with activity.
@@ -501,62 +577,28 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ## Minor Settlements
 
-- Bayou Vista: NLTC maintains a well-protected but small marina at the Bayou Vista, where their protected ships land.
-  Although they do not use warships, the Galveston Pirates usually leave them alone, after a few early, failed attempts
-  to raid their ships. The NLTC has a small but well-armed security force, and they are not afraid to use it.
-- Bayou Outpost: Located deep in the swampy bayou regions to the south of Houston, the Bayou Outpost is a secluded and
-  self-sufficient community. Its inhabitants are skilled hunters and gatherers, relying on the bayou's resources for
-  sustenance. They are known for their herbal remedies and have a mysterious connection to the Bayou Brotherhood.
-- Portside Shantytown: Nestled along the coast, Portside Shantytown is a collection of ramshackle huts and makeshift
-  structures inhabited by survivors who have chosen to live near the sea. They are primarily fisherfolk and salvagers
-  who rely on the Gulf's bounty for survival. The settlement maintains a tense relationship with the Galveston Pirates,
-  who occasionally raid the coastal community.
-- Refugee Camp Alpha: Situated in the ruins of a pre-war industrial complex on the outskirts of Houston, Refugee Camp
-  Alpha is a temporary haven for displaced survivors. It's a place where people from various backgrounds gather for
-  safety and support. Life is challenging in the camp, as resources are scarce, but the sense of community remains
+- [Bayou Vista](geo:29.329554564080837,-94.93345112094737): NLTC maintains a well-protected but small marina at the Bayou Vista, where their protected ships land. Although they do not use warships, the Galveston Pirates usually leave them alone, after a few early, failed attempts to raid their ships. The NLTC has a small but well-armed security force, and they are not afraid to use it.
+- [Portside Shantytown](geo:28.945390562803066,-95.34654850883261): Nestled along the coast, Portside Shantytown is a collection of ramshackle huts and makeshift structures inhabited by survivors who have chosen to live near the sea. They are primarily fisherfolk and salvagers who rely on the Gulf's bounty for survival. The settlement maintains a tense relationship with the Galveston Pirates, who occasionally raid the coastal community.
+- [Refugee Camp Alpha](geo:29.756808906476053,-95.17680192109725): Situated in the ruins of a pre-war industrial complex on the outskirts of Houston, Refugee Camp Alpha is a temporary haven for displaced survivors. It's a place where people from various backgrounds gather for safety and support. Life is challenging in the camp, as resources are scarce, but the sense of community remains
   strong.
-- Greenhaven Orchard: In the suburbs to the west of Houston, Greenhaven Orchard is an oasis of sorts. This small
-  settlement has cultivated a thriving orchard and vegetable garden. They trade their produce with larger factions,
-  making them a vital source of fresh food in the wasteland.
-- Sunset Trading Post: Located along the remnants of State Highway 146, Sunset Trading Post is a crucial rest stop for
-  caravans traveling between Houston and Galveston. It's a place where merchants and travelers can resupply, trade, and
+- [Greenhaven Orchard](geo:29.554091000183266,-95.6632385089244): In the suburbs to the west of Houston, Greenhaven Orchard is an oasis of sorts. This small settlement has cultivated a thriving orchard and vegetable garden. They trade their produce with larger factions, making them a vital source of fresh food in the wasteland.
+- [Sunset Trading Post, formerly Kemah](geo:29.54212556868445,-95.01965359090539): Located along the remnants of State Highway 146, Sunset Trading Post is a crucial rest stop for caravans traveling between Houston and Galveston. It's a place where merchants and travelers can resupply, trade, and
   exchange information. The Galveston Pirates keep a watchful eye on this strategic location.
-- Whitetail Ranch: Deep in the wooded regions to the north of Houston, Whitetail Ranch is a rustic community of hunters
-  and trappers. They have adapted to the wilderness and have found ways to survive by trading animal pelts and meat with
+- [Whitetail Ranch, formerly Magnolia](geo:30.2117556488417,-95.7541253707608): Deep in the wooded regions to the north of Houston, Whitetail Ranch is a rustic community of hunters and trappers. They have adapted to the wilderness and have found ways to survive by trading animal pelts and meat with
   other settlements.
-- Marina Bay Resort: This former luxury resort near Clear Lake has been repurposed by a group of survivors into a
-  functional community. Its proximity to the water provides easy access to fish and freshwater, making it a sought-after
-  location. However, the settlement must also defend against occasional attacks from the Galveston Pirates.
-- Bayshore Hamlet (San Leon): Situated along the coastal regions near Galveston Bay, Bayshore Hamlet consists of a few
+- [Marinaville Resort](geo:30.393996346473614,-95.63579078227842): This former luxury resort near Lake Conroe has been repurposed by a group of survivors into a functional community. Its proximity to the water provides easy access to fish and freshwater, making it a sought-after location. 
+- [Bayshore Hamlet, formerly San Leon](geo:29.49440263042049,-94.92227210154844): Situated along the coastal regions near Galveston Bay, Bayshore Hamlet consists of a few
   ramshackle buildings and fishing docks. Its inhabitants rely on fishing and scavenging along the bay to survive. They
   have an uneasy relationship with the Galveston Pirates, who often demand tribute.
-- Oilfield Outpost (Pasadena): This small outpost is built around a pre-war oil drilling facility. Survivors have tapped
-  into the facility's remaining reserves to provide fuel for generators and trade with nearby settlements. The Oilfield
-  Outpost plays a critical role in supporting the Lone Star Republic's energy needs.
-- Lighthouse Landing (Point Bolivar): Located at the end of a desolate peninsula, Lighthouse Landing is centered around
-  a still-functioning lighthouse. Its primary purpose is to guide traders and travelers through treacherous coastal
-  waters. The settlement has limited resources but is a beacon of hope for those navigating the Gulf's dangerous
+- [Oilfield Outpost, formerly Pasadena](geo:29.690553779988246,-95.20304635178483): This small outpost is built around a pre-war oil drilling facility. Survivors have tapped
+  into the facility's remaining reserves to provide fuel for generators and trade with nearby settlements. The Oilfield Outpost plays a critical role in supporting the Lone Star Republic's energy needs.
+- [Lighthouse Landing, formerly Point Bolivar Lighthouse](geo:29.367277175045796,-94.7667079031319): Located at the end of a desolate peninsula, Lighthouse Landing is centered arounda still-functioning lighthouse. Its primary purpose is to guide traders and travelers through treacherous coastal waters. The settlement has limited resources but is a beacon of hope for those navigating the Gulf's dangerous
   currents.
-- Sawmill Sanctuary (Livingston): Deep in the Sam Houston National Forest, Sawmill Sanctuary has repurposed a pre-war
-  sawmill to provide lumber and building materials to other settlements. The community is self-sufficient, relying on
-  the forest's resources for survival.
-- Museum Heights (Museum District): In the heart of the Museum District, survivors have established a small settlement
-  within the remains of cultural and educational institutions. They are dedicated to preserving knowledge and artifacts
-  from the past. The settlement has become a hub for scavengers seeking historical treasures.
-- Power Plant Perch (La Porte): Nestled near the remains of a pre-war power plant, this settlement is highly sought
-  after due to its access to electricity. Its inhabitants have repaired and maintained the plant's generators, providing
-  valuable power to neighboring settlements in exchange for resources and protection.
-- Rancher's Retreat (Rosharon): This small ranching community relies on livestock and agriculture to sustain itself.
-  Rancher's Retreat is known for its cattle herds and horse breeding. They trade surplus livestock and leather goods
-  with nearby settlements.
-- Tidepool Trading Post (Kemah Boardwalk): Set up in the ruins of a once-popular tourist destination, Tidepool Trading
-  Post is known for its scavenging operations along the Gulf Coast. It's a hub for merchants, traders, and explorers
-  looking to find treasures washed ashore by the sea.
-- Waste Recycling Center (North Houston): Located near the outskirts of Houston, this settlement has repurposed a
-  pre-war waste recycling facility to salvage and repurpose materials. It serves as a vital resource hub for scavengers
-  and traders in the area.
-- Willowbrook: This settlement is located in the ruins of a pre-war shopping mall. Its inhabitants have repurposed the
-  mall's stores and restaurants into a bustling marketplace. Willowbrook is a popular destination for traders and
-  scavengers looking to barter for goods and supplies.
-- Spring: A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
+- [Sawmill Sanctuary, formerly Livingston](geo:30.71058036209488,-94.93177601452567): Deep in the Sam Houston National Forest, Sawmill Sanctuary has repurposed a pre-war
+  sawmill to provide lumber and building materials to other settlements. The community is self-sufficient, relying on the forest's resources for survival.
+- [Power Plant Perch, formerly La Porte](geo:29.694219313979627,-95.04040096980611): Nestled near the remains of a pre-war power plant, this settlement is highly sought after due to its access to electricity. Its inhabitants have repaired and maintained the plant's generators, providing valuable power to neighboring settlements in exchange for resources and protection.
+- [Rancher's Retreat, formerly Rosharon](29.35310365705205,-95.46338712216787): This small ranching community relies on livestock and agriculture to sustain itself. Rancher's Retreat is known for its cattle herds and horse breeding. They trade surplus livestock and leather goods with nearby settlements.
+- [Waste Recycling Center](geo:29.891571087722877,-95.2635859137306): Located near the outskirts of Houston, this settlement has repurposed a pre-war waste recycling facility to salvage and repurpose materials. It serves as a vital resource hub for scavengers and traders in the area.
+- [Willowbrook](geo:29.962182712186213,-95.54549376534099): This settlement is located in the ruins of a pre-war shopping mall. Its inhabitants have repurposed the mall's stores and restaurants into a bustling marketplace. Willowbrook is a popular destination for traders and scavengers looking to barter for goods and supplies.
+- [Spring](geo:30.079371713243425,-95.42213908803095): A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
   neighborhood's houses into shelters and trading posts. Spring is known for its scavenging operations.
