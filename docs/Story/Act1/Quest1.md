@@ -63,14 +63,43 @@ Gator tasks the player with exploring the Bayou to find clues related to their v
 - As they explore, they encounter strange phenomena: unexplained lights, shadowy figures, and eerie sounds echoing through the swamps, which they can choose to investigate and/or engage.
 - The player also discovers an ancient relic, a worn medallion engraved with cryptic symbols. It resonates with the visions and provides a connection to the past.
 
+![The Bayou Map-Large](../../Assets/maps/buffalo-bayou-large-map.png)
+
+The players must venture deep into the Bayou. The air is thick and humid, full of the chorus of wildlife. Swamp lanterns, left by the Bayou Brethren, illuminate the once-paved path beside the river. Sounds of urban chaos faintly echo in the distance behind them in the direction of Downtown.
+
+The Bayou Outpost (The pin on the east side of the map) rests in the middle of the straight part of the Bayou, just east of the Bat Bridge (where many bats fly in and out from under the bridge at night). There exist a few different trails, the remains of ancient once-paved, running-trails along the river.
+
+As the players travel west, they will eventually pass the Bird Sanctuary, where they will encounter many different types of birds, many of which mutated. Beyond the Bird Sanctuary, the bayou opens up into a large swamp, the flooded remains of an ancient park. Many trails cris-cross the swamp. The players may also encounter rad-gators, mutated alligators, and other mutated swamp creatures. None of these are hostile unless provoked.
+
+Gator's charm will glow softly when the players near significant objects or locations. The charm's glow, however, will disappear if they walk away.
+
+As players walk deeper into the Bayou, strange phenomena manifest around them. Unexplained lights flicker in the distance, shadowy figures move just out of sight, and eerie sounds ripple through the swamps. The players have the choice to investigate these phenomena or continue on their path.
+
+After some time, some of the lights will dance around the players, like will-o'-the-wisps, leading them deeper in the Bayou into the swamp. Following it, they discover an ancient cypress tree with roots that seem to shimmer with an otherworldly energy. As the players the tree, they hear the faignt sounds of mournful singing, echoing through the swamps. As they get closer, they come across a ghostly procession of spirits dressed in clothing from another era. They appear to be reenacting a long-lost ritual.
+
+Amidst the dense underbrush, the players will stumble upon a hidden hollow, where they can find the relic they seek – a worn medallion engraved with cryptic symbols ([Bayou Medallion](#bayou-medallion)). The moment a player touches it, the medallion resonates with their visions, and flashes of the player's great-great-grandfather's decision during the Sea of Tranquility mission appear before them.
 
 
 ### Return to the Brotherhood
 
 - The player returns to the Bayou Brotherhood's settlement, clutching the enigmatic medallion.
-- Gator, intrigued by the medallion, explains that it has been passed down through generations and is said to hold the key to understanding the Bayou's cosmic significance.
+- Gator, intrigued by the medallion, explains that it has appeared about once a generation since the bombs fell and Mother Nature reclaimed the Bayou. It is said to hold the key to understanding the Bayou's cosmic significance.
 - This quest concludes with the player gaining Gator's trust and the Brotherhood's willingness to support them in exploring the mysteries of the Gulf Coast Wasteland.
 - Gator tasks the player with investigating the Spaceport Survivors, whose recent emergence from their Vault is no coincidence. He believes they are connected to the player's visions and the Bayou's cosmic message.
+
+
+When the players return to the Bayou Outpost, Gator greets them. Several hours have passed, seemingly impossibly. Gator is intrigued by the medallion and explains that it is legendary, having appeared about once a generation since Nature reclaimed the Bayou after the Great War. It is said to hold the key to understanding the Bayou's cosmic significance, and has always revealed itself to individuals who have a role to play in the Bayou's destiny.
+
+Read or paraphrase the following:
+> "This here medallion," Gator begins, his voice low and contemplative, "Legends have been passed down through generations in the Brotherhood. About once a generation, it reveals itself to someone who plays a role in the Bayou's destiny. It's said to hold the key to understandin' the cosmic significance of the Bayou. With this in your hands, it seems the Bayou's tryin' to tell you somethin' important."
+
+> Gator's trust in you seems to grow, and he speaks with conviction. "I believe you've got a role to play, a cosmic role. And I reckon it's tied to the Spaceport Survivors, those folks from the Vault who've emerged recently. It's no mere coincidence, I tell ya. They're connected to your visions, to the Bayou's message."
+
+> He pauses for a moment, then continues. "I'm gonna ask a favor of you, friend. Investigate the Spaceport Survivors, find out what they're up to. They might hold the answers we've been seekin'. And with their emergence, it's more important than ever to understand the Bayou's cosmic message."
+
+Gator will give directions to Vault 117, which lies under the Spaceport. He tells them they can follow I-45 south to find it, but warns them to avoid Downtown, which is overrun with raiders and mutated creatures. He also warns them to be careful around the Spaceport Survivors, as they are a secretive bunch and may not take kindly to outsiders.
+
+Gator also welcomes the players to stay with the Brotherhood for as long as they like. He offers them a place to rest and recuperate, as well as access to the Brotherhood's resources. He also offers to teach them about the Bayou's mystical connection to the cosmos and the Brotherhood's spiritual beliefs.
 
 ## Quest Rewards:
 
@@ -98,6 +127,14 @@ The Bayou Charm is a finely crafted trinket, its appearance a testament to the i
 The charm's intricate carvings and the gentle glow of the moonstone create an aura of enchantment. Its presence is a reminder of the Bayou's mystical connection to the cosmos. The charm will glow softly when the player is near an object or location of cosmic significance or a clue related to their visions.
 
 
+### Bayou Medallion
+The Bayou Medallion is an ancient and weathered relic, its appearance reflecting its long history. It is a circular pendant, approximately two inches in diameter, and made of a dark, almost black, metal. The surface of the medallion is covered in intricate and cryptic engravings.
+
+The central design on the medallion is an ornate, celestial pattern that resembles a star chart. It features an array of interconnected stars and celestial bodies, with lines and symbols that seem to represent cosmic constellations. The entire design is surrounded by a ring of similarly mysterious symbols.
+
+Despite its age and exposure to the elements, the medallion carries an aura of otherworldly significance. When held, it feels cool to the touch and seems to vibrate faintly, resonating with the cosmic visions you've experienced. The engravings, though ancient and worn, still appear to be meticulously detailed, hinting at the medallion's importance and its connection to the mysteries of the Bayou and beyond.
+
+Meditating while wearing the Medallion will grant the user a temporary +2 bonus to Perception. The wearer can attempt a difficulty-5 Perception check to gain a vision of the past (additional characters can assist by meditating nearby). The vision will be related to the Sea of Tranquility mission and will provide a clue related to the player's visions.
 
 
 ## Purpose:
