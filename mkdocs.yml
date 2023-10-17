@@ -21,6 +21,7 @@ nav:
       - "Outline": Story/outline.md
       - "Prologue":
         - 'Story/prologue.md'
+      - "Intro Narration": Story/intro-narration.md
       - "Act I: Rising Tensions":
         - "Act I Outline": Story/Act1/index.md
         - 'Story/Act1/Quest1.md'
