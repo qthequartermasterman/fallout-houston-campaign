@@ -2,6 +2,19 @@
 
 
 
+## v0.15.0 (2023-10-17)
+
+### Feature
+
+* feat: Flesh out Quest 1 ([`77791a4`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/77791a4d56629480dc08223f34b792441a420e0c))
+
+* feat: geographical markers ([`d2c6959`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d2c69591e35ebf2e67891decfbc81d5885bd75cd))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`8a99cac`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/8a99cac29a582dc65883ffb14601e14a57014637))
+
+
 ## v0.14.0 (2023-10-16)
 
 ### Feature
