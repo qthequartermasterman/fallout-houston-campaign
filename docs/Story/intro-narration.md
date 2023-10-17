@@ -1,6 +1,5 @@
 # Introduction--Narration
 
-![](../Assets/audio/intro-narration.webm)
 [Audio](../Assets/audio/intro-narration.mp3)
 
 War.... War never changes.....
