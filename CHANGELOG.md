@@ -2,6 +2,17 @@
 
 
 
+## v0.16.0 (2023-10-17)
+
+### Feature
+
+* feat: intro narration ([`a0f777a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a0f777a5b56be93475110a6c6542f6e6d27f39db))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`da4b44c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/da4b44c0921599026098c115bad16eeb346a0027))
+
+
 ## v0.15.0 (2023-10-17)
 
 ### Feature
