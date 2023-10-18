@@ -29,7 +29,7 @@ surroundings and learns about their role as a Vault-Tec security officer, they a
 
     - Provide the player with a sense of urgency and tension as they must make decisions on the fly, such as choosing routes to protect critical facility areas, helping injured personnel, and responding to enemy threats.
 
-- The attack reveals a concealed conspiracy within the USSA or military, as some of the player's comrades act suspiciously, potentially collaborating with the enemy.
+- The attack reveals a concealed conspiracy within the USSA and military, as some of the player's comrades act suspiciously, potentially collaborating with the enemy.
 
     - During the chaos of the attack, the player may notice certain Vault-Tec personnel acting strangely. They may overhear conversations suggesting betrayal or encounter personnel attempting to sabotage defense systems.
 
