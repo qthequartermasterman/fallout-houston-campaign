@@ -134,7 +134,7 @@ The central design on the medallion is an ornate, celestial pattern that resembl
 
 Despite its age and exposure to the elements, the medallion carries an aura of otherworldly significance. When held, it feels cool to the touch and seems to vibrate faintly, resonating with the cosmic visions you've experienced. The engravings, though ancient and worn, still appear to be meticulously detailed, hinting at the medallion's importance and its connection to the mysteries of the Bayou and beyond.
 
-Meditating while wearing the Medallion will grant the user a temporary +2 bonus to Perception. The wearer can attempt a difficulty-5 Perception check to gain a vision of the past (additional characters can assist by meditating nearby). The vision will be related to the Sea of Tranquility mission and will provide a clue related to the player's visions.
+Meditating while wearing the Medallion will grant the user a temporary +2 bonus to Perception. The wearer can attempt a high difficulty Perception check to gain a vision of the past (additional characters can assist by meditating nearby). The vision will be related to the Sea of Tranquility mission and will provide a clue related to the player's visions.
 
 
 ## Purpose:
