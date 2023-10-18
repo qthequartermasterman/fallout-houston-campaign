@@ -2,6 +2,27 @@
 
 
 
+## v0.17.0 (2023-10-18)
+
+### Feature
+
+* feat: fleshout prologue quest ([`2bf4079`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/2bf40799b63b92c92cd2d49131e878c2429e3be6))
+
+### Fix
+
+* fix: fleshout prologue quest ([`babdc06`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/babdc066d5b4cd3d3cbf86a252976c3a672a3eee))
+
+* fix: update narration audio ([`89c431b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/89c431bdf9b4b290f8880024304501324530ffb4))
+
+* fix: update narration audio ([`c1f88c0`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c1f88c05af72b15b6312dd4f269ef571c5fcd91d))
+
+* fix: update narration ([`b1804d1`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b1804d13df9ec6d4689723e99e19931e51caab22))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`fbe2b61`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fbe2b6120666c0d09f7c49e4e2604253d7912194))
+
+
 ## v0.16.0 (2023-10-17)
 
 ### Feature
