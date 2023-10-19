@@ -7,6 +7,7 @@ pristine, advanced Vault-Tec facility located on the Moon. This serves as a high
 operated in partnership with the US government to extract valuable resources. As the player acclimates to the
 surroundings and learns about their role as a Vault-Tec security officer, they are thrust into an unexpected conflict.
 
+## Plot
 
 ### Lunar Conspiracy Unveiled
 
@@ -63,6 +64,8 @@ surroundings and learns about their role as a Vault-Tec security officer, they a
 
     - This conclusion sets the stage for the player's journey into the Gulf Coast Wasteland, as they embark on a quest to uncover the larger conspiracy and its implications for the post-apocalyptic world.
 
+## Quest Rewards
+- Experience points for completing quest objectives.
 
 ## Purpose in the Overall Story:
 
