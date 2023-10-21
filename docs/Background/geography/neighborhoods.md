@@ -6,6 +6,10 @@ locations:
 
 ## Downtown Houston
 
+![Downtown Ruins](../../Assets/concept-art/downtown-houston-ruins.jpg)
+
+![City Hall Ruins](../../Assets/concept-art/houston-city-hall-ruins.jpeg)
+
 [Downtown Houston](geo:29.759460655823844,-95.36803566374721)
 
 - Downtown Houston, once a thriving hub of commerce and culture, now lies in ruin. The towering skyscrapers that once
@@ -80,7 +84,7 @@ locations:
 
 ## Rice Village
 
-![Rice Village](../../Assets/rice-university-ruins.jpeg)
+![Rice Village](../../Assets/concept-art/rice-university-ruins.jpeg)
 
 [Rice Village](geo:29.7166504,-95.4166625)
 
@@ -97,7 +101,7 @@ locations:
 
 ## Medical Center
 
-![Medical Center](../../Assets/medical-district-ruins.jpeg)
+![Medical Center](../../Assets/concept-art/medical-district-ruins.jpeg)
 
 [Medical Center](geo:29.70775320462402,-95.40242768427136)
 
@@ -112,7 +116,7 @@ locations:
 
 ## Spaceport District (Johnson Space Center)
 
-![Spaceport District](../../Assets/johnson-space-center-ruins.jpeg)
+![Spaceport District](../../Assets/concept-art/johnson-space-center-ruins.jpeg)
 
 [Spaceport District](geo:29.560091666521437,-95.09296989056149)
 
@@ -134,7 +138,7 @@ locations:
 
 ## The Energy Corridor
 
-![Energy Corridor](../../Assets/energy-corridor-ruins.jpeg)
+![Energy Corridor](../../Assets/concept-art/energy-corridor-ruins.jpeg)
 
 [Energy Corridor](geo:29.78475344563217,-95.63607055649126)
 
@@ -172,7 +176,7 @@ locations:
 
 ## Port of Houston
 
-![Port of Houston](../../Assets/port-ruins.jpeg)
+![Port of Houston](../../Assets/concept-art/port-ruins.jpeg)
 
 [Port of Houston](geo:29.609583371060147,-95.01935161643323)
 
@@ -213,7 +217,7 @@ locations:
 
 ## Museum District
 
-![Museum District](../../Assets/museum-district-ruins.jpeg)
+![Museum District](../../Assets/concept-art/museum-district-ruins.jpeg)
 
 [Museum District](geo:29.72187722141612,-95.39052797351329)
 
@@ -231,7 +235,7 @@ locations:
 
 ## Western Reach (formerly Katy)
 
-![Western Reach Center](../../Assets/katy-mills-ruins.jpeg)
+![Western Reach Center](../../Assets/concept-art/katy-mills-ruins.jpeg)
 
 [Western Reach](geo:29.779522718157338, -95.812958453289)
 
@@ -246,7 +250,7 @@ locations:
 
 ## The Verdant Haven (formerly The Woodlands)
 
-![The Verdant Haven](../../Assets/woodlands-mall-ruins.jpeg)
+![The Verdant Haven](../../Assets/concept-art/woodlands-mall-ruins.jpeg)
 
 [The Verdant Haven](geo:30.163108904541257,-95.45169046114991)
 
@@ -304,7 +308,7 @@ locations:
 
 ## Galveston Docks (formerly Galveston)
 
-![Galveston Docks](../../Assets/moody-gardens-ruins.jpeg)
+![Galveston Docks](../../Assets/concept-art/moody-gardens-ruins.jpeg)
 
 [Galveston Docks](geo:29.271817270864048,-94.85169693780138)
 
@@ -454,7 +458,7 @@ locations:
 
 ## Ellington Field
 
-![Ellington Field](../../Assets/ellington-field-ruins.jpeg)
+![Ellington Field](../../Assets/concept-art/ellington-field-ruins.jpeg)
 
 [Ellington Field](geo:29.61973374830343, -95.17395740312563)
 
