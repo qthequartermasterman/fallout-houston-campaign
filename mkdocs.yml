@@ -9,7 +9,12 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - "Background":
-      - "Factions": Background/factions.md
+      - "Factions":
+          - 'Background/lonestarrepublic.md'
+          - 'Background/oilbarons.md'
+          - 'Background/thegalvestonpirates.md'
+          - 'Background/bayoubrotherhood.md'
+          - 'Background/spaceportsurvivors.md'
       - "Pre-war Companies": Background/companies.md
       - "Geography":
         - 'Background/geography/neighborhoods.md'
