@@ -2,6 +2,10 @@ site_name: "Fallout: Houston"
 site_url: "https://fallouthouston.com"
 site_author: Andrew P. Sansom
 site_description: "A Fallout Tabletop RPG campaign set in Houston, Texas."
+
+repo_url: https://github.com/qthequartermasterman/fallout-houston-campaign
+edit_uri: edit/main/docs/
+
 nav:
   - Home: index.md
   - "Background":
@@ -23,7 +27,7 @@ nav:
         - 'Story/prologue.md'
       - "Intro Narration": Story/intro-narration.md
       - "Act I: Rising Tensions":
-        - "Act I Outline": Story/Act1/index.md
+        - 'Story/Act1/index.md'
         - 'Story/Act1/Quest1.md'
         - 'Story/Act1/Quest2.md'
         - 'Story/Act1/Quest3.md'
@@ -31,15 +35,43 @@ nav:
         - 'Story/Act1/Quest5.md'
         - 'Story/Act1/Quest6.md'
       - "Act II: The Faction Game":
-          - "Act II Outline": Story/Act2/index.md
+          - 'Story/Act2/index.md'
       - "Act III: The Battle for the Spaceport":
-          - "Act III Outline": Story/Act3/index.md
+          - 'Story/Act3/index.md'
 
   - About:
       - License: about/license.md
 
 
-theme: readthedocs
+theme:
+  name: material
+  features:
+    - content.action.edit
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: black
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: black
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 markdown_extensions:
   - toc:
@@ -47,3 +79,5 @@ markdown_extensions:
 
 plugins:
   - include-markdown
+  - search
+  - section-index
