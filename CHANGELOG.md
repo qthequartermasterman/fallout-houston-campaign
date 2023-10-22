@@ -2,6 +2,23 @@
 
 
 
+## v0.18.1 (2023-10-22)
+
+### Fix
+
+* fix: minor updates to formatting ([`2e6a868`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/2e6a868a8549113633b1bc1dbb80f333481f0a3e))
+
+* fix: fix incorrect company headers ([`a1104f0`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a1104f04a09a17d07b1fea99d0c946d2aaf1a82c))
+
+### Refactor
+
+* refactor: break factions out into multiple pages ([`641d66a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/641d66ac9c0a5da3bf53c3066a1bbcb5fe9ddf96))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`f4db139`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f4db13944fc1d859caa9ebfc06cd10178ca9af15))
+
+
 ## v0.18.0 (2023-10-22)
 
 ### Feature
