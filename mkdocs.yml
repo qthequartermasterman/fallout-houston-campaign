@@ -10,11 +10,11 @@ nav:
   - Home: index.md
   - "Background":
       - "Factions":
-          - 'Background/lonestarrepublic.md'
-          - 'Background/oilbarons.md'
-          - 'Background/thegalvestonpirates.md'
-          - 'Background/bayoubrotherhood.md'
-          - 'Background/spaceportsurvivors.md'
+          - 'Background/factions/lonestarrepublic.md'
+          - 'Background/factions/oilbarons.md'
+          - 'Background/factions/thegalvestonpirates.md'
+          - 'Background/factions/bayoubrotherhood.md'
+          - 'Background/factions/spaceportsurvivors.md'
       - "Pre-war Companies": Background/companies.md
       - "Geography":
         - 'Background/geography/neighborhoods.md'
