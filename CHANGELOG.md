@@ -2,6 +2,17 @@
 
 
 
+## v0.18.2 (2023-10-22)
+
+### Fix
+
+* fix: broken links in nav ([`ae20915`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ae20915792fefb3cbc5f8358567e2c84c82e4ebb))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`44177db`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/44177db1ea0e4d727e497808900478623c07608b))
+
+
 ## v0.18.1 (2023-10-22)
 
 ### Fix
