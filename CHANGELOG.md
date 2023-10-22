@@ -2,6 +2,27 @@
 
 
 
+## v0.18.0 (2023-10-22)
+
+### Feature
+
+* feat: update to material theme+customization ([`b67705e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b67705e05ccd775765f092bb2e78c23f173bec24))
+
+* feat: update summaries for act 1 quests ([`825acca`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/825accae40a5cc53ad2898c19d03b42f240d7d8a))
+
+### Fix
+
+* fix: add vault gps locations ([`c00f4d2`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c00f4d2a4cb3c64957ad272e31bc3aaefc0b1d53))
+
+### Refactor
+
+* refactor: move concept art directory ([`0e61b1e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0e61b1e19a918704c2e66a9c0d5a316ee9c0e8b5))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`45a0365`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/45a0365a09c1b697ac6f29b67749a56f1906611c))
+
+
 ## v0.17.1 (2023-10-19)
 
 ### Fix
