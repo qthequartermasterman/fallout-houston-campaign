@@ -2,6 +2,17 @@
 
 
 
+## v0.17.1 (2023-10-19)
+
+### Fix
+
+* fix: fleshout prologue quest ([`0a27d4b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0a27d4b7a6d344e0d71bb504d8f7c2a11fc88f13))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`ebde75d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ebde75d400f6d08f10f84d9fc85f3fbf9e24920d))
+
+
 ## v0.17.0 (2023-10-18)
 
 ### Feature
