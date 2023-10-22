@@ -1,5 +1,22 @@
 # Quest 6: Unveiling the Conspiracy
+
+<!--availability-start-->
 *Available after completing Quest 5: Visions of Betrayal.*
+<!--availability-end-->
+
+## Summary
+
+<!--summary-start-->
+- (Optional) The player, haunted by recurring visions, returns to the Bayou Brotherhood to consult with Swamp Sage Ezekiel Thibodeaux. Swamp Sage advises the player and suggests a visit to an ancient Bayou site for clarity, resulting in a vision hinting at Enclave involvement.
+- Seeking to uncover the identity of the external force behind the conspiracy, the player discovers a hidden Enclave facility at Ellington Field with critical documents.
+- These documents reveal the Enclave's involvement in the Sea of Tranquility attack and their presence in Vault 117 before the Great War, among other details.
+- Covert agents from the Pirates and Barons observe the player's investigation and share the findings with their factions.
+- Stardust contacts the player, uncovering further evidence of the conspiracy and asking for their help. He also informs the Lone Star Republic's President about the situation.
+- The player returns to the Spaceport and meets Stardust and the President in a secure chamber, where they discuss the evidence and debate whether to arrest the potential conspirators.
+- The player can choose to immediately arrest them, persuade the President to wait for more evidence, or refuse to help.
+- Depending on the player's choice, the conspirators are arrested or some escape. Word of the mass arrest spreads across factions, leading to varied reactions and potential faction conflicts based on their perception of the Enclave's involvement.
+<!--summary-end-->
+
 
 ## Setting
 [Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)

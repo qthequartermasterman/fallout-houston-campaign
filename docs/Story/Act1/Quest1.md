@@ -1,5 +1,17 @@
 # Quest 1: Lost in the Bayou
 
+## Summary
+
+<!--summary-start-->
+- Players wake up in the Bayou Brotherhood's settlement led by Cyrus "Gator" Boudreaux, disoriented and rescued from a shipwreck.
+- Gator believes the player's vision of the Sea of Tranquility is significant and connects to the Bayou's cosmic forces.
+- Players are tasked with exploring the Bayou, guided by a mystical charm, to find clues related to their vision.
+- Strange phenomena in the Bayou, like flickering lights and shadowy figures, can be investigated.
+- Players discover the Bayou Medallion, an ancient relic connecting them to their ancestral past and the Sea of Tranquility mission.
+- Returning to the Brotherhood with the medallion, Gator explains its significance and tasks players with investigating the Spaceport Survivors.
+- Players receive experience points, increased reputation with the Bayou Brotherhood, and the Bayou Medallion with special abilities.
+<!--summary-end-->
+
 ## Setting
 
 [Buffalo Bayou](../../Background/geography/neighborhoods.md#the-bayous-and-wetlands) 

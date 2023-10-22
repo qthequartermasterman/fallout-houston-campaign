@@ -1,5 +1,22 @@
 # Quest 4: Lone Star Ambitions
+
+<!--availability-start-->
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 3: Pirates' Plunder.*
+<!--availability-end-->
+
+
+## Summary
+<!--summary-start-->
+- The player, known in the Gulf Coast Wasteland, receives a message to meet a Lone Star Republic representative in Rice Village. The message's content varies based on the player's past actions.
+- In Rice Village, they are greeted differently:
+  - If they helped the Bayou Brotherhood, Congressman Theodore Wilcox welcomes them and introduces them to negotiator Sarah Dawson.
+  - If they aided the Lone Star Republic, the President personally acknowledges their presence and introduces them to Sarah Dawson.
+  - For those who responded to the general broadcast, they are met by a Lone Star Republic general who gives an overview of the mission.
+- Negotiator Sarah Dawson explains the mission: negotiate with the Oil Barons for a Fusion Core Stabilizer under the guise of improving electricity stability.
+- The player, accompanied by Sarah, heads to Western Reach, meets with Leonard "Ironclad" Duvall of the Oil Barons, and negotiates to purchase the Fusion Core Stabilizer.
+- Upon securing it, the player and Sarah must take an indirect route to the Spaceport to avoid drawing attention, facing potential challenges from mercenaries sent by the Oil Barons or Galveston Pirates along the way.
+- Depending on the chosen route, the player may need to convince hostile parties to avoid a confrontation and ensure the safe delivery of the Fusion Core Stabilizer to the Spaceport.
+<!--summary-end-->
 
 ## Setting
 [Rice Village](../../Background/geography/neighborhoods.md#rice-village)

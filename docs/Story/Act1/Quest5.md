@@ -1,5 +1,21 @@
 # Quest 5: Visions of Betrayal
+
+<!--availability-start-->
 *Available after completing Quest 3: Pirates' Plunder and Quest 4: Lone Star Ambitions.*
+<!--availability-end-->
+
+## Summary
+
+<!--summary-start-->
+- The player experiences a mysterious vision on the Moon, showing their great-great-grandfather making a decision during a lunar mission, hinting at a hidden agenda or conspiracy.
+- Intrigued and unsettled, the player seeks out Agent Victor "Stardust" Caldwell among the Spaceport Survivors, suspecting he might have knowledge about the vision.
+- Stardust is initially cautious but acknowledges his suspicions of a hidden agenda within the Spaceport Survivors. He suggests the player's outsider perspective could be valuable.
+- Stardust provides a keycard for the player to investigate the Spaceport. Depending on the information shared by Stardust, the keycard has different security clearances.
+- The player investigates a hidden storage chamber, discovering evidence of a sinister plan to hijack a space mission and hints of disunity among the Spaceport Survivors.
+- An alarm is triggered, and the player must escape before being apprehended.
+- The player shares their findings with Stardust, who suggests seeking guidance from the Bayou Brotherhood in interpreting the visions and investigating pre-war military installations for additional clues. He plans to continue his investigation and will contact the player for further assistance.
+<!--summary-end-->
+
 
 ## Setting
 [Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)

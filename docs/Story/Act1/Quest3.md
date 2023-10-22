@@ -1,5 +1,20 @@
 # Quest 3: Pirates' Plunder
+
+<!--availability-start-->
 *Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 4: Lone Star Ambitions.*
+<!--availability-end-->
+
+## Summary
+<!--summary-start-->
+- The player receives a message from a mysterious figure in a tri-corn hat, offering a proposal.
+  - If they aided the Pirates in Quest 2, the message seeks their assistance with a big prize and instructs them to meet in Galveston.
+  - If they didn't help the Pirates, the message offers a chance for redemption and requests a meeting in Galveston.
+- In Galveston, the player meets Captain Sofia "Serpent" Vega, who explains the Pirate's plan to raid the Spaceport and asks the player to gather inside information.
+- The player must decide to accept the proposal and infiltrate the Spaceport or decline and potentially face consequences.
+- If they accept, they infiltrate the Spaceport, uncover its significance, and can choose whether to share this information with the Galveston Pirates.
+- If they decline, they are attacked by the Pirates and must fight their way out of Galveston.
+- Regardless of their choice, the player can inform the Lone Star Republic about the impending raid and receive information about the Spaceport Survivors planning a manned space mission.
+<!--summary-end-->
 
 ## Setting
 

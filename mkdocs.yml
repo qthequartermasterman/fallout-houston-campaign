@@ -44,3 +44,6 @@ theme: readthedocs
 markdown_extensions:
   - toc:
       permalink: true
+
+plugins:
+  - include-markdown
