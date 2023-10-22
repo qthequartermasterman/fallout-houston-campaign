@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - "Background":
       - "Factions":
+          - 'Background/factions/index.md'
           - 'Background/factions/lonestarrepublic.md'
           - 'Background/factions/oilbarons.md'
           - 'Background/factions/thegalvestonpirates.md'

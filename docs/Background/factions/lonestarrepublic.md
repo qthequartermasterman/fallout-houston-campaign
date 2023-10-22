@@ -31,32 +31,32 @@
 
 - **Member Settlements**:
 
-    1. [Rice Village](./geography/neighborhoods.md#rice-village): De-facto capital of the Lone Star Republic, with a thriving community and a strong economic presence.
-    2. [The Heights](./geography/neighborhoods.md#the-heights)
-    3. [Montrose](./geography/neighborhoods.md#montrose)
-    4. [Uptown](./geography/neighborhoods.md#uptown-houston)
-    5. [Cypress Fields (formerly Cypress)](./geography/neighborhoods.md#cypress-fields-formerly-cypress)
-    6. [Petroclave (formerly Beaumont)](./geography/neighborhoods.md#petroclave-beaumont)
-    7. [Harvest Haven (formerly Conroe)](./geography/neighborhoods.md#harvest-haven-conroe)
-    8. [Scholar's Summit (formerly Huntsville)](./geography/neighborhoods.md#scholars-summit-huntsville): The Lone Star Republic funds the Wasteland University in exchange for establishing the Confederation Prison just south of Scholar's Summit.
-    9. [Oilfield Outpost (formerly Pasadena)](./geography/neighborhoods.md#minor-settlements)
-    10. [Sugar Junction (formerly Sugar Land)](./geography/neighborhoods.md#sugar-junction-formerly-sugar-land)
-    11. [The Verdant Haven (formerly The Woodlands)](./geography/neighborhoods.md#the-verdant-haven-formerly-the-woodlands)
-    12. [Museum District](./geography/neighborhoods.md#museum-district)
-    13. [Jersey Village](./geography/neighborhoods.md#minor-settlements)
-    14. [Harbor's Rest (formerly Baytown)](./geography/neighborhoods.md#harbors-rest-formerly-baytown)
-    15. [Vault 117](./geography/neighborhoods.md#vault-117--mission-control): Vault 117 (under the remains of the Johnson Space
+    1. [Rice Village](../geography/neighborhoods.md#rice-village): De-facto capital of the Lone Star Republic, with a thriving community and a strong economic presence.
+    2. [The Heights](../geography/neighborhoods.md#the-heights)
+    3. [Montrose](../geography/neighborhoods.md#montrose)
+    4. [Uptown](../geography/neighborhoods.md#uptown-houston)
+    5. [Cypress Fields (formerly Cypress)](../geography/neighborhoods.md#cypress-fields-formerly-cypress)
+    6. [Petroclave (formerly Beaumont)](../geography/neighborhoods.md#petroclave-formerly-beaumont)
+    7. [Harvest Haven (formerly Conroe)](../geography/neighborhoods.md#harvest-haven-formerly-conroe)
+    8. [Scholar's Summit (formerly Huntsville)](../geography/neighborhoods.md#scholars-summit-formerly-huntsville): The Lone Star Republic funds the Wasteland University in exchange for establishing the Confederation Prison just south of Scholar's Summit.
+    9. [Oilfield Outpost (formerly Pasadena)](../geography/neighborhoods.md#minor-settlements)
+    10. [Sugar Junction (formerly Sugar Land)](../geography/neighborhoods.md#sugar-junction-formerly-sugar-land)
+    11. [The Verdant Haven (formerly The Woodlands)](../geography/neighborhoods.md#the-verdant-haven-formerly-the-woodlands)
+    12. [Museum District](../geography/neighborhoods.md#museum-district)
+    13. [Jersey Village](../geography/neighborhoods.md#minor-settlements)
+    14. [Harbor's Rest (formerly Baytown)](../geography/neighborhoods.md#harbors-rest-formerly-baytown)
+    15. [Vault 117](../geography/vaults.md#vault-117--mission-control): Vault 117 (under the remains of the Johnson Space
         Center) was recently annexed by the Lone Star
         Republic, providing them with access to the spaceport and its resources in exchange for full representation in
         the Senate and Congress. Although allying with the Spaceport Survivors was largely supported by most leaders in
         the Lone Star Republic, the decision to annex Vault 117 was controversial among many of the citizens of the
         Republic.
-    16. [Radiant Shores (formerly Pearland)](./geography/neighborhoods.md#radiant-shores-formerly-pearland): Not a member settlement,
+    16. [Radiant Shores (formerly Pearland)](../geography/neighborhoods.md#radiant-shores-formerly-pearland): Not a member settlement,
         but a settlement that is under the Lone Star
         Republic's protection. They are a small settlement of ghouls who have been ostracized by the rest of the
         wasteland. The Lone Star Republic has taken them under their wing, providing them with protection and resources
         in exchange for their loyalty.
-    17. [Humble Haven (formerly Humble)](./geography/neighborhoods.md#humble-haven-formerly-humble-pronounced-with-a-silent-h): Not a
+    17. [Humble Haven (formerly Humble)](../geography/neighborhoods.md#humble-haven-formerly-humble-pronounced-with-a-silent-h): Not a
         member settlement, but due to its proximity to the airport, the Lone Star
         Republic has taken them under their wing, providing them with protection and resources in exchange for their
         loyalty.
