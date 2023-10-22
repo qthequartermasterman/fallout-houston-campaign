@@ -8,10 +8,10 @@ here.
 
 ## Raw Materials and Energy Corporations
 
-## Aerospace and Defense Contractors
 
 ## Vault-Tec
 
+## Aerospace and Defense Contractors
 
 ### REPCONN Aerospace
 
