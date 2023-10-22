@@ -8,7 +8,7 @@
 
 <!--summary-start-->
 - The player experiences a mysterious vision on the Moon, showing their great-great-grandfather making a decision during a lunar mission, hinting at a hidden agenda or conspiracy.
-- Intrigued and unsettled, the player seeks out Agent Victor "Stardust" Caldwell among the Spaceport Survivors, suspecting he might have knowledge about the vision.
+- Intrigued and unsettled, the player seeks out Director Catherine "Stardust" Caldwell among the Spaceport Survivors, suspecting he might have knowledge about the vision.
 - Stardust is initially cautious but acknowledges his suspicions of a hidden agenda within the Spaceport Survivors. He suggests the player's outsider perspective could be valuable.
 - Stardust provides a keycard for the player to investigate the Spaceport. Depending on the information shared by Stardust, the keycard has different security clearances.
 - The player investigates a hidden storage chamber, discovering evidence of a sinister plan to hijack a space mission and hints of disunity among the Spaceport Survivors.

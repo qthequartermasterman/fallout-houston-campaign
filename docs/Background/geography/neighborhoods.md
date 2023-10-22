@@ -97,7 +97,8 @@ locations:
   founded 50 years ago, the Republic's leaders established their headquarters in then-abandoned buildings in the remains
   of Rice University. Today, both the Republic's Senate and Congress convene in auditoriums/lecture halls on the former
   Rice University Campus. The Republic has cleaned up both the University Campus and the surrounding area. The
-  Republic's presence has attracted traders and settlers to the area, turning it into a bustling marketplace.
+  Republic's presence has attracted traders and settlers to the area, turning it into a bustling marketplace. It also
+  has an NCR embassy, which is the only NCR presence in the Gulf Coast Wasteland.
 
 ## Medical Center
 

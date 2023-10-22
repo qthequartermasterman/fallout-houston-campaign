@@ -1,5 +1,6 @@
 # The Galveston Pirates
 
+## Overview
 - **Overview:** The Galveston Pirates are a formidable force controlling key ports along the Gulf Coast. They are known
   for their ruthless tactics and control over sea routes.
 - **Key Characteristics:**
@@ -26,3 +27,12 @@
       They would be able to use the spaceport to launch their own rockets, giving them the ability to exert control and
       intimidation over the wasteland and expand their influence. Additionally, they could use the spaceport's resources
       to improve their technology and weaponry, making them a formidable force in the region.
+- **Government**:
+    - The Galveston Pirates are a loose confederation of pirate crews, each with their own leaders and agendas. They
+      are united by their shared goals and their respect for Captain Sofia "Serpent" Vega, who is the de-facto leader of
+      the Galveston Pirates. Captain Vega's leadership is largely accepted by the other pirate crews due to her success
+      in negotiating with the Cartel and her ruthless tactics.
+
+## Characters
+### Captain Sofia "Serpent" Vega
+### Rafael "El Diablo" Sánchez

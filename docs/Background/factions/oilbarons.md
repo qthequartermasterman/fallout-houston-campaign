@@ -1,5 +1,6 @@
 # The Oil and Energy Barons
 
+## Overview
 - **Overview:** The Oil and Energy Barons are an economic conglomerate with control over various power sources,
   including oil and nuclear energy. They may have ties to pre-war corporations.
 - **Key Characteristics:**
@@ -10,7 +11,7 @@
 - **Notable Figures:**
     - Leonard "Ironclad" Duvall: A high-ranking member of the Oil and Energy Barons, responsible for resource management
       and trade negotiations. Ghoul who, prior to the Great War, was a high-ranking executive at Poseidon Energy.
-    - Dr. Emily "Fusion" Wells: A scientist rumored to be working on advanced energy technologies within their ranks.
+    - Dr. Emily Wells: A scientist rumored to be working on advanced energy technologies within their ranks.
 - **Conflict:** The Oil and Energy Barons' monopoly over power sources has contributed to the energy crisis, leading to
   tension with other factions and the Lone Star Republic's aggressive actions.
 - **Goals for Spaceport**:
@@ -28,3 +29,7 @@
       use the captured orbital station not only to further the Enclave's goals, but also to personally gain control over
       the Oil and Energy Barons themselves by threatening to use the station's nuclear missiles against off-shore oil
       rigs and other key energy infrastructure.
+
+## Characters
+### Leonard "Ironclad" Duvall
+### Dr. Emily Wells

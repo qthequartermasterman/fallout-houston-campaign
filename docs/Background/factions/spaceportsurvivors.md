@@ -1,5 +1,6 @@
 # The Spaceport Survivors
 
+## Overview
 - **Overview:** The Spaceport Survivors are descendants of USSA astronauts, scientists, and military personnel who
   survived in a hidden vault beneath the Johnson Space Center.
 - **Key Characteristics:**
@@ -8,10 +9,8 @@
     - Space Ambitions: The Spaceport Survivors are preparing for a historic manned rocket launch, the first of its kind
       since the Great War, as they aim to continue humanity's space exploration legacy.
 - **Notable Figures:**
-    - Director Catherine "Starborn" Caldwell: The visionary leader of the Spaceport Survivors, driven by the mission to
+    - Director Catherine "Stardust" Caldwell: The visionary leader of the Spaceport Survivors, driven by the mission to
       revive space exploration.
-    - Agent Victor "Stardust" Caldwell: A mysterious figure with ties to the Enclave, who is involved in secret
-      machinations.
 - **Conflict:** The Spaceport Survivors are focused on their mission, but they are not immune to the intrigues and
   hidden agendas within the wasteland, particularly from the Enclave.
 - **Goals for Spaceport**:
@@ -29,4 +28,7 @@
       from within their own ranks) so to retake
       the [Ballistic Orbital Missile Base 001](https://fallout.fandom.com/wiki/Ballistic_Orbital_Missile_Base_001).
       Capturing this station would give this Enclave cell the ability to launch nuclear missiles at any target on the
-      planet. This would be a major threat to any an all of the Enclave's enemies.
+      planet. This would be a major threat to any and all the Enclave's enemies.
+
+## Characters
+### Director Catherine "Stardust" Caldwell

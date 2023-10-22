@@ -1,5 +1,6 @@
 # The Lone Star Republic:
 
+## Overview
 - **Overview:** The Lone Star Republic is a confederacy of settlements in the Gulf Coast Wasteland, centered around the
   region that was once Texas. They are known for their unified federal government and ambitious goals.
 - **Key Characteristics:**
@@ -8,7 +9,7 @@
     - Resource Ambitions: Their primary focus is securing and controlling valuable resources, including energy, to
       support their growing population and prepare for a historic manned rocket launch.
 - **Notable Figures:**
-    - President Samuel "Stargazer" Davis: The elected leader of the Lone Star Republic, responsible for making critical
+    - President Samuel Davis: The elected leader of the Lone Star Republic, responsible for making critical
       decisions about the faction's future.
     - General Maria "Ironclad" Ramirez: The military leader tasked with safeguarding the Republic's interests and
       enforcing its policies.
@@ -70,3 +71,16 @@
       the right to send 2 senators).
     - The President is elected by the people of each settlement, while the Vice-president is elected by the previous
       Senate and Congress, both with a term limit of 4 years.
+
+- **The Texas Rangers**
+    - The Rangers are both the military and police force of the Lone Star Republic.
+
+## Characters
+### President Samuel Davis
+President of the Lone Star Republic
+
+#### Background
+- Former Texas Ranger
+
+### General Maria "Ironclad" Ramirez
+

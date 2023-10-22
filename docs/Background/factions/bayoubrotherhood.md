@@ -1,5 +1,6 @@
 # The Bayou Brotherhood
 
+## Overview
 - **Overview:** The Bayou Brotherhood consists of Cajun swamp-dwellers who have deep spiritual ties to the Bayou and
   seek to preserve their way of life.
 - **Key Characteristics:**
@@ -18,3 +19,7 @@
     - The Bayou Brotherhood is largely apathetic to the existence of the spaceport and of the upcoming rocket launch for
       any practical reasons. Symbolically, however, they see the spaceport as an opportunity for humanity to reconnect
       with the cosmos and rediscover their place in the universe.
+
+## Characters
+### Cyrus "Gator" Boudreaux
+### Ezekiel "Swamp Sage" Thibodeaux
