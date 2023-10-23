@@ -2,6 +2,17 @@
 
 
 
+## v0.19.0 (2023-10-23)
+
+### Feature
+
+* feat: add Lone Star Republic history and backgrounds for some key Republic Figures ([`c6c1273`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c6c1273a7f2b3bfd992a4ae1da662c7c889a4699))
+
+### Fix
+
+* fix: broken links in nav ([`7b8e320`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7b8e3200ba3703b5baaf235f27e44d777ef50992))
+
+
 ## v0.18.2 (2023-10-22)
 
 ### Fix
