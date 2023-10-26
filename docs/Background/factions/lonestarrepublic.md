@@ -45,6 +45,7 @@
     12. [Museum District](../geography/neighborhoods.md#museum-district)
     13. [Jersey Village](../geography/neighborhoods.md#minor-settlements)
     14. [Harbor's Rest (formerly Baytown)](../geography/neighborhoods.md#harbors-rest-formerly-baytown)
+    15. [Scarsdale](../geography/neighborhoods.md#scarsdale)
     15. [Vault 117](../geography/vaults.md#vault-117--mission-control): Vault 117 (under the remains of the Johnson Space
         Center) was recently annexed by the Lone Star
         Republic, providing them with access to the spaceport and its resources in exchange for full representation in

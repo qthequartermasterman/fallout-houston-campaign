@@ -367,6 +367,38 @@ locations:
 - Despite the ongoing pirate raids from nearby Galveston, the residents of Bolivar Settlement are a tight-knit group,
   determined to defend their home and preserve the coastal heritage of the region.
 
+## Scarsdale
+
+![Scarsdale Map](../../Assets/maps/scarsdale-map.jpeg)
+
+[Scarsdale](geo:29.597558276275628, -95.19936322527144)
+
+- Found at the lower intersection of I-45 and the Sam Houston Tollway, Scarsdale was a small non-descript settlement before the Great War, but its strategic location on the way to the coast has enabled it to grow into a serious trading hub.
+- Scarsdale is a member settlement of the Lone Star Republic.
+- It is governed by a council of traders, who are elected by the settlement's residents. The council is responsible for managing the settlement's trade agreements and ensuring that the settlement's needs are met.
+- Scarsdale occasionally has to fend off attacks from raiders and other hostile factions, but the settlement's defenses are strong enough to repel most attacks. 
+- The residents keep an eye on the ghouls that inhabit the nearby Ellington Field ruins, but they have not had any major conflicts with them.
+
+### Establishments
+- Pipes Bar and Grill: A popular bar and restaurant where traders and travelers gather to exchange information and stories. The bar is owned by Lena "Pipes" Santos.
+- Scarsdale Market: A bustling marketplace where traders from various factions converge to exchange goods and information. The market is overseen by the settlement's council of traders, with Trader Councilor Jenna Redwood overseeing day-to-day operations.
+- Medical Clinic: A medical clinic run by Doctor Abigail Sterling who treats the settlement's residents and visitors. 
+- Scarsdale Outfitters: A general store that sells a variety of goods, including weapons, armor, and survival supplies. The store is run by a merchant Elias Cross who has connections with various factions.
+- Scarsdale Caravan Company: A caravan company that provides transportation and security for traders and travelers. The company is run by the Caravan Master Barrett Stone who oversees the settlement's caravan operations.
+- Motel: A motel that provides lodging for travelers and traders passing through the settlement. The motel is run by its manager Lily Harper who oversees the settlement's hospitality operations.
+- Apartment Complexes: Scarsdale is the home of several apartment complexes, where residents and visitors can find shelter and rest. The apartment complexes are managed by a superintendent Felix Mitchell who oversees the settlement's housing operations.
+- Houses: On the southern edge of the settlement, there are several houses where wealthier residents live.
+
+### NPCs
+- Rumormonger Wilkins: A chatty and inquisitive local resident. Wilkins can be found at any of the settlement's gathering area, but most frequently at Pipes, eager to share information, for those that will buy him a drink.
+- Lena "Pipes" Santos: A bar owner who has her ears to the ground. Players can find her establishment near the market area. She is a former caravan guard who settled in Scarsdale.
+- Trader Councilor Jenna Redwood: A seasoned trader and shrewd negotiator, Jenna Redwood leads the council of traders and is well-respected in Scarsdale's bustling marketplace.
+- Doctor Abigail Sterling: Dr. Sterling is a compassionate and skilled physician who has dedicated her life to healing the settlement's residents and visitors.
+- Elias Cross: Elias Cross, the merchant of Scarsdale Outfitters, is known for his resourcefulness and ability to source rare and valuable items for his store.
+- Barrett Stone: Barrett Stone is a grizzled caravan master who ensures the safety of Scarsdale's caravans, navigating the wasteland's dangers with expertise.
+- Lily Harper: Lily Harper, the motel manager, offers travelers a warm and comfortable place to rest, making her a welcoming presence in the settlement.
+- Felix Mitchel: Felix Mitchel, the superintendent of the apartment complexes, was originally a handyman before the Great War. He became a ghoul after the bombs fell, and simply continued to do what he did before the war, fixing things and keeping the apartment complexes in good shape. He is a friendly and helpful ghoul, who is well-liked by the settlement's residents.
+
 ## Clear Lake Refuge (formerly Clear Lake)
 
 [Clear Lake Refuge](geo:29.60732196391364,-95.11601795269615)

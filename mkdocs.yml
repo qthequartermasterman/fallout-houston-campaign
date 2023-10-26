@@ -18,6 +18,7 @@ nav:
           - 'Background/factions/spaceportsurvivors.md'
       - "Pre-war Companies": Background/companies.md
       - "Geography":
+        - 'Background/geography/map.md'
         - 'Background/geography/neighborhoods.md'
         - 'Background/geography/roads.md'
         - 'Background/geography/vaults.md'

@@ -15,14 +15,29 @@
 <!--summary-end-->
 
 ## Setting
+(Possibly) [Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)
+
 [Spaceport District](../../Background/geography/neighborhoods.md#spaceport-district-johnson-space-center)
 
 ## Plot
 
 ### Whispered Rumors
 
-- The player, while visiting a local settlement, overhears hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
+- The player, while visiting a local settlement (likely [Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)), overhears hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
 - Rumors suggest that the Spaceport holds secrets and technology from before the Great War, and the Lone Star Republic's interest in it has piqued the curiosity of other factions, including the Galveston Pirates.
+
+As the players navigate the Scarsdale marketplace, you should set the scene with vivid descriptions of the marketplace's layout, the various stalls, and traders haggling over goods. The market is a bustling place, and NPCs are engaged in conversations, bartering, and going about their business. The Pipes Bar and Grill is in particular a popular spot, with many patrons enjoying a drink and a meal both in the tables outside and inside the bar. The player can interact with various NPCs, including traders, mercenaries, and other visitors.
+
+The players overhear snippets of conversation, indicating that something significant has happened recently. Some key phrases include "Spaceport Survivors," "Lone Star Republic," and "hidden treasures." One trader, discussing the Lone Star Republic, mentions that their alliance with the Spaceport Survivors has raised curiosity among various factions, including the Galveston Pirates.
+
+If players approach any of the merchants, the merchants should only give vague rumors, but recommend they go speak with Councilor Jenna Redwood.
+
+When players go inside Pipes Bar and Grill, the restaurant should be bustling with activity. Players can acquire more details about the spaceport from:
+- The owner Lena "Pipes" Santos, who is waiting tables and serving drinks. She can provide more details about the Spaceport Survivors and their alliance with the Lone Star Republic.
+- The friendly neighborhood Rumormonger Wilkins, who is sitting at the end of the bar. For the price of a drink, he can provide more information about the Spaceport Survivors and their alliance with the Lone Star Republic. For a higher price, he can provide additional details about the Galveston Pirates' interest in the Spaceport. If the players can entice him, he will even reveal that the Pirates have been sending scouts to the Spaceport to investigate for some time.
+- Councilor Jenna Redwood, who is seated at a large corner booth with two other councilors and several town guards. If the players can prove their usefulness in scouting, she will tell the players that a squad of Pirate mercenaries had been spotted earlier that day near the Spaceport. She will also tell the players that the Lone Star Republic has been sending patrols to the Spaceport to protect it from the Pirates. She is concerned that the Pirates may attempt a raid on nearby towns, such as Scarsdale. She will also answer many questions about the recent emergence of the Spaceport Survivors from Vault 117, and their annexation into the Lone Star Republic, but she is not privy to any sensitive information. She will also answer some questions about the Galveston Pirates and their recent behavior, but she is also not privy to any internal knowledge of the Pirates.
+
+
 ### A Tense Standoff
 
 - The player, determined to investigate the Spaceport, heads towards its perimeter, surrounded by the remnants of pre-war technology and guarded by Lone Star Republic patrols.
