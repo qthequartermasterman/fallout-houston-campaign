@@ -2,6 +2,21 @@
 
 
 
+## v0.19.1 (2023-10-26)
+
+### Fix
+
+* fix: Add scarsdale to the map, and begin fleshing out guide for Quest 2 ([`9dc2c69`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/9dc2c69803a9944bcdcee96b80e6be13af863325))
+
+* fix: add Lone Star Republic history and backgrounds for some key Republic Figures ([`3e0da97`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/3e0da979ebcfff6757b0abf6d4e188160b5597b9))
+
+* fix: add Lone Star Republic history and backgrounds for some key Republic Figures ([`f0305fe`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f0305fef57c3c394485880304eb1fb19dc8f0b86))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`8597985`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/8597985c85f74e51286152685ab38200690c1075))
+
+
 ## v0.19.0 (2023-10-23)
 
 ### Feature
