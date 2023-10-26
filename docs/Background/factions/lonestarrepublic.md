@@ -110,12 +110,12 @@ Although the Oil Barons had largely supported, and even financed to some extent,
 
 In 2285, the Lone Star Republic prepared for a significant election, as the incumbent Expansionist Party reached the end of its term with the sitting President, who had served the maximum allowable term and chose not to seek re-election. This set the stage for a competitive race, with the Expansionist Party looking to maintain its hold on power against the emerging Unity Party.
 
-#### The Candidates:
+#### Candidates
 
  - General Samuel Davis/Isabella Torres (Expansionist Party): General Samuel Davis, a former leader of the Texas Rangers, had gained recognition for his heroic leadership during the Lone Star Republic-Cartel War of 2255. His strategic brilliance and commitment to the Republic's survival earned him respect and trust among the people. Seeking to leverage his military background, Davis ran for President with a platform focused on expanding the Republic's territory and securing valuable resources.Torres's expertise in diplomacy and foreign relations, combined with her pragmatic approach, complemented Davis's military leadership. Together, they formed a formidable team under the Expansionist Party banner.
  - Alexander Sullivan/Margaret "Maggie" Kane (Unity Party): Alexander Sullivan, a charismatic leader with a background in civil administration, emerged as the Unity Party's candidate for the presidency. He had served in various administrative roles within the Republic, which provided him with insights into its governance. Sullivan's campaign focused on unity, resource management, and environmental sustainability. Maggie Kane's background is diverse and dynamic, which has contributed to her broad appeal. She has held various positions within the Lone Star Republic, having served as a community organizer, a diplomat, and a member of the Congress before being selected as the Unity Party's Vice Presidential candidate. Maggie's diplomatic skills were honed during her tenure as an envoy to neighboring settlements, where she successfully negotiated trade agreements and fostered positive relations with other factions. Her diplomatic efforts aligned with the Unity Party's emphasis on cooperation and unity in the post-apocalyptic world.
 
-#### The Major Debate Topics:
+#### Major Debate Topics
 
 - Energy Crisis and Oil Barons: The tightening control of energy resources, both oil and nuclear, by powerful Oil Barons had become a critical issue. The Oil Barons' restrictive policies were limiting the Republic's ability to expand and improve its standard of living. General Davis and Vice President Torres advocated for a more assertive approach, seeking to negotiate better terms with the Oil Barons and exploring alternative energy sources.
 - Territorial Expansion: A major campaign focus for General Davis and the Expansionist Party was the need for territorial expansion to secure new resources. They argued that the Republic's future hinged on acquiring additional settlements and resource-rich territories to support its growing population and energy needs.
@@ -125,10 +125,10 @@ In 2285, the Lone Star Republic prepared for a significant election, as the incu
 
 The election of 2285 was marked by passionate debates, campaign rallies, and a high level of civic engagement. It reflected the Republic's challenges and opportunities as it grappled with issues of energy, expansion, and diplomacy. Ultimately, the choice between General Samuel Davis's assertive expansionist vision and Alexander Sullivan's unity and sustainability platform lay in the hands of the Republic's citizens. 
 
-#### The Results:
+#### Results
 General Samuel Davis and Vice President Isabella Torres won the election by a narrow margin, securing the Presidency for the Expansionist Party. The Unity Party conceded defeat and pledged to work with the new administration to address the Republic's challenges. The election results were a testament to the Republic's democratic principles and the people's commitment to shaping their future.
 
-Despite the narrow margin in the presidential election, their party won a majority of races for the Senate and Congress, giving them a strong mandate to pursue their agenda. The Expansionist Party's victory was a significant milestone for the Lone Star Republic, as it set the stage for a new era of expansion and growth.
+Despite the narrow margin in the presidential election, their party won a majority of races for the Senate and Congress (albeit most individual races by a similarly narrow margin), giving them a strong mandate to pursue their agenda. The Expansionist Party's victory was a significant milestone for the Lone Star Republic, as it set the stage for a new era of expansion and growth.
 
 ### The Davis Administration (2285-)
 
@@ -224,7 +224,68 @@ General Ramirez and President Samuel Davis share a close and collaborative worki
 General Maria Ramirez is motivated by a profound sense of duty and loyalty to the Lone Star Republic. She understands the harsh realities of the post-apocalyptic world and is committed to ensuring the Republic's survival. Her primary goal is to protect the Republic's interests, its people, and its valuable resources. Maria's unwavering resolve and readiness to make tough decisions stem from her belief that the Lone Star Republic's strength and security are paramount, even if it means engaging in conflict to achieve these goals.
 
 ### Congressman Theodore Wilcox
-Congressman from Harbor's Rest, with ties to the Bayou Brotherhood. He is a member of the Expansionist Party.
+
+- Name: Theodore Wilcox
+- Title: Congressman from Harbor's Rest
+- Party Affiliation: Expansionist Party
+
+#### Background
+
+Theodore Wilcox is a charismatic and influential figure within the Lone Star Republic, representing the interests of Harbor's Rest in Congress. As a member of the Expansionist Party, his political career is closely aligned with the party's agenda of territorial expansion and resource acquisition. However, Theodore's background and connections also tie him to the enigmatic Bayou Brotherhood, a faction with its own interests and goals in the Gulf Coast Wasteland.
+
+#### Appearance
+
+Theodore Wilcox is a middle-aged man with a commanding presence. He stands at a solid 6 feet, his well-groomed beard and sharp blue eyes giving him an authoritative appearance. He typically dresses in a tailored suit, which he pairs with a signature hat that reflects his ties to Harbor's Rest and the Bayou Brotherhood.
+
+#### Personality
+
+Congressman Wilcox is known for his persuasive charm and eloquence, qualities that have helped him gain influence within the Expansionist Party and Harbor's Rest. He can be quite affable and is skilled at winning people over with his charisma. Theodore is a sharp political strategist, often working behind the scenes to advance the party's expansionist agenda.
+
+#### Background
+
+Born and raised in Harbor's Rest, Theodore Wilcox developed a keen understanding of the settlement's unique dynamics and its relationship with the Bayou Brotherhood. As a young man, after the Lone Star Republic-Cartel War, he rose through the ranks of local politics, quickly earning the trust of his constituents. Harbor's Rest, known for its proximity to the bayou and its valuable resources, has always been a strategic point of interest for the Expansionist Party.
+
+Wilcox's rise to Congress was facilitated by his ability to bridge the interests of Harbor's Rest and the Expansionist Party. His connections to the Bayou Brotherhood remain something of an open secret, with some suggesting that he acts as a liaison between the faction and the Lone Star Republic.
+
+#### Role as Congressman
+
+In his role as Congressman, Theodore Wilcox is a vocal proponent of the Expansionist Party's objectives. He consistently advocates for territorial expansion, often citing the need to secure new settlements and resources to ensure the Republic's survival and prosperity. His influence within the party has allowed him to push for more assertive approaches in negotiations with neighboring factions and resource-rich territories.
+
+Wilcox's political clout in Harbor's Rest, combined with his connections to the Bayou Brotherhood, makes him a significant player in the region's politics. He is often called upon to navigate the complex relationships and alliances that Harbor's Rest maintains with various factions, including the Lone Star Republic, the Bayou Brotherhood, and others.
+
+Congressman Theodore Wilcox's dual allegiance to his constituents and the Expansionist Party, as well as his ties to the Bayou Brotherhood, create a complex and influential character in the Lone Star Republic's political landscape. His actions and decisions have a far-reaching impact on the Republic's goals and the region's future.
 
 ### Sarah Dawson
-Negotiator for the Lone Star Republic
+- Name: Sarah Dawson
+- Title: Negotiator for the Lone Star Republic
+
+#### Background
+
+Sarah Dawson is a skilled and experienced negotiator representing the interests of the Lone Star Republic in diplomacy, trade agreements, and conflict resolution. Her role as a negotiator is pivotal in navigating the complex and often treacherous landscape of post-apocalyptic negotiations with neighboring factions and settlements.
+
+#### Appearance
+
+Sarah is a woman in her mid-30s, exuding a confident and professional aura. She typically wears practical yet well-tailored attire suitable for her diplomatic responsibilities. Her sharp, hazel eyes and auburn hair are often tied back in a neat bun, allowing her to maintain focus during negotiations. She is known for her composed demeanor and strong presence at the negotiating table.
+
+#### Personality
+
+Sarah Dawson is a consummate diplomat. She is calm, level-headed, and adept at maintaining composure even in the most tense and high-stakes situations. Her negotiation skills are honed to a fine point, and she approaches discussions with patience, empathy, and a strategic mindset. She is a master of understanding the needs and motivations of the parties involved and finding common ground.
+
+#### Background
+Sarah Dawson is a gifted and highly capable negotiator who has become a valuable asset to the Lone Star Republic despite her relatively young age. Born into the post-apocalyptic world, Sarah grew up in one of the Republic's member settlements, where she developed a keen understanding of the region's challenges and needs. Her natural talent for diplomacy, empathy, and an uncanny ability to read people made her an ideal candidate for the role of Negotiator.
+
+From a young age, Sarah exhibited an innate talent for bridging divides and finding common ground. Her passion for negotiation and conflict resolution was evident in her early years, and she quickly earned a reputation for her ability to mediate disputes and facilitate peaceful resolutions. Sarah's background was shaped by the post-apocalyptic world, where her experiences served as a valuable education.
+
+As she entered adulthood, Sarah was recognized for her exceptional diplomatic skills and selected to represent the Lone Star Republic in negotiations with other factions, settlements, and rival groups. Despite her relatively young age, her natural aptitude and dedication to the Republic's interests have earned her the trust and respect of her colleagues and counterparts.
+
+#### Role as Negotiator
+
+As the Negotiator for the Lone Star Republic, Sarah Dawson plays a critical role in achieving the Republic's diplomatic objectives. Her responsibilities include:
+
+- Diplomacy with Neighboring Factions: Sarah engages in diplomatic negotiations with neighboring factions, settlements, and sometimes rival groups to secure trade agreements, peaceful coexistence, and alliances that benefit the Lone Star Republic.
+- Conflict Resolution: She is often called upon to mediate disputes and conflicts, helping to find peaceful solutions and prevent violence.
+- Resource Negotiations: In a world where resources are scarce, Sarah negotiates with other factions to secure essential materials and energy resources for the Republic.
+- Building Alliances: She works to foster positive relations and build alliances that enhance the Republic's standing and security in the Gulf Coast Wasteland.
+- Crisis Management: In times of crisis or when urgent diplomacy is required, Sarah is tasked with swiftly addressing and resolving issues that could threaten the Republic's stability
+
+Sarah Dawson's expertise in diplomacy and her ability to communicate effectively make her a vital asset to the Lone Star Republic. Her dedication to securing the Republic's interests, maintaining peace, and forging alliances helps the Republic thrive in a world forever changed by the Great War.
