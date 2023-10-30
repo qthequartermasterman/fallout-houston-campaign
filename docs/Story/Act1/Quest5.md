@@ -1,7 +1,7 @@
-# Quest 5: Visions of Betrayal
+# Main Quest: Visions of Betrayal
 
 <!--availability-start-->
-*Available after completing Quest 3: Pirates' Plunder and Quest 4: Lone Star Ambitions.*
+*Available after completing [Main Quest: Pirates' Plunder](Quest3.md) and [Main Quest: Lone Star Ambitions](Quest4.md).*
 <!--availability-end-->
 
 ## Summary

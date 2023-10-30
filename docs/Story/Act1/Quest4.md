@@ -1,7 +1,7 @@
-# Quest 4: Lone Star Ambitions
+# Main Quest: Lone Star Ambitions
 
 <!--availability-start-->
-*Available after completing Quest 2: Diplomatic Relations. Can be performed in any order with Quest 3: Pirates' Plunder.*
+*Available after completing [Main Quest: Diplomatic Relations](Quest2.md). Can be performed in any order with [Main Quest: Pirates' Plunder](Quest3.md).*
 <!--availability-end-->
 
 

@@ -1,7 +1,7 @@
-# Quest 6: Unveiling the Conspiracy
+# Main Quest: Unveiling the Conspiracy
 
 <!--availability-start-->
-*Available after completing Quest 5: Visions of Betrayal.*
+*Available after completing [Main Quest: Visions of Betrayal](Quest5.md).*
 <!--availability-end-->
 
 ## Summary

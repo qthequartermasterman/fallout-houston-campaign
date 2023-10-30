@@ -1,4 +1,12 @@
-# Quest 1: Lost in the Bayou
+# Main Quest: Lost in the Bayou
+
+<!--availability-start-->
+*Available completing the [Prologue Quest](../prologue.md), either by having players roleplay or by simply having the Gamemaster describe the events of the Vision of the Sea of Tranquility.*
+
+**Add 2 Action Points per Player Character to the GM’s pool when the quest begins.**
+
+This quest expects players to be at Level 1. If they are not, the GM should adjust the difficulty of encounters accordingly.
+<!--availability-end-->
 
 ## Summary
 
@@ -18,11 +26,11 @@
 
 ## Plot
 
-### The Shipwreck Survivor
+### The Shipwreck Survivors
 
-- The player awakens in the Bayou Brotherhood's settlement, disoriented and unaware of how they arrived. The humid air, sound of wildlife, and the soft glow of swamp lanterns surround them.
+- The players awaken in the **Bayou Brotherhood**'s settlement, disoriented and unaware of how they arrived. The humid air, sound of wildlife, and the soft glow of swamp lanterns surround them.
 - Brotherhood members discovered the player adrift in a shipwreck that had floated into the Bayou. They were brought to safety and nursed back to health.
-- The charismatic leader of the Bayou Brotherhood, Cyrus "Gator" Boudreaux, introduces the player to the Brotherhood's way of life and spiritual beliefs.
+- The charismatic leader of the Bayou Brotherhood, **Cyrus "Gator" Boudreaux**, introduces the player to the Brotherhood's way of life and spiritual beliefs.
 
 The quest begins with the player waking up in the Bayou Brotherhood's settlement, disoriented and unaware of how they arrived. A strangely dressed man approaches them and introduces himself as **Cyrus "Gator" Boudreaux**, the leader of the Bayou Brotherhood. He explains that the Brotherhood found the player adrift in a shipwreck that had floated into the Bayou. They were brought to safety and nursed back to health.
 
@@ -31,43 +39,76 @@ Read or paraphase the following introduction:
 
 >You realize you're lying on a makeshift bed, covered in a coarse but comfortable blanket woven from swamp reeds. Nearby, you can hear hushed voices and the gentle movement of people going about their tasks. It becomes apparent that you're not alone in this place.
 
->A figure approaches you, his silhouette defined by the dim lantern light. He's a tall, wiry man with a broad-brimmed hat and a long coat adorned with various swamp-themed trinkets. This must be Cyrus "Gator" Boudreaux, the charismatic leader of the Bayou Brotherhood.
+>A figure approaches you, his silhouette defined by the dim lantern light. He's a tall, wiry man with a broad-brimmed hat and a long coat adorned with various swamp-themed trinkets.
 
 >Cyrus extends a welcoming hand, his voice calm and soothing, "Well now, stranger, looks like the Bayou done brought y'into its embrace. We found y' adrift in a shipwreck, and we couldn't just leave ya out there to the gators."
 
->He helps you sit up and offers you a gourd filled with cool, refreshing water. "Name's Cyrus, but 'round these parts, folks call me Gator. The Brotherhood's mighty grateful we could lend ya a hand. You've been out cold for a spell."
+>He helps you sit up and offers you a gourd filled with cool, refreshing water. "Name's Cyrus Boudreaux, but 'round these parts, folks call me Gator. The Bayou Brotherhood's mighty grateful we could lend ya a hand. You've been out cold for a spell."
 
 >Gator's eyes hold a certain wisdom and kindness, and there's a hint of mystery in his words. "Now, while you're with us, we'll teach you 'bout the Bayou, its secrets, and the cosmic forces that guide our way. It's a bit different from what you might be used to, but I reckon you'll find it mighty enlightening."
 
 After reading the introduction, invite the players to introduce their characters. Gator may ask them some of the following questions:
 
 - By what name should we call ya?
-- What were you doing on that ship?
-- What do you remember?
+- What were ya doing on that ship?
+- What do ya remember?
+- Are ya originally from the Gulf Coast Wasteland? Or did ya come from somewhere else?
+- Did ya have any family or friends on that ship?
+- Did ya know anyone else in this group before ya awoke?
+
+Ask the characters to make a group **CHA + Speech** test with a difficulty of 0, allowing the PCs to store additional successes as AP in the group pool or spend them to **Obtain Information** from Gator.
+
+Information that can be obtained includes:
+- The Bayou Brotherhood is a group of people who, generations ago, found a home in the Bayou and have formed a community based on their shared beliefs.
+- The Bayou Brotherhood believes in the Bayou's mystical connection to the cosmos and the importance of understanding its message.
+- "The Bayou" is actually a system of rivers and swamps that stretches across the Gulf Coast Wasteland, from the Bay in the east to branches reaching the large swamps on either side of Western Reach and the Energy Corridor in the west. The Sims branch runs south of the city, all the way to Sugar Junction.
+- The Bayou Outpost, the Bayou Brotherhood's main settlement is located in the remains of Buffalo Bayou Park, just northwest of Downtown.
+- There are about 30 people who live in the Bayou Outpost, and about 100 people in the Bayou Brotherhood overall, scattered across the Bayou.
+- The Bayou Brotherhood regularly patrols the Bayou, rafting up and down the rivers and swamps to fish, hunt, gather supplies, and trade with other settlements.
+- Although the Bayou Brotherhood is a peaceful group, they are not afraid to defend themselves against outsiders who threaten their way of life.
+- The Bayou Brotherhood has a long-standing rivalry with the Galveston Pirates, who have been known to raid the Bayou and steal supplies.
+
+
 
 ### A Vision from the Bayou
 
-- As the player recounts their ordeal and experiences on the Moon, including the strange vision of the Sea of Tranquility, Gator is intrigued and believes it may hold cosmic significance.
+- As the players recount their ordeal and experiences on the Moon, including the strange vision of the Sea of Tranquility, Gator is intrigued and believes it may hold cosmic significance.
 - Gator explains the Bayou's mystical connection to the cosmos and suggests that the player's vision might be linked to the Bayou's cosmic message. He believes the player is meant to uncover something important.
 - The player is tasked with exploring the Bayou to find clues related to their vision and its connection to the recurring glimpses of the Sea of Tranquility.
 
-If the players do not volunteer information to Gator about their vision of the Moon (from the [Prologue](../prologue.md) quest), prompt them to do so. 
+If the players do not volunteer information to Gator about their vision of the Moon (from the [Prologue](../prologue.md) quest), Gator will mention to them that the Swamp Sage, Ezekiel Thibodeaux, had heard a message the previous day that Visionary outsiders would wash up on the shores of the Bayou. He will ask the players if they had any visions recently.
 
-Gator is intrigued and believes the vision may hold cosmic significance. He explains the Bayou's mystical connection to the cosmos and suggests that the player's vision might be linked to the Bayou's cosmic message. He believes the player is meant to uncover something important.
+As the players recount their vision, Gator is intrigued and believes the vision may hold cosmic significance. He explains the Bayou's mystical connection to the cosmos and suggests that the player's vision might be linked to the Bayou's cosmic message. He believes the player is meant to uncover something important.
 
 Read or paraphrase the following:
 
->"That's somethin' right peculiar, no doubt," Gator says, his voice laced with a hint of wonder. "Visions like these, especially tied to a place like the Sea of Tranquility, it can't be mere coincidence. The Bayou, you see, it's got a mystical connection to the cosmos, and visions of such places ain't to be taken lightly."
+> "That's somethin' right peculiar, no doubt," Gator says, his voice laced with a hint of wonder. "Visions like these, especially tied to a place like the Sea of Tranquility, it can't be mere coincidence. The Bayou, you see, it's got a mystical connection to the cosmos, and visions of such places ain't to be taken lightly."
 
->He leans in closer, his words carrying a certain weight. "I've seen signs in the stars, and the Bayou's been talkin' to me for a long while now. I believe your vision might be a piece of the puzzle, a cosmic message, perhaps. And you, my friend, might just be the one meant to uncover its truth."
+> Gator laughs aloud. "Many think that the Brotherhood's full of uneducated swamp folk, but what they don't know is that we've got a deep understandin' of 'stronomy and the cosmos. We've been studyin' the stars for generations, and we've learned a thing or two about the Bayou's connection to the cosmos."
 
->Gator's enthusiasm is contagious. "Now, here's what we'll do. I'm gonna ask you to explore the Bayou, look for any clues or signs that might be connected to your vision. It won't be an easy task, but with the Bayou's guidance, you might just find what you're lookin' for."
+> He leans in closer, his words carrying a certain weight. "I've seen signs in the stars, and the Bayou's been talkin' to me for a long while now. I believe your vision might be a piece of the puzzle, a cosmic message, perhaps. And you, my friend, might just be the one meant to uncover its truth."
 
->He reaches into a nearby satchel and hands you a small, intricately carved charm. "Take this with you, it's a piece of the Bayou's magic. It'll guide you, protect you, and help you make sense of the cosmos. When you're ready, head out into the Bayou, and we'll be waitin' for your return."
+> Gator's enthusiasm is contagious. "Now, here's what we'll do. I'm gonna ask you to explore the Bayou, look for any clues or signs that might be connected to your vision. It won't be an easy task, but with the Bayou's guidance, you might just find what you're lookin' for."
 
-Gator offers the players a [Bayou Charm](#bayou-charm), an item with a unique ability related to visions and insights. This charm will glow softly when the player is near an object or location of cosmic significance or a clue related to their visions.
+> He reaches into a nearby satchel and hands you a small, intricately carved charm. "Take this with you, it's a piece of the Bayou's magic. It'll guide you, protect you, and help you make sense of the cosmos. When you're ready, head out into the Bayou, and we'll be waitin' for your return."
 
-Gator tasks the player with exploring the Bayou to find clues related to their vision and its connection to the recurring glimpses of the Sea of Tranquility.
+Gator offers the players a [Bayou Charm](#bayou-charm), an item with a unique ability related to visions and insights. This charm will glow softly when its holder is near an object or location of cosmic significance or a clue related to their visions.
+
+Gator tasks the players with exploring the Bayou to find clues related to their vision and its connection to the glimpses of the Sea of Tranquility.
+
+Gator escorts the players out of the medical cabin and into the Bayou Outpost. 
+
+The [Bayou Outpost](../../Background/geography/neighborhoods.md#bayou-outpost), a medium-sized settlement, is the Bayou Brotherhood's primary base of operations. It is located in the remains of the Buffalo Bayou Park, a former urban park Northeast of Downtown Houston. The bayou has reclaimed much of the park, turning it into a lush wetland. The settlement's architecture consists of a combination of salvaged metal structures, wooden shanties, and makeshift walkways built on stilts to keep above the water and muck. Structures are often covered with moss and algae, giving them a weathered and camouflaged appearance. The entire settlement is surrounded by tall, twisted trees and dense, waterlogged foliage. A thick fog hangs in the air, and the sounds of wildlife echo through the swamps. The whole setlement is bustling with activity, with people going about their daily tasks. A few of the settlers notice the players emerge and greet them with a friendly wave from afar.
+
+Gator explains to the players that they are welcome to stay with the Brotherhood for as long as they like. He offers them a place to rest and recuperate, as well as access to the Brotherhood's resources. He also offers to teach them about the Bayou's mystical connection to the cosmos and the Brotherhood's spiritual beliefs. But he reminds them that they have a mission to complete, and that the Bayou's cosmic message for them is waiting to be uncovered.
+
+Ask the characters to make a group **PER + Survival** test with a difficulty of 0, allowing the PCs to store additional successes as AP in the group pool or spend them to **Obtain Information** from the environment.
+Information that can be obtained includes:
+- An old man sits on a rocking chair humming an old tune to himself with his eyes closed. (This is Ezekiel Thibodeaux, who is the Bayou Brotherhood's spiritual leader. He is known as the Swamp Sage and is said to have a deep understanding of the Bayou's mystical connection to the cosmos.)
+- A group of children are playing a game of tag, chasing each other through the settlement.
+- A group of settlers are gathered around a table, playing a game of cards, laughing and joking with each other.
+- An elderly woman chasing a small gator with a skillet, yelling at it to get out of her garden.
+- A group of settlers are gathered around a smokey campfire, listening to a storyteller recounting tales of the Bayou's history and the Brotherhood's ancestors.
 
 ### Echoes of the Past
 
@@ -79,7 +120,7 @@ Gator tasks the player with exploring the Bayou to find clues related to their v
 
 The players must venture deep into the Bayou. The air is thick and humid, full of the chorus of wildlife. Swamp lanterns, left by the Bayou Brethren, illuminate the once-paved path beside the river. Sounds of urban chaos faintly echo in the distance behind them in the direction of Downtown.
 
-The Bayou Outpost (The pin on the east side of the map) rests in the middle of the straight part of the Bayou, just east of the Bat Bridge (where many bats fly in and out from under the bridge at night). There exist a few different trails, the remains of ancient once-paved, running-trails along the river.
+The Bayou Outpost (The pin on the east side of the map) rests in the middle of the straight part of the Bayou, just east of the Bat Bridge (where many bats fly in and out from under the bridge at night). There exist a few different trails, the remains of ancient once-paved running-trails along the river.
 
 As the players travel west, they will eventually pass the Bird Sanctuary, where they will encounter many different types of birds, many of which mutated. Beyond the Bird Sanctuary, the bayou opens up into a large swamp, the flooded remains of an ancient park. Many trails cris-cross the swamp. The players may also encounter rad-gators, mutated alligators, and other mutated swamp creatures. None of these are hostile unless provoked.
 
@@ -87,7 +128,7 @@ Gator's charm will glow softly when the players near significant objects or loca
 
 As players walk deeper into the Bayou, strange phenomena manifest around them. Unexplained lights flicker in the distance, shadowy figures move just out of sight, and eerie sounds ripple through the swamps. The players have the choice to investigate these phenomena or continue on their path.
 
-After some time, some of the lights will dance around the players, like will-o'-the-wisps, leading them deeper in the Bayou into the swamp. Following it, they discover an ancient cypress tree with roots that seem to shimmer with an otherworldly energy. As the players the tree, they hear the faignt sounds of mournful singing, echoing through the swamps. As they get closer, they come across a ghostly procession of spirits dressed in clothing from another era. They appear to be reenacting a long-lost ritual.
+After some time, some of the lights will dance around the players, like will-o'-the-wisps, leading them deeper in the Bayou into the swamp. Following it, they discover an ancient cypress tree with roots that seem to shimmer with an otherworldly energy. As the players the tree, they hear the faint sounds of mournful singing, echoing through the swamps. As they get closer, they come across a ghostly procession of spirits dressed in clothing from another era. They appear to be reenacting a long-lost ritual.
 
 Amidst the dense underbrush, the players will stumble upon a hidden hollow, where they can find the relic they seek – a worn medallion engraved with cryptic symbols ([Bayou Medallion](#bayou-medallion)). The moment a player touches it, the medallion resonates with their visions, and flashes of the player's great-great-grandfather's decision during the Sea of Tranquility mission appear before them.
 

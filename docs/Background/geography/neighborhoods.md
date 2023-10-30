@@ -4,6 +4,18 @@ locations:
 
 # Neighborhoods and Settlements
 
+## Bayou Outpost
+
+![Bayou Outpost](../../Assets/concept-art/bayou-outpost.jpeg)
+
+- The Bayou Outpost, a medium-sized settlement, is the Bayou Brotherhood's primary base of operations. It is located in the remains of the Buffalo Bayou Park, a former urban park Northeast of Downtown Houston. The bayou has reclaimed much of the park, turning it into a lush wetland.
+- The settlement's architecture consists of a combination of salvaged metal structures, wooden shanties, and makeshift walkways built on stilts to keep above the water and muck. Structures are often covered with moss and algae, giving them a weathered and camouflaged appearance. The entire settlement is surrounded by tall, twisted trees and dense, waterlogged foliage, making it difficult to spot from a distance, especially since the entire area is receded below the surrounding terrain and a thick fog often covers the area.
+- The primary challenge for the inhabitants is dealing with periodic flooding caused by the rising and receding water levels of the swamp. Many structures have built-in drainage systems, and the settlers have become experts in managing water flow.
+- Food is plentiful, with the bayou providing a variety of fish, crustaceans, and other wildlife. The settlers also cultivate crops in small hydroponic gardens and collect rainwater for drinking and cooking.
+- There are about 30 people living in the settlement, including a few children. The settlers are a tight-knit community, and everyone contributes to the settlement's survival. They are wary of outsiders but are willing to trade with those who prove themselves trustworthy.
+- The Bayou Outpost is led by Cyrus "Gator" Thibodeaux, a charismatic leader who is well-respected by the settlers. He is a former fisherman who has lived in the bayou his entire life and is an expert in navigating the swamp's treacherous waters. He is also a skilled hunter and fisherman, providing food for the settlement.
+
+
 ## Downtown Houston
 
 ![Downtown Ruins](../../Assets/concept-art/downtown-houston-ruins.jpg)

@@ -1,7 +1,7 @@
-# Quest 2: Diplomatic Relations
+# Main Quest: Diplomatic Relations
 
 <!--availability-start-->
-*Available after completing Quest 1: Lost in the Bayou*
+*Available after completing [Main Quest: Lost in the Bayou](Quest1.md)*
 <!--availability-end-->
 
 ## Summary
@@ -33,9 +33,11 @@ The players overhear snippets of conversation, indicating that something signifi
 If players approach any of the merchants, the merchants should only give vague rumors, but recommend they go speak with Councilor Jenna Redwood.
 
 When players go inside Pipes Bar and Grill, the restaurant should be bustling with activity. Players can acquire more details about the spaceport from:
+
 - The owner Lena "Pipes" Santos, who is waiting tables and serving drinks. She can provide more details about the Spaceport Survivors and their alliance with the Lone Star Republic.
 - The friendly neighborhood Rumormonger Wilkins, who is sitting at the end of the bar. For the price of a drink, he can provide more information about the Spaceport Survivors and their alliance with the Lone Star Republic. For a higher price, he can provide additional details about the Galveston Pirates' interest in the Spaceport. If the players can entice him, he will even reveal that the Pirates have been sending scouts to the Spaceport to investigate for some time.
 - Councilor Jenna Redwood, who is seated at a large corner booth with two other councilors and several town guards. If the players can prove their usefulness in scouting, she will tell the players that a squad of Pirate mercenaries had been spotted earlier that day near the Spaceport. She will also tell the players that the Lone Star Republic has been sending patrols to the Spaceport to protect it from the Pirates. She is concerned that the Pirates may attempt a raid on nearby towns, such as Scarsdale. She will also answer many questions about the recent emergence of the Spaceport Survivors from Vault 117, and their annexation into the Lone Star Republic, but she is not privy to any sensitive information. She will also answer some questions about the Galveston Pirates and their recent behavior, but she is also not privy to any internal knowledge of the Pirates.
+
 
 
 ### A Tense Standoff
@@ -43,6 +45,17 @@ When players go inside Pipes Bar and Grill, the restaurant should be bustling wi
 - The player, determined to investigate the Spaceport, heads towards its perimeter, surrounded by the remnants of pre-war technology and guarded by Lone Star Republic patrols.
 - At the Spaceport's entrance, they witness a heated standoff between a Lone Star Republic patrol and a group of Galveston Pirates. The Pirates seem interested in the Spaceport's secrets.
 - The player has a choice: intervene and assist the Lone Star Republic or observe and make a decision based on the unfolding situation. Their choice will affect their standing with the factions and future interactions.
+
+
+As the party makes their way toward the outskirts of Scarsdale, the landscape shifts. The broken pavement gives way to cracked earth, and rusted debris becomes more common. The twisted remnants of pre-war technology, including cars, planes, and the occasional rocket dot the landscape, an eerie testament to humanity's past glory.
+
+Approaching the Spaceport's perimeter, you notice the looming chain-link fence topped with razor wire that separates the wasteland from the secrets held within. The fence is surrounded by makeshift guard towers, each manned by heavily armed Lone Star Republic soldiers. The tension in the air is palpable as you draw closer.
+
+At the Spaceport's entrance, the scene comes into focus. A group of Galveston Pirates, their attire a motley mix of scavenged armor and leather, is engaged in a heated standoff with a Lone Star Republic patrol. The pirates, bearing crude weapons and a few salvaged firearms, shout demands and threats while the Republic soldiers maintain a defensive formation, weapons trained on their adversaries.
+
+As you observe from a distance, the conversation between the two groups escalates. The Pirates seem interested in gaining access to the Spaceport and its rumored pre-war secrets. The Lone Star Republic patrol, meanwhile, stands resolute, determined to protect the valuable assets within.
+
+
 ### Player's Decision
 
 - If the player intervenes on the side of the Lone Star Republic, they help repel the Galveston Pirates' advance. This action earns them favor with the Lone Star Republic, who view the player as an ally in protecting the Spaceport.

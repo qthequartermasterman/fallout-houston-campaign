@@ -1,7 +1,13 @@
 # Act I: Rising Tensions
 
-## Quest 1: Lost in the Bayou
+## Main Quest 1: Lost in the Bayou
 *Main Article [Lost in the Bayou](./Quest1.md)*
+
+{%
+include-markdown "./Quest1.md"
+start="<!--availability-start-->"
+end="<!--availability-end-->"
+%}
 ### Summary
 
 {%
@@ -10,7 +16,7 @@ start="<!--summary-start-->"
 end="<!--summary-end-->"
 %}
 
-## Quest 2: Diplomatic Relations
+## Main Quest 2: Diplomatic Relations
 *Main Article [Diplomatic Relations](./Quest2.md)*
 
 
@@ -29,7 +35,7 @@ end="<!--summary-end-->"
 %}
 
 
-## Quest 3: Pirates' Plunder
+## Main Quest 3: Pirates' Plunder
 
 *Main Article [Pirates' Plunder](./Quest3.md)*
 
@@ -47,7 +53,7 @@ end="<!--summary-end-->"
 %}
 
 
-## Quest 4: Lone Star Ambitions
+## Main Quest 4: Lone Star Ambitions
 
 *Main Article [Lone Star Ambitions](./Quest4.md)*
 
@@ -64,7 +70,7 @@ start="<!--summary-start-->"
 end="<!--summary-end-->"
 
 %}
-## Quest 5: Visions of Betrayal
+## Main Quest 5: Visions of Betrayal
 
 *Main Article [Visions of Betrayal](./Quest5.md)*
 
@@ -82,7 +88,7 @@ start="<!--summary-start-->"
 end="<!--summary-end-->"
 %}
 
-## Quest 6: Unveiling the Conspiracy
+## Main Quest 6: Unveiling the Conspiracy
 
 *Main Article [Unveiling the Conspiracy](./Quest6.md)*
 
