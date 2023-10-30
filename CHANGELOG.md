@@ -2,6 +2,17 @@
 
 
 
+## v0.19.2 (2023-10-30)
+
+### Fix
+
+* fix: add new naming scheme + flesh out details in Quest 1 ([`0f4a752`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0f4a75266967b79d70852ed99053d482d25f1eed))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`506b72a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/506b72a3c2f3b02cd966ca738358c357ac878b2b))
+
+
 ## v0.19.1 (2023-10-26)
 
 ### Fix
