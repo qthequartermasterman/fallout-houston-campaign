@@ -1,0 +1,61 @@
+div.character {
+    padding: 2px 10px;
+    max-width: 600px;
+    background: var(--background-color);
+    box-shadow: -5px 5px var(--drop-shadow-color);
+
+    --table-first-color: #c9decd;
+    --table-second-color: #e5efe7;
+    --background-color: #F1F1F1;
+    --drop-shadow-color: #c9decd;
+}
+
+.character p {
+    margin: 0;
+}
+
+.character table {
+    width:100%;
+    table-layout:fixed;
+    display:table !important;
+    margin: 10px 0;
+}
+
+.character table td {
+    padding: 0 10px !important;
+
+}
+
+.character table.center, .character table.center *, .character table .center {
+    text-align: center !important;
+}
+
+.character .special {
+    width:100%;
+}
+
+.character h2.character-name {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.character table.single-row-table td:nth-child(odd) {
+    background: var(--table-first-color);
+}
+
+.character table.single-row-table td:nth-child(even) {
+    background: var(--table-second-color);
+}
+
+.character table.multi-row-table tr:nth-child(even) {
+    background: var(--table-first-color);
+}
+
+.character table.multi-row-table tr:nth-child(odd) {
+    background: var(--table-second-color);
+}
+
+.character table.multi-row-table tr.character-header, .character table.single-row-table tr.character-header {
+    background: black;
+    color: white;
+}

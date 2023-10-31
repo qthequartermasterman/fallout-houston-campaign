@@ -1,0 +1,38 @@
+character_gator:
+  name: Cyrus "Gator" Boudreaux
+  level: 8
+  exp: 38
+  type: Notable
+  keywords:
+    - Human
+  description: The Bayou Outpost is led by Cyrus "Gator" Thibodeaux, a charismatic leader who is well-respected by the settlers. He is a former fisherman who has lived in the bayou his entire life and is an expert in navigating the swamp's treacherous waters. He is also a skilled hunter and fisherman, providing food for the settlement.
+  special:
+    strength: 6
+    perception: 8
+    endurance: 7
+    charisma: 9
+    intelligence: 6
+    agility: 5
+    luck: 5
+  skills:
+    athletics:
+      tag: false
+      rank: 1
+    barter:
+      tag: false
+      rank: 1
+    medicine:
+      tag: true
+      rank: 2
+    sneak:
+      tag: false
+      rank: 1
+    speech:
+      tag: true
+      rank: 3
+    survival:
+      tag: true
+      rank: 3
+    unarmed:
+      tag: false
+      rank: 1

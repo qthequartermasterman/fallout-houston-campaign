@@ -6,7 +6,7 @@ locations:
 
 ## Bayou Outpost
 
-[The Bayou](geo:29.762520842934414,-95.39266304824955)
+[Bayou Outpost](geo:29.762520842934414,-95.39266304824955)
 
 ![Bayou Outpost Concept Art](../../Assets/concept-art/bayou-outpost.jpeg)
 
@@ -91,6 +91,7 @@ Surrounding the clearing are carefully tended herb gardens, containing rare and 
 
 The Swamp Sage Ritual Grove is also a repository for ancient artifacts and knowledge passed down through generations. Weathered books, scrolls, and relics related to the bayou's spiritual history are stored here, preserving the community's connection to the past.
 
+
 ### Quests
 
 #### Side Quest: Swamp Spirits' Fury
@@ -154,6 +155,8 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - **Instigated tensions with the rival settlement:** If the PCs instigated tensions with the rival settlement, then the Bayou Outpost's settlement reputation decreases by 1 rank. The rival settlement may occasionally send raiding parties to the Bayou Outpost, and the Bayou Outpost may occasionally send raiding parties to the rival settlement. The Bayou Outpost may call upon the players to help defend them in the future.
 - **Negotiated unfavorable terms:** If the PCs negotiate unfavorable terms for the Bayou Outpost, then the Bayou Outpost's settlement reputation decreases by 1 rank. Whatever the result of the agreement is will be visible in future visits to the Outpost or to the other settlement.
 - **Betrayed the Bayou Brotherhood:** If the PCs side with the rival settlement and betray the Bayou Brotherhood (leading to the rival settlement's attack on the Outpost), then the Bayou Outpost's settlement reputation instantly drops to 0 (Hostile). If the attack succesfully destroys or conquers the Outpost, then the Bayou Brotherhood members scatter across the Bayou and may attack the Player on sight in the future.
+
+
 
 ## Downtown Houston
 

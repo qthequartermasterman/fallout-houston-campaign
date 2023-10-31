@@ -22,4 +22,5 @@
 
 ## Characters
 ### Cyrus "Gator" Boudreaux
+{{ render_character_block(character_gator) }}
 ### Ezekiel "Swamp Sage" Thibodeaux
