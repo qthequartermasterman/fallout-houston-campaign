@@ -72,6 +72,9 @@
 
 [//]: # (similar creatures that already exist.)
 
+## Bloodbugs
+{{ render_creature_block(creature_bloodbug) }}
+
 ## Rad-Gators:
 
 - Description: Rad-Gators are monstrous, mutated alligators that have adapted to the radioactive waters of the Houston
