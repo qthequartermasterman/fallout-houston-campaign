@@ -2,6 +2,19 @@
 
 
 
+## v0.20.0 (2023-10-31)
+
+### Feature
+
+* feat: render statblocks from yaml ([`2043045`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/20430457f06526b621e2f0030b3f94b2997b4fe9))
+
+* feat: flesh out Bayou Outpost description ([`bdab587`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/bdab587d2701002bae81baca043c9840496ee6f1))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`357d7b5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/357d7b5afcf2cb05c043a162deb33d07bcca5c6a))
+
+
 ## v0.19.2 (2023-10-30)
 
 ### Fix
