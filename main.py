@@ -46,7 +46,7 @@ class Attack(pydantic.BaseModel):
     target_skill: str
     damage: int
     damage_type: str
-    damage_effects: str | None = None
+    damage_effects: list[str] | None = None
     range: str | None = None
     fire_rate: str | None = None
     qualities: list[str] | None = None
@@ -200,6 +200,18 @@ class Creature(Entity):
             return base * 3
         else:
             return base
+
+    @pydantic.model_validator(mode="after")
+    def validate_attr(self) -> "Creature":
+        if self.type == Type.normal:
+            if self.body + self.mind != math.ceil(8 + self.level/2):
+                raise ValueError(f"Normal creatures must have a total of ceil(8 + level/2) BODY + MIND points, but this creature has {self.body + self.mind} points.")
+        elif self.type == Type.mighty:
+            if self.body + self.mind != math.ceil(10 + self.level/2):
+                raise ValueError(f"Mighty creatures must have a total of ceil(10 + level/2) BODY + MIND points, but this creature has {self.body + self.mind} points.")
+        elif self.type == Type.legendary:
+            if self.body + self.mind != math.ceil(12 + self.level/2):
+                raise ValueError(f"Legendary creatures must have a total of ceil(12 + level/2) BODY + MIND points, but this creature has {self.body + self.mind} points.")
 
 
     def get_target_number(self, target_attr: AttributeName, target_skill: str) -> int:
@@ -674,6 +686,6 @@ def define_env(env: MacrosPlugin):
             {render_dr(creature)}
             {render_attacks(creature.attacks, creature)}
             {render_special_abilities(creature.special_abilities)}
-            {render_inventory(creature.inventory)}
+            {render_inventory(creature.inventory, creature.butchery)}
         </div>
         """

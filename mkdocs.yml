@@ -98,5 +98,6 @@ plugins:
       include_yaml:
         - docs/Background/characters/gator.yaml
         - docs/Background/creatures/corerulebook/bloodbug.yaml
+        - docs/Background/creatures/radgator.yaml
   - search
   - section-index

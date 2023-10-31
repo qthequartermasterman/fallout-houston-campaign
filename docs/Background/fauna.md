@@ -76,47 +76,8 @@
 {{ render_creature_block(creature_bloodbug) }}
 
 ## Rad-Gators:
+{{ render_creature_block(creature_radgator) }}
 
-- Description: Rad-Gators are monstrous, mutated alligators that have adapted to the radioactive waters of the Houston
-  bayous and swamps. They are larger and more aggressive than their pre-war counterparts, with gnarled, irradiated
-  scales and glowing eyes.
-- Behavior: They are ambush predators, often lurking just below the surface of murky waters, waiting to strike at
-  unsuspecting prey. Their powerful jaws can deliver deadly bites.
-- Habitat: Rad-Gators are most commonly found near bodies of water, making river crossings and swamp navigation perilous
-  for travelers. They are especially common in the Buffalo Bayou.
-
-### Stats
-
-- Level and Type: Level 5, Mutated
-- Keywords: Mutated, Lizard
-- Body: 8
-- Mind: 4
-- Melee: 6
-- Guns: -
-- Other: 4
-- HP: 13 (8 Body + 5 Level)
-- Initiative: 12 (8 Body + 4 Mind)
-- Defense: 1
-- Physical DR: 2
-- Energy DR: 1
-- Radiation DR: 3
-- Poison DR: 2
-
-### Attacks
-
-- Bite: TN 6, Damage 3, Damage Type Physical, Special: Inflicts Bleeding.
-- Tail Swipe: TN 7, Damage 2, Damage Type Physical, Special: Knocks down the target on a successful hit.
-
-### Special Abilities
-
-- Submerge: Rad-Gators can submerge themselves completely in water, becoming nearly invisible. They gain +2 to Stealth
-  rolls when submerged.
-- Irradiated Bite: Rad-Gators' bites are radioactive. When they inflict damage with their Bite attack, the target also
-  suffers 1 radiation damage.
-
-### Loot/Inventory
-
-Rad-Gators may have valuable materials in their stomachs, such as irradiated bones and pre-war items.
 
 ## Texa-Bulls:
 

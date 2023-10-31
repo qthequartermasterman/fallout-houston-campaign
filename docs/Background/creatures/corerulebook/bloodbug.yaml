@@ -6,9 +6,9 @@ creature_bloodbug:
     - Insect
   type: Normal
   exp: 38
-  description: A form of mutated mosquito, bloodbugs can be encountered in swarms wherever there is stagnant water and carrion. Fully grown, their dark reddish-brown bodies reach nearly two feet in length and their razor-sharp proboscis is capable of puncturing though some types of armor. Bloodbugs typically spit irradiated blood to blind their victims before puncturing the disorientated creature with their proboscis to feed on their blood. Brahmin and other domestic creatures often fall prey to these bugs, as well as unwary travelers who underestimate the deadly nature of a swarm.\n <i>More details can be found in the Core Rulebook, pg 339.</i>
+  description: A form of mutated mosquito, bloodbugs can be encountered in swarms wherever there is stagnant water and carrion. Fully grown, their dark reddish-brown bodies reach nearly two feet in length and their razor-sharp proboscis is capable of puncturing though some types of armor. Bloodbugs typically spit irradiated blood to blind their victims before puncturing the disorientated creature with their proboscis to feed on their blood. Brahmin and other domestic creatures often fall prey to these bugs, as well as unwary travelers who underestimate the deadly nature of a swarm.<br> <i>More details can be found in the Core Rulebook, pg 339.</i>
   body: 6
-  mind: 6
+  mind: 5
   skills:
     melee:
       tag: true
