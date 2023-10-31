@@ -22,6 +22,8 @@ This quest expects players to be at Level 1. If they are not, the GM should adju
 
 ## Setting
 
+[Bayou Outpost](../../Background/geography/neighborhoods.md#bayou-outpost)
+
 [Buffalo Bayou](../../Background/geography/neighborhoods.md#the-bayous-and-wetlands) 
 
 ## Plot
@@ -105,10 +107,11 @@ Gator explains to the players that they are welcome to stay with the Brotherhood
 Ask the characters to make a group **PER + Survival** test with a difficulty of 0, allowing the PCs to store additional successes as AP in the group pool or spend them to **Obtain Information** from the environment.
 Information that can be obtained includes:
 - An old man sits on a rocking chair humming an old tune to himself with his eyes closed. (This is Ezekiel Thibodeaux, who is the Bayou Brotherhood's spiritual leader. He is known as the Swamp Sage and is said to have a deep understanding of the Bayou's mystical connection to the cosmos.)
+- A young settler is desperately looking for something. If the players approach this young settler, it prompts the quest [Side Quest: The Lost Relic](../../Background/geography/neighborhoods.md#side-quest-the-lost-relic).
 - A group of children are playing a game of tag, chasing each other through the settlement.
 - A group of settlers are gathered around a table, playing a game of cards, laughing and joking with each other.
-- An elderly woman chasing a small gator with a skillet, yelling at it to get out of her garden.
-- A group of settlers are gathered around a smokey campfire, listening to a storyteller recounting tales of the Bayou's history and the Brotherhood's ancestors.
+- An elderly woman chases a small gator with a skillet, yelling at it to get out of her garden.
+- A group of settlers are gathered around a smokey campfire, listening to an elderly storyteller recounting tales of the Bayou's history and the Brotherhood's ancestors. If the players approach this elderly settler, it prompts the quest [Side Quest: Tales of the Swamp](../../Background/geography/neighborhoods.md#side-quest-tales-of-the-swamp).
 
 ### Echoes of the Past
 

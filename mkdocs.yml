@@ -83,6 +83,9 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - include-markdown

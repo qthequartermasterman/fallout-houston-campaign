@@ -6,15 +6,154 @@ locations:
 
 ## Bayou Outpost
 
-![Bayou Outpost](../../Assets/concept-art/bayou-outpost.jpeg)
+[The Bayou](geo:29.762520842934414,-95.39266304824955)
 
-- The Bayou Outpost, a medium-sized settlement, is the Bayou Brotherhood's primary base of operations. It is located in the remains of the Buffalo Bayou Park, a former urban park Northeast of Downtown Houston. The bayou has reclaimed much of the park, turning it into a lush wetland.
-- The settlement's architecture consists of a combination of salvaged metal structures, wooden shanties, and makeshift walkways built on stilts to keep above the water and muck. Structures are often covered with moss and algae, giving them a weathered and camouflaged appearance. The entire settlement is surrounded by tall, twisted trees and dense, waterlogged foliage, making it difficult to spot from a distance, especially since the entire area is receded below the surrounding terrain and a thick fog often covers the area.
+![Bayou Outpost Concept Art](../../Assets/concept-art/bayou-outpost.jpeg)
+
+|                                         |                   |
+|-----------------------------------------|-------------------|
+| **Population**                          | 30                |
+| **Defenses**                            | Very Strong       |
+| **Food Supply**                         | Abundant          |
+| **Denizen Outlook**                     | Friendly          |
+| **Faction Affiliation**                 | Bayou Brotherhood |
+| **Starting Settlement Reputation Rank** | Neutral (2)       |
+
+
+- The Bayou Outpost, a medium-sized settlement, is the Bayou Brotherhood's primary base of operations. It is located in the remains of the pre-war Buffalo Bayou Park, a former urban park Northeast of Downtown Houston. The bayou has reclaimed much of the park, turning it into a lush wetland.
+- The settlement is situated around the Montrose Blvd overpass above the Buffalo Bayou. The Brotherhood has fortified the overpass and surrounding area, turning it into a defensible position. The bayou has reclaimed not just the strip of land around the river, but also the area north, encompassing the area around a secluded apartment complex on the west of Montrose Blvd and a small tower + pool complex on the east of Montrose Blvd.
+- The tower is intentionally kept in a state of disrepair to avoid drawing the attention of outsiders, but acts as both a lookout post and as an easy landmark for members of the Brotherhood who canoe up and down the Bayou.
+- The settlement's architecture consists of a combination of salvaged metal structures, wooden shanties, and makeshift walkways built on stilts to keep above the water and muck. Structures are often covered with moss and algae, giving them a weathered and camouflaged appearance. The entire settlement is surrounded by tall, twisted trees and dense, waterlogged foliage, making it difficult to spot from a distance, especially since the entire area is receded below the surrounding terrain and a thick fog often covers the area. As the settlement has grown, some residents have opted to repair parts of the apartment complex, but most of the settlement is still built on or around the river.
 - The primary challenge for the inhabitants is dealing with periodic flooding caused by the rising and receding water levels of the swamp. Many structures have built-in drainage systems, and the settlers have become experts in managing water flow.
 - Food is plentiful, with the bayou providing a variety of fish, crustaceans, and other wildlife. The settlers also cultivate crops in small hydroponic gardens and collect rainwater for drinking and cooking.
 - There are about 30 people living in the settlement, including a few children. The settlers are a tight-knit community, and everyone contributes to the settlement's survival. They are wary of outsiders but are willing to trade with those who prove themselves trustworthy.
 - The Bayou Outpost is led by Cyrus "Gator" Thibodeaux, a charismatic leader who is well-respected by the settlers. He is a former fisherman who has lived in the bayou his entire life and is an expert in navigating the swamp's treacherous waters. He is also a skilled hunter and fisherman, providing food for the settlement.
+- A council of 4 elders assists Gator in making decisions for the community. The council is made up of the settlement's most experienced and respected members, including the Swamp Sage, a spiritual leader who guides the community in spiritual practices and rituals.
 
+For more information about the surrounding Bayou, see [The Bayous and Wetlands](#the-bayous-and-wetlands).
+
+### Notable Locations
+
+#### Montrose Overpass and the Bayou Bazaar
+
+The heart of the Bayou Outpost is the Montrose overpass. This elevated structure, fortified by the Bayou Brotherhood, serves as the main hub of the settlement. It offers a commanding view of the surrounding bayou and is equipped with guard posts, lookout towers, and houses the Bayou Bazaar. At the center of the overpass is a large open area that serves as a communal gathering space for the settlers.
+
+The Bayou Bazaar is the heart of the Bayou Outpost's trading and commerce. It's a bustling area where settlers, traders, and scavengers gather to exchange goods, resources, and stories.
+
+- Stalls and Shacks: Various makeshift stalls and shanties line the wooden walkways above the swamp water, creating a vibrant marketplace. These structures are crafted from salvaged materials and display a variety of wares, from scavenged pre-war technology to mutated wildlife pelts and exotic bayou herbs.
+- Trade Hub: The Bayou Bazaar is the central hub for trade and commerce within the settlement. Residents trade surplus food, weapons, and scavenged items in exchange for essentials like purified water, tools, and other valuable goods. The barter system is prevalent, and a sense of trust is vital in these transactions.
+- Entertainment and Social Hub: In the evenings, the Bayou Bazaar transforms into an entertainment and social hub. Settlers gather to share stories, music, and dance, strengthening their community bonds and offering moments of respite in the harsh wasteland.
+- The Waterfront: The market extends over the swamp waters, with platforms and shacks built on stilts. This unique feature allows traders to arrive by boat or canoe, expanding the trading network and providing the settlement access to goods from the broader bayou region.
+
+The Bayou Outpost has its own unique calendar of cultural celebrations and rituals. These events often revolve around the changing seasons, the bayou's natural cycles, and the spiritual beliefs of the Swamp Sage. Residents gather to partake in dances, music, and storytelling during these special occasions.
+
+#### Bayou Meadow Apartments
+
+Named after a street sign found in the complex. On the west side of Montrose Blvd, nestled among the thick trees and marshy terrain, stands a once-secluded apartment complex. Some resourceful settlers have taken up residence here, meticulously repairing and fortifying their living spaces. The apartments serve as additional housing for the community that has outgrown its shanty-town origins, and they offer a stark contrast to the rest of the outpost, where most structures are built on or around the bayou.
+
+#### Windsor Tower and Pool
+Located on the east side of Montrose Blvd, a tall tower that appears dilapidated at first glance is another key landmark of the Bayou Outpost. Though it is intentionally left in a state of disrepair to avoid drawing unwanted attention, the tower serves as a lookout post for potential threats and a landmark for Bayou Brotherhood members navigating the bayou. A small, repurposed pool complex adjacent to the tower provides a source of cleaner water for growing some hydroponic crops.
+
+#### The Hydroponic Gardens
+To ensure a sustainable source of food, the settlers have established hydroponic gardens on the stilts and walkways that crisscross the swampy terrain. These gardens yield various crops, including irradiated ferns and mutated water lilies. These hydroponic gardens are a testament to the settlers' adaptability and resourcefulness.
+
+#### The Gator's Den
+Cyrus "Gator" Thibodeaux's personal quarters, known as "The Gator's Den," are a collection of interconnected shanties perched on stilts near the heart of the outpost, directly underneath the Overpass. This is where the settlement's leader plans and strategizes. His living space is adorned with trophies from his hunting and fishing endeavors, showcasing his prowess as a provider for the community.
+
+#### Hydroelectric Generator
+To harness the power of the bayou, the settlers have rigged a makeshift hydroelectric generator, located beneath the Montrose Overpass. This generator provides electricity for essential systems like lighting, water pumps, and communication equipment. Additional generators have been installed up and down the bayou, with power lines connecting them to the main generator.
+
+#### Swampside Infimary
+Positioned on the southside of the settlement, just off the Overpass and near the southern shore, the Swampside Infirmary is a modest, but vital structure where the outpost's only medic tends to the health needs of the residents. The infirmary is situated on stilts and is surrounded by various medicinal plants and herbs, carefully tended to by the settlement's healer. Inside, the small medical hut is well-organized, housing essential medical supplies salvaged from the wasteland.
+
+- Healing Services: The settlement's medic, a skilled and compassionate individual, provides a range of medical services, including treating injuries, illnesses, and radiation exposure. They are also skilled in using natural remedies found in the bayou, making use of the local flora to create healing concoctions.
+- Hydroponic Medical Garden: Adjacent to the medical hut is a hydroponic garden dedicated to growing medicinal herbs and plants. These are used to create poultices, tinctures, and other remedies, providing a renewable source of healing resources for the community.
+- Quarantine Area: A section of the medical hut is set aside for isolating and treating individuals with contagious diseases or radiation poisoning, ensuring the well-being of the settlement remains a top priority.
+
+#### Lower Residences/Montrose Quarters
+Beneath the Montrose Blvd overpass, the Lower Residences, often referred to as Montrose Quarters, consist of a series of living spaces and shanties constructed on the ground level of the settlement, right below the elevated structure.
+
+The majority of the settlement's residents, including families and individuals, reside in the Montrose Quarters. It is home to about two-thirds of the Bayou Outpost's population, making it a bustling and vibrant community. The Lower Residences are characterized by their tight-knit nature, with neighbors offering mutual support and a strong sense of camaraderie.
+
+Despite the harsh and rustic appearance of the Lower Residences, the settlers have made these spaces as comfortable as possible. Each dwelling is equipped with salvaged furniture, sleeping quarters, and storage for personal belongings. Many residents have personalized their living spaces with unique touches that reflect their individual personalities and histories.
+
+#### Swamp Ritual Grove
+
+Nestled deep within the bayou, hidden away from the daily life of the settlement, is the Swamp Ritual Grove. This secluded area is known only to a select few in the Bayou Outpost, and it serves as a sacred space for spiritual and mystical rituals.
+
+The Ritual Grove is an oasis of tranquility within the wild and unpredictable bayou. It is an open, natural clearing surrounded by ancient, towering cypress trees, their roots partly submerged in the dark, still waters of the bayou. Thick, hanging moss drapes from the branches, creating an otherworldly atmosphere.
+
+In the center of the clearing, there's a simple shrine dedicated to the bayou's guardian spirits. The shrine is adorned with offerings like colorful beads, feathers, and small trinkets left by those who come to seek the Swamp Sage's guidance. Nearby, a stone altar is used for conducting various rituals and ceremonies. It's often covered with candles, herbs, and symbols representing the bayou's natural elements.
+
+The Swamp Sage, a wise and revered figure within the settlement, leads the community in spiritual practices and offers guidance in times of need. The Swamp Sage, often adorned with robes and amulets made from bayou materials, conducts ceremonies, chants, and dances to communicate with the spirits and seek their blessings.
+
+Surrounding the clearing are carefully tended herb gardens, containing rare and mystical flora believed to have special properties. These herbs play a significant role in the rituals and are harvested to create potions, remedies, and protective charms.
+
+The Swamp Sage Ritual Grove is also a repository for ancient artifacts and knowledge passed down through generations. Weathered books, scrolls, and relics related to the bayou's spiritual history are stored here, preserving the community's connection to the past.
+
+### Quests
+
+#### Side Quest: Swamp Spirits' Fury
+!!! info ""
+
+    This quest becomes available after completing [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md), so long as the players' Bayou Outpost settlement reputation is at least Cautious (rank 1).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Swamp Sage*
+
+The Swamp Sage believes the bayou's spirits have been angered due to recent disturbances. The players are tasked with investigating strange occurrences, like the unexplained intensification of the fog, the aggression of the local wildlife, and a sudden increase in flooding. The quest leads the players to uncover a hidden group of outsiders who have been irresponsibly mining and polluting the bayou upstream. The players must confront the outsiders, halt their activities, and restore harmony with the swamp spirits.
+
+#### Side Quest: The Lost Relic
+!!! info ""
+
+    This quest becomes available as soon as the players enter the Montrose Overpass for the first time in [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md), if they approach the young settler in the Bayou Bazaar. If after completing [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md) the players have not yet completed this quest, then the young Settler will approach the players and ask for their help at some future time they are in the Bayou Outpost.
+
+*Quest Giver: A Young Settler*
+
+A young member of the Bayou Outpost has lost a family heirloom – a treasured necklace believed to hold protective properties. The necklace went missing during a recent flood, and the settlers suspect it may have been carried downstream. The players must embark on a journey through the bayou's treacherous waters to recover the lost relic. Along the way, they will face challenges, including dealing with dangerous mutated creatures and helping other settlers in need.
+
+#### Side Quest: Cyrus's Call
+!!! info ""
+
+    This quest becomes available after completing [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md), so long as the players' Bayou Outpost settlement reputation is at least Cautious (rank 1).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Cyrus "Gator" Thibodeaux*
+
+The settlement's leader, Cyrus "Gator" Thibodeaux, needs the players' help in locating a missing scout who went on a crucial mission but hasn't returned. The scout was last seen investigating a Raider Encampment that posed a potential threat to the Bayou Outpost. Players must navigate the bayou's waterways, uncover the fate of the missing scout, and gather intelligence on the rival settlement. This quest may involve diplomacy, stealth, or combat, depending on the situation players encounter.
+
+#### Side Quest: Tales of the Swamp
+
+!!! info ""
+
+    This quest becomes available as soon as the players enter the Montrose Overpass for the first time in [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md), if they approach the elderly settler in the Bayou Bazaar.
+
+*Quest Giver: An Elderly Settler*
+
+An elderly settler, the outpost's historian and storyteller, wants the players to collect stories and artifacts from the bayou's hidden corners to preserve the community's history and traditions. The quest involves exploring the swamp's most remote and enigmatic locations, interacting with unique characters and creatures, and piecing together the oral history of the Bayou Brotherhood. Along the way, players may uncover forgotten secrets, folklore, and valuable relics that shed light on the bayou's mysteries.
+
+#### Side Quest: Outsider Diplomacy
+
+!!! info ""
+
+    This quest becomes available after completing [Main Quest: Lost in the Bayou](../../Story/Act1/Quest1.md), so long as the players' Bayou Outpost settlement reputation is at least Trusting (rank 4).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Settlement Council Elder or Cyrus "Gator" Thibodeaux*
+
+The council of elders at the Bayou Outpost has decided that it's time to establish formal diplomatic relations with a neighboring settlement to improve trade and security. The players are chosen as envoys and must venture to the nearby settlement to negotiate an agreement. However, they quickly discover that the rival settlement has its own challenges and conflicts. Players must navigate a web of diplomacy, make important decisions, and find ways to build trust between the two communities, all while facing moral dilemmas that may impact the bayou's future.
+
+##### The Fallout
+The PC with the highest Charisma makes a settlement reputation test **(CHA + Reputation Rank)** when the quest resolves, rolling a number of d20s equal to their positive influences against a difficulty equal to the number of negative influences. Use the following outcomes as a guide:
+
+- **Peacefully negotiated formal agreement:** If the PCs convince the rival settlement to sign a formal agreement, the Bayou Outpost gains a new trade partner and a boost to its reputation. The Bayou Outpost's settlement reputation increases by 1 rank, and the players gain 1 AP. The shops at the Bayou Bazaar will have a wider variety of goods available for purchase, and the players will have access to a new shop at the other settlement. The players may also gain a new ally in the other settlement. Members of the other settlement may occasionally be seen at the Bayou Bazaar, and Brotherhood members may occasionally be found in the other settlement.
+- **Peacefully negotiated informal agreement, but failed to negotiate trading contract or diplomatic relations:** If the PCs convince the rival settlement to agree to an informal arrangement, then the results of such an arrangement will be visible in the future. If the agreement is substatial, then the Bayou Outpost's settlement reputation may increase by 1 rank
+- **Instigated tensions with the rival settlement:** If the PCs instigated tensions with the rival settlement, then the Bayou Outpost's settlement reputation decreases by 1 rank. The rival settlement may occasionally send raiding parties to the Bayou Outpost, and the Bayou Outpost may occasionally send raiding parties to the rival settlement. The Bayou Outpost may call upon the players to help defend them in the future.
+- **Negotiated unfavorable terms:** If the PCs negotiate unfavorable terms for the Bayou Outpost, then the Bayou Outpost's settlement reputation decreases by 1 rank. Whatever the result of the agreement is will be visible in future visits to the Outpost or to the other settlement.
+- **Betrayed the Bayou Brotherhood:** If the PCs side with the rival settlement and betray the Bayou Brotherhood (leading to the rival settlement's attack on the Outpost), then the Bayou Outpost's settlement reputation instantly drops to 0 (Hostile). If the attack succesfully destroys or conquers the Outpost, then the Bayou Brotherhood members scatter across the Bayou and may attack the Player on sight in the future.
 
 ## Downtown Houston
 
