@@ -221,3 +221,70 @@ creature_mutatedmonarch:
       - name: Radiant Beauty
         description: Mutated Monarchs emit a faint, calming glow from their wings. When players interact with them peacefully, they receive temporary buffs to one of their Mental attributes (e.g., +2 to Perception, Intelligence, or Charisma according to the GM's choice) for a limited duration.
     butchery: Scavengers can butcher a dead Mutated Monarch with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 {CD} portion of Monarch Butterfly Scales. If an Effect is rolled, it also yields 2 scales.
+
+creature_gatorclaw:
+  name: Gatorclaw
+  level: 11
+  keywords:
+    - Mutated
+    - Reptile
+  type: Normal
+  exp: 81
+  description: Well known and highly feared through the Gulf Coast Wasteland, Gatorclaws are a hybrid of the Deathclaw and the American Alligator. They are ferocious and impossible to control. They are solitary creatures that will roam the larger swamps in the Bayou. They are highly aggressive and will attack anything that comes near them. Not only are they capable of all of the Deathclaw's attacks, they also have a deep snout with long teeth which they use to bite.
+  body: 9
+  mind: 5
+  skills:
+    melee:
+      tag: true
+      rank: 5
+    other:
+      tag: false
+      rank: 3
+
+  radiation_dr_override: Immune
+  poison_dr_override: Immune
+  phys_dr_override: "6 (All)"
+  energy_dr_override: "2 (All)"
+
+  attacks:
+    - name: Claw
+      target_attr: BODY
+      target_skill: Melee
+      damage: 6
+      damage_type: Physical
+      damage_effects: [Piercing]
+    - name: Slam
+      target_attr: BODY
+      target_skill: Melee
+      damage: 4
+      damage_type: Physical
+      damage_effects: [Stun]
+    - name: Heavy Object
+      target_attr: BODY
+      target_skill: Guns
+      damage: 4
+      damage_type: Physical
+      damage_effects: [Stun]
+      range: M
+      qualities: [Throwing]
+    - name: Bite
+      target_attr: BODY
+      target_skill: Melee
+      damage: 6
+      damage_type: Physical
+      damage_effects: [Piercing, Vicious]
+
+  special_abilities:
+    - name: Aquatic
+      description: A gatorclaw can swim and submerge itself in water indefinitely just below the surface. They suffer no difficulty increase for attacks or movements made while underwater.
+    - name: Immune to Radiation
+      description: A gatorclaw reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+    - name: Warning Hiss
+      description: When a gatorclaw is within 1 zone of a human or other creature, it will hiss loudly, alerting them to its presence. It will immediately attack on the following turn.
+    - name: Big
+      description: A gatorclaw is bigger than most characters, towering over them. The creature receives an additional +1 health point per Level, but its Defense decreases by 1, to a minimum of 1. Further, it only suffers a Critical Hit if an attack inflicts 7+ damage (after damage resistance) in a single hit, rather than the normal 5+.
+    - name: Weak Spot
+      description: If an attacker chooses to target the gatorclaw’s torso, it ignores the creature’s DR. This does not apply against hits which hit the head due to random chance.
+    - name: Massive Strength
+      description: A gatorclaw is capable of lifting and throwing objects as large as a standard car.
+  butchery: Scavengers can butcher a dead radgator with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 portion of gatorclaw meat and 1 uncommon material.
