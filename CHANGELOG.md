@@ -2,6 +2,25 @@
 
 
 
+## v0.21.0 (2023-11-01)
+
+### Feature
+
+* feat: create statblocks for all of the new creatures ([`a424b84`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a424b84c81159a8b2e64e63369f60657da58bd5a))
+
+* feat: render creature statblocks from yaml ([`f981002`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f9810027a84473958594e1c125086dfcfcef1894))
+
+### Fix
+
+* fix: create statblocks for gatorclaws ([`6013762`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/60137627e9e40f17ccca10ffca46ed48762c5f05))
+
+* fix: fix a few bad renderings for creature statblocks and update radgator statblock ([`a1ff304`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a1ff3044e3e58d42a71bd3ebce91b0f88523a7b8))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`b6fab0f`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b6fab0f2975cbba66a674c4b7ccec300427a4c53))
+
+
 ## v0.20.0 (2023-10-31)
 
 ### Feature
