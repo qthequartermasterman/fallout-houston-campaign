@@ -16,7 +16,7 @@ creature_bloodbug:
     other:
       tag: false
       rank: 2
-
+  img: https://static.wikia.nocookie.net/fallout/images/9/96/Bloodbug.png
   radiation_dr_override: Immune
   poison_dr_override: Immune
 
@@ -56,6 +56,7 @@ creature_brahmin:
       rank: 2
   radiation_dr_override: Immune
   phys_dr_override: "1 (All)"
+  img: https://static.wikia.nocookie.net/fallout/images/5/52/Brahmin_fo4.png
   attacks:
     - name: Headbutt
       target_attr: BODY
@@ -95,6 +96,7 @@ creature_radstag:
       damage: 5
       damage_type: Physical
       damage_effects: [Piercing]
+  img: https://static.wikia.nocookie.net/fallout/images/0/08/Fo4-radstag.png
 
   special_abilities:
     - name: Immune to Radiation
