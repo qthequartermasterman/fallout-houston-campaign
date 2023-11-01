@@ -10,6 +10,10 @@ div.character {
     --drop-shadow-color: #c9decd;
 }
 
+.character img.combat-dice {
+    height: 1em;
+}
+
 .character p {
     margin: 0;
 }

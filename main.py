@@ -9,7 +9,7 @@ import pydantic
 from mkdocs_macros.plugin import MacrosPlugin
 from typing import Any, Literal, Annotated
 
-COMBAT_DICE = "CD"
+COMBAT_DICE = '<img src="/Assets/combat_dice.png" class="combat-dice"></img>'
 TAG_SKILL = '■'
 BULLET = "▪"
 
