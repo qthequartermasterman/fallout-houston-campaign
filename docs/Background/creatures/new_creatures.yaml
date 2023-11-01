@@ -241,6 +241,8 @@ creature_gatorclaw:
       tag: false
       rank: 3
 
+  img: https://static.wikia.nocookie.net/fallout/images/a/aa/Gatorclaw.png
+
   radiation_dr_override: Immune
   poison_dr_override: Immune
   phys_dr_override: "6 (All)"

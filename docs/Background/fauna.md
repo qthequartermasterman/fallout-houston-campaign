@@ -81,6 +81,10 @@
 {{ render_creature_block(creature_radgator) }}
 
 
+### Gatorclaws
+{{ render_creature_block(creature_gatorclaw) }}
+
+
 ### Bayou Buzzards
 
 {{ render_creature_block(creature_bayoubuzzard) }}

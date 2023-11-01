@@ -656,7 +656,7 @@ def define_env(env: MacrosPlugin):
         character = Character(**character)
         return f"""<div class="character">
             <h2 class="character-name">{character.name.upper()}</h2>
-            {render_img(env.variables.fix_url(character.img), character.name) if character.img else ""}
+            {render_img(character.img, character.name) if character.img else ""}
             <p><b><i>Level {character.level}, {", ".join(character.keywords)},</i></b></p>
             <p><b><i>{character.type.value} Character ({character.exp} XP)</i></b></p>
             <p>{character.description}</p>
@@ -676,7 +676,7 @@ def define_env(env: MacrosPlugin):
         creature = Creature(**creature)
         return f"""<div class="character">
             <h2 class="character-name">{creature.name.upper()}</h2>
-            {render_img(env.variables.fix_url(creature.img), creature.name) if creature.img else ""}
+            {render_img(creature.img, creature.name) if creature.img else ""}
             <p><b><i>Level {creature.level}, {", ".join(creature.keywords)},</i></b></p>
             <p><b><i>{creature.type.value} Creature ({creature.exp} XP)</i></b></p>
             <p>{creature.description}</p>
