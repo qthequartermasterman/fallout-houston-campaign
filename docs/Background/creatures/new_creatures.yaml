@@ -215,9 +215,9 @@ creature_mutatedmonarch:
 
     special_abilities:
       - name: Immune to Radiation
-        description: The Feral Armadillo reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+        description: The Mutated Monarch reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
       - name: Flying
-        description: Bayou Buzzards can move freely through the air. They ignore most ground-level obstacles and difficult terrain effects, and they can move through “empty” zones above the battlefield if desired. It must spend at least one minor action each turn moving, and if it is knocked prone it falls to the ground, suffering 3 {CD} Stun physical damage, +2 {CD} for each zone above ground level it was before it fell.
+        description: Mutated Monarchs can move freely through the air. They ignore most ground-level obstacles and difficult terrain effects, and they can move through “empty” zones above the battlefield if desired. It must spend at least one minor action each turn moving, and if it is knocked prone it falls to the ground, suffering 3 {CD} Stun physical damage, +2 {CD} for each zone above ground level it was before it fell.
       - name: Radiant Beauty
         description: Mutated Monarchs emit a faint, calming glow from their wings. When players interact with them peacefully, they receive temporary buffs to one of their Mental attributes (e.g., +2 to Perception, Intelligence, or Charisma according to the GM's choice) for a limited duration.
     butchery: Scavengers can butcher a dead Mutated Monarch with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 {CD} portion of Monarch Butterfly Scales. If an Effect is rolled, it also yields 2 scales.
