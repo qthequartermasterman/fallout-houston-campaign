@@ -1,0 +1,223 @@
+creature_radgator:
+  name: Radgator
+  level: 5
+  keywords:
+    - Mutated
+    - Reptile
+  type: Normal
+  exp: 38
+  description: Rad-Gators are monstrous, mutated alligators that have adapted to the radioactive waters of the Houston bayous and swamps. They are larger and more aggressive than their pre-war counterparts, with gnarled, irradiated scales and glowing eyes.<br>They are ambush predators, often lurking just below the surface of murky waters, waiting to strike at unsuspecting prey. Their powerful jaws can deliver deadly bites.<br>Rad-Gators are most commonly found near bodies of water, making river crossings and swamp navigation perilous for unprepared travelers. They are especially common in the Buffalo Bayou.
+  body: 7
+  mind: 4
+  skills:
+    melee:
+      tag: true
+      rank: 3
+    other:
+      tag: false
+      rank: 2
+
+  radiation_dr_override: Immune
+  phys_dr_override: "2"
+  energy_dr_override: "2"
+
+  attacks:
+    - name: Bite
+      target_attr: BODY
+      target_skill: Melee
+      damage: 3
+      damage_type: Physical
+      damage_effects: [Piercing]
+    - name: Tail Swipe
+      target_attr: BODY
+      target_skill: Melee
+      damage: 2
+      damage_type: Physical
+      damage_effects: [Vicious]
+
+  special_abilities:
+    - name: Aquatic
+      description: The radgator can swim and submerge itself in water indefinitely just below the surface. They suffer no difficulty increase for attacks or movements made while underwater.
+    - name: Immune to Radiation
+      description: The radgator reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+    - name: Warning Hiss
+      description: Radgators do not normally attack humans unless they come within 1 zone. When a radgator is within 1 zone of a human, it will hiss loudly, alerting the human to its presence. If the human does not move away from the radgator, it will attack.
+  butchery: Scavengers can butcher a dead radgator with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 portion of radgator meat and 1 uncommon material.
+
+  creature_radstag:
+    name: Radstag
+    level: 5
+    keywords:
+      - Mutated
+      - Mammal
+    type: Normal
+    exp: 38
+    description: These creatures are the mutated descendants of the common deer. While they retain a mostly unchanged form in that their body remains deer-like and they sport antlers, they suffer the same mutation as brahmin in having two heads. The inner eye of each head is blind, requiring the radstag to navigate using both heads. Like brahmin, both heads can move independently. The other strange mutation that is very apparent is the additional two legs that hang undeveloped from the front of the creature’s chest. While the radstag can bend these legs when needed for comfort, such as when laying down, they are otherwise useless. While radstags still retain a coat, it is often mangey in places from radiation, and rabid radstags often lose their coat in places. These creatures travel in packs and are usually docile unless threatened.<br> <i>More details can be found in the Core Rulebook, pg 352.</i>
+    body: 5
+    mind: 5
+    skills:
+      melee:
+        tag: true
+        rank: 3
+      other:
+        tag: false
+        rank: 2
+    radiation_dr_override: Immune
+    phys_dr_override: "1 (All)"
+    attacks:
+      - name: Antlers
+        target_attr: BODY
+        target_skill: Melee
+        damage: 5
+        damage_type: Physical
+        damage_effects: [ Piercing ]
+
+    special_abilities:
+      - name: Immune to Radiation
+        description: The radstag reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+    butchery: Scavengers can butcher a dead radstag with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 2 {CD} of radstag meat. If an Effect is rolled, it also yields a radstag hide.
+
+creature_texabull:
+    name: Texa-bull
+    level: 6
+    keywords:
+      - Mutated
+      - Mammal
+    type: Normal
+    exp: 38
+    description: These mutated longhorn cattle have retained their iconic long, curved horns, but they've grown to enormous sizes and have two heads. Texa-Bulls are hulking creatures with tough, mutated hides, often covered in patches of irradiated growths. They are territorial and protective of their herds. If provoked, Texa-Bulls charge at intruders with incredible force, making them a formidable threat in the open plains of Houston's wasteland, but they are otherwise docile. Texa-Bulls are primarily found in the open plains and fields, and their grazing grounds are often sought after by scavengers for the valuable mutated meat they provide. Many ranchers have successfully domesticated Texa-Bulls, and they are often used as pack animals and livestock. Many ranchers in the Gulf Coast Wasteland will run cattle drives, where they, with the help of cowboys, herd Texa-bulls and Brahmin north across the wasteland to sell in settlements or to load trains in territory controlled by Caesar's Legion.
+    body: 7
+    mind: 4
+    skills:
+      melee:
+        tag: true
+        rank: 3
+      other:
+        tag: false
+        rank: 2
+    radiation_dr_override: Immune
+    phys_dr_override: "1 (All)"
+    attacks:
+      - name: Horn Charge
+        target_attr: BODY
+        target_skill: Melee
+        damage: 6
+        damage_type: Physical
+        damage_effects: [ Piercing ]
+
+    special_abilities:
+      - name: Immune to Radiation
+        description: The Texa-bull reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+      - name: Stampede
+        description: When Texa-Bulls charge in a straight line, they can trample multiple targets in their path. Make a Horn Charge attack against each target in the path, reducing the TN by 1 for each subsequent target.
+    butchery: Scavengers can butcher a dead Texa-bull with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 set of Texa-bull horns and 2 {CD} of Brahmin meat. If an Effect is rolled, it also yields a Texa-bull hide.
+
+creature_feralarmadillo:
+    name: Feral Armadillo
+    level: 2
+    keywords:
+      - Mutated
+      - Mammal
+    type: Normal
+    exp: 17
+    description: These mutated longhorn cattle have retained their iconic long, curved horns, but they've grown to enormous sizes and have two heads. Texa-Bulls are hulking creatures with tough, mutated hides, often covered in patches of irradiated growths. They are territorial and protective of their herds. If provoked, Texa-Bulls charge at intruders with incredible force, making them a formidable threat in the open plains of Houston's wasteland, but they are otherwise docile. Texa-Bulls are primarily found in the open plains and fields, and their grazing grounds are often sought after by scavengers for the valuable mutated meat they provide. Many ranchers have successfully domesticated Texa-Bulls, and they are often used as pack animals and livestock. Many ranchers in the Gulf Coast Wasteland will run cattle drives, where they, with the help of cowboys, herd Texa-bulls and Brahmin north across the wasteland to sell in settlements or to load trains in territory controlled by Caesar's Legion.
+    body: 5
+    mind: 4
+    skills:
+      melee:
+        tag: true
+        rank: 2
+      other:
+        tag: false
+        rank: 2
+    radiation_dr_override: Immune
+    phys_dr_override: "10 (Torso); 2 (Legs, Arms, Face)"
+    attacks:
+      - name: Bite
+        target_attr: BODY
+        target_skill: Melee
+        damage: 2
+        damage_type: Physical
+        damage_effects: [ Piercing ]
+      - name: Claw Slash
+        target_attr: BODY
+        target_skill: Melee
+        damage: 3
+        damage_type: Physical
+
+    special_abilities:
+      - name: Immune to Radiation
+        description: The Feral Armadillo reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+      - name: Ball Up
+        description: The Feral Armadillo can curl up into a ball as a major action, hiding all vulnerable parts of its body. While curled up, it cannot move or attack, but it can roll around, moving 1 zone per turn. It can uncurl as a major action.
+      - name: Burrow
+        description: As a major action, the Feral Armadillo may burrow underground to get away from its enemies and prepare for its next attack. On its next turn it can use its minor action to appear above ground anywhere within medium range of the place it burrowed. For the cost of 1 AP it may also add an extra {CD} to its bite attack after emerging.
+    butchery: Scavengers can butcher a dead Feral Armadillo with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 portion of Feral Armadillo meat and 1 common material.
+
+creature_bayoubuzzard:
+    name: Bayou Buzzard
+    level: 2
+    keywords:
+      - Mutated
+      - Mammal
+    type: Normal
+    exp: 17
+    description: Bayou Buzzards are large, mutated birds resembling vultures, with mottled, ragged feathers and elongated beaks adapted for tearing through flesh. They are scavengers that circle above the bayous and swamps, feeding on the Rad-Gators' leftovers and scavenging from other deceased creatures. They are known for their keen eyesight. Bayou Buzzards often nest in the treetops of the bayou's gnarled cypress trees, and their nests can be valuable sources of scavenged items for survivors.
+    body: 4
+    mind: 5
+    skills:
+      melee:
+        tag: true
+        rank: 2
+      other:
+        tag: false
+        rank: 2
+    radiation_dr_override: Immune
+    attacks:
+      - name: Talon Slash
+        target_attr: BODY
+        target_skill: Melee
+        damage: 3
+        damage_type: Physical
+
+    special_abilities:
+      - name: Immune to Radiation
+        description: The Feral Armadillo reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+      - name: Keen Eyesight
+        description: Bayou Buzzards have excellent eyesight, allowing them to spot potential threats and prey from 3 zones away.
+      - name: Flying
+        description: Bayou Buzzards can move freely through the air. They ignore most ground-level obstacles and difficult terrain effects, and they can move through “empty” zones above the battlefield if desired. It must spend at least one minor action each turn moving, and if it is knocked prone it falls to the ground, suffering 3 {CD} Stun physical damage, +2 {CD} for each zone above ground level it was before it fell.
+      - name: Dive Bomb
+        description: If a Bayou Buzzard moves into Reach and makes a melee attack in the same turn, it may re-roll 1d20 on the attack. After the attack it may spend 1 AP to move one zone.
+    butchery: Scavengers can butcher a dead Bayou Buzzard with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 {CD} portion of Bayou Buzzard meat. If an Effect is rolled, it also yields 1 Bayou Buzzard talon.
+
+creature_mutatedmonarch:
+    name: Mutated Monarch
+    level: 3
+    keywords:
+      - Mutated
+      - Insect
+      - Non-combatant
+    type: Normal
+    exp: 17
+    description: Mutated Monarch butterflies have developed unique characteristics due to exposure to radiation and the changed ecosystem. They might retain their distinctive orange and black coloration, but with subtle mutations like glowing patterns on their wings. These butterflies serve as symbols of hope and beauty in the wasteland. They do not attack players or other creatures, and when engaged, flee. Players might encounter them near pockets of surviving plant life or as they migrate through the region. Mutated Monarchs could be found in areas with surviving plant life, such as the remains of gardens or parks. They might also be found in the wild, migrating through the region. There are also rumors of a hidden colony of Mutated Monarchs in the ruins of the Houston Museum of Natural Science.
+    body: 4
+    mind: 6
+    skills:
+      melee:
+        tag: true
+        rank: 2
+      other:
+        tag: false
+        rank: 2
+    radiation_dr_override: Immune
+    attacks: []
+
+    special_abilities:
+      - name: Immune to Radiation
+        description: The Feral Armadillo reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+      - name: Flying
+        description: Bayou Buzzards can move freely through the air. They ignore most ground-level obstacles and difficult terrain effects, and they can move through “empty” zones above the battlefield if desired. It must spend at least one minor action each turn moving, and if it is knocked prone it falls to the ground, suffering 3 {CD} Stun physical damage, +2 {CD} for each zone above ground level it was before it fell.
+      - name: Radiant Beauty
+        description: Mutated Monarchs emit a faint, calming glow from their wings. When players interact with them peacefully, they receive temporary buffs to one of their Mental attributes (e.g., +2 to Perception, Intelligence, or Charisma according to the GM's choice) for a limited duration.
+    butchery: Scavengers can butcher a dead Mutated Monarch with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 {CD} portion of Monarch Butterfly Scales. If an Effect is rolled, it also yields 2 scales.

@@ -97,7 +97,7 @@ plugins:
   - macros:
       include_yaml:
         - docs/Background/characters/gator.yaml
-        - docs/Background/creatures/corerulebook/bloodbug.yaml
-        - docs/Background/creatures/radgator.yaml
+        - docs/Background/creatures/corerulebook.yaml
+        - docs/Background/creatures/new_creatures.yaml
   - search
   - section-index

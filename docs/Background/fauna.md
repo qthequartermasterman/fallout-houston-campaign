@@ -72,195 +72,39 @@
 
 [//]: # (similar creatures that already exist.)
 
-## Bloodbugs
-{{ render_creature_block(creature_bloodbug) }}
+## Aggressive Creatures
+### Feral Armadillos
 
-## Rad-Gators:
+{{ render_creature_block(creature_feralarmadillo) }}
+
+### Rad-Gators
 {{ render_creature_block(creature_radgator) }}
 
 
-## Texa-Bulls:
+### Bayou Buzzards
 
-- Description: These mutated longhorn cattle have retained their iconic long, curved horns, but they've grown to
-  enormous sizes. Texa-Bulls are hulking creatures with tough, mutated hides, often covered in patches of irradiated
-  growths.
-- Behavior: They are territorial and protective of their herds. If provoked, Texa-Bulls charge at intruders with
-  incredible force, making them a formidable threat in the open plains of Houston's wasteland.
-- Habitat: Texa-Bulls are primarily found in the open plains and fields, and their grazing grounds are often sought
-  after by scavengers for the valuable mutated meat they provide.
+{{ render_creature_block(creature_bayoubuzzard) }}
 
-### Stats
+### Bloodbugs
+{{ render_creature_block(creature_bloodbug) }}
 
-- Level and Type: Level 6, Mutated
-- Keywords: Mutated, Mammal
-- Body: 10
-- Mind: 4
-- Melee: 7
-- Guns: -
-- Other: 5
-- HP: 16 (10 Body + 6 Level)
-- Initiative: 14 (10 Body + 4 Mind)
-- Defense: 1
-- Physical DR: 3
-- Energy DR: 1
-- Radiation DR: 2
-- Poison DR: 2
+## Passive Creatures
 
-### Attacks:
+### Brahmin
+{{ render_creature_block(creature_brahmin) }}
 
-- Horn Charge: TN 7, Damage 4, Damage Type Physical, Special: If Texa-Bulls score a critical hit with this attack, the
-  target is impaled on their horns and takes additional ongoing damage until freed.
-- Stomp: TN 6, Damage 3, Damage Type Physical, Special: Knocks down the target on a successful hit.
+### Texa-Bulls
+{{ render_creature_block(creature_texabull) }}
 
-### Special Abilities:
+### Radstag
+{{ render_creature_block(creature_radstag) }}
 
-- Stampede: When Texa-Bulls charge in a straight line, they can trample multiple targets in their path. Make a Horn
-  Charge attack against each target in the path, reducing the TN by 1 for each subsequent target.
-- Territorial Rage: When defending their territory or herd, Texa-Bulls gain +2 to all attacks and damage rolls.
-- Mutated Meat: Texa-Bulls provide highly nutritious mutated meat when harvested, which can be a valuable food source.
+### Mutated Monarchs
 
-### Loot/Inventory
+{{ render_creature_block(creature_mutatedmonarch) }}
 
-- Mutated Meat: Texa-Bulls provide a substantial amount of mutated meat. Depending on how the characters butcher the
-  creature, you can determine the amount of meat they obtain. This meat is highly nutritious and sought after in the
-  wasteland, making it a valuable food source.
-- Horns: Texa-Bulls have iconic long, curved horns. These horns can be harvested and may have value as crafting
-  materials, trade items, or even as makeshift weapons.
-- Leather and Hide: The tough, mutated hide of a Texa-Bull can be used for crafting armor, clothing, or other items. The
-  leather and hide are durable and offer decent protection.
-- Miscellaneous Items: Texa-Bulls may have swallowed or carry various items in their stomachs, similar to real-life
-  cattle accidentally ingesting foreign objects. These items can include pre-war artifacts, caps, or other intriguing
-  items. The specific loot found in a Texa-Bull's stomach can be determined by the Game Master (GM) based on the
-  narrative needs of the campaign.
 
-## Feral Armadillos:
 
-- Description: Feral Armadillos are armadillos that have evolved to become hardier and more aggressive. Their bony armor
-  plates have thickened and are now sharp-edged, making them effective in both defense and offense.
-- Behavior: They are solitary creatures that burrow underground for shelter. When threatened, they curl into a defensive
-  ball, using their sharp armor as a weapon to roll into enemies.
-- Habitat: These creatures are commonly found in the remains of suburban areas, using abandoned buildings and
-  underground tunnels as their homes.
 
-### Stats
 
-- Level and Type: Level 3, Mutated
-- Keywords: Mutated, Mammal
-- Body: 6
-- Mind: 4
-- Melee: 5
-- Guns: -
-- Other: 4
-- HP: 9 (6 Body + 3 Level)
-- Initiative: 10 (6 Body + 4 Mind)
-- Defense: 2
-- Physical DR: 2
-- Energy DR: 1
-- Radiation DR: 1
-- Poison DR: 1
 
-### Attacks:
-
-- Claw Slash: TN 6, Damage 2, Damage Type Physical, Special: Feral Armadillos gain +2 to hit when they use this attack
-  while curled into a ball.
-- Rolling Charge: TN 7, Damage 3, Damage Type Physical, Special: Feral Armadillos can roll into a ball and charge at
-  their target. This attack has a chance to knock down the target on a successful hit.
-
-### Special Abilities:
-
-- Armor Plating: Feral Armadillos' bony armor plates provide them with natural damage resistance. They have a +2
-  Physical DR against melee attacks when not curled into a ball.
-- Curl Defense: When Feral Armadillos are threatened, they can curl into a defensive ball as a reaction. In this state,
-  they gain +2 Physical DR against all attacks and can use their Claw Slash attack with a +2 bonus to hit.
-- Burrow: Feral Armadillos can burrow into the ground, allowing them to hide or escape from threats. They gain +2 to
-  Stealth rolls when burrowed.
-
-### Loot/Inventory:
-
-Feral Armadillos may have valuable materials such as armored plates and bones, which can be used for crafting or traded
-as resources in the wasteland.
-
-## Bayou Buzzards:
-
-- Description: Bayou Buzzards are large, mutated birds resembling vultures, with mottled, ragged feathers and elongated
-  beaks adapted for tearing through flesh.
-- Behavior: They are scavengers that circle above the bayous and swamps, feeding on the Rad-Gators' leftovers and
-  scavenging from other deceased creatures. They are known for their keen eyesight.
-- Habitat: Bayou Buzzards often nest in the treetops of the bayou's gnarled cypress trees, and their nests can be
-  valuable sources of scavenged items for survivors.
-
-### Stats
-
-- Level and Type: Level 2, Mutated
-- Keywords: Mutated, Bird
-- Body: 4
-- Mind: 6
-- Melee: 3
-- Guns: -
-- Other: 7
-- HP: 6 (4 Body + 2 Level)
-- Initiative: 10 (4 Body + 6 Mind)
-- Defense: 1
-- Physical DR: 1
-- Energy DR: 1
-- Radiation DR: 2
-- Poison DR: 1
-
-### Attacks:
-
-- Beak Strike: TN 6, Damage 1, Damage Type Physical, Special: Bayou Buzzards gain +2 to hit when attacking a target that
-  is already suffering from radiation poisoning or poison effects.
-- Talon Slash: TN 7, Damage 2, Damage Type Physical, Special: This attack can target a specific body part or inflict
-  Bleeding on a successful hit.
-
-### Special Abilities:
-
-- Keen Eyesight: Bayou Buzzards have excellent eyesight, allowing them to spot potential threats and prey from great
-  distances. They gain +2 to Perception rolls.
-- Scavengers: Bayou Buzzards are scavengers by nature and can find valuable items in the remains of deceased creatures
-  or scavenged from the wasteland. When encountered, they may carry miscellaneous items like caps, small tools, or
-  pre-war trinkets.
-- Aerial Agility: Bayou Buzzards are agile in the air. They can make quick aerial maneuvers to avoid attacks, granting
-  them a +2 bonus to Defense when flying.
-
-### Loot/Inventory:
-
-When players defeat Bayou Buzzards, they may find scavenged items in their nests. These items can include caps, pre-war
-objects, and occasionally useful tools or equipment.
-
-## Mutated Monarchs:
-
-- Description: Mutated Monarch butterflies in the game could have developed unique characteristics due to exposure to
-  radiation and the changed ecosystem. They might retain their distinctive orange and black coloration, but with subtle
-  mutations like glowing patterns on their wings.
-- Behavior: These butterflies could serve as symbols of hope and beauty in the wasteland. They do not attack players or
-  other creatures, and when engaged, flee. Players might encounter them near pockets of surviving plant life or as they
-  migrate through the region.
-- Habitat: Mutated Monarchs could be found in areas with surviving plant life, such as the remains of gardens or parks.
-  They might also be found in the wild, migrating through the region. There are also rumors of a hidden colony of
-  Mutated Monarchs in the ruins of the Houston Museum of Natural Science.
-
-### Stats
-
-- Level and Type: Level 3, Non-combatant, Mutated
-- Keywords: Mutated, Insect
-- Body: 4
-- Mind: 6
-- Melee: -
-- Guns: -
-- Other: 8
-- HP: 6
-- Initiative: 6 (6 Mind)
-- Defense: 1
-- Physical DR: 0
-- Energy DR: 0
-- Radiation DR: 2
-- Poison DR: 1
-
-### Special Abilities:
-
-- Radiant Beauty: Mutated Monarchs emit a faint, calming glow from their wings. When players interact with them
-  peacefully, they receive temporary buffs to their Mental attributes (e.g., +2 to Perception, Intelligence, or
-  Charisma) for a limited duration.
-- Unique Crafting Materials: Mutated Monarchs may drop unique, glowing butterfly scales when carefully collected by
-  players. These scales can be used for crafting special items or enhancing existing ones.

@@ -1,0 +1,103 @@
+creature_bloodbug:
+  name: Bloodbug
+  level: 5
+  keywords:
+    - Mutated
+    - Insect
+  type: Normal
+  exp: 38
+  description: A form of mutated mosquito, bloodbugs can be encountered in swarms wherever there is stagnant water and carrion. Fully grown, their dark reddish-brown bodies reach nearly two feet in length and their razor-sharp proboscis is capable of puncturing though some types of armor. Bloodbugs typically spit irradiated blood to blind their victims before puncturing the disorientated creature with their proboscis to feed on their blood. Brahmin and other domestic creatures often fall prey to these bugs, as well as unwary travelers who underestimate the deadly nature of a swarm.<br> <i>More details can be found in the Core Rulebook, pg 339.</i>
+  body: 6
+  mind: 5
+  skills:
+    melee:
+      tag: true
+      rank: 1
+    other:
+      tag: false
+      rank: 2
+
+  radiation_dr_override: Immune
+  poison_dr_override: Immune
+
+  attacks:
+    - name: Proboscis
+      target_attr: BODY
+      target_skill: Melee
+      damage: 5
+      damage_type: Physical
+
+  special_abilities:
+    - name: Flying
+      description: Bloodbugs can move freely through the air. They ignore most ground-level obstacles and difficult terrain effects, and they can move through “empty” zones above the battlefield if desired. It must spend at least one minor action each turn moving, and if it is knocked prone it falls to the ground, suffering 3 {CD} Stun physical damage, +2 {CD} for each zone above ground level it was before it fell.
+    - name: Little
+      description: Bloodbugs are smaller than most characters. The creature’s normal HP decreases to Body + 1⁄2 level (rounded up), but its Defense increases by 1. Further, it is slain by any hit which inflicts an Injury.
+    - name: Immune to Radiation
+      description: The bloodbug reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+  butchery: Scavengers can butcher a dead bloodbug with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 portion of bloodbug meat and 1 uncommon material.
+
+creature_brahmin:
+  name: Brahmin
+  level: 3
+  keywords:
+    - Mutated
+    - Mammal
+  type: Normal
+  exp: 24
+  description: A staple of many settlements, brahmin are one of the most found creatures in the wasteland. These mutated cattle share much with pre-War era cows, though the nuclear fallout has caused them to develop two heads and abnormally large udders. They can produce milk and meat and can be harvested for their hide. Wild brahmin roam the wasteland in small herds, but these creatures are commonly encountered being bred for livestock or used as pack animals by merchants. Their strong and bulky form make them resilient enough for long travel and heavy loads, and their docile nature allows for them to be handled easily.<br> <i>More details can be found in the Core Rulebook, pg 341.</i>
+  body: 6
+  mind: 4
+  skills:
+    melee:
+      tag: true
+      rank: 1
+    other:
+      tag: false
+      rank: 2
+  radiation_dr_override: Immune
+  phys_dr_override: "1 (All)"
+  attacks:
+    - name: Headbutt
+      target_attr: BODY
+      target_skill: Melee
+      damage: 4
+      damage_type: Physical
+
+  special_abilities:
+    - name: Immune to Radiation
+      description: The brahmin reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+  butchery: Scavengers can butcher a dead brahmin with a successful <b>END + Survival</b> test with a difficulty of 0. This yields 1 portion of brahmin meat and 2 uncommon material.
+
+creature_radstag:
+  name: Radstag
+  level: 5
+  keywords:
+    - Mutated
+    - Mammal
+  type: Normal
+  exp: 38
+  description: These creatures are the mutated descendants of the common deer. While they retain a mostly unchanged form in that their body remains deer-like and they sport antlers, they suffer the same mutation as brahmin in having two heads. The inner eye of each head is blind, requiring the radstag to navigate using both heads. Like brahmin, both heads can move independently. The other strange mutation that is very apparent is the additional two legs that hang undeveloped from the front of the creature’s chest. While the radstag can bend these legs when needed for comfort, such as when laying down, they are otherwise useless. While radstags still retain a coat, it is often mangey in places from radiation, and rabid radstags often lose their coat in places. These creatures travel in packs and are usually docile unless threatened.<br> <i>More details can be found in the Core Rulebook, pg 352.</i>
+  body: 6
+  mind: 5
+  skills:
+    melee:
+      tag: true
+      rank: 3
+    other:
+      tag: false
+      rank: 2
+  radiation_dr_override: Immune
+  phys_dr_override: "1 (All)"
+  attacks:
+    - name: Antlers
+      target_attr: BODY
+      target_skill: Melee
+      damage: 5
+      damage_type: Physical
+      damage_effects: [Piercing]
+
+  special_abilities:
+    - name: Immune to Radiation
+      description: The radstag reduces all Radiation damage suffered to 0 and cannot suffer any damage or effects from radiation.
+  butchery: Scavengers can butcher a dead radstag with a successful <b>END + Survival</b> test with a difficulty of 0. If an Effect is rolled, it also yields a radstag hide.
+
