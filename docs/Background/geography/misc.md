@@ -26,7 +26,7 @@ paths and detours.
 
 ### Wildlife
 
-*Main articles: [Flora](../flora.md) and [Fauna](../fauna.md)*
+*Main articles: [Flora](../../denizens_of_the_wasteland/flora.md) and [Fauna](../../denizens_of_the_wasteland/fauna.md)*
 
 The wasteland is home to a variety of mutated wildlife, some of which are aggressive and territorial. Players will
 encounter creatures like radstags, mutant alligators, irradiated insects, and more as they explore the wilderness.

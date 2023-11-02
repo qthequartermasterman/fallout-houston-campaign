@@ -8,26 +8,27 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - "Background":
-      - "Factions":
-          - 'Background/factions/index.md'
-          - 'Background/factions/lonestarrepublic.md'
-          - 'Background/factions/oilbarons.md'
-          - 'Background/factions/thegalvestonpirates.md'
-          - 'Background/factions/bayoubrotherhood.md'
-          - 'Background/factions/spaceportsurvivors.md'
-      - "Pre-war Companies": Background/companies.md
+  - The Gulf Coast Wasteland:
       - "Geography":
-        - 'Background/geography/map.md'
-        - 'Background/geography/neighborhoods.md'
-        - 'Background/geography/roads.md'
-        - 'Background/geography/vaults.md'
-        - 'Background/geography/nuclear_targets.md'
-        - 'Background/geography/misc.md'
-      - "Fauna": Background/fauna.md
-      - "Flora": Background/flora.md
+          - 'Background/geography/map.md'
+          - 'Background/geography/neighborhoods.md'
+          - 'Background/geography/vaults.md'
+          - 'Background/geography/roads.md'
+          - 'Background/geography/nuclear_targets.md'
+          - 'Background/geography/misc.md'
+      - "Pre-war Companies": Background/companies.md
       - "Sim Settlements 2 Elements": Background/sim-settlements-elements.md
       - "Background Events": Background/background.md
+  - Denizens of the Wasteland:
+      - "Animals & Insects": denizens_of_the_wasteland/fauna.md
+      - "Plants": denizens_of_the_wasteland/flora.md
+      - "Factions":
+          - 'denizens_of_the_wasteland/factions/index.md'
+          - 'denizens_of_the_wasteland/factions/bayoubrotherhood.md'
+          - 'denizens_of_the_wasteland/factions/thegalvestonpirates.md'
+          - 'denizens_of_the_wasteland/factions/lonestarrepublic.md'
+          - 'denizens_of_the_wasteland/factions/oilbarons.md'
+          - 'denizens_of_the_wasteland/factions/spaceportsurvivors.md'
   - "Story":
       - "Outline": Story/outline.md
       - "Prologue":
@@ -96,8 +97,8 @@ plugins:
   - include-markdown
   - macros:
       include_yaml:
-        - docs/Background/characters/bayoubrotherhood.yaml
-        - docs/Background/creatures/corerulebook.yaml
-        - docs/Background/creatures/new_creatures.yaml
+        - docs/denizens_of_the_wasteland/characters/bayoubrotherhood.yaml
+        - docs/denizens_of_the_wasteland/creatures/corerulebook.yaml
+        - docs/denizens_of_the_wasteland/creatures/new_creatures.yaml
   - search
   - section-index
