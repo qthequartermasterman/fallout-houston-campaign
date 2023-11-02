@@ -96,7 +96,7 @@ plugins:
   - include-markdown
   - macros:
       include_yaml:
-        - docs/Background/characters/gator.yaml
+        - docs/Background/characters/bayoubrotherhood.yaml
         - docs/Background/creatures/corerulebook.yaml
         - docs/Background/creatures/new_creatures.yaml
   - search
