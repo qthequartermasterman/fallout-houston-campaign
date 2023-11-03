@@ -33,6 +33,172 @@ character_gator:
     survival:
       tag: true
       rank: 3
+    melee_weapons:
+      tag: false
+      rank: 1
+  special_abilities:
+    - name: Bayou Mastery
+      description: Cyrus, as a lifelong bayou resident, possesses an exceptional understanding of the swamp's treacherous waters and its wildlife. He can navigate the bayou with ease, avoiding hidden dangers and shortcuts. Additionally, he is an expert hunter and fisherman, able to provide food and resources to the community more efficiently.
+    - name: Angler's Intuition
+      description: The fisherman has honed his fishing skills over a lifetime in the bayou. He can determine the best locations and times to catch fish and other aquatic creatures with great accuracy. Additionally, his sharp eyes can spot potential threats or valuable resources in the water more easily.
+    - name: Diplomatic Insight
+      description: The elder is a skilled diplomat and mediator. Their ability to read people and situations allows them to negotiate more effectively, make wise decisions, and find common ground during diplomatic discussions. They can also defuse tense situations and foster cooperation with other factions.
+
+character_swampsage:
+  name: Ezekiel "Swamp Sage" Thibodeaux
+  level: 8
+  exp: 38
+  type: Notable
+  keywords:
+    - Human
+  description: Ezekiel "Swamp Sage" Thibodeaux is a enigmatic figure within the Bayou Brotherhood, revered as the spiritual heart of the community. Born and raised in the bayou, Ezekiel has spent his entire life studying the intricate relationship between the swamp and the cosmic forces that govern it. His deep understanding of the bayou's hidden mysteries and the ethereal connections that bind all things sets him apart as a mystic and a guide for the Bayou Outpost. <br> Ezekiel's appearance is both weathered and wise. He is of average height, his body adorned with tattoos and amulets crafted from bayou materials. He wears a robe made of gator skins and bayou vines, and his long, tangled hair is adorned with feathers and beads. His eyes, a piercing shade of green, seem to hold the wisdom of centuries. <br> As the spiritual leader of the Bayou Brotherhood, Ezekiel plays a crucial role in maintaining the community's balance and harmony with the swamp. He conducts ceremonies, rituals, and spiritual practices to seek blessings from the bayou's guardian spirits. His wisdom is highly respected by the residents, and his spiritual guidance is sought for major decisions, such as trade agreements and resolving conflicts with neighboring factions.
+  special:
+    strength: 4
+    perception: 10
+    endurance: 7
+    charisma: 6
+    intelligence: 9
+    agility: 5
+    luck: 5
+  skills:
+    barter:
+      tag: false
+      rank: 1
+    medicine:
+      tag: true
+      rank: 2
+    sneak:
+      tag: false
+      rank: 1
+    speech:
+      tag: true
+      rank: 5
+    survival:
+      tag: true
+      rank: 5
     unarmed:
       tag: false
       rank: 1
+  special_abilities:
+    - name: Bayou Mastery
+      description: Swamp Sage, as a lifelong bayou resident, possesses an exceptional understanding of the swamp's treacherous waters and its wildlife. He can navigate the bayou with ease, avoiding hidden dangers and shortcuts. Additionally, he is an expert hunter and fisherman, able to provide food and resources to the community more efficiently.
+    - name: Cosmic Insight
+      description: Ezekiel "Swamp Sage" Thibodeaux's can access esoteric knowledge about the bayou and the cosmos. He can commune with the spirits of the swamp, foretell future events, and decipher hidden messages in the natural world. This insight can provide valuable guidance to the player characters during their quests and adventures in the bayou, aiding them in decision-making and unraveling the mysteries of the region.
+    - name: Cultural Preservation
+      description: The Swamp Sage has an extensive knowledge of the settlement's history, traditions, and folklore. He serves as a storyteller, preserving the community's cultural heritage and ensuring it is passed down to younger generations.
+
+character_brotherhoodelder:
+  name: Bayou Brotherhood Elder
+  level: 5
+  exp: 38
+  type: Notable
+  keywords:
+    - Human
+  description: The Bayou Brotherhood Elder is a highly respected and wise leader within the Bayou Outpost. This class of NPC is responsible for making important decisions, preserving the community's traditions, and providing guidance to the residents. Many Bayou Brotherhood Elders have spent their entire lives in the swamp, honing their skills and knowledge of the bayou's unique challenges and opportunities. <br> Bayou Brotherhood Elders are typically characterized by their advanced age, reflecting a lifetime of experience in the bayou. They often wear clothing that blends practicality with the traditions of the settlement, incorporating materials from the swamp, such as gator skin, moss-covered accessories, and bayou plant dyes. Their weathered features and deep-set eyes convey a sense of wisdom and resilience. <br> Bayou Brotherhood Elders are the moral compass and guiding force of the Bayou Outpost. They participate in the settlement's council, offering advice and making decisions that impact the community's future. They are also responsible for conflict resolution, maintaining diplomacy with neighboring factions, and ensuring the settlement's cultural identity remains intact. <br> Bayou Brotherhood Elders are a vital part of the settlement's leadership, providing players with opportunities for diplomacy, quest-giving, and deepening their understanding of the Bayou Outpost's history and traditions.
+  special:
+    strength: 6
+    perception: 8
+    endurance: 6
+    charisma: 9
+    intelligence: 6
+    agility: 4
+    luck: 6
+  skills:
+    barter:
+      tag: true
+      rank: 2
+    medicine:
+      tag: false
+      rank: 1
+    sneak:
+      tag: false
+      rank: 1
+    speech:
+      tag: true
+      rank: 4
+    survival:
+      tag: true
+      rank: 3
+    unarmed:
+      tag: false
+      rank: 1
+  special_abilities:
+    - name: Bayou Mastery
+      description: Bayou Brotherhood Elders, as a lifelong bayou resident, possess an exceptional understanding of the swamp's treacherous waters and its wildlife. They can navigate the bayou with ease, avoiding hidden dangers and shortcuts. Additionally, they are expert hunters and fishermen, able to provide food and resources to the community more efficiently.
+    - name: Diplomatic Insight
+      description: The elder is a skilled diplomat and mediator. Their ability to read people and situations allows them to negotiate more effectively, make wise decisions, and find common ground during diplomatic discussions. They can also defuse tense situations and foster cooperation with other factions.
+    - name: Cultural Preservation
+      description: Elders have an extensive knowledge of the settlement's history, traditions, and folklore. They serve as storytellers, preserving the community's cultural heritage and ensuring it is passed down to younger generations.
+
+character_brotherhoodengineer:
+  name: Bayou Brotherhood Engineer
+  level: 5
+  exp: 38
+  type: Normal
+  keywords:
+    - Human
+  description: The Bayou Brotherhood Engineer is a resourceful and indispensable member of the Bayou Outpost, skilled in the art of maintaining and repairing the settlement's essential infrastructure and technology. Possessing a deep understanding of pre-war machinery and a talent for improvisation, these engineers can not only keep the outpost's water purification systems, generators, and defenses operational but also devise innovative solutions to address the ever-present challenges of the swamp. With their mechanical prowess and an eye for converting salvaged materials into valuable assets, the Bayou Brotherhood Engineer plays a vital role in ensuring the settlement's survival in the harsh and unpredictable bayou environment.
+  special:
+    strength: 5
+    perception: 6
+    endurance: 5
+    charisma: 4
+    intelligence: 8
+    agility: 4
+    luck: 6
+  skills:
+    science:
+      tag: true
+      rank: 4
+    repair:
+      tag: true
+      rank: 5
+    pilot:
+      tag: false
+      rank: 2
+    survival:
+      tag: false
+      rank: 1
+
+  special_abilities:
+    - name: Bayou Mastery
+      description: Bayou Brotherhood Elders, as a lifelong bayou resident, possess an exceptional understanding of the swamp's treacherous waters and its wildlife. They can navigate the bayou with ease, avoiding hidden dangers and shortcuts. Additionally, they are expert hunters and fishermen, able to provide food and resources to the community more efficiently.
+    - name: Mechanical Savvy
+      description: The chief engineer excels in understanding and repairing pre-war technology. Their expertise allows them to restore and modify technology more efficiently than others. They can also jury-rig devices and defenses to improve the outpost's security.
+
+
+character_brotherhoodfisher:
+  name: Bayou Brotherhood Fisher/Hunter
+  level: 5
+  exp: 38
+  type: Normal
+  keywords:
+    - Human
+  description: The Bayou Brotherhood Engineer is a resourceful and indispensable member of the Bayou Outpost, skilled in the art of maintaining and repairing the settlement's essential infrastructure and technology. Possessing a deep understanding of pre-war machinery and a talent for improvisation, these engineers can not only keep the outpost's water purification systems, generators, and defenses operational but also devise innovative solutions to address the ever-present challenges of the swamp. With their mechanical prowess and an eye for converting salvaged materials into valuable assets, the Bayou Brotherhood Engineer plays a vital role in ensuring the settlement's survival in the harsh and unpredictable bayou environment.
+  special:
+    strength: 5
+    perception: 7
+    endurance: 5
+    charisma: 4
+    intelligence: 5
+    agility: 4
+    luck: 8
+  skills:
+    survival:
+      tag: true
+      rank: 4
+    unarmed:
+      tag: true
+      rank: 3
+    pilot:
+      tag: false
+      rank: 1
+    small_guns:
+      tag: false
+      rank: 1
+
+  special_abilities:
+    - name: Bayou Mastery
+      description: Bayou Brotherhood Elders, as a lifelong bayou resident, possess an exceptional understanding of the swamp's treacherous waters and its wildlife. They can navigate the bayou with ease, avoiding hidden dangers and shortcuts. Additionally, they are expert hunters and fishermen, able to provide food and resources to the community more efficiently.
+    - name: Angler's Intuition
+      description: The fisherman has honed his fishing skills over a lifetime in the bayou. He can determine the best locations and times to catch fish and other aquatic creatures with great accuracy. Additionally, his sharp eyes can spot potential threats or valuable resources in the water more easily.

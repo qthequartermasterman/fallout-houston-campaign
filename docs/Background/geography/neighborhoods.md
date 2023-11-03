@@ -121,9 +121,9 @@ A young member of the Bayou Outpost has lost a family heirloom – a treasured n
     
     **Add 1 AP per PC to the GM's pool when the quest begins.**
 
-*Quest Giver: Cyrus "Gator" Thibodeaux*
+*Quest Giver: Cyrus "Gator" Boudreaux*
 
-The settlement's leader, Cyrus "Gator" Thibodeaux, needs the players' help in locating a missing scout who went on a crucial mission but hasn't returned. The scout was last seen investigating a Raider Encampment that posed a potential threat to the Bayou Outpost. Players must navigate the bayou's waterways, uncover the fate of the missing scout, and gather intelligence on the rival settlement. This quest may involve diplomacy, stealth, or combat, depending on the situation players encounter.
+The settlement's leader, Cyrus "Gator" Boudreaux, needs the players' help in locating a missing scout who went on a crucial mission but hasn't returned. The scout was last seen investigating a Raider Encampment that posed a potential threat to the Bayou Outpost. Players must navigate the bayou's waterways, uncover the fate of the missing scout, and gather intelligence on the rival settlement. This quest may involve diplomacy, stealth, or combat, depending on the situation players encounter.
 
 #### Side Quest: Tales of the Swamp
 
@@ -143,7 +143,7 @@ An elderly settler, the outpost's historian and storyteller, wants the players t
     
     **Add 1 AP per PC to the GM's pool when the quest begins.**
 
-*Quest Giver: Settlement Council Elder or Cyrus "Gator" Thibodeaux*
+*Quest Giver: Settlement Council Elder or Cyrus "Gator" Boudreaux*
 
 The council of elders at the Bayou Outpost has decided that it's time to establish formal diplomatic relations with a neighboring settlement to improve trade and security. The players are chosen as envoys and must venture to the nearby settlement to negotiate an agreement. However, they quickly discover that the rival settlement has its own challenges and conflicts. Players must navigate a web of diplomacy, make important decisions, and find ways to build trust between the two communities, all while facing moral dilemmas that may impact the bayou's future.
 

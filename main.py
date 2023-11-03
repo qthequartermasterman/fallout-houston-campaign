@@ -254,7 +254,7 @@ class Character(Entity):
         base = self.special.agility + self.special.perception
         if self.type == Type.notable:
             return base + 2
-        elif self.major == Type.major:
+        elif self.type == Type.major:
             return base + 4
         else:
             return base

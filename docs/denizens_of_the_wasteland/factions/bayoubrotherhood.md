@@ -20,7 +20,18 @@
       any practical reasons. Symbolically, however, they see the spaceport as an opportunity for humanity to reconnect
       with the cosmos and rediscover their place in the universe.
 
-## Characters
+## Notable Characters
 ### Cyrus "Gator" Boudreaux
 {{ render_character_block(character_gator) }}
+
 ### Ezekiel "Swamp Sage" Thibodeaux
+{{ render_character_block(character_swampsage) }}
+
+### Bayou Brotherhood Elder
+{{ render_character_block(character_brotherhoodelder) }}
+
+### Bayou Brotherhood Engineer
+{{ render_character_block(character_brotherhoodengineer) }}
+
+### Bayou Brotherhood Fisher/Hunter
+{{ render_character_block(character_brotherhoodfisher) }}
