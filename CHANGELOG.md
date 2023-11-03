@@ -2,6 +2,19 @@
 
 
 
+## v0.21.1 (2023-11-01)
+
+### Fix
+
+* fix: creature images ([`6c6116a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6c6116a22ea4cf38345585eda30fd1d5418d6aa9))
+
+* fix: gatorclaw image ([`c62f9aa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c62f9aa342dca80c62e80b0ac69a0fe9db07000e))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`fdea9ef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fdea9ef2ec073e2a537d63c88c3b41d1ece53faa))
+
+
 ## v0.21.0 (2023-11-01)
 
 ### Feature
