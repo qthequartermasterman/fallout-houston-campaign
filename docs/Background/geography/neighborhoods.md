@@ -527,9 +527,18 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 [Scarsdale](geo:29.597558276275628,-95.19936322527144)
 
+|                                         |                    |
+|-----------------------------------------|--------------------|
+| **Population**                          | 70                 |
+| **Defenses**                            | Strong             |
+| **Food Supply**                         | Abundant           |
+| **Denizen Outlook**                     | Friendly           |
+| **Faction Affiliation**                 | Lone Star Republic |
+| **Starting Settlement Reputation Rank** | Neutral (2)        |
+
 - Found at the lower intersection of I-45 and the Sam Houston Tollway, Scarsdale was a small non-descript settlement before the Great War, but its strategic location on the way to the coast has enabled it to grow into a serious trading hub.
 - Scarsdale is a member settlement of the Lone Star Republic.
-- It is governed by a council of traders, who are elected by the settlement's residents. The council is responsible for managing the settlement's trade agreements and ensuring that the settlement's needs are met.
+- It is governed by a town council, who are elected by the settlement's residents. The council is responsible for managing the settlement's trade agreements and ensuring that the settlement's needs are met.
 - Scarsdale occasionally has to fend off attacks from raiders and other hostile factions, but the settlement's defenses are strong enough to repel most attacks. 
 - The residents keep an eye on the ghouls that inhabit the nearby Ellington Field ruins, but they have not had any major conflicts with them.
 
@@ -546,12 +555,64 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 ### NPCs
 - Rumormonger Wilkins: A chatty and inquisitive local resident. Wilkins can be found at any of the settlement's gathering area, but most frequently at Pipes, eager to share information, for those that will buy him a drink.
 - Lena "Pipes" Santos: A bar owner who has her ears to the ground. Players can find her establishment near the market area. She is a former caravan guard who settled in Scarsdale.
-- Trader Councilor Jenna Redwood: A seasoned trader and shrewd negotiator, Jenna Redwood leads the council of traders and is well-respected in Scarsdale's bustling marketplace.
+- Trader Councilor Jenna Redwood: A seasoned trader and shrewd negotiator, Jenna Redwood leads the town council and is well-respected in Scarsdale's bustling marketplace.
 - Doctor Abigail Sterling: Dr. Sterling is a compassionate and skilled physician who has dedicated her life to healing the settlement's residents and visitors.
 - Elias Cross: Elias Cross, the merchant of Scarsdale Outfitters, is known for his resourcefulness and ability to source rare and valuable items for his store.
 - Barrett Stone: Barrett Stone is a grizzled caravan master who ensures the safety of Scarsdale's caravans, navigating the wasteland's dangers with expertise.
 - Lily Harper: Lily Harper, the motel manager, offers travelers a warm and comfortable place to rest, making her a welcoming presence in the settlement.
 - Felix Mitchel: Felix Mitchel, the superintendent of the apartment complexes, was originally a handyman before the Great War. He became a ghoul after the bombs fell, and simply continued to do what he did before the war, fixing things and keeping the apartment complexes in good shape. He is a friendly and helpful ghoul, who is well-liked by the settlement's residents.
+
+### Quests
+#### Side Quest: Lost Caravan
+!!! info ""
+
+    This quest becomes available so long as the players' Scarsdale settlement reputation is at least Cautious (rank 1).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Caravan Master Barrett Stone*
+
+One of Scarsdale's caravans has gone missing in the wasteland, and Caravan Master Barrett Stone is desperate to locate them. Players are tasked with unraveling the mystery of the caravan's disappearance, following a trail of clues, encounters with hostile factions, and potentially uncovering a new and dangerous threat to the settlement. The fate of the missing caravan, as well as the future of Scarsdale's trade routes, rests in the players' hands.
+
+#### Side Quest: The Ellington Field Dilemma
+!!! info ""
+
+    This quest becomes available so long as the players' Scarsdale settlement reputation is at least Trusting (rank 4).
+    
+    **Add 2 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Trader Councilor Jenna Redwood*
+
+Trader Councilor Jenna Redwood is troubled by persistent rumors circulating among the residents of Scarsdale. Whispers of a hidden settlement of sentient ghouls in the nearby Ellington Field have reached her ears. Given the settlement's history of feral ghoul attacks, the revelation of sentient ghouls residing in the area is both surprising and potentially game-changing for Scarsdale's survival. Jenna calls upon the players to investigate these claims and explore the possibility of forming an alliance with the ghouls to bolster the settlement's defenses against the frequent feral raids. She tasks the players to find evidence of the sentient ghouls' existence, and if possible establish contact with them.
+
+Potential outcomes for this quest might include:
+
+- The players discover some evidence of the sentient ghouls' existence, but are unable to establish contact with them.
+- The players establish contact with the sentient ghouls, but are unable to convince them to form an alliance with Scarsdale.
+- The players establish contact with the sentient ghouls and convince them to form an alliance with Scarsdale if Scarsdale agrees to help the sentient ghouls clear out the feral ghouls in Ellington Field.
+- With the help of the Lone Star Republic's Texas Rangers, the players participate in a raid on the feral ghoul nest in Ellington Field, clearing the area of the threat and allowing the sentient ghouls to establish a stronger settlement there.
+
+#### Side Quest: Mysterious Motel Heist
+!!! info ""
+
+    This quest becomes available so long as the players' Scarsdale settlement reputation is at least Cautious (rank 1).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Lily Harper (Motel Manager)*
+
+The settlement's motel has been targeted by a group of cunning thieves who've made off with a valuable collection of pre-war memorabilia belonging to Lily Harper. Players are enlisted to investigate the crime scene, question potential witnesses, and track down the thieves who have scattered into the wasteland. As they delve deeper into the mystery, players may uncover a surprising motive behind the theft and a moral dilemma regarding whether to return the stolen items or claim them for the settlement.
+
+#### Side Quest: Medicinal Shortage
+!!! info ""
+
+    This quest becomes available so long as the players' Scarsdale settlement reputation is at least Cautious (rank 1).
+    
+    **Add 1 AP per PC to the GM's pool when the quest begins.**
+
+*Quest Giver: Doctor Abigail Sterling*
+
+Doctor Sterling, the settlement's physician, is running critically low on essential medical supplies needed to treat the injured and sick residents. The players are tasked with venturing into the dangerous wasteland to locate a hidden cache of medical goods, navigating treacherous territory and potentially encountering rival factions or mutated creatures along the way. Their success will determine the health and well-being of the Scarsdale community.
 
 ## Clear Lake Refuge (formerly Clear Lake)
 
