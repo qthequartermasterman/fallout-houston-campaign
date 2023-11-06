@@ -2,6 +2,10 @@
 
 <!--availability-start-->
 *Available after completing [Main Quest: Lost in the Bayou](Quest1.md)*
+
+**Add 2 Action Points per Player Character to the GM’s pool when the quest begins.**
+
+This quest expects players to be at Level 2. If they are not, the GM should adjust the difficulty of encounters accordingly.
 <!--availability-end-->
 
 ## Summary
@@ -23,7 +27,16 @@
 
 ### Whispered Rumors
 
-- The player, while visiting a local settlement (likely [Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)), overhears hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
+!!! info ""
+
+    Although this quest is written to start in Scarsdale, which is a settlement near the Spaceport, it can be adapted to start in any settlement near the Spaceport. The key is that the player hears rumors of the Spaceport Survivors and their alliance with the Lone Star Republic.
+
+    Scarsdale is at a key location where most routes from the Bayou Outpost to the Spaceport converge, so it is a natural place for the players to pass through. If they take a different route, you can adapt the quest to start in a different settlement, such as:
+
+    - [Clear Lake Refuge](../../Background/geography/neighborhoods.md#clear-lake-refuge-formerly-clear-lake), if the players navigate using solely the various rivers in the Bayou.
+    - [Sunset Trading Post](../../Background/geography/neighborhoods.md#minor-settlements), if the players navigates using the coast.
+
+- The players, while visiting a settlement near the Spcaeport ([Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)), overhear hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
 - Rumors suggest that the Spaceport holds secrets and technology from before the Great War, and the Lone Star Republic's interest in it has piqued the curiosity of other factions, including the Galveston Pirates.
 
 As the players navigate the Scarsdale marketplace, you should set the scene with vivid descriptions of the marketplace's layout, the various stalls, and traders haggling over goods. The market is a bustling place, and NPCs are engaged in conversations, bartering, and going about their business. The Pipes Bar and Grill is in particular a popular spot, with many patrons enjoying a drink and a meal both in the tables outside and inside the bar. The player can interact with various NPCs, including traders, mercenaries, and other visitors.
