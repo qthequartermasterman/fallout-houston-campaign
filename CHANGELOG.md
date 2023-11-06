@@ -2,6 +2,29 @@
 
 
 
+## v0.22.0 (2023-11-03)
+
+### Feature
+
+* feat: bayou brotherhood character stat blocks ([`3dc1ada`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/3dc1ada395af6d1d5a2c16d53d32e49e3827f202))
+
+* feat: change chapter structure ([`4841f2e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/4841f2e48ea7538eee02be3361ac88bc56d9a845))
+
+### Fix
+
+* fix: fix combat dice image ([`91c38aa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/91c38aa377857b1f15ef50fe9fb98e24f7e5ef59))
+
+* fix: incorrect creature names ([`5987005`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/59870050306a04385b5c7ca955e86383aa72a6e3))
+
+### Refactor
+
+* refactor: small changes ([`a934326`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a934326e8096b0415ee5eda8a87956e632c404c3))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`bce6466`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/bce646662fd5dbd0da426fc0e447e5fad9fb25f2))
+
+
 ## v0.21.1 (2023-11-01)
 
 ### Fix
