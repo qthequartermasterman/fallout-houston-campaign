@@ -525,7 +525,7 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Scarsdale Map](../../Assets/maps/scarsdale-map.jpeg)
 
-[Scarsdale](geo:29.597558276275628, -95.19936322527144)
+[Scarsdale](geo:29.597558276275628,-95.19936322527144)
 
 - Found at the lower intersection of I-45 and the Sam Houston Tollway, Scarsdale was a small non-descript settlement before the Great War, but its strategic location on the way to the coast has enabled it to grow into a serious trading hub.
 - Scarsdale is a member settlement of the Lone Star Republic.

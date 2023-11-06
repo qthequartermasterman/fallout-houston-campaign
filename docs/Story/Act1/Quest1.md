@@ -11,6 +11,7 @@ This quest expects players to be at Level 1. If they are not, the GM should adju
 ## Summary
 
 <!--summary-start-->
+
 - Players wake up in the Bayou Brotherhood's settlement led by Cyrus "Gator" Boudreaux, disoriented and rescued from a shipwreck.
 - Gator believes the player's vision of the Sea of Tranquility is significant and connects to the Bayou's cosmic forces.
 - Players are tasked with exploring the Bayou, guided by a mystical charm, to find clues related to their vision.
@@ -61,6 +62,7 @@ After reading the introduction, invite the players to introduce their characters
 Ask the characters to make a group **CHA + Speech** test with a difficulty of 0, allowing the PCs to store additional successes as AP in the group pool or spend them to **Obtain Information** from Gator.
 
 Information that can be obtained includes:
+
 - The Bayou Brotherhood is a group of people who, generations ago, found a home in the Bayou and have formed a community based on their shared beliefs.
 - The Bayou Brotherhood believes in the Bayou's mystical connection to the cosmos and the importance of understanding its message.
 - "The Bayou" is actually a system of rivers and swamps that stretches across the Gulf Coast Wasteland, from the Bay in the east to branches reaching the large swamps on either side of Western Reach and the Energy Corridor in the west. The Sims branch runs south of the city, all the way to Sugar Junction.
@@ -106,6 +108,7 @@ Gator explains to the players that they are welcome to stay with the Brotherhood
 
 Ask the characters to make a group **PER + Survival** test with a difficulty of 0, allowing the PCs to store additional successes as AP in the group pool or spend them to **Obtain Information** from the environment.
 Information that can be obtained includes:
+
 - An old man sits on a rocking chair humming an old tune to himself with his eyes closed. (This is Ezekiel Thibodeaux, who is the Bayou Brotherhood's spiritual leader. He is known as the Swamp Sage and is said to have a deep understanding of the Bayou's mystical connection to the cosmos.)
 - A young settler is desperately looking for something. If the players approach this young settler, it prompts the quest [Side Quest: The Lost Relic](../../Background/geography/neighborhoods.md#side-quest-the-lost-relic).
 - A group of children are playing a game of tag, chasing each other through the settlement.
