@@ -1,5 +1,4 @@
 mkdocs-include-markdown-plugin==6.0.3
 mkdocs-material==9.4.6
 mkdocs-macros-plugin==1.0.4
-mkdocs-section-index==0.3.8
 pydantic==2.4.2

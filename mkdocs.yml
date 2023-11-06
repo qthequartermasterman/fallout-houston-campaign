@@ -57,9 +57,12 @@ theme:
   name: material
   features:
     - content.action.edit
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - navigation.path
+    - navigation.prune
+    - navigation.indexes
     - search.suggest
   icon:
     repo: fontawesome/brands/github
@@ -101,4 +104,3 @@ plugins:
         - docs/denizens_of_the_wasteland/creatures/corerulebook.yaml
         - docs/denizens_of_the_wasteland/creatures/new_creatures.yaml
   - search
-  - section-index
