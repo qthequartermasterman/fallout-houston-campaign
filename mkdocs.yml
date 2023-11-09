@@ -18,6 +18,7 @@ nav:
           - 'Background/geography/misc.md'
       - "Pre-war Companies": Background/companies.md
       - "Sim Settlements 2 Elements": Background/sim-settlements-elements.md
+      - 'Background/theming_music.md'
       - "Background Events": Background/background.md
   - Denizens of the Wasteland:
       - "Animals & Insects": denizens_of_the_wasteland/fauna.md
@@ -63,6 +64,7 @@ theme:
     - navigation.expand
     - navigation.prune
     - navigation.indexes
+    - navigation.top
     - search.suggest
   icon:
     repo: fontawesome/brands/github
