@@ -47,6 +47,9 @@ nav:
           - 'Story/Act2/index.md'
       - "Act III: The Battle for the Spaceport":
           - 'Story/Act3/index.md'
+      - "Post Game Campaigns":
+          - 'Story/DLC/TheCorpse.md'
+          - 'Story/DLC/elpaso.md'
 
   - About:
       - License: about/license.md
