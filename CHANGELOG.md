@@ -2,6 +2,27 @@
 
 
 
+## v0.22.1 (2023-11-06)
+
+### Fix
+
+* fix: navigation ([`e3a4c8d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e3a4c8dfaa41a4b68e3aa01e55c6ab9323678233))
+
+* fix: add header to quest 2 ([`b610c69`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b610c696fe4f6f290738bf7022f7901355c0503a))
+
+* fix: add side quests to Scarsdale ([`825f6ce`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/825f6ce8ff43614e0ec2871b6712e8a6fb15fb66))
+
+* fix: add alt text to combat dice image ([`207dafd`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/207dafdd7ff79433b8a6633ec12dda22f345afcc))
+
+### Style
+
+* style: style fixes ([`1009f04`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/1009f048de32f8447b68e05023a0101560cee259))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`e99683d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e99683d441b7f41481dbc25e86bf091e5c0f4d47))
+
+
 ## v0.22.0 (2023-11-03)
 
 ### Feature
