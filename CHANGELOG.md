@@ -2,6 +2,19 @@
 
 
 
+## v0.23.0 (2023-11-09)
+
+### Feature
+
+* feat: initial post-game content ([`bab1760`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/bab1760b42250f6eacd3051d7fdded06ef169ca8))
+
+* feat: radio playlist ([`7863339`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/78633392a5faaeec08e1a2d43879a810c0bc4d08))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`6eaf5e0`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6eaf5e0f8a575b6eb51eae8a257c864544aaa716))
+
+
 ## v0.22.1 (2023-11-06)
 
 ### Fix
