@@ -36,7 +36,7 @@ This quest expects players to be at Level 2. If they are not, the GM should adju
     - [Clear Lake Refuge](../../Background/geography/neighborhoods.md#clear-lake-refuge-formerly-clear-lake), if the players navigate using solely the various rivers in the Bayou.
     - [Sunset Trading Post](../../Background/geography/neighborhoods.md#minor-settlements), if the players navigates using the coast.
 
-- The players, while visiting a settlement near the Spcaeport ([Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)), overhear hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
+- The players, while visiting a settlement near the Spaceport ([Scarsdale](../../Background/geography/neighborhoods.md#scarsdale)), overhear hushed conversations about the Spaceport Survivors and their recent alliance with the Lone Star Republic.
 - Rumors suggest that the Spaceport holds secrets and technology from before the Great War, and the Lone Star Republic's interest in it has piqued the curiosity of other factions, including the Galveston Pirates.
 
 As the players navigate the Scarsdale marketplace, you should set the scene with vivid descriptions of the marketplace's layout, the various stalls, and traders haggling over goods. The market is a bustling place, and NPCs are engaged in conversations, bartering, and going about their business. The Pipes Bar and Grill is in particular a popular spot, with many patrons enjoying a drink and a meal both in the tables outside and inside the bar. The player can interact with various NPCs, including traders, mercenaries, and other visitors.
@@ -67,7 +67,7 @@ Approaching the Spaceport's perimeter, you notice the looming chain-link fence t
 At the Spaceport's entrance, the scene comes into focus. A group of Galveston Pirates, their attire a motley mix of scavenged armor and leather, is engaged in a heated standoff with a Lone Star Republic patrol. The pirates, bearing crude weapons and a few salvaged firearms, shout demands and threats while the Republic soldiers maintain a defensive formation, weapons trained on their adversaries.
 
 As you observe from a distance, the conversation between the two groups escalates. The Pirates seem interested in gaining access to the Spaceport and its rumored pre-war secrets. The Lone Star Republic patrol, meanwhile, stands resolute, determined to protect the valuable assets within.
-
+ 
 
 ### Player's Decision
 

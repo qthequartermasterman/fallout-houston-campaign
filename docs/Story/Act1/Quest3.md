@@ -2,6 +2,10 @@
 
 <!--availability-start-->
 *Available after completing [Main Quest: Diplomatic Relations](Quest2.md). Can be performed in any order with [Main Quest: Lone Star Ambitions](Quest4.md).*
+
+**Add 2 Action Points per Player Character to the GM’s pool when the quest begins.**
+
+This quest expects players to be at Level 3. If they are not, the GM should adjust the difficulty of encounters accordingly.
 <!--availability-end-->
 
 ## Summary
