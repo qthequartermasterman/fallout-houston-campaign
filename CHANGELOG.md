@@ -2,6 +2,17 @@
 
 
 
+## v0.24.0 (2023-12-14)
+
+### Feature
+
+* feat: refactor the stat block macros into a subdirectory ([`977a4ef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/977a4ef70787e1ce7831c955bb0234e191952f5a))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`ce9c915`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ce9c915a28b4269f35ab594210819315131e1ba3))
+
+
 ## v0.23.1 (2023-12-14)
 
 ### Fix
