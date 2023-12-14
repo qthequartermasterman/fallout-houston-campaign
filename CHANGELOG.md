@@ -2,6 +2,17 @@
 
 
 
+## v0.23.1 (2023-12-14)
+
+### Fix
+
+* fix: flesh out a few details for Rice Village Arrival ([`6f40a60`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6f40a603e10ba86ac93b6b80402f57ce701912f0))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`4642b70`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/4642b7074a6394c987c4183b99e8a41f5f1e8b61))
+
+
 ## v0.23.0 (2023-11-09)
 
 ### Feature
