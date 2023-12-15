@@ -116,7 +116,8 @@ hooks:
   - render_map/render_map.py
 
 extra:
-  GOOGLE_MAPS_API_KEY: !ENV GOOGLE_MAPS_API_KEY
+#  GOOGLE_MAPS_API_KEY: !ENV GOOGLE_MAPS_API_KEY  # ReadTheDocs doesn't support loading from env variables!
+  GOOGLE_MAPS_API_KEY: AIzaSyD6gTw8OwC-LyQi3wl_gr8P385pPBfa5tE
   global_map:
     center: [29.7604, -95.3698]
     zoom: 9
