@@ -21,11 +21,9 @@ REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag
   name="$1"
 />"""
 
-STYLE = map_style.green_style
-
+MAP_STYLE_JSON = map_style.green_style
 MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(encoding="utf-8")
-
-MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(STYLE))
+MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(MAP_STYLE_JSON))
 
 
 
@@ -40,7 +38,14 @@ class GeoLink(pydantic.BaseModel):
 GEO_LINKS: list[GeoLink] = []
 
 def find_geo_links(markdown:str) -> list[GeoLink]:
-    # results = GEO_LINKS_REGEX.findall(markdown)
+    """Find all geotags in the markdown and process them into a list of GeoLink objects.
+
+    Args:
+        markdown: The markdown to search for geotags.
+
+    Returns:
+        A list of GeoLink objects.
+    """
     soup = BeautifulSoup(markdown, "html.parser")
     results = [x.attrs for x in soup.find_all("geotag")]
 
@@ -53,13 +58,17 @@ def find_geo_links(markdown:str) -> list[GeoLink]:
                 result.pop('icon')
 
         geo_links.append(GeoLink(**result))
-            # geo_links.append(
-        #         GeoLink(name=name, latitude=float(lat), longitude=float(lon), icon=getattr(map_icons.MapIcon, icon)))
-        # else:
-        #     geo_links.append(GeoLink(name=name, latitude=float(lat), longitude=float(lon)))
     return geo_links
 
-def create_map_template(config:mkdocs.plugins.MkDocsConfig):
+def create_map_template(config:mkdocs.plugins.MkDocsConfig) -> str:
+    """Create the map template.
+
+    Args:
+        config: The mkdocs config.
+
+    Returns:
+        The map template.
+    """
     map_source = MAP_TEMPLATE
     map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra['global_map']['center']))
     map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra['global_map']['zoom']))
@@ -71,6 +80,16 @@ def create_map_template(config:mkdocs.plugins.MkDocsConfig):
 
 @mkdocs.plugins.event_priority(0)
 def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugins.MkDocsConfig, **kwargs):
+    """Find all geotags in the markdown and process them into a list of GeoLink objects.
+
+    Args:
+        markdown: The markdown to search for geotags.
+        page: The page object.
+        config: The mkdocs config.
+
+    Returns:
+        A list of GeoLink objects.
+    """
     # Skip, if page is excluded
     if page.file.inclusion.is_excluded():
         return
@@ -81,6 +100,16 @@ def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugi
 
 @mkdocs.plugins.event_priority(0)
 def on_page_context(context:dict, page:mkdocs.plugins.Page, config:mkdocs.plugins.MkDocsConfig, **kwargs):
+    """Add the map template to the page context.
+
+    Args:
+        context: The page context.
+        page: The page object.
+        config: The mkdocs config.
+
+    Returns:
+        The page context.
+    """
     # Skip, if page is excluded
     if page.file.inclusion.is_excluded():
         return
