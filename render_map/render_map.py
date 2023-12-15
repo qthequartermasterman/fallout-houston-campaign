@@ -4,12 +4,16 @@ import enum
 import json
 import pathlib
 import re
+import uuid
 
 import mkdocs.plugins
 import pydantic
-from bs4 import BeautifulSoup
+import bs4
+from typing import TypeVar, Type
 
 from render_map import map_icons, map_style
+
+EnumType = TypeVar("EnumType", bound=enum.Enum)
 
 # Sample Deprecated Geo links
 # [Foo Place](geo:-100.392,90)
@@ -48,39 +52,55 @@ class GeoLink(pydantic.BaseModel):
         default=map_icons.MapIcon.SETTLEMENT, validate_default=True
     )
     zoom: ZoomLevel = pydantic.Field(default=ZoomLevel.WASTELAND, validate_default=True)
+    uuid: str = pydantic.Field(default_factory=lambda: str(uuid.uuid4()))
 
 
 GEO_LINKS: list[GeoLink] = []
 
+def resolve_enum(result:dict[str,str], enum_type: Type[EnumType], enum_key:str) -> None:
+    """Resolve an enum from a string.
 
-def find_geo_links(markdown: str) -> list[GeoLink]:
+    If the enum key is in the result, then the enum is resolved. If the value of the enum key is empty, then the enum is removed from the result.
+
+    Args:
+        result: The result dict.
+        enum_type: The enum type.
+        enum_key: The enum key.
+    """
+    if enum_key in result:
+        if result[enum_key]:
+            result[enum_key] =  getattr(enum_type, result[enum_key])
+        else:
+            result.pop(enum_key)
+
+def find_geo_links(markdown: str) -> tuple[list[GeoLink], str]:
     """Find all geotags in the markdown and process them into a list of GeoLink objects.
 
     Args:
         markdown: The markdown to search for geotags.
 
     Returns:
-        A list of GeoLink objects.
+        A list of GeoLink objects and the markdown with the geotags replaced.
     """
-    soup = BeautifulSoup(markdown, "html.parser")
-    results = [x.attrs for x in soup.find_all("geotag")]
+    soup = bs4.BeautifulSoup(markdown, "html.parser")
+    geo_tags = soup.find_all("geotag")
 
     geo_links = []
-    for result in results:
-        if "icon" in result:
-            if result["icon"]:
-                result["icon"] = getattr(map_icons.MapIcon, result["icon"])
-            else:
-                result.pop("icon")
+    for geo_tag in geo_tags:
+        result = geo_tag.attrs
+        resolve_enum(result, map_icons.MapIcon, "icon")
+        resolve_enum(result, ZoomLevel, "zoom")
 
-        if "zoom" in result:
-            if result["zoom"]:
-                result["zoom"] = getattr(ZoomLevel, result["zoom"])
-            else:
-                result.pop("zoom")
+        # Generate a GeoLink object from the result
+        geo_link = GeoLink(**result)
+        geo_links.append(geo_link)
 
-        geo_links.append(GeoLink(**result))
-    return geo_links
+        # Replace the geotag with a span tag with the uuid as the id and the name as the text
+        new_tag = soup.new_tag("span")
+        new_tag.string = geo_link.name
+        new_tag['id'] = geo_link.uuid
+        geo_tag.replace_with(new_tag)
+    return geo_links, str(soup)
 
 
 def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
@@ -129,7 +149,8 @@ def on_page_markdown(
     if page.file.inclusion.is_excluded():
         return
 
-    GEO_LINKS.extend(find_geo_links(markdown))
+    geolinks, markdown = find_geo_links(markdown)
+    GEO_LINKS.extend(geolinks)
 
     return markdown
 

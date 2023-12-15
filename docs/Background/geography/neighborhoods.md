@@ -671,35 +671,17 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - The residents keep an eye on the ghouls that inhabit the nearby Ellington Field ruins, but they have not had any major conflicts with them.
 
 ### Establishments
-- Pipes Bar and Grill: A popular bar and restaurant where traders and travelers gather to exchange information and stories. The bar is owned by Lena "Pipes" Santos.
-- Scarsdale Market: A bustling marketplace where traders from various factions converge to exchange goods and information. The market is overseen by the settlement's council of traders, with Trader Councilor Jenna Redwood overseeing day-to-day operations.
-- Medical Clinic: A medical clinic run by Doctor Abigail Sterling who treats the settlement's residents and visitors. 
-- Scarsdale Outfitters: A general store that sells a variety of goods, including weapons, armor, and survival supplies. The store is run by a merchant Elias Cross who has connections with various factions.
-- Scarsdale Caravan Company: A caravan company that provides transportation and security for traders and travelers. The company is run by the Caravan Master Barrett Stone who oversees the settlement's caravan operations.
-- Motel: A motel that provides lodging for travelers and traders passing through the settlement. The motel is run by its manager Lily Harper who oversees the settlement's hospitality operations.
-- Apartment Complexes: Scarsdale is the home of several apartment complexes, where residents and visitors can find shelter and rest. The apartment complexes are managed by a superintendent Felix Mitchell who oversees the settlement's housing operations.
-- Houses: On the southern edge of the settlement, there are several houses where wealthier residents live.
-<geotag 
-  latitude=29.597067373785425
-  longitude=-95.19903809659499
-  icon="FOOD"
-  name="Pipes Bar and Grill"
-  zoom=TOWN
-/>
-<geotag 
-  latitude=29.59671287345751
-  longitude=-95.19940287700209
-  icon="WAREHOUSE"
-  name="Scarsdale Market"
-  zoom=TOWN
-/>
-<geotag 
-  latitude=29.5970860316629
-  longitude=-95.20082981212396
-  icon="HOSPITAL"
-  name="Medical Clinic"
-  zoom=TOWN
-/>
+- <geotag name="Pipes Bar and Grill" latitude=29.597067373785425  longitude=-95.19903809659499  icon="FOOD" zoom=TOWN />: A popular bar and restaurant where traders and travelers gather to exchange information and stories. The bar is owned by Lena "Pipes" Santos.
+- <geotag name="Scarsdale Market" latitude=29.59671287345751  longitude=-95.19940287700209  icon="WAREHOUSE" zoom=TOWN />: A bustling marketplace where traders from various factions converge to exchange goods and information. The market is overseen by the settlement's council of traders, with Trader Councilor Jenna Redwood overseeing day-to-day operations.
+- <geotag name="Medical Clinic" latitude=29.5970860316629  longitude=-95.20082981212396  icon="HOSPITAL" zoom=TOWN />: A medical clinic run by Doctor Abigail Sterling who treats the settlement's residents and visitors. 
+- <geotag name="Scarsdale Outfitters" latitude=29.59741954067207  longitude=-95.2002397261919 icon="WAREHOUSE" zoom=TOWN />: A general store that sells a variety of goods, including weapons, armor, and survival supplies. The store is run by a merchant Elias Cross who has connections with various factions.
+- <geotag name="Scarsdale Caravan Company" latitude=29.59852034569547 longitude= -95.19877524014575 icon="CARAVAN" zoom=TOWN />: A caravan company that provides transportation and security for traders and travelers. The company is run by the Caravan Master Barrett Stone who oversees the settlement's caravan operations.
+- <geotag name="Great Scott Motel" latitude=29.59715366647117 longitude= -95.19786865354577 icon="INN" zoom=TOWN />: A motel that provides lodging for travelers and traders passing through the settlement. The motel is run by its manager Lily Harper who oversees the settlement's hospitality operations.
+- <geotag name="Apartment Complexes" latitude=29.594606835950035 longitude=-95.19829244255006 icon="SETTLEMENT" zoom=TOWN />: Scarsdale is the home of several apartment complexes, where residents and visitors can find shelter and rest. The apartment complexes are managed by a superintendent Felix Mitchell who oversees the settlement's housing operations.
+- <geotag name="Houses" latitude=29.593925804421225 longitude=-95.20151109327057 icon="SETTLEMENT" zoom=TOWN />: On the southern edge of the settlement, there are several houses where wealthier residents live.
+- <geotag name="Red Rocket" latitude=29.59794429032526 longitude=-95.19960136043305 icon="ROCKET" zoom=TOWN />: A Red Rocket gas station that provides fuel and vehicle maintenance services for travelers and traders passing through the settlement. The gas station is run by a mechanic named Red who oversees the settlement's vehicle maintenance operations.
+
+
 
 ### NPCs
 - Rumormonger Wilkins: A chatty and inquisitive local resident. Wilkins can be found at any of the settlement's gathering area, but most frequently at Pipes, eager to share information, for those that will buy him a drink.
@@ -710,6 +692,7 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - Barrett Stone: Barrett Stone is a grizzled caravan master who ensures the safety of Scarsdale's caravans, navigating the wasteland's dangers with expertise.
 - Lily Harper: Lily Harper, the motel manager, offers travelers a warm and comfortable place to rest, making her a welcoming presence in the settlement.
 - Felix Mitchel: Felix Mitchel, the superintendent of the apartment complexes, was originally a handyman before the Great War. He became a ghoul after the bombs fell, and simply continued to do what he did before the war, fixing things and keeping the apartment complexes in good shape. He is a friendly and helpful ghoul, who is well-liked by the settlement's residents.
+- Red: Red is a mechanic who runs the Red Rocket gas station. He is a former caravan guard who settled in Scarsdale.
 
 ### Quests
 #### Side Quest: Lost Caravan
