@@ -129,7 +129,7 @@ def on_page_context(
 ):
     """Add the map template to the page context.
 
-    This will place a map inside of all pages that have a div with id="map".
+    This will place a map inside all pages that have a div with id="map".
 
     Args:
         context: The page context.
