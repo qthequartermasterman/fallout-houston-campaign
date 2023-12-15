@@ -679,6 +679,27 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - Motel: A motel that provides lodging for travelers and traders passing through the settlement. The motel is run by its manager Lily Harper who oversees the settlement's hospitality operations.
 - Apartment Complexes: Scarsdale is the home of several apartment complexes, where residents and visitors can find shelter and rest. The apartment complexes are managed by a superintendent Felix Mitchell who oversees the settlement's housing operations.
 - Houses: On the southern edge of the settlement, there are several houses where wealthier residents live.
+<geotag 
+  latitude=29.597067373785425
+  longitude=-95.19903809659499
+  icon="FOOD"
+  name="Pipes Bar and Grill"
+  zoom=TOWN
+/>
+<geotag 
+  latitude=29.59671287345751
+  longitude=-95.19940287700209
+  icon="WAREHOUSE"
+  name="Scarsdale Market"
+  zoom=TOWN
+/>
+<geotag 
+  latitude=29.5970860316629
+  longitude=-95.20082981212396
+  icon="HOSPITAL"
+  name="Medical Clinic"
+  zoom=TOWN
+/>
 
 ### NPCs
 - Rumormonger Wilkins: A chatty and inquisitive local resident. Wilkins can be found at any of the settlement's gathering area, but most frequently at Pipes, eager to share information, for those that will buy him a drink.

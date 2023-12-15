@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import enum
 import json
 import pathlib
 import re
@@ -30,6 +31,12 @@ MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(
 )
 MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(MAP_STYLE_JSON))
 
+class ZoomLevel(enum.Enum):
+    """The zoom level of the map."""
+
+    WASTELAND = 0  # Always visible
+    TOWN=14
+
 
 class GeoLink(pydantic.BaseModel):
     model_config = pydantic.ConfigDict(use_enum_values=True)
@@ -40,6 +47,7 @@ class GeoLink(pydantic.BaseModel):
     icon: map_icons.MapIcon = pydantic.Field(
         default=map_icons.MapIcon.SETTLEMENT, validate_default=True
     )
+    zoom: ZoomLevel = pydantic.Field(default=ZoomLevel.WASTELAND, validate_default=True)
 
 
 GEO_LINKS: list[GeoLink] = []
@@ -64,6 +72,12 @@ def find_geo_links(markdown: str) -> list[GeoLink]:
                 result["icon"] = getattr(map_icons.MapIcon, result["icon"])
             else:
                 result.pop("icon")
+
+        if "zoom" in result:
+            if result["zoom"]:
+                result["zoom"] = getattr(ZoomLevel, result["zoom"])
+            else:
+                result.pop("zoom")
 
         geo_links.append(GeoLink(**result))
     return geo_links
@@ -144,7 +158,6 @@ def on_page_context(
         return
 
     if """<div id="map"></div>""" in page.content:
-        print(page.content)
         map_source = create_map_template(config)
 
         page.content += "\n\n\n\n"

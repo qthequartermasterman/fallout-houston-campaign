@@ -57,3 +57,8 @@ class MapIcon(enum.Enum):
 
     LIGHT = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/ed/59.svg"
     RADIO = "https://static.wikia.nocookie.net/fallout_gamepedia/images/6/64/62.svg"
+
+    FOOD = SETTLEMENT
+    WATER = SETTLEMENT
+    POWER = SETTLEMENT
+    DEFENSE = SETTLEMENT

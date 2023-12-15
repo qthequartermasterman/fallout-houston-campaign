@@ -12,6 +12,35 @@
 
 <script type="text/javascript">
     let markers = [];
+    // Hide town markers when zoomed out.
+    /**
+     * @param {google.maps.Map} map
+     * @param {{marker: google.maps.Marker, zoom: number}} marker
+     * @param {number} zoomLevel
+     */
+    function updateMarkerVisibility(map, marker, zoomLevel) {
+        if (zoomLevel>=marker.zoom) {
+            marker.marker.setMap(map);
+        } else {
+            marker.marker.setMap(null);
+        }
+    }
+    /**
+     * @param {google.maps.Map} map
+     */
+    function updateMarkersVisibility(map) {
+        const zoomLevel = map.getZoom();
+        if (zoomLevel) {
+            for (let i = 0; i < markers.length; i++) {
+                updateMarkerVisibility(map, markers[i], zoomLevel);
+            }
+        }
+    }
+
+    /**
+     * @param {{name: string, latitude: number, longitude: number, icon: string, zoom: number}} mapMarker
+     * @param {google.maps.Map} map
+     */
     function addMarker(mapMarker, map){
         const title = mapMarker.name;
         let marker = new google.maps.Marker({
@@ -20,7 +49,9 @@
             title: title,
             icon: {url: mapMarker.icon, scaledSize: new google.maps.Size(20, 20)},
         });
-        markers.push(marker);
+        let marker_container = {'marker': marker, 'zoom': mapMarker.zoom};
+        updateMarkerVisibility(map, marker_container, map.getZoom());
+        markers.push(marker_container);
 
         const infoWindowContent = `
             <div class="info-window">
@@ -73,7 +104,8 @@
         for (const mapMarker of mapMarkers) {
             addMarker(mapMarker, map);
         }
-
+        updateMarkersVisibility(map);
+        map.addListener('zoom_changed', () => {updateMarkersVisibility(map);} );
     }
     window.initMap = initMap;
 </script>
