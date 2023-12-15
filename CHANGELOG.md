@@ -2,6 +2,17 @@
 
 
 
+## v0.27.0 (2023-12-15)
+
+### Feature
+
+* feat: :sparkles: add maps after processing pages so that all locations are available ([`8f536c5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/8f536c5bd93e03a3b0d3611a858389db5da8d2ff))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`39a2a74`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/39a2a74cbf5a1a9cf89c91ccc11d6fd8d3d3ecb8))
+
+
 ## v0.26.0 (2023-12-15)
 
 ### Build
