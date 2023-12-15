@@ -12,7 +12,7 @@ from render_map import map_style, map_icons
 # [Foo Place](geo:-100.392,90)
 # [Foo Place](geo:90.100, 93.00)
 # [Foo Place](geo: 90.100, 93.00)
-GEO_LINKS = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)\)")
+GEO_LINKS = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)")
 
 STYLE = map_style.green_style
 
@@ -35,14 +35,19 @@ class GeoLink(pydantic.BaseModel):
     name: str
     latitude: float
     longitude: float
+    icon: map_icons.MapIcon = map_icons.MapIcon.SETTLEMENT
 
 
 @mkdocs.plugins.event_priority(0)
 def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugins.MkDocsConfig, **kwargs):
     if """<div id="map"></div>""" in markdown:
         results = GEO_LINKS.findall(markdown)
-        geo_links = [GeoLink(name=name, latitude=float(lat), longitude=float(lon)) for name, lat, lon in results]
-
+        geo_links = []
+        for name, lat, lon, icon in results:
+            if icon:
+                geo_links.append(GeoLink(name=name, latitude=float(lat), longitude=float(lon), icon=getattr(map_icons.MapIcon, icon)))
+            else:
+                geo_links.append(GeoLink(name=name, latitude=float(lat), longitude=float(lon)))
         map_source = MAP_TEMPLATE
         map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra['global_map']['center']))
         map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra['global_map']['zoom']))
@@ -53,7 +58,7 @@ def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugi
                 latitude=geo_link.latitude,
                 longitude=geo_link.longitude,
                 title=geo_link.name,
-                icon=map_icons.SETTLEMENT,
+                icon=geo_link.icon.value,
             )
             for geo_link in geo_links
         )
