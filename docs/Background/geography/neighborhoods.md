@@ -4,6 +4,8 @@ locations:
 
 # Neighborhoods and Settlements
 
+<div id="map"></div>
+
 ## Bayou Outpost
 
 [Bayou Outpost](geo:29.762520842934414,-95.39266304824955)

@@ -1,0 +1,1 @@
+SETTLEMENT = "https://static.wikia.nocookie.net/fallout_gamepedia/images/f/f9/163.svg"

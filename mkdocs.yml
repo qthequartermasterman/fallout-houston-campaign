@@ -56,6 +56,7 @@ nav:
 
 extra_css:
   - Assets/stylesheets/statblocks.css
+  - Assets/stylesheets/maps.css
 
 theme:
   name: material
@@ -110,3 +111,12 @@ plugins:
         - docs/denizens_of_the_wasteland/creatures/new_creatures.yaml
       modules: [render_blocks]
   - search
+
+hooks:
+  - render_map/render_map.py
+
+extra:
+  GOOGLE_MAPS_API_KEY: !ENV GOOGLE_MAPS_API_KEY
+  global_map:
+    center: [29.7604, -95.3698]
+    zoom: 9

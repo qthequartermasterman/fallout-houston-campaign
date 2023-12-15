@@ -1,0 +1,7 @@
+/* Set a size for our map container, the Google Map will take up 100% of this container */
+#map {
+    max-width: 750px;
+    max-height: 500px;
+    width: 100%;
+    height: 500px;
+}
