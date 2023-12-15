@@ -9,10 +9,10 @@ import json
 from render_map import map_style, map_icons
 from bs4 import BeautifulSoup
 
-# Sample Geo links
+# Sample Deprecated Geo links
 # [Foo Place](geo:-100.392,90)
 # [Foo Place](geo:90.100, 93.00)
-# [Foo Place](geo: 90.100, 93.00)
+# [Foo Place](geo: 90.100, 93.00, VAULT)
 DEPRECATED_GEO_LINKS_REGEX = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)")
 REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag 
   latitude=$2
