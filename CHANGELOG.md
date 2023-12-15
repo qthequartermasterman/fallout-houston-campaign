@@ -2,6 +2,13 @@
 
 
 
+## v0.25.0 (2023-12-15)
+
+### Feature
+
+* feat: :sparkles: dynamic google map first PoC ([`1089daa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/1089daa49809368ff5c71957048952a41437d759))
+
+
 ## v0.24.0 (2023-12-14)
 
 ### Feature
