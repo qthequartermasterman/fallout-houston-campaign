@@ -21,21 +21,14 @@ MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(e
 MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(STYLE))
 
 
-MARKER_TEMPLATE = """
-new google.maps.Marker({{
-    position: {{lat: {latitude}, lng: {longitude}}},
-    map: map,
-    title: "{title}",
-    icon: {{url:"{icon}", scaledSize: new google.maps.Size(20, 20)}},
-}});
-
-"""
 
 class GeoLink(pydantic.BaseModel):
+    model_config = pydantic.ConfigDict(use_enum_values=True)
+
     name: str
     latitude: float
     longitude: float
-    icon: map_icons.MapIcon = map_icons.MapIcon.SETTLEMENT
+    icon: map_icons.MapIcon = pydantic.Field(default=map_icons.MapIcon.SETTLEMENT, validate_default=True)
 
 GEO_LINKS: list[GeoLink] = []
 
@@ -55,17 +48,8 @@ def create_map_template(config:mkdocs.plugins.MkDocsConfig):
     map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra['global_map']['center']))
     map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra['global_map']['zoom']))
     map_source = map_source.replace("{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"]))
-
-    markers_source = "".join(
-        MARKER_TEMPLATE.format(
-            latitude=geo_link.latitude,
-            longitude=geo_link.longitude,
-            title=geo_link.name,
-            icon=geo_link.icon.value,
-        )
-        for geo_link in GEO_LINKS
-    )
-    map_source = map_source.replace("{{MARKERS}}", markers_source)
+    markers = [geo_link.model_dump() for geo_link in GEO_LINKS]
+    map_source = map_source.replace("{{MARKERS}}", json.dumps(markers))
 
     return map_source
 

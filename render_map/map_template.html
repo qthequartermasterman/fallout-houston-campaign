@@ -2,6 +2,7 @@
     const styleDict = {{STYLE}};
     const mapCenter = {{MAP_CENTER}};
     const mapZoom = {{MAP_ZOOM}};
+    const mapMarkers = {{MARKERS}};
 </script>
 
 <script type="text/javascript"
@@ -10,10 +11,20 @@
 ></script>
 
 <script type="text/javascript">
+    let markers = [];
+    function addMarker(mapMarker, map){
+        let marker = new google.maps.Marker({
+            position: {lat: mapMarker.latitude, lng: mapMarker.longitude},
+            map: map,
+            title: mapMarker.title,
+            icon: {url: mapMarker.icon, scaledSize: new google.maps.Size(20, 20)},
+        });
+        markers.push(marker);
+    }
+
     async function initMap() {
         // Request needed libraries.
         const { Map } = await google.maps.importLibrary("maps");
-        const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
 
         // Basic options for a simple Google Map
         const mapOptions = {
@@ -29,18 +40,16 @@
 
         // Get the HTML DOM element that will contain your map
         // We are using a div with id="map" seen below in the <body>
-        var mapElement = document.getElementById('map');
+        const mapElement = document.getElementById('map');
 
         // Create the Google Map using our element and options defined above
-        var map = new Map(mapElement, mapOptions);
+        const map = new Map(mapElement, mapOptions);
 
-        // Let's also add a marker while we're at it
-        // var marker = new google.maps.Marker({
-        //     position: new google.maps.LatLng(40.6700, -73.9400),
-        //     map: map,
-        //     title: 'Snazzy!'
-        // });
-        {{MARKERS}}
+        // Add markers to the map
+        for (const mapMarker of mapMarkers) {
+            addMarker(mapMarker, map);
+        }
+
     }
     window.initMap = initMap;
 </script>
