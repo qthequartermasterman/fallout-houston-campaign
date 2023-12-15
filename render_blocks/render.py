@@ -2,8 +2,10 @@ from __future__ import annotations
 
 import pathlib
 
-from render_blocks.constants import COMBAT_DICE, TAG_SKILL, BULLET
-from render_blocks.stats import Special, Entity, Character, Skill, Skills, Attack, Equipment, SpecialAbility, Creature
+from render_blocks.constants import BULLET, COMBAT_DICE, TAG_SKILL
+from render_blocks.stats import (Attack, Character, Creature, Entity,
+                                 Equipment, Skill, Skills, Special,
+                                 SpecialAbility)
 
 
 def render_special(special: Special) -> str:
@@ -159,7 +161,9 @@ def render_attacks(attacks: list[Attack] | None, character: Entity) -> str:
 def render_inventory(
     inventory: list[Equipment] | None, butchery: str | None = None
 ) -> str:
-    rows = f"<tr><td><b> {BULLET} BUTCHERY:</b> {butchery} </td></tr>" if butchery else ""
+    rows = (
+        f"<tr><td><b> {BULLET} BUTCHERY:</b> {butchery} </td></tr>" if butchery else ""
+    )
     if inventory:
         rows += (
             f"<tr><td>{', '.join(str(equipment) for equipment in inventory)}</td></tr>"
@@ -248,6 +252,7 @@ def render_body_mind_melee_guns_other(creature: Creature) -> str:
 </div>
 """
 
+
 def render_character_block(character: dict[str, Any]):
     character = Character(**character)
     return f"""<div class="character">
@@ -266,6 +271,7 @@ def render_character_block(character: dict[str, Any]):
         {render_inventory(character.inventory)}
     </div>    
     """
+
 
 def render_creature_block(creature: dict[str, Any]):
     creature = Creature(**creature)

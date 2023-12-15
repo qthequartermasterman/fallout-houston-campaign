@@ -1,19 +1,22 @@
 from __future__ import annotations
 
-import mkdocs.plugins
-import re
-import pydantic
-import pathlib
-
 import json
-from render_map import map_style, map_icons
+import pathlib
+import re
+
+import mkdocs.plugins
+import pydantic
 from bs4 import BeautifulSoup
+
+from render_map import map_icons, map_style
 
 # Sample Deprecated Geo links
 # [Foo Place](geo:-100.392,90)
 # [Foo Place](geo:90.100, 93.00)
 # [Foo Place](geo: 90.100, 93.00, VAULT)
-DEPRECATED_GEO_LINKS_REGEX = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)")
+DEPRECATED_GEO_LINKS_REGEX = re.compile(
+    r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)"
+)
 REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag 
   latitude=$2
   longitude=$3
@@ -22,9 +25,10 @@ REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag
 />"""
 
 MAP_STYLE_JSON = map_style.green_style
-MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(encoding="utf-8")
+MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(
+    encoding="utf-8"
+)
 MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(MAP_STYLE_JSON))
-
 
 
 class GeoLink(pydantic.BaseModel):
@@ -33,11 +37,15 @@ class GeoLink(pydantic.BaseModel):
     name: str
     latitude: float
     longitude: float
-    icon: map_icons.MapIcon = pydantic.Field(default=map_icons.MapIcon.SETTLEMENT, validate_default=True)
+    icon: map_icons.MapIcon = pydantic.Field(
+        default=map_icons.MapIcon.SETTLEMENT, validate_default=True
+    )
+
 
 GEO_LINKS: list[GeoLink] = []
 
-def find_geo_links(markdown:str) -> list[GeoLink]:
+
+def find_geo_links(markdown: str) -> list[GeoLink]:
     """Find all geotags in the markdown and process them into a list of GeoLink objects.
 
     Args:
@@ -51,16 +59,17 @@ def find_geo_links(markdown:str) -> list[GeoLink]:
 
     geo_links = []
     for result in results:
-        if 'icon' in result:
-            if result['icon']:
-                result['icon'] = getattr(map_icons.MapIcon, result['icon'])
+        if "icon" in result:
+            if result["icon"]:
+                result["icon"] = getattr(map_icons.MapIcon, result["icon"])
             else:
-                result.pop('icon')
+                result.pop("icon")
 
         geo_links.append(GeoLink(**result))
     return geo_links
 
-def create_map_template(config:mkdocs.plugins.MkDocsConfig) -> str:
+
+def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
     """Create the map template.
 
     Args:
@@ -70,16 +79,28 @@ def create_map_template(config:mkdocs.plugins.MkDocsConfig) -> str:
         The map template.
     """
     map_source = MAP_TEMPLATE
-    map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra['global_map']['center']))
-    map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra['global_map']['zoom']))
-    map_source = map_source.replace("{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"]))
+    map_source = map_source.replace(
+        "{{MAP_CENTER}}", json.dumps(config.extra["global_map"]["center"])
+    )
+    map_source = map_source.replace(
+        "{{MAP_ZOOM}}", json.dumps(config.extra["global_map"]["zoom"])
+    )
+    map_source = map_source.replace(
+        "{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"])
+    )
     markers = [geo_link.model_dump() for geo_link in GEO_LINKS]
     map_source = map_source.replace("{{MARKERS}}", json.dumps(markers))
 
     return map_source
 
+
 @mkdocs.plugins.event_priority(0)
-def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugins.MkDocsConfig, **kwargs):
+def on_page_markdown(
+    markdown: str,
+    page: mkdocs.plugins.Page,
+    config: mkdocs.plugins.MkDocsConfig,
+    **kwargs,
+):
     """Find all geotags in the markdown and process them into a list of GeoLink objects.
 
     Args:
@@ -98,8 +119,14 @@ def on_page_markdown(markdown:str, page:mkdocs.plugins.Page, config:mkdocs.plugi
 
     return markdown
 
+
 @mkdocs.plugins.event_priority(0)
-def on_page_context(context:dict, page:mkdocs.plugins.Page, config:mkdocs.plugins.MkDocsConfig, **kwargs):
+def on_page_context(
+    context: dict,
+    page: mkdocs.plugins.Page,
+    config: mkdocs.plugins.MkDocsConfig,
+    **kwargs,
+):
     """Add the map template to the page context.
 
     Args:

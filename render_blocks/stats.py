@@ -9,8 +9,8 @@ import pydantic
 
 from render_blocks import constants
 
-
 EmptySkill = pydantic.Field(default_factory=lambda: Skill(rank=0, tag=False))
+
 
 class Attack(pydantic.BaseModel):
     name: str
@@ -176,17 +176,30 @@ class Creature(Entity):
     @pydantic.model_validator(mode="after")
     def validate_attr(self) -> "Creature":
         if self.type == Type.normal:
-            if self.body + self.mind != (expected_total_attr := math.ceil(8 + self.level/2)):
-                raise ValueError(f"Normal creatures must have a total of {expected_total_attr} (ceil(8 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points.")
+            if self.body + self.mind != (
+                expected_total_attr := math.ceil(8 + self.level / 2)
+            ):
+                raise ValueError(
+                    f"Normal creatures must have a total of {expected_total_attr} (ceil(8 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points."
+                )
         elif self.type == Type.mighty:
-            if self.body + self.mind != (expected_total_attr := math.ceil(10 + self.level/2)):
-                raise ValueError(f"Mighty creatures must have a total of of {expected_total_attr} (ceil(10 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points.")
+            if self.body + self.mind != (
+                expected_total_attr := math.ceil(10 + self.level / 2)
+            ):
+                raise ValueError(
+                    f"Mighty creatures must have a total of of {expected_total_attr} (ceil(10 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points."
+                )
         elif self.type == Type.legendary:
-            if self.body + self.mind != (expected_total_attr := math.ceil(12 + self.level/2)):
-                raise ValueError(f"Legendary creatures must have a total of of {expected_total_attr} (ceil(12 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points.")
+            if self.body + self.mind != (
+                expected_total_attr := math.ceil(12 + self.level / 2)
+            ):
+                raise ValueError(
+                    f"Legendary creatures must have a total of of {expected_total_attr} (ceil(12 + level/2)) BODY + MIND points, but this creature has {self.body + self.mind} points."
+                )
 
-
-    def get_target_number(self, target_attr: constants.AttributeName, target_skill: str) -> int:
+    def get_target_number(
+        self, target_attr: constants.AttributeName, target_skill: str
+    ) -> int:
         if target_attr == "BODY":
             attr = self.body
         elif target_attr == "MIND":
@@ -321,7 +334,9 @@ class Character(Entity):
 
         return self
 
-    def get_target_number(self, target_attr: constants.AttributeName, target_skill: str) -> int:
+    def get_target_number(
+        self, target_attr: constants.AttributeName, target_skill: str
+    ) -> int:
         if target_attr == "STR":
             attr = self.special.strength
         elif target_attr == "PER":
