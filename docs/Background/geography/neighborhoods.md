@@ -680,7 +680,8 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - <geotag name="Apartment Complexes" latitude=29.594606835950035 longitude=-95.19829244255006 icon="SETTLEMENT" zoom=TOWN />: Scarsdale is the home of several apartment complexes, where residents and visitors can find shelter and rest. The apartment complexes are managed by a superintendent Felix Mitchell who oversees the settlement's housing operations.
 - <geotag name="Houses" latitude=29.593925804421225 longitude=-95.20151109327057 icon="SETTLEMENT" zoom=TOWN />: On the southern edge of the settlement, there are several houses where wealthier residents live.
 - <geotag name="Red Rocket" latitude=29.59794429032526 longitude=-95.19960136043305 icon="ROCKET" zoom=TOWN />: A Red Rocket gas station that provides fuel and vehicle maintenance services for travelers and traders passing through the settlement. The gas station is run by a mechanic named Red who oversees the settlement's vehicle maintenance operations.
-
+- <geotag name="Brahmin Camp Ground" latitude=29.595649365003776 longitude= -95.1932498894829 icon="TRAILER_PARK" zoom=TOWN />: A camp ground where traders and travelers can rest and tend to their brahmin. The camp ground is run by a rancher named John who oversees the settlement's brahmin operations.
+- <geotag name="Old Church" latitude=29.593942130561622 longitude= -95.19027800188758 icon="CHURCH" zoom=TOWN />: A large, open auditorium/church that serves as a weekly gathering place for the more pious residents of Scarsdale and nearby settlements. Due to the large size of the auditorium, it is also used for town meetings and other large gatherings.
 
 
 ### NPCs
@@ -693,6 +694,7 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - Lily Harper: Lily Harper, the motel manager, offers travelers a warm and comfortable place to rest, making her a welcoming presence in the settlement.
 - Felix Mitchel: Felix Mitchel, the superintendent of the apartment complexes, was originally a handyman before the Great War. He became a ghoul after the bombs fell, and simply continued to do what he did before the war, fixing things and keeping the apartment complexes in good shape. He is a friendly and helpful ghoul, who is well-liked by the settlement's residents.
 - Red: Red is a mechanic who runs the Red Rocket gas station. He is a former caravan guard who settled in Scarsdale.
+- John: John is a rancher who runs the brahmin camp ground. He is a former caravan guard who settled in Scarsdale.
 
 ### Quests
 #### Side Quest: Lost Caravan
