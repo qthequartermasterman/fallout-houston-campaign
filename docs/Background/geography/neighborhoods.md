@@ -8,7 +8,13 @@ locations:
 
 ## Bayou Outpost
 
-[Bayou Outpost](geo:29.762520842934414,-95.39266304824955,LARGE_SETTLEMENT)
+<geotag 
+  latitude=29.762520842934414
+  longitude=-95.39266304824955
+  icon="LARGE_SETTLEMENT"
+  name="Bayou Outpost"
+/>
+
 
 ![Bayou Outpost Concept Art](../../Assets/concept-art/bayou-outpost.jpeg)
 
@@ -166,7 +172,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![City Hall Ruins](../../Assets/concept-art/houston-city-hall-ruins.jpeg)
 
-[Downtown Houston](geo:29.759460655823844,-95.36803566374721,CITY)
+<geotag 
+  latitude=29.759460655823844
+  longitude=-95.36803566374721
+  icon="CITY"
+  name="Downtown Houston"
+/>
 
 - Downtown Houston, once a thriving hub of commerce and culture, now lies in ruin. The towering skyscrapers that once
   defined the cityscape have crumbled into skeletal structures, and the streets are filled with debris and remnants of
@@ -187,7 +198,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## The Heights
 
-[The Heights](geo:29.798385570901733,-95.39802007903164)
+<geotag 
+  latitude=29.798385570901733
+  longitude=-95.39802007903164
+  icon=""
+  name="The Heights"
+/>
 - The Heights, known for its historic bungalow-style houses, has seen better days. Many of the homes have fallen into
   disrepair or lie in ruins, their once-charming facades marred by time and neglect.
 - Survivors in The Heights have repurposed some of the buildings for shelter, transforming them into makeshift homes and
@@ -198,7 +214,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Third Ward
 
-[Third Ward](geo:29.7243844,-95.359051)
+<geotag 
+  latitude=29.7243844
+  longitude=-95.359051
+  icon=""
+  name="Third Ward"
+/>
 
 - The Third Ward, a predominantly African American neighborhood with a rich cultural history, has become a hub for
   cultural preservation. Survivors here have worked diligently to maintain their heritage through art, music, and
@@ -212,7 +233,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## East End
 
-[East End](geo:29.7360857,-95.3060972,FACTORY)
+<geotag 
+  latitude=29.7360857
+  longitude=-95.3060972
+  icon="FACTORY"
+  name="East End"
+/>
 
 - The East End, once an industrial and shipping hub, has experienced renewed activity in the post-apocalyptic era.
   Abandoned warehouses and factories have been repurposed for various uses, from shelter to workshops.
@@ -224,7 +250,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Montrose
 
-[Montrose](geo:29.74687555,-95.39730335255877)
+<geotag 
+  latitude=29.74687555
+  longitude=-95.39730335255877
+  icon=""
+  name="Montrose"
+/>
 
 - Montrose, a district known for its vibrant arts and cultural scene in the pre-war era, has transformed into a bustling
   marketplace in the post-apocalyptic wasteland. Its streets are lined with makeshift market stalls, and traders from
@@ -242,7 +273,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Rice Village](../../Assets/concept-art/rice-university-ruins.jpeg)
 
-[Rice Village](geo:29.7166504,-95.4166625, GOVERNMENT)
+<geotag 
+  latitude=29.7166504
+  longitude=-95.4166625
+  icon="GOVERNMENT"
+  name="Rice Village"
+/>
 
 - Rice Village, known for its upscale shopping and dining options in the pre-war era, has undergone a stark
   transformation. Many of the once-elegant shops and restaurants now lie in ruins, their windows shattered and interiors
@@ -260,7 +296,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Medical Center](../../Assets/concept-art/medical-district-ruins.jpeg)
 
-[Medical Center](geo:29.70775320462402,-95.40242768427136,HOSPITAL)
+<geotag 
+  latitude=29.70775320462402
+  longitude=-95.40242768427136
+  icon="HOSPITAL"
+  name="Medical Center"
+/>
 
 - The Texas Medical Center, although not directly hit by nuclear strikes, faced turmoil in the aftermath of the Great
   War. Many patients, staff, and researchers perished during the chaos that followed, leaving the medical facilities in
@@ -275,7 +316,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Spaceport District](../../Assets/concept-art/johnson-space-center-ruins.jpeg)
 
-[Spaceport District](geo:29.560091666521437,-95.09296989056149,ROCKET)
+<geotag 
+  latitude=29.560091666521437
+  longitude=-95.09296989056149
+  icon="ROCKET"
+  name="Spaceport District"
+/>
 
 - The Johnson Space Center's Spaceport District endured a direct nuclear strike during the Great War. The surface
   facilities were severely damaged, but the underground vault, Vault 117, remained intact.
@@ -297,7 +343,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Energy Corridor](../../Assets/concept-art/energy-corridor-ruins.jpeg)
 
-[Energy Corridor](geo:29.78475344563217,-95.63607055649126,DRILL)
+<geotag 
+  latitude=29.78475344563217
+  longitude=-95.63607055649126
+  icon="DRILL"
+  name="Energy Corridor"
+/>
 
 - The Energy Corridor, once a vital center for the energy industry, was targeted during the Great War due to its
   strategic importance. Many of the oil refineries and energy infrastructure in the area were destroyed.
@@ -315,7 +366,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Uptown Houston
 
-[Uptown Houston](geo:29.7458025,-95.46424437845525,CITY)
+<geotag 
+  latitude=29.7458025
+  longitude=-95.46424437845525
+  icon="CITY"
+  name="Uptown Houston"
+/>
 
 - Uptown Houston, known for its commercial and residential affluence in the pre-war era, has suffered significant decay.
   Luxury apartments and high-end shops now stand in varying states of disrepair, their opulence faded.
@@ -335,7 +391,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Port of Houston](../../Assets/concept-art/port-ruins.jpeg)
 
-[Port of Houston](geo:29.609583371060147,-95.01935161643323,MARINA)
+<geotag 
+  latitude=29.609583371060147
+  longitude=-95.01935161643323
+  icon="MARINA"
+  name="Port of Houston"
+/>
 
 - The Port of Houston, a critical gateway for trade and commerce, faced extensive damage during the Great War due to its
   economic significance. Many port facilities were heavily impacted by the destruction.
@@ -355,7 +416,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## The Bayous and Wetlands
 
-[The Bayou](geo:29.762666342793505,-95.3954616894298,SWAMP)
+<geotag 
+  latitude=29.762666342793505
+  longitude=-95.3954616894298
+  icon="SWAMP"
+  name="The Bayou"
+/>
 
 - The bayous and wetlands surrounding Houston have become both a refuge and a danger. The Bayou Brotherhood, an
   isolationist faction, has made these waterlogged areas their home, preserving their unique culture and traditions.
@@ -376,7 +442,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Museum District](../../Assets/concept-art/museum-district-ruins.jpeg)
 
-[Museum District](geo:29.72187722141612,-95.39052797351329,CITY)
+<geotag 
+  latitude=29.72187722141612
+  longitude=-95.39052797351329
+  icon="CITY"
+  name="Museum District"
+/>
 
 - Before the Great War, the Museum District was a cultural haven, home to a collection of world-class museums, art
   galleries, and educational institutions. It was a place where history, science, and art were celebrated and preserved.
@@ -394,7 +465,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Western Reach Center](../../Assets/concept-art/katy-mills-ruins.jpeg)
 
-[Western Reach](geo:29.779522718157338, -95.812958453289,LARGE_SETTLEMENT)
+<geotag 
+  latitude=29.779522718157338
+  longitude=-95.812958453289
+  icon="LARGE_SETTLEMENT"
+  name="Western Reach"
+/>
 
 - Western Reach, situated to the west of the city, was once known as Katy in the pre-war era. It has since evolved into
   a resilient suburban community surrounded by the sprawling Energy Corridor.
@@ -409,7 +485,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![The Verdant Haven](../../Assets/concept-art/woodlands-mall-ruins.jpeg)
 
-[The Verdant Haven](geo:30.163108904541257,-95.45169046114991,WAREHOUSE)
+<geotag 
+  latitude=30.163108904541257
+  longitude=-95.45169046114991
+  icon="WAREHOUSE"
+  name="The Verdant Haven"
+/>
 
 - The Verdant Haven, formerly known as The Woodlands, is a haven of natural beauty and growth amidst the wasteland. The
   massive shopping mall that once defined the district has been partially reclaimed by nature and is now a treetop
@@ -424,7 +505,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Sugar Junction (formerly Sugar Land)
 
-[Sugar Junction](geo:29.596879336664248,-95.619345941272,FARM)
+<geotag 
+  latitude=29.596879336664248
+  longitude=-95.619345941272
+  icon="FARM"
+  name="Sugar Junction"
+/>
 
 - Sugar Junction, once known as Sugar Land, serves as a vital trade nexus in the Gulf Coast Wasteland. The New Liberty
   Trading Company (NLTC) established trading posts here, connecting the region with NLTC's capital elsewhere.
@@ -438,7 +524,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Radiant Shores (formerly Pearland)
 
-[Radiant Shores](geo:29.560551516530104, -95.28420078774923,RADIATION)
+<geotag 
+  latitude=29.560551516530104
+  longitude=-95.28420078774923
+  icon="RADIATION"
+  name="Radiant Shores"
+/>
 
 - Radiant Shores, formerly known as Pearland, is an independent settlement known for its strong sense of community and
   resourcefulness. While not officially part of the Lone Star Republic, the settlers here share common values with the
@@ -452,7 +543,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Cypress Fields (formerly Cypress)
 
-[Cypress Fields](geo:29.970438298463094,-95.69711770464674,FARM)
+<geotag 
+  latitude=29.970438298463094
+  longitude=-95.69711770464674
+  icon="FARM"
+  name="Cypress Fields"
+/>
 
 - Cypress Fields, once known simply as Cypress, stands as a prominent and influential settlement within the Lone Star
   Republic. This thriving agricultural community has embraced its vast open lands, turning them into the primary source
@@ -467,7 +563,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Galveston Docks](../../Assets/concept-art/moody-gardens-ruins.jpeg)
 
-[Galveston Docks](geo:29.271817270864048,-94.85169693780138,SHIP)
+<geotag 
+  latitude=29.271817270864048
+  longitude=-94.85169693780138
+  icon="SHIP"
+  name="Galveston Docks"
+/>
 
 - The Galveston Docks is a major settlement on Galveston Island, known for its bustling maritime activity and the
   stronghold of the Galveston Pirates. The docks serve as the pirates' primary base of operations, from where they
@@ -479,7 +580,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Brazos Haven (formerly Lake Jackson)
 
-[Brazos Haven](geo:29.03200938919746,-95.43494032708179)
+<geotag 
+  latitude=29.03200938919746
+  longitude=-95.43494032708179
+  icon=""
+  name="Brazos Haven"
+/>
 - Located along the Brazos River, Brazos Haven is a settlement primarily focused on fishing and trade along the
   riverbanks. The residents rely on the river's resources for sustenance and transportation.
 - While it maintains independence from the major factions of the region, Brazos Haven is known for its hospitality and
@@ -490,7 +596,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Harbor's Rest (formerly Baytown)
 
-[Harbor's Rest](geo:29.727274195705373,-94.99653112174364,MARINA)
+<geotag 
+  latitude=29.727274195705373
+  longitude=-94.99653112174364
+  icon="MARINA"
+  name="Harbor's Rest"
+/>
 
 - Harbor's Rest is a settlement situated in the ruins of Baytown, known for its maritime heritage and salvage
   operations. The residents scavenge and salvage goods from sunken ships and submerged buildings in the area.
@@ -501,7 +612,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Port Arthur Outpost (formerly Port Arthur)
 
-[Port Arthur](geo:29.89823855110362,-93.92249704419454, WAREHOUSE)
+<geotag 
+  latitude=29.89823855110362
+  longitude=-93.92249704419454
+  icon="WAREHOUSE"
+  name="Port Arthur"
+/>
 
 - The Port Arthur Outpost was established by a group of survivors who once worked in the shipping and maritime industry.
   They recognized the strategic importance of Port Arthur's location for trade and decided to set up a trading post
@@ -514,7 +630,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ## Bolivar Settlement (Bolivar Peninsula)
 
-[Bolivar Settlement](geo:29.455829628874557,-94.64104080246054)
+<geotag 
+  latitude=29.455829628874557
+  longitude=-94.64104080246054
+  icon=""
+  name="Bolivar Settlement"
+/>
 
 - The Bolivar Settlement is a coastal community of survivors who found refuge on the Bolivar Peninsula, a challenging
   environment marked by constant threats from both the sea and the mainland.
@@ -527,7 +648,12 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 ![Scarsdale Map](../../Assets/maps/scarsdale-map.jpeg)
 
-[Scarsdale](geo:29.597558276275628,-95.19936322527144, LARGE_SETTLEMENT)
+<geotag 
+  latitude=29.597558276275628
+  longitude=-95.19936322527144
+  icon="LARGE_SETTLEMENT"
+  name="Scarsdale"
+/>
 
 |                                         |                    |
 |-----------------------------------------|--------------------|
@@ -618,7 +744,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## Clear Lake Refuge (formerly Clear Lake)
 
-[Clear Lake Refuge](geo:29.60732196391364,-95.11601795269615, FARM)
+<geotag 
+  latitude=29.60732196391364
+  longitude=-95.11601795269615
+  icon="FARM"
+  name="Clear Lake Refuge"
+/>
 
 - Clear Lake Refuge is a hidden community of survivors who have chosen to live off the land and maintain a sustainable
   lifestyle. They are wary of the larger factions and prefer to remain self-reliant.
@@ -630,7 +761,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## Highway Hub (formerly Greenspoint)
 
-[Highway Hub](geo:29.948867738881624,-95.41319652659553, WAREHOUSE)
+<geotag 
+  latitude=29.948867738881624
+  longitude=-95.41319652659553
+  icon="WAREHOUSE"
+  name="Highway Hub"
+/>
 
 - The Highway Hub is a makeshift trading post located along the remnants of Interstate 45, a critical route for
   travelers and caravans moving goods between Houston and other regions.
@@ -641,7 +777,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## San Jacinto Stronghold (San Jacinto Monument)
 
-[San Jacinto Stronghold](geo:29.749687116950135,-95.0805676912006, MONUMENT)
+<geotag 
+  latitude=29.749687116950135
+  longitude=-95.0805676912006
+  icon="MONUMENT"
+  name="San Jacinto Stronghold"
+/>
 
 - The San Jacinto Stronghold is a unique settlement that has taken refuge in the towering San Jacinto Monument, a
   structure once built to commemorate a historic battle.
@@ -655,7 +796,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## Harvest Haven (formerly Conroe)
 
-[Harvest Haven](geo:30.333103427645987,-95.47711786182347, FARM)
+<geotag 
+  latitude=30.333103427645987
+  longitude=-95.47711786182347
+  icon="FARM"
+  name="Harvest Haven"
+/>
 
 - Harvest Haven, formerly known as Conroe, is a bustling agricultural settlement located to the north of Houston along
   Interstate 45. The town's rebirth was driven by a group of survivors who recognized the fertile lands surrounding
@@ -673,7 +819,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## Scholar's Summit (formerly Huntsville)
 
-[Scholar's Summit](geo:30.71356276127107,-95.5474691387572,CLOCK_TOWER)
+<geotag 
+  latitude=30.71356276127107
+  longitude=-95.5474691387572
+  icon="CLOCK_TOWER"
+  name="Scholar's Summit"
+/>
 
 - Scholar's Summit, formerly known as Huntsville, stands as a beacon of knowledge and education in the post-apocalyptic
   world. The town's transformation began with a group of educators, historians, and intellectuals who recognized the
@@ -694,7 +845,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ## Petroclave (formerly Beaumont)
 
-[Petroclave](geo:30.085242078473243,-94.10136486070702)
+<geotag 
+  latitude=30.085242078473243
+  longitude=-94.10136486070702
+  icon=""
+  name="Petroclave"
+/>
 
 - Following the Great War, Beaumont, once a thriving center of the oil industry, experienced a significant decline in
   influence and population due to the widespread devastation caused by the nuclear conflict. Much of its vital oil
@@ -710,7 +866,12 @@ Doctor Sterling, the settlement's physician, is running critically low on essent
 
 ![Ellington Field](../../Assets/concept-art/ellington-field-ruins.jpeg)
 
-[Ellington Field](geo:29.61973374830343, -95.17395740312563, MILITARY)
+<geotag 
+  latitude=29.61973374830343
+  longitude=-95.17395740312563
+  icon="MILITARY"
+  name="Ellington Field"
+/>
 
 Ellington Field is a significant location in the Gulf Coast Wasteland, especially due to its historical and strategic
 importance. Here's more information about Ellington Field and its role in the post-apocalyptic setting:
@@ -758,13 +919,23 @@ exploration, interaction with factions, and storytelling within the game.
 
 ## Houston International Airport (IAH)
 
-[Houston International Airport](geo:29.99328232450453,-95.3418400798264,AIRPORT)
+<geotag 
+  latitude=29.99328232450453
+  longitude=-95.3418400798264
+  icon="AIRPORT"
+  name="Houston International Airport"
+/>
 
 Remains of an airport, used by the Lone Star Republic as a base of operations for their military.
 
 ## Tomball
 
-[Tomball](geo:30.090750800484926,-95.63690501740697)
+<geotag 
+  latitude=30.090750800484926
+  longitude=-95.63690501740697
+  icon=""
+  name="Tomball"
+/>
 
 - Tomball's pre-war suburban charm has given way to a resilient survivor's haven. The once orderly streets are now lined
   with makeshift shelters and fortified structures, constructed from the remnants of the town's original buildings and
@@ -787,7 +958,12 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ## Humble Haven (formerly Humble, pronounced with a silent H)
 
-[Humble Haven](geo:30.006845093386108,-95.26569366657448)
+<geotag 
+  latitude=30.006845093386108
+  longitude=-95.26569366657448
+  icon=""
+  name="Humble Haven"
+/>
 
 - Humble's pre-war identity as a quiet suburban town has been reshaped by the harsh realities of the post-apocalyptic
   world. Its streets, once lined with tidy houses and local businesses, now feature a mix of improvised shelters,
@@ -812,7 +988,12 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ## Navasota Outpost
 
-[Navasota Outpost](geo:30.388792479443126,-96.08814721515886,)
+<geotag 
+  latitude=30.388792479443126
+  longitude=-96.08814721515886
+  icon=""
+  name="Navasota Outpost"
+/>
 
 - Navasota's former small-town charm has given way to a thriving post-apocalyptic settlement known as "Navasota
   Outpost." The town's streets, once quiet and lined with historic buildings, are now bustling with activity.
@@ -831,32 +1012,117 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 
 ## Richmond
 
-[Richmond](geo:29.5818349078936, -95.7597091077604,BROTHERHOOD_OF_STEEL)
+<geotag 
+  latitude=29.5818349078936
+  longitude=-95.7597091077604
+  icon="BROTHERHOOD_OF_STEEL"
+  name="Richmond"
+/>
 
 ## Minor Settlements
 
-- [Bayou Vista](geo:29.329554564080837,-94.93345112094737,MARINA): NLTC maintains a well-protected but small marina at the Bayou Vista, where their protected ships land. Although they do not use warships, the Galveston Pirates usually leave them alone, after a few early, failed attempts to raid their ships. The NLTC has a small but well-armed security force, and they are not afraid to use it.
-- [Portside Shantytown](geo:28.945390562803066,-95.34654850883261): Nestled along the coast, Portside Shantytown is a collection of ramshackle huts and makeshift structures inhabited by survivors who have chosen to live near the sea. They are primarily fisherfolk and salvagers who rely on the Gulf's bounty for survival. The settlement maintains a tense relationship with the Galveston Pirates, who occasionally raid the coastal community.
-- [Refugee Camp Alpha](geo:29.756808906476053,-95.17680192109725,FACTORY): Situated in the ruins of a pre-war industrial complex on the outskirts of Houston, Refugee Camp Alpha is a temporary haven for displaced survivors. It's a place where people from various backgrounds gather for safety and support. Life is challenging in the camp, as resources are scarce, but the sense of community remains
+- <geotag 
+  latitude=29.329554564080837
+  longitude=-94.93345112094737
+  icon="MARINA"
+  name="Bayou Vista"
+/>: NLTC maintains a well-protected but small marina at the Bayou Vista, where their protected ships land. Although they do not use warships, the Galveston Pirates usually leave them alone, after a few early, failed attempts to raid their ships. The NLTC has a small but well-armed security force, and they are not afraid to use it.
+- <geotag 
+  latitude=28.945390562803066
+  longitude=-95.34654850883261
+  icon=""
+  name="Portside Shantytown"
+/>: Nestled along the coast, Portside Shantytown is a collection of ramshackle huts and makeshift structures inhabited by survivors who have chosen to live near the sea. They are primarily fisherfolk and salvagers who rely on the Gulf's bounty for survival. The settlement maintains a tense relationship with the Galveston Pirates, who occasionally raid the coastal community.
+- <geotag 
+  latitude=29.756808906476053
+  longitude=-95.17680192109725
+  icon="FACTORY"
+  name="Refugee Camp Alpha"
+/>: Situated in the ruins of a pre-war industrial complex on the outskirts of Houston, Refugee Camp Alpha is a temporary haven for displaced survivors. It's a place where people from various backgrounds gather for safety and support. Life is challenging in the camp, as resources are scarce, but the sense of community remains
   strong.
-- [Greenhaven Orchard](geo:29.554091000183266,-95.6632385089244,FARM): In the suburbs to the west of Houston, Greenhaven Orchard is an oasis of sorts. This small settlement has cultivated a thriving orchard and vegetable garden. They trade their produce with larger factions, making them a vital source of fresh food in the wasteland.
-- [Sunset Trading Post, formerly Kemah](geo:29.54212556868445,-95.01965359090539,MARINA): Located along the remnants of State Highway 146, Sunset Trading Post is a crucial rest stop for caravans traveling between Houston and Galveston. It's a place where merchants and travelers can resupply, trade, and
+- <geotag 
+  latitude=29.554091000183266
+  longitude=-95.6632385089244
+  icon="FARM"
+  name="Greenhaven Orchard"
+/>: In the suburbs to the west of Houston, Greenhaven Orchard is an oasis of sorts. This small settlement has cultivated a thriving orchard and vegetable garden. They trade their produce with larger factions, making them a vital source of fresh food in the wasteland.
+- <geotag 
+  latitude=29.54212556868445
+  longitude=-95.01965359090539
+  icon="MARINA"
+  name="Sunset Trading Post, formerly Kemah"
+/>: Located along the remnants of State Highway 146, Sunset Trading Post is a crucial rest stop for caravans traveling between Houston and Galveston. It's a place where merchants and travelers can resupply, trade, and
   exchange information. The Galveston Pirates keep a watchful eye on this strategic location.
-- [Whitetail Ranch, formerly Magnolia](geo:30.2117556488417,-95.7541253707608): Deep in the wooded regions to the north of Houston, Whitetail Ranch is a rustic community of hunters and trappers. They have adapted to the wilderness and have found ways to survive by trading animal pelts and meat with
+- <geotag 
+  latitude=30.2117556488417
+  longitude=-95.7541253707608
+  icon=""
+  name="Whitetail Ranch, formerly Magnolia"
+/>: Deep in the wooded regions to the north of Houston, Whitetail Ranch is a rustic community of hunters and trappers. They have adapted to the wilderness and have found ways to survive by trading animal pelts and meat with
   other settlements.
-- [Marinaville Resort](geo:30.393996346473614,-95.63579078227842): This former luxury resort near Lake Conroe has been repurposed by a group of survivors into a functional community. Its proximity to the water provides easy access to fish and freshwater, making it a sought-after location. 
-- [Bayshore Hamlet, formerly San Leon](geo:29.49440263042049,-94.92227210154844): Situated along the coastal regions near Galveston Bay, Bayshore Hamlet consists of a few
+- <geotag 
+  latitude=30.393996346473614
+  longitude=-95.63579078227842
+  icon=""
+  name="Marinaville Resort"
+/>: This former luxury resort near Lake Conroe has been repurposed by a group of survivors into a functional community. Its proximity to the water provides easy access to fish and freshwater, making it a sought-after location. 
+- <geotag 
+  latitude=29.49440263042049
+  longitude=-94.92227210154844
+  icon=""
+  name="Bayshore Hamlet, formerly San Leon"
+/>: Situated along the coastal regions near Galveston Bay, Bayshore Hamlet consists of a few
   ramshackle buildings and fishing docks. Its inhabitants rely on fishing and scavenging along the bay to survive. They
   have an uneasy relationship with the Galveston Pirates, who often demand tribute.
-- [Oilfield Outpost, formerly Pasadena](geo:29.690553779988246,-95.20304635178483,DRILL): This small outpost is built around a pre-war oil drilling facility. Survivors have tapped
+- <geotag 
+  latitude=29.690553779988246
+  longitude=-95.20304635178483
+  icon="DRILL"
+  name="Oilfield Outpost, formerly Pasadena"
+/>: This small outpost is built around a pre-war oil drilling facility. Survivors have tapped
   into the facility's remaining reserves to provide fuel for generators and trade with nearby settlements. The Oilfield Outpost plays a critical role in supporting the Lone Star Republic's energy needs.
-- [Lighthouse Landing, formerly Point Bolivar Lighthouse](geo:29.367277175045796,-94.7667079031319,LIGHT): Located at the end of a desolate peninsula, Lighthouse Landing is centered arounda still-functioning lighthouse. Its primary purpose is to guide traders and travelers through treacherous coastal waters. The settlement has limited resources but is a beacon of hope for those navigating the Gulf's dangerous
+- <geotag 
+  latitude=29.367277175045796
+  longitude=-94.7667079031319
+  icon="LIGHT"
+  name="Lighthouse Landing, formerly Point Bolivar Lighthouse"
+/>: Located at the end of a desolate peninsula, Lighthouse Landing is centered arounda still-functioning lighthouse. Its primary purpose is to guide traders and travelers through treacherous coastal waters. The settlement has limited resources but is a beacon of hope for those navigating the Gulf's dangerous
   currents.
-- [Sawmill Sanctuary, formerly Livingston](geo:30.71058036209488,-94.93177601452567,TREE): Deep in the Sam Houston National Forest, Sawmill Sanctuary has repurposed a pre-war
+- <geotag 
+  latitude=30.71058036209488
+  longitude=-94.93177601452567
+  icon="TREE"
+  name="Sawmill Sanctuary, formerly Livingston"
+/>: Deep in the Sam Houston National Forest, Sawmill Sanctuary has repurposed a pre-war
   sawmill to provide lumber and building materials to other settlements. The community is self-sufficient, relying on the forest's resources for survival.
-- [Power Plant Perch, formerly La Porte](geo:29.694219313979627,-95.04040096980611,FACTORY): Nestled near the remains of a pre-war power plant, this settlement is highly sought after due to its access to electricity. Its inhabitants have repaired and maintained the plant's generators, providing valuable power to neighboring settlements in exchange for resources and protection.
-- [Rancher's Retreat, formerly Rosharon](geo:29.35310365705205,-95.46338712216787,FARM): This small ranching community relies on livestock and agriculture to sustain itself. Rancher's Retreat is known for its cattle herds and horse breeding. They trade surplus livestock and leather goods with nearby settlements.
-- [Waste Recycling Center](geo:29.891571087722877,-95.2635859137306,WATER_TREATMENT): Located near the outskirts of Houston, this settlement has repurposed a pre-war waste recycling facility to salvage and repurpose materials. It serves as a vital resource hub for scavengers and traders in the area.
-- [Willowbrook](geo:29.962182712186213,-95.54549376534099,WAREHOUSE): This settlement is located in the ruins of a pre-war shopping mall. Its inhabitants have repurposed the mall's stores and restaurants into a bustling marketplace. Willowbrook is a popular destination for traders and scavengers looking to barter for goods and supplies.
-- [Spring](geo:30.079371713243425,-95.42213908803095): A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
+- <geotag 
+  latitude=29.694219313979627
+  longitude=-95.04040096980611
+  icon="FACTORY"
+  name="Power Plant Perch, formerly La Porte"
+/>: Nestled near the remains of a pre-war power plant, this settlement is highly sought after due to its access to electricity. Its inhabitants have repaired and maintained the plant's generators, providing valuable power to neighboring settlements in exchange for resources and protection.
+- <geotag 
+  latitude=29.35310365705205
+  longitude=-95.46338712216787
+  icon="FARM"
+  name="Rancher's Retreat, formerly Rosharon"
+/>: This small ranching community relies on livestock and agriculture to sustain itself. Rancher's Retreat is known for its cattle herds and horse breeding. They trade surplus livestock and leather goods with nearby settlements.
+- <geotag 
+  latitude=29.891571087722877
+  longitude=-95.2635859137306
+  icon="WATER_TREATMENT"
+  name="Waste Recycling Center"
+/>: Located near the outskirts of Houston, this settlement has repurposed a pre-war waste recycling facility to salvage and repurpose materials. It serves as a vital resource hub for scavengers and traders in the area.
+- <geotag 
+  latitude=29.962182712186213
+  longitude=-95.54549376534099
+  icon="WAREHOUSE"
+  name="Willowbrook"
+/>: This settlement is located in the ruins of a pre-war shopping mall. Its inhabitants have repurposed the mall's stores and restaurants into a bustling marketplace. Willowbrook is a popular destination for traders and scavengers looking to barter for goods and supplies.
+- <geotag 
+  latitude=30.079371713243425
+  longitude=-95.42213908803095
+  icon=""
+  name="Spring"
+/>: A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
   neighborhood's houses into shelters and trading posts. Spring is known for its scavenging operations.

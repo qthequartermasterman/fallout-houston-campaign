@@ -3,7 +3,12 @@
 
 ## Vault 117--Mission Control
 
-[Vault 117](geo:29.559737036320865,-95.0905666313848,VAULT) tag: Vault
+<geotag 
+  latitude=29.559737036320865
+  longitude=-95.0905666313848
+  icon="VAULT"
+  name="Vault 117"
+/> 
 
 Home of the Spaceport Survivors, Vault 117 is a unique vault that was designed to house the scientists and engineers
 working at the Houston Spaceport. The vault was designed to be a self-sufficient facility, with its own power supply,
@@ -36,7 +41,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 37 - Geodesic Terrarium Experiment
 
-[Vault 37](geo:29.68807815688312,-95.27309443004592,VAULT) tag: Vault
+<geotag 
+  latitude=29.68807815688312
+  longitude=-95.27309443004592
+  icon="VAULT"
+  name="Vault 37"
+/> 
 
 - Purpose: Vault 37's experiment aimed to study the long-term effects of living in a self-sustaining, enclosed natural
   environment. It was equipped with advanced botanical and ecological systems, creating an underground oasis.
@@ -53,7 +63,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 61 - Eternal Darkness Experiment
 
-[Vault 61](geo:30.191511890340102,-95.44569062125957,VAULT) tag: Vault
+<geotag 
+  latitude=30.191511890340102
+  longitude=-95.44569062125957
+  icon="VAULT"
+  name="Vault 61"
+/> 
 
 
 - Purpose: Vault 61 was built to investigate the effects of perpetual darkness on human physiology and psychology,
@@ -70,7 +85,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 84 - Sleep Deprivation Experiment
 
-[Vault 84](geo:29.709986448341805,-95.4032905456824,VAULT) tag: Vault
+<geotag 
+  latitude=29.709986448341805
+  longitude=-95.4032905456824
+  icon="VAULT"
+  name="Vault 84"
+/> 
 
 - Purpose: Vault 84 was designed to study the impact of chronic sleep deprivation on human cognitive function and
   interpersonal dynamics.
@@ -91,7 +111,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 99 - Hallucinogenic Horror Experiment
 
-[Vault 99](geo:29.762353687189293,-95.37604385399142,VAULT) tag: Vault
+<geotag 
+  latitude=29.762353687189293
+  longitude=-95.37604385399142
+  icon="VAULT"
+  name="Vault 99"
+/> 
 
 - Purpose: Vault 99 delved into the effects of potent hallucinogenic substances and twisted, disoriented architecture on
   human perception and behavior.
@@ -105,7 +130,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 113 - Virtual Reality Matrix Experiment
 
-[Vault 113](geo:29.72250964302936,-95.38816777155127,VAULT) tag: Vault
+<geotag 
+  latitude=29.72250964302936
+  longitude=-95.38816777155127
+  icon="VAULT"
+  name="Vault 113"
+/> 
 
 - Purpose: Vault 113 immersed residents in an intricate virtual world, isolating them from the physical realm to observe
   the long-term effects of simulated existence.
@@ -128,7 +158,12 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
 
 ## Vault 184 - Extreme Isolation Study
 
-[Vault 184](geo:29.772403427180695,-95.80897805517826,VAULT) tag: Vault
+<geotag 
+  latitude=29.772403427180695
+  longitude=-95.80897805517826
+  icon="VAULT"
+  name="Vault 184"
+/> 
 
 - Purpose: Vault 184 focused on extreme isolation to understand the psychological impacts. Residents were isolated from
   one another and subjected to prolonged solitude and sensory deprivation.

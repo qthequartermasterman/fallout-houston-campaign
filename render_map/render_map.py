@@ -7,12 +7,19 @@ import pathlib
 
 import json
 from render_map import map_style, map_icons
+from bs4 import BeautifulSoup
 
 # Sample Geo links
 # [Foo Place](geo:-100.392,90)
 # [Foo Place](geo:90.100, 93.00)
 # [Foo Place](geo: 90.100, 93.00)
-GEO_LINKS_REGEX = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)")
+DEPRECATED_GEO_LINKS_REGEX = re.compile(r"\[(?P<name>.*)\]\(geo:\s*(?P<lat>-?\d+\.?\d*),\s*(?P<lon>-?\d+\.?\d*)(?:,\s*(.*))?\)")
+REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag 
+  latitude=$2
+  longitude=$3
+  icon="$4"
+  name="$1"
+/>"""
 
 STYLE = map_style.green_style
 
@@ -33,14 +40,23 @@ class GeoLink(pydantic.BaseModel):
 GEO_LINKS: list[GeoLink] = []
 
 def find_geo_links(markdown:str) -> list[GeoLink]:
-    results = GEO_LINKS_REGEX.findall(markdown)
+    # results = GEO_LINKS_REGEX.findall(markdown)
+    soup = BeautifulSoup(markdown, "html.parser")
+    results = [x.attrs for x in soup.find_all("geotag")]
+
     geo_links = []
-    for name, lat, lon, icon in results:
-        if icon:
-            geo_links.append(
-                GeoLink(name=name, latitude=float(lat), longitude=float(lon), icon=getattr(map_icons.MapIcon, icon)))
-        else:
-            geo_links.append(GeoLink(name=name, latitude=float(lat), longitude=float(lon)))
+    for result in results:
+        if 'icon' in result:
+            if result['icon']:
+                result['icon'] = getattr(map_icons.MapIcon, result['icon'])
+            else:
+                result.pop('icon')
+
+        geo_links.append(GeoLink(**result))
+            # geo_links.append(
+        #         GeoLink(name=name, latitude=float(lat), longitude=float(lon), icon=getattr(map_icons.MapIcon, icon)))
+        # else:
+        #     geo_links.append(GeoLink(name=name, latitude=float(lat), longitude=float(lon)))
     return geo_links
 
 def create_map_template(config:mkdocs.plugins.MkDocsConfig):
