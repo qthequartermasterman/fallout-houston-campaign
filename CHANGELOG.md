@@ -2,6 +2,21 @@
 
 
 
+## v0.26.0 (2023-12-15)
+
+### Build
+
+* build: :sparkles: update google maps api key ([`7d6a3bf`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7d6a3bfc51415bfa5f39eeea090cbc3c41d7c01b))
+
+### Feature
+
+* feat: :sparkles: location-specific icons ([`d8b8c07`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d8b8c07bd26aef05a911f6266d60e18324d0548e))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`c15c847`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/c15c847bc9d8e786072dd88d070cda4eff382104))
+
+
 ## v0.25.0 (2023-12-15)
 
 ### Feature
