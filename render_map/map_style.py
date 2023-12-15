@@ -104,7 +104,7 @@ green_style = [
     {
         "featureType": "road",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
     {
         "featureType": "road.highway",
@@ -120,7 +120,7 @@ green_style = [
     {
         "featureType": "road.highway",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
     {
         "featureType": "road.highway.controlled_access",
@@ -130,7 +130,7 @@ green_style = [
     {
         "featureType": "road.highway.controlled_access",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
     {
         "featureType": "road.arterial",
@@ -146,7 +146,7 @@ green_style = [
     {
         "featureType": "road.arterial",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
     {
         "featureType": "road.local",
@@ -162,7 +162,7 @@ green_style = [
     {
         "featureType": "road.local",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
     {
         "featureType": "transit.line",
@@ -208,6 +208,6 @@ green_style = [
     {
         "featureType": "water",
         "elementType": "labels",
-        "stylers": [{"visibility": "off"}],
+        "stylers": [{"visibility": "on"}],
     },
 ]
