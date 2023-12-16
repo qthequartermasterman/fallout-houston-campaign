@@ -2,6 +2,45 @@
 
 
 
+## v0.28.0 (2023-12-16)
+
+### Documentation
+
+* docs: more scarsdale locations! ([`1cc7e18`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/1cc7e18ace3921d5cc17a02a8704435f5062860d))
+
+* docs: add geotags to Scarsdale locations ([`ef291f5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ef291f56e551744cb276bc02db1f7eeea9d1da46))
+
+* docs: :label: improve documentation on map generator ([`ef636f1`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ef636f151efde074f5912a4730acae6dee765a83))
+
+### Feature
+
+* feat: fleshout Lost Caravan Side Quest from Scarsdale ([`64c466a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/64c466ad852138dddd3dee4cb374372cc4344e3d))
+
+* feat: add zoom level option to geotags so that they can appear only when zoomed in ([`b8d0afa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b8d0afa2a5f29c8c495c96dfcfaafdda23ba12fa))
+
+* feat: add road and water names to map ([`7353329`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7353329174477ad7d0be216de7d4d81b7e471757))
+
+* feat: :sparkle: popup info windows on map ([`e90ae81`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e90ae81e10a702289bd60dcc58102f9977e8fe8b))
+
+### Refactor
+
+* refactor: :recycle: use a more extensible geotag for finding geo links ([`2e15b13`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/2e15b1349ed964418a4b6dd1508d8218ef4faa16))
+
+* refactor: :recycle: reduce the amount of dynamically generated javascript by passing in a datastructure from the python bridge ([`e69c7fc`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e69c7fc42318ee14238fbdb8a341f6af16c11be9))
+
+### Style
+
+* style: :rotating_light: black + isort ([`7746f3a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7746f3aaca44191650b1775cfa4b2be94d00e1dc))
+
+* style: :rotating_light: black + isort ([`02fa9a5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/02fa9a5af5a7096f70b44dfce530dbe20f3a1d89))
+
+* style: :rotating_light: black + isort ([`f60fbe3`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f60fbe3520fcf0716f506dfae1ff4df0ce11f339))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`7baf326`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7baf326e07e1f93ba7e989e4cf58f77835e7a642))
+
+
 ## v0.27.0 (2023-12-15)
 
 ### Feature
