@@ -708,6 +708,25 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 
 One of Scarsdale's caravans has gone missing in the wasteland, and Caravan Master Barrett Stone is desperate to locate them. Players are tasked with unraveling the mystery of the caravan's disappearance, following a trail of clues, encounters with hostile factions, and potentially uncovering a new and dangerous threat to the settlement. The fate of the missing caravan, as well as the future of Scarsdale's trade routes, rests in the players' hands.
 
+##### The Search for Quinn
+
+- Into the Wastes: One of Scarsdale's caravans, run by Desmond Quinn has gone missing and is 36 hours late. The Caravan Master Barrett Stone tasks the players with finding Quinn's Caravan. The caravan was supposed to be delivering a shipment of weapons from the Brotherhood of Steel in Richmond. Along the way, they encounter various challenges such as mutated creatures, hostile raider groups, and environmental hazards.
+- Encounter with Coral Stride: Along the way, the players meet Bartholomew "Coral Stride" Kingsley, a seasoned caravaner from [Harbor's Rest](#harbors-rest-formerly-baytown). He shares the urgency of Quinn's disappearance and informs the players about the Brotherhood's checkpoint. Coral Stride provides them with information directing the players toward <geotag name="Brotherhood Checkpoint Golf" latitude=29.661168240975183 longitude=-95.55782020998892 icon="BROTHERHOOD_OF_STEEL"/>, where the Brotherhood of Steel is stopping all travelers to find Desmond Quinn.
+- Brotherhood Checkpoint Golf: Arriving at the Brotherhood checkpoint, the players witness the strict security measures in place. Scribe Duvall and Knight Chen interrogate them about their purpose, but eventually, they are directed to meet with Elder Talon, who has more information on Quinn's alleged betrayal. The players have the opportunity to gather clues and decide whether to trust the Brotherhood's account.
+
+##### Unraveling Secrets
+
+- The Brotherhood's Accusations: Elder Talon reveals the Brotherhood's version of events, accusing Quinn of theft and treason. The players can investigate the evidence and interview witnesses at the checkpoint to uncover inconsistencies or alternative motives.
+- Lone Star Republic Involvement: Through a hidden contact, the players receive a message from Lone Star Republic operatives revealing Quinn's true allegiance as an undercover operative. They learn about Quinn's mission and the potential fallout if the Brotherhood discovers the Lone Star Republic's plans. The players must now balance their loyalty to the Brotherhood against their duty to uncover the truth.
+- Quinn's Trail: Following leads from the Brotherhood checkpoint and information from Lone Star Republic contacts, the players track Quinn's movements to a <geotag name="Hidden Missile Silo" latitude=29.647514630311672 longitude=-95.58483828061671 icon="BUNKER"/> in the wasteland. They discover that Quinn has been trying to sabotage the missile silo's operations, but he has been detected by Brotherhood Patrols. The silo was clearly built to protect some kind of experimental nuclear weapon, but Quinn claims that it was already missing when he arrived. When he tripped the Brotherhood detectors, the Brotherhood Patrol found the evidence of the weapon and assumed that he had taken it. Quinn managed to escape. The players must now decide whether to help Quinn or turn him over to the Brotherhood.
+
+##### The Missile Silo Revelation
+
+- The Hidden Silo: The players eventually discover the hidden missile silo that Quinn had stumbled upon. The players must explore the depths of the silo, facing mutated creatures, automated defenses, and solving puzzles left by the pre-war scientists.
+- Unveiling the Conspiracy: As the players delve deeper, they uncover that some unknown faction has a  plan to use the experimental nuclear weapon to destabilize the region and seize control of valuable resources, including the Lone Star Republic's spaceport. Quinn, realizing the magnitude of the threat, has been trying to sabotage their efforts while avoiding detection.
+- Showdown at the Silo: The players must confront Quinn, who is caught between loyalty to the Lone Star Republic and the need to prevent the catastrophic plans of the rogue faction. The confrontation leads to a tense negotiation or a climactic battle.
+
+
 #### Side Quest: The Ellington Field Dilemma
 !!! info ""
 
