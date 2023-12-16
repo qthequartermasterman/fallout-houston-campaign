@@ -2,6 +2,17 @@
 
 
 
+## v0.29.0 (2023-12-16)
+
+### Feature
+
+* feat: update map ([`d979e59`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d979e594ad8c1c082d3dbe2203e38baecf7cfeca))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`9082578`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/9082578baf0519ff16ac4afb17f199a61973715f))
+
+
 ## v0.28.0 (2023-12-16)
 
 ### Documentation
