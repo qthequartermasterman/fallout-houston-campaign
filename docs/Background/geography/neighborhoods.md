@@ -274,8 +274,8 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 ![Rice Village](../../Assets/concept-art/rice-university-ruins.jpeg)
 
 <geotag 
-  latitude=29.7166504
-  longitude=-95.4166625
+  latitude=29.716345888623884
+  longitude=-95.41241903384515
   icon="GOVERNMENT"
   name="Rice Village"
 />
