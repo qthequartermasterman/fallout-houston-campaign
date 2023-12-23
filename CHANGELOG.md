@@ -2,6 +2,23 @@
 
 
 
+## v0.30.0 (2023-12-23)
+
+### Feature
+
+* feat: Rice Village buildings ([`19826cf`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/19826cf7f42a4a00e5207524fe8882cfa61679ca))
+
+* feat: Rice Village buildings ([`f066720`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f066720ceb8802522cd97280a0b008ec5f804881))
+
+* feat: Pirates! ([`0ea656b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0ea656bbe6f777b34cfd3d1af1b353d25b5c26b0))
+
+* feat: Pirates! ([`e95fb8c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e95fb8cd1a2943587afa059fc781ab4acba45200))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`aa159fa`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/aa159fa58757833462003de90bfa634cecf7fe41))
+
+
 ## v0.29.0 (2023-12-16)
 
 ### Feature
