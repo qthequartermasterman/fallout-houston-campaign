@@ -578,6 +578,41 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 - Despite the dangers posed by the pirates, some independent traders and factions maintain a presence in the area, drawn
   by the potential for lucrative maritime trade and access to the Gulf of Mexico.
 
+### Battleship Texas
+
+The <geotag latitude=29.27994354782519 longitude=-94.87713915249228 icon=MARINA name="Battleship Texas" /> is a formerly decommissioned Battleship used by the United States Navy during World Wars I and II. It was decommissioned and converted into a Museum Ship after WWII, floating in the Houston Ship Channel just outside the Buffalo Bayou (near the San Jacinto Monument). In 2280, with the assistance of the Cartels, the Galveston Pirates managed to get the ship operational again, and sailed it to its current location in the Galveston Docks. The ship was then renovated and is now the Galveston Pirates' primary (yet mobile) base of operations, and is used to launch raids on the Port of Houston and other settlements along the coast.
+  - Ship Retrofitting:
+    - Purpose: Originally a naval vessel, the Battleship Texas underwent extensive retrofitting to serve as the Galveston Pirates' mobile base.
+    - Nuclear Engines: Fitted with Fallout-themed nuclear engines for propulsion, providing both power and mobility.
+    - Weapon Systems: Enhanced with a mix of energy weapons, ballistic cannons, and salvaged pre-war naval weaponry for defense and offense.
+  - Command and Control:
+    - Bridge Overhaul: The original ship's bridge has been transformed into a high-tech command center where the Council of Captains makes strategic decisions.
+    - Communications Array: Powerful long-range communications equipment salvaged from pre-war military installations, allowing the Pirates to stay informed and coordinate operations.
+  - Living Quarters:
+    - Captain's Quarters: Each captain has their own private quarters with a mix of salvaged pre-war luxury items and functional, post-apocalyptic necessities.
+    - Crew Dormitories: Spacious communal living areas for the crew, maximizing efficiency in the limited space available.
+  - Workshop and Repair Facilities:
+    - Engineering Bay: A dedicated area for repairs and modifications, equipped with tools salvaged from pre-war military and industrial facilities.
+    - Technical Expertise: Skilled engineers and mechanics among the crew ensure the Battleship Texas remains operational in the harsh post-apocalyptic environment.
+  - Security Measures:
+    - Automated Defenses: Integrated automated defense systems, including turrets and security robots, protect the Battleship Texas from external threats.
+    - Guard Posts: Manned security posts strategically placed throughout the ship to deter potential internal threats.
+  - Resource Storage:
+    - Cargo Holds: Repurposed cargo holds store the plundered resources, weapons, and supplies acquired during raids and smuggling operations.
+    - Trade Goods: A section dedicated to storing items for trade, including chems, technology, and other valuable commodities.
+  - Cultural and Recreational Spaces:
+    - Common Areas: Spaces for socializing and relaxation, fostering a sense of community among the crew.
+    - Training Facilities: Areas for combat training, ensuring the crew remains proficient in both individual and group combat scenarios.
+  - Navigation and Stealth Systems:
+    - Stealth Modifications: Stealth technology salvaged from pre-war military vessels enables the Battleship Texas to approach targets discreetly.
+    - Navigation Computer: A sophisticated navigation computer assists in plotting courses and avoiding hazards in the treacherous Gulf waters.
+  - Flagship Aesthetics:
+    - Pirate Insignia: Prominent displays of the Galveston Pirates' insignia and flags to establish a distinct identity as a formidable maritime force.
+    - Intimidating Appearance: The Battleship Texas is adorned with fearsome imagery and symbols, reflecting the ruthless nature of the Galveston Pirates.
+  - Maintenance and Sustainability:
+    - Resource Gathering: Specialized equipment for gathering resources while at sea, such as water purification systems and improvised farming setups.
+    - Sustainable Practices: Efforts to maintain the ship's functionality with limited resources, recycling and repurposing materials whenever possible.
+
 ## Brazos Haven (formerly Lake Jackson)
 
 <geotag 
@@ -723,8 +758,9 @@ One of Scarsdale's caravans has gone missing in the wasteland, and Caravan Maste
 ##### The Missile Silo Revelation
 
 - The Hidden Silo: The players eventually discover the hidden missile silo that Quinn had stumbled upon. The players must explore the depths of the silo, facing mutated creatures, automated defenses, and solving puzzles left by the pre-war scientists.
-- Unveiling the Conspiracy: As the players delve deeper, they uncover that some unknown faction has a  plan to use the experimental nuclear weapon to destabilize the region and seize control of valuable resources, including the Lone Star Republic's spaceport. Quinn, realizing the magnitude of the threat, has been trying to sabotage their efforts while avoiding detection.
-- Showdown at the Silo: The players must confront Quinn, who is caught between loyalty to the Lone Star Republic and the need to prevent the catastrophic plans of the rogue faction. The confrontation leads to a tense negotiation or a climactic battle.
+- Unveiling the Conspiracy: As the players delve deeper, they uncover that some unknown faction has a plan to use the experimental nuclear weapon to destabilize the region and seize control of valuable resources, including the Lone Star Republic's spaceport. Quinn, realizing the magnitude of the threat, has been trying to sabotage their efforts while avoiding detection.
+  - (This unknown faction is the Enclave remnant within the Oil Barons. This bunker had been used as an experimental lab since before the Great War and has been maintained (though is not actively used all the time) since. The Oil Barons Enclave Remnant had sprung into action after the emergence of the Spaceport Survivors and their Enclave Remnant. See [The Enclave](../factions/the-enclave.md) for more information.)
+- Showdown at the Silo: The players must confront Quinn, who is obsessed with the need to prevent the catastrophic plans of the rogue faction. The confrontation leads to a tense negotiation or a climactic battle.
 
 
 #### Side Quest: The Ellington Field Dilemma
