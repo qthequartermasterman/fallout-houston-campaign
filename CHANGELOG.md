@@ -2,6 +2,19 @@
 
 
 
+## v0.31.0 (2023-12-23)
+
+### Feature
+
+* feat: President image ([`e125233`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e1252337346fec2d4439de563a9fe158fa4a07f7))
+
+* feat: President image ([`42dde4c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/42dde4cd61b32f0b68535b54ca5fce9893dcab4f))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`fe3a4df`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fe3a4df0183472fc992e1278cbd47764f36c61db))
+
+
 ## v0.30.0 (2023-12-23)
 
 ### Feature
