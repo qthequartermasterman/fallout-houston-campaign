@@ -140,6 +140,7 @@ Under the Davis Administration, Vault 117 was fast-tracked to annexation and bei
 ## Characters
 ### President Samuel Davis
 #### Appearance
+![Samuel Davis](../../Assets/characters/president.png)
 President Samuel Davis is a rugged and imposing figure in the post-apocalyptic wasteland. Standing at 6 feet tall, he possesses a commanding presence with broad shoulders and a well-maintained physique that reflects his military background. Samuel's deep-set, steel-blue eyes radiate an air of authority, often leaving an indelible impression on those who meet him. His grizzled, salt-and-pepper hair and well-trimmed beard add to his distinguished appearance. Although the wasteland has aged him, it has also toughened him, and his weathered features tell the tale of a man who has faced the harsh realities of the new world.
 
 #### Personality
