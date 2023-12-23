@@ -39,7 +39,7 @@ class ZoomLevel(enum.Enum):
     """The zoom level of the map."""
 
     WASTELAND = 0  # Always visible
-    TOWN=12
+    TOWN=13
 
 
 class GeoLink(pydantic.BaseModel):

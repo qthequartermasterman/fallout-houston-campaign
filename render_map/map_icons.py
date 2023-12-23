@@ -52,6 +52,7 @@ class MapIcon(enum.Enum):
     WATER_TREATMENT = (
         "https://static.wikia.nocookie.net/fallout_gamepedia/images/a/a7/138.svg"
     )
+    SCIENCE = FACTORY
 
     SWAMP = "https://static.wikia.nocookie.net/fallout_gamepedia/images/f/fe/85.svg"
     PARK = "https://static.wikia.nocookie.net/fallout_gamepedia/images/7/76/150.svg"
@@ -62,7 +63,7 @@ class MapIcon(enum.Enum):
     DOOR_TARGET = "https://static.wikia.nocookie.net/fallout_gamepedia/images/0/03/68.svg"
     FOOD = SETTLEMENT
     WATER = "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/bd/35.svg"
-    POWER = SETTLEMENT
+    POWER = RADIATION
     DEFENSE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/e4/197.svg"
     CARAVAN = WAREHOUSE
     INN = DOOR_TARGET
