@@ -9,10 +9,6 @@
       Galveston's ports.
     - Pirate Raids: The Galveston Pirates regularly raid ships and coastal settlements, accumulating wealth and
       resources by force.
-- **Notable Figures:**
-    - Captain Sofia "Serpent" Vega: A respected pirate captain who commands several pirate crews and negotiates with the
-      Cartel.
-    - Rafael "El Diablo" Sánchez: The ruthless leader of the Cartel, who has a significant influence over the pirates.
 - **Conflict:** The Galveston Pirates have an ongoing conflict with the Lone Star Republic, primarily over resource
   access. This rivalry fuels much of the region's instability.
 - **Goals for Spaceport**:
