@@ -114,11 +114,16 @@ plugins:
   - search
 
 hooks:
+  - render_map/auto_populate/auto_populate_hooks.py
   - render_map/plugin_hooks.py
 
 extra:
 #  GOOGLE_MAPS_API_KEY: !ENV GOOGLE_MAPS_API_KEY  # ReadTheDocs doesn't support loading from env variables!
   GOOGLE_MAPS_API_KEY: AIzaSyD6gTw8OwC-LyQi3wl_gr8P385pPBfa5tE
+  # Center and default zoom level for the Google Maps
   global_map:
     center: [29.7604, -95.3698]
     zoom: 9
+  auto_populate:
+    center: [29.7604, -95.3698]
+    population_radius: 35000 # Radius around the center to auto-populate locations (in meters)

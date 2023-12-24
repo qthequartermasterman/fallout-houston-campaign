@@ -54,7 +54,7 @@ class GeoLink(pydantic.BaseModel):
     zoom: ZoomLevel = pydantic.Field(default=ZoomLevel.WASTELAND, validate_default=True)
     uuid: str = pydantic.Field(default_factory=lambda: str(uuid.uuid4()))
 
-    def get_tag(self, include_uuid:bool=False) -> str:
+    def get_tag(self, include_uuid:bool=False) -> bs4.Tag:
         """Get the geotag as a string.
 
         Args:
@@ -68,12 +68,12 @@ class GeoLink(pydantic.BaseModel):
         tag["name"] = self.name
         tag["latitude"] = str(self.latitude)
         tag["longitude"] = str(self.longitude)
-        tag["icon"] = self.icon.name
-        tag["zoom"] = str(self.zoom.name)
+        tag["icon"] = str(map_icons.MapIcon(self.icon).name)
+        tag["zoom"] = str(ZoomLevel(self.zoom).name)
         if include_uuid:
             tag["uuid"] = self.uuid
 
-        return str(tag)
+        return tag
 
 GEO_LINKS: list[GeoLink] = []
 

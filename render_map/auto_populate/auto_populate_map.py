@@ -1,7 +1,10 @@
 """Automatically populate the map with supermarkets and other landmarks using the Overpass (Open Street Map) API."""
 from __future__ import annotations
 
+import bs4
 import overpy
+import pydantic
+
 from render_map import mapping
 
 RADIUS=35000
@@ -20,6 +23,65 @@ out meta;
 
 
 API = overpy.Overpass()
+
+class AutoPopulateConfig(pydantic.BaseModel):
+    """The configuration for the auto-populate plugin."""
+
+    supermarket: bool = False
+
+    @staticmethod
+    def tag_name() -> str:
+        """The name of the tag to search for."""
+        return "populate_geotag"
+
+    @classmethod
+    def from_dict(cls, config_dict: dict[str, str|bool]) -> AutoPopulateConfig:
+        """Create a config object from a dictionary.
+
+        Args:
+            config_dict: The dictionary to create the config object from.
+
+        Returns:
+            A config object.
+        """
+        for key in cls.model_fields:
+            if key in config_dict:
+                config_dict[key] = True
+        return cls(**config_dict)
+
+def find_auto_populate_geotags(markdown: str, latitude:float, longitude:float, radius:float) -> tuple[list[AutoPopulateConfig], str]:
+    """Find all geotags in the markdown and process them into a list of GeoLink objects.
+
+    Args:
+        markdown: The markdown to search for geotags.
+        latitude: The latitude to search for supermarkets.
+        longitude: The longitude to search for supermarkets.
+        radius: The radius in meters to search for supermarkets.
+
+    Returns:
+        A list of GeoLink objects and the markdown with the geotags replaced.
+    """
+    soup = bs4.BeautifulSoup(markdown, "html.parser")
+    geo_tags = soup.find_all(AutoPopulateConfig.tag_name())
+
+    populate_geotags_configs = []
+    for geo_tag in geo_tags:
+        result = geo_tag.attrs
+
+        # Generate a GeoLink object from the result
+        geotag_config = AutoPopulateConfig.from_dict(result)
+        populate_geotags_configs.append(geotag_config)
+
+        # Replace the geotag with a span tag with the uuid as the id and the name as the text
+        new_tag = soup.new_tag("div")
+        if geotag_config.supermarket:
+            supermarkets_tags = populate_supermarkets(radius, latitude, longitude)
+            for tag in supermarkets_tags:
+                new_tag.append(tag)
+                new_tag.append(", ")
+        geo_tag.replace_with(new_tag)
+    return populate_geotags_configs, str(soup)
+
 
 def choose_supermarket_name_zoom(node:overpy.Node) -> tuple[str|None, mapping.ZoomLevel]:
     """Choose the game name and map zoom level for a supermarket, based on the properties of the supermarket in the
@@ -43,7 +105,7 @@ def choose_supermarket_name_zoom(node:overpy.Node) -> tuple[str|None, mapping.Zo
     return "Supermarket", mapping.ZoomLevel.TOWN
 
 
-def populate_supermarkets(radius:float, latitude:float, longitude:float) -> str:
+def populate_supermarkets(radius:float, latitude:float, longitude:float) -> list[bs4.Tag]:
     """Generate geotags for supermarkets in the game world, using the locations of supermarkets in the real world (using
      the Overpass API).
 
@@ -67,4 +129,4 @@ def populate_supermarkets(radius:float, latitude:float, longitude:float) -> str:
             )
 
         )
-    return "\n".join(geotag.get_tag() for geotag in geotags)
+    return [geotag.get_tag() for geotag in geotags]
