@@ -4,7 +4,7 @@ from __future__ import annotations
 import overpy
 from render_map import mapping
 
-RADIUS=25000
+RADIUS=35000
 CENTRAL_LATITUDE=29.7063997
 CENTRAL_LONGITUDE=-95.553997
 
