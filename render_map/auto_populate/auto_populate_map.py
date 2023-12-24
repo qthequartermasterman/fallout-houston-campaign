@@ -72,14 +72,16 @@ def find_auto_populate_geotags(markdown: str, latitude:float, longitude:float, r
         geotag_config = AutoPopulateConfig.from_dict(result)
         populate_geotags_configs.append(geotag_config)
 
-        # Replace the geotag with a span tag with the uuid as the id and the name as the text
+        # Replace the geotag with a the list of supermarkets
         new_tag = soup.new_tag("div")
         if geotag_config.supermarket:
             supermarkets_tags = populate_supermarkets(radius, latitude, longitude)
             for tag in supermarkets_tags:
+                new_tag.append("- ")
                 new_tag.append(tag)
-                new_tag.append(", ")
+                new_tag.append("\n")
         geo_tag.replace_with(new_tag)
+        new_tag.unwrap()
     return populate_geotags_configs, str(soup)
 
 
