@@ -2,6 +2,13 @@
 
 
 
+## v0.34.1 (2023-12-29)
+
+### Fix
+
+* fix: remove need to specify api key in yaml ([`a6ccbca`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a6ccbca33cd08a15caa936b1d9e63a1c57404f55))
+
+
 ## v0.34.0 (2023-12-29)
 
 ### Feature
