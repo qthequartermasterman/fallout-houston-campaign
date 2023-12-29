@@ -2,6 +2,17 @@
 
 
 
+## v0.33.0 (2023-12-24)
+
+### Feature
+
+* feat: auto-populate markets from template ([`6fad7c4`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6fad7c412f47392ce20b22549f3beabaf03de2a7))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`d755b72`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d755b72755c9e5244a489d61cab35384128db78c))
+
+
 ## v0.32.0 (2023-12-24)
 
 ### Feature
