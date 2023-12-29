@@ -2,6 +2,31 @@
 
 
 
+## v0.34.0 (2023-12-29)
+
+### Feature
+
+* feat: auto-populate gas stations from template ([`470339a`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/470339a64394724d91cacb33734b0642d7f6bd45))
+
+### Fix
+
+* fix: :docs: rename a few files and chapters ([`dea0eca`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/dea0ecaea6181d004bd9c31ee0bd4e3cc22398ac))
+
+### Refactor
+
+* refactor: :recycle: :truck: break map features out into individual files for easier maintenance and easier to read code ([`6ab68ef`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6ab68efb8daec476db7756a0d1c7ca565ac9cf20))
+
+* refactor: :recycle: generalize the auto populate function to pull from the pydantic base model ([`ab587fe`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ab587fef5cbb1e3a10d6bc0ef251b8521fc5eaff))
+
+### Style
+
+* style: :rotating_light: black + isort ([`609e7a6`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/609e7a677659e8ff14d5c453e968d22926fbd161))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`79881b1`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/79881b199e1f682e5ada138135e7d961c096cb68))
+
+
 ## v0.33.0 (2023-12-24)
 
 ### Feature
