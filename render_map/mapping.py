@@ -5,11 +5,11 @@ import json
 import pathlib
 import re
 import uuid
+from typing import Type, TypeVar
 
+import bs4
 import mkdocs.plugins
 import pydantic
-import bs4
-from typing import TypeVar, Type
 
 from render_map import map_icons, map_style
 
@@ -30,9 +30,7 @@ REPLACE_DEPRECATED_GEO_LINKS_WITH = """<geotag
 />"""
 
 MAP_STYLE_JSON = map_style.green_style
-MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(
-    encoding="utf-8"
-)
+MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(encoding="utf-8")
 MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(MAP_STYLE_JSON))
 
 
@@ -49,9 +47,7 @@ class GeoLink(pydantic.BaseModel):
     name: str
     latitude: float
     longitude: float
-    icon: map_icons.MapIcon = pydantic.Field(
-        default=map_icons.MapIcon.SETTLEMENT, validate_default=True
-    )
+    icon: map_icons.MapIcon = pydantic.Field(default=map_icons.MapIcon.SETTLEMENT, validate_default=True)
     zoom: ZoomLevel = pydantic.Field(default=ZoomLevel.WASTELAND, validate_default=True)
     uuid: str = pydantic.Field(default_factory=lambda: str(uuid.uuid4()))
 
@@ -80,9 +76,7 @@ class GeoLink(pydantic.BaseModel):
 GEO_LINKS: list[GeoLink] = []
 
 
-def resolve_enum(
-    result: dict[str, str], enum_type: Type[EnumType], enum_key: str
-) -> None:
+def resolve_enum(result: dict[str, str], enum_type: Type[EnumType], enum_key: str) -> None:
     """Resolve an enum from a string.
 
     If the enum key is in the result, then the enum is resolved. If the value of the enum key is empty, then the enum is removed from the result.
@@ -139,15 +133,9 @@ def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
         The map template.
     """
     map_source = MAP_TEMPLATE
-    map_source = map_source.replace(
-        "{{MAP_CENTER}}", json.dumps(config.extra["global_map"]["center"])
-    )
-    map_source = map_source.replace(
-        "{{MAP_ZOOM}}", json.dumps(config.extra["global_map"]["zoom"])
-    )
-    map_source = map_source.replace(
-        "{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"])
-    )
+    map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra["global_map"]["center"]))
+    map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra["global_map"]["zoom"]))
+    map_source = map_source.replace("{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"]))
     markers = [geo_link.model_dump() for geo_link in GEO_LINKS]
     map_source = map_source.replace("{{MARKERS}}", json.dumps(markers))
 

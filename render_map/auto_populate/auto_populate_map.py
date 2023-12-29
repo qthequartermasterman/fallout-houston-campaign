@@ -1,7 +1,7 @@
 """Automatically populate the map with supermarkets and other landmarks using the Overpass (Open Street Map) API."""
 from __future__ import annotations
 
-from typing import TypeVar, Sequence, Hashable, Callable, TypeAlias
+from typing import Callable, Hashable, Sequence, TypeAlias, TypeVar
 
 import bs4
 import mkdocs.plugins
@@ -13,9 +13,7 @@ from render_map import mapping
 LOGGER = mkdocs.plugins.get_plugin_logger(__name__)
 
 T = TypeVar("T")
-NameZoomIcon: TypeAlias = tuple[
-    str | None, mapping.ZoomLevel, mapping.map_icons.MapIcon
-]
+NameZoomIcon: TypeAlias = tuple[str | None, mapping.ZoomLevel, mapping.map_icons.MapIcon]
 
 
 SUPER_MARKET_QUERY = """[out:json];
@@ -122,7 +120,7 @@ def find_auto_populate_geotags(
         geotag_config = AutoPopulateConfig.from_dict(result)
         populate_geotags_configs.append(geotag_config)
 
-        # Replace the geotag with a the list of supermarkets
+        # Replace the geotag with a list of supermarkets
         bulleted_list = soup.new_tag("div")
         if geotag_config.supermarket:
             populate_tags(
@@ -172,9 +170,7 @@ def populate_tags(
     Returns:
         A string of geotags for the supermarkets.
     """
-    tags = populate_features(
-        query, feature_type_name, choose_name_function, radius, latitude, longitude
-    )
+    tags = populate_features(query, feature_type_name, choose_name_function, radius, latitude, longitude)
     for tag in tags:
         # Convert a geotag to a bulleted list, modifying the `parent_tag` in place.
         parent_tag.append("- ")
@@ -196,33 +192,15 @@ def choose_supermarket_name_zoom_icon(node: overpy.Node) -> NameZoomIcon:
     name_from_node = node.tags.get("name", None)
     # If the supermarket is not named in OpenStreetMap, we'll (unfairly) assume it's not a very important supermarket.
     if name_from_node is None:
-        return (
-            None,
-            mapping.ZoomLevel.WASTELAND,
-            mapping.map_icons.MapIcon.SUPER_DUPER_MART,
-        )
+        return None, mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.SUPER_DUPER_MART
     # Super-Duper Mart is implied to be a chain of very large supermarkets, likely wholesale. In the video games, there
     # is only one Super-Duper Mart in its corresponding city metro-area.
-    if (
-        "walmart" in name_from_node.lower()
-        or "sam's" in name_from_node.lower()
-        or "costco" in name_from_node.lower()
-    ):
+    if "walmart" in name_from_node.lower() or "sam's" in name_from_node.lower() or "costco" in name_from_node.lower():
         # Only a quarter of the supermarkets should be visible from the large wasteland map.
-        zoom_level = (
-            mapping.ZoomLevel.TOWN if node.id % 4 else mapping.ZoomLevel.WASTELAND
-        )
-        return (
-            "Super-Duper Mart",
-            zoom_level,
-            mapping.map_icons.MapIcon.SUPER_DUPER_MART,
-        )
+        zoom_level = mapping.ZoomLevel.TOWN if node.id % 4 else mapping.ZoomLevel.WASTELAND
+        return "Super-Duper Mart", zoom_level, mapping.map_icons.MapIcon.SUPER_DUPER_MART
     # TODO: Provide more plausible and generic names for super markets.
-    return (
-        "Supermarket",
-        mapping.ZoomLevel.TOWN,
-        mapping.map_icons.MapIcon.SUPER_DUPER_MART,
-    )
+    return "Supermarket", mapping.ZoomLevel.TOWN, mapping.map_icons.MapIcon.SUPER_DUPER_MART
 
 
 def choose_gas_station_name_zoom_icon(node: overpy.Node | overpy.Way) -> NameZoomIcon:
@@ -240,11 +218,7 @@ def choose_gas_station_name_zoom_icon(node: overpy.Node | overpy.Way) -> NameZoo
     # Womb-ee's is a fictional gas station chain in the Fallout: Houston campaign.
     # It is a parody of Buc-ee's, a real gas station chain in Texas.
     if "buc-ee" in name_from_node.lower() or "buc-ee" in brand_from_node.lower():
-        return (
-            "Womb-ee's",
-            mapping.ZoomLevel.WASTELAND,
-            mapping.map_icons.MapIcon.BEAVER,
-        )
+        return "Womb-ee's", mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.BEAVER
     # If the gas station is not named in OpenStreetMap, we'll (unfairly) assume it's not very important.
     if name_from_node is None:
         return None, mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.GAS_STATION
@@ -292,11 +266,7 @@ def populate_features(
             continue
         latitude = way.center_lat or way.nodes[0].lat
         longitude = way.center_lon or way.nodes[0].lon
-        geotags.append(
-            mapping.GeoLink(
-                name=name, latitude=latitude, longitude=longitude, zoom=zoom, icon=icon
-            )
-        )
+        geotags.append(mapping.GeoLink(name=name, latitude=latitude, longitude=longitude, zoom=zoom, icon=icon))
 
     for node in features.nodes:
         if node.id in node_ids_to_ignore:
@@ -305,10 +275,6 @@ def populate_features(
         # Skip over unnamed features (they're likely not important enough to show up on the game map).
         if name is None:
             continue
-        geotags.append(
-            mapping.GeoLink(
-                name=name, latitude=node.lat, longitude=node.lon, zoom=zoom, icon=icon
-            )
-        )
+        geotags.append(mapping.GeoLink(name=name, latitude=node.lat, longitude=node.lon, zoom=zoom, icon=icon))
     LOGGER.info(f"Added {len(geotags)} {feature_type_name}.")
     return [geotag.get_tag() for geotag in geotags]

@@ -29,8 +29,6 @@ def on_page_markdown(
     latitude, longitude = config.extra["auto_populate"]["center"]
     radius = config.extra["auto_populate"]["population_radius"]
 
-    geolinks, markdown = auto_populate_map.find_auto_populate_geotags(
-        markdown, latitude, longitude, radius
-    )
+    geolinks, markdown = auto_populate_map.find_auto_populate_geotags(markdown, latitude, longitude, radius)
 
     return markdown
