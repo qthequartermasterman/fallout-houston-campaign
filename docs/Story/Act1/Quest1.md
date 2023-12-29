@@ -1,7 +1,7 @@
 # Main Quest: Lost in the Bayou
 
 <!--availability-start-->
-*Available completing the [Prologue Quest](../prologue.md), either by having players roleplay or by simply having the Gamemaster describe the events of the Vision of the Sea of Tranquility.*
+*Available completing the [Prologue Quest](../dawn_of_tranquility.md), either by having players roleplay or by simply having the Gamemaster describe the events of the Vision of the Sea of Tranquility.*
 
 **Add 2 Action Points per Player Character to the GM’s pool when the quest begins.**
 
@@ -80,7 +80,7 @@ Information that can be obtained includes:
 - Gator explains the Bayou's mystical connection to the cosmos and suggests that the player's vision might be linked to the Bayou's cosmic message. He believes the player is meant to uncover something important.
 - The player is tasked with exploring the Bayou to find clues related to their vision and its connection to the recurring glimpses of the Sea of Tranquility.
 
-If the players do not volunteer information to Gator about their vision of the Moon (from the [Prologue](../prologue.md) quest), Gator will mention to them that the Swamp Sage, Ezekiel Thibodeaux, had heard a message the previous day that Visionary outsiders would wash up on the shores of the Bayou. He will ask the players if they had any visions recently.
+If the players do not volunteer information to Gator about their vision of the Moon (from the [Prologue](../dawn_of_tranquility.md) quest), Gator will mention to them that the Swamp Sage, Ezekiel Thibodeaux, had heard a message the previous day that Visionary outsiders would wash up on the shores of the Bayou. He will ask the players if they had any visions recently.
 
 As the players recount their vision, Gator is intrigued and believes the vision may hold cosmic significance. He explains the Bayou's mystical connection to the cosmos and suggests that the player's vision might be linked to the Bayou's cosmic message. He believes the player is meant to uncover something important.
 

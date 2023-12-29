@@ -37,8 +37,7 @@ nav:
           - 'denizens_of_the_wasteland/factions/minor/brotherhoodofsteel.md'
   - "Story":
       - "Outline": Story/outline.md
-      - "Prologue":
-        - 'Story/prologue.md'
+      - 'Story/dawn_of_tranquility.md'
       - "Intro Narration": Story/intro-narration.md
       - "Act I: Rising Tensions":
         - 'Story/Act1/index.md'
@@ -119,7 +118,7 @@ plugins:
   - autolinks
 
 hooks:
-#  - render_map/auto_populate/auto_populate_hooks.py
+  - render_map/auto_populate/auto_populate_hooks.py
   - render_map/plugin_hooks.py
 
 extra:
