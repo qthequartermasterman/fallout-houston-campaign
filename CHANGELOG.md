@@ -2,6 +2,23 @@
 
 
 
+## v0.35.0 (2023-12-29)
+
+### Documentation
+
+* docs: add satellite arrays ([`2f88e11`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/2f88e118e209537df5393485b0495b45a0141b8e))
+
+### Feature
+
+* feat: add autolinks ([`b4d2cc6`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b4d2cc6fc0024132f6fa71da75187479488645cf))
+
+* feat: add auto-populate cemeteries and factories ([`ef654c1`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ef654c1f0903e05bccc71e565e467ff449c8a690))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`8264ddb`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/8264ddbe8bbee2bc86533345c93020169fff40ec))
+
+
 ## v0.34.1 (2023-12-29)
 
 ### Fix
