@@ -13,7 +13,7 @@ This quest expects players to be at Level 3. If they are not, the GM should adju
 <!--summary-start-->
 - The player, known in the Gulf Coast Wasteland, receives a message to meet a Lone Star Republic representative in Rice Village. The message's content varies based on the player's past actions.
 - In Rice Village, they are greeted differently:
-  - If they helped the Bayou Brotherhood, [Congressman Theodore Wilcox](../../denizens_of_the_wasteland/factions/lonestarrepublic.md#congressman-theodore-wilcox) welcomes them and introduces them to negotiator [Sarah Dawson](../../denizens_of_the_wasteland/factions/lonestarrepublic.md#sarah-dawson).
+  - If they helped the Bayou Brotherhood, [Congressman Theodore Wilcox](../../denizens_of_the_wasteland/factions/major/lonestarrepublic.md#congressman-theodore-wilcox) welcomes them and introduces them to negotiator [Sarah Dawson](../../denizens_of_the_wasteland/factions/major/lonestarrepublic.md#sarah-dawson).
   - If they aided the Lone Star Republic, the President personally acknowledges their presence and introduces them to Sarah Dawson.
   - For those who responded to the general broadcast, they are met by a Lone Star Republic general who gives an overview of the mission.
 - Negotiator Sarah Dawson explains the mission: negotiate with the Oil Barons for a Fusion Core Stabilizer under the guise of improving electricity stability.

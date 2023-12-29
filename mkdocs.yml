@@ -24,13 +24,17 @@ nav:
   - Denizens of the Wasteland:
       - 'denizens_of_the_wasteland/fauna.md'
       - 'denizens_of_the_wasteland/flora.md'
-      - "Factions":
-          - 'denizens_of_the_wasteland/factions/index.md'
-          - 'denizens_of_the_wasteland/factions/bayoubrotherhood.md'
-          - 'denizens_of_the_wasteland/factions/thegalvestonpirates.md'
-          - 'denizens_of_the_wasteland/factions/lonestarrepublic.md'
-          - 'denizens_of_the_wasteland/factions/oilbarons.md'
-          - 'denizens_of_the_wasteland/factions/spaceportsurvivors.md'
+      - "Major Factions":
+          - 'denizens_of_the_wasteland/factions/major/index.md'
+          - 'denizens_of_the_wasteland/factions/major/lonestarrepublic.md'
+          - 'denizens_of_the_wasteland/factions/major/thegalvestonpirates.md'
+          - 'denizens_of_the_wasteland/factions/major/oilbarons.md'
+          - 'denizens_of_the_wasteland/factions/major/spaceportsurvivors.md'
+          - 'denizens_of_the_wasteland/factions/major/enclave.md'
+      - "Minor Factions":
+          - 'denizens_of_the_wasteland/factions/minor/index.md'
+          - 'denizens_of_the_wasteland/factions/minor/bayoubrotherhood.md'
+          - 'denizens_of_the_wasteland/factions/minor/brotherhoodofsteel.md'
   - "Story":
       - "Outline": Story/outline.md
       - "Prologue":
@@ -112,9 +116,10 @@ plugins:
         - docs/denizens_of_the_wasteland/creatures/new_creatures.yaml
       modules: [render_blocks]
   - search
+  - autolinks
 
 hooks:
-  - render_map/auto_populate/auto_populate_hooks.py
+#  - render_map/auto_populate/auto_populate_hooks.py
   - render_map/plugin_hooks.py
 
 extra:

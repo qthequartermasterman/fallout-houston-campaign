@@ -840,7 +840,7 @@ One of Scarsdale's caravans has gone missing in the wasteland, and Caravan Maste
 
 - The Hidden Silo: The players eventually discover the hidden missile silo that Quinn had stumbled upon. The players must explore the depths of the silo, facing mutated creatures, automated defenses, and solving puzzles left by the pre-war scientists.
 - Unveiling the Conspiracy: As the players delve deeper, they uncover that some unknown faction has a plan to use the experimental nuclear weapon to destabilize the region and seize control of valuable resources, including the Lone Star Republic's spaceport. Quinn, realizing the magnitude of the threat, has been trying to sabotage their efforts while avoiding detection.
-  - (This unknown faction is the Enclave remnant within the Oil Barons. This bunker had been used as an experimental lab since before the Great War and has been maintained (though is not actively used all the time) since. The Oil Barons Enclave Remnant had sprung into action after the emergence of the Spaceport Survivors and their Enclave Remnant. See [The Enclave](../factions/the-enclave.md) for more information.)
+  - (This unknown faction is the Enclave remnant within the Oil Barons. This bunker had been used as an experimental lab since before the Great War and has been maintained (though is not actively used all the time) since. The Oil Barons Enclave Remnant had sprung into action after the emergence of the Spaceport Survivors and their Enclave Remnant. See [The Enclave](enclave.md) for more information.)
 - Showdown at the Silo: The players must confront Quinn, who is obsessed with the need to prevent the catastrophic plans of the rogue faction. The confrontation leads to a tense negotiation or a climactic battle.
 
 
