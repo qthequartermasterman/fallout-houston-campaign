@@ -1,7 +1,6 @@
 """Automatically populate the map with supermarkets and other landmarks using the Overpass (Open Street Map) API."""
 
-import enum
-from typing import Annotated, Callable, Hashable, Sequence, TypeAlias, TypeVar
+from typing import Annotated, Callable
 
 import bs4
 import mkdocs.plugins
@@ -9,69 +8,19 @@ import overpy
 import pydantic
 
 from render_map import mapping
+from render_map.auto_populate.map_features import auto_populate_gas_stations
+from render_map.auto_populate.map_features import auto_populate_super_markets
+from render_map.auto_populate.map_features import map_features_utils
 
 LOGGER = mkdocs.plugins.get_plugin_logger(__name__)
 
-T = TypeVar("T")
-NameZoomIcon: TypeAlias = tuple[str | None, mapping.ZoomLevel, mapping.map_icons.MapIcon]
-
-
-SUPER_MARKET_QUERY = """[out:json];
-(node["building"="supermarket"](around:{radius},{lat},{lon});
- node["shop"="supermarket"](around:{radius},{lat},{lon});
- way["shop"="supermarket"](around:{radius},{lat},{lon});
-);
-(._;>;);
-out meta;
-"""
-
-GAS_STATION_QUERY = """[out:json];
-(node["amenity"="fuel"](around:{radius},{lat},{lon});
-node["amenity"="charging_station"](around:{radius},{lat},{lon});
-node[name="Buc-ee's"](around:{radius},{lat},{lon});
-node[brand="Buc-ee's"](around:{radius},{lat},{lon});
-way[brand="Buc-ee's"][shop="convenience"](around:{radius},{lat},{lon});
-);
-(._;>;);
-out meta;
-"""
-
-GAS_STATIONS: list[tuple[str, mapping.map_icons.MapIcon]] = [
-    ("Red Rocket", mapping.map_icons.MapIcon.ROCKET),
-    ("Poseidon Energy", mapping.map_icons.MapIcon.POSEIDON),
-    # ("Petro-Chico", mapping.map_icons.MapIcon.SOMBRERO),
-    ("Gas Station", mapping.map_icons.MapIcon.GAS_STATION),
-]
-
 API = overpy.Overpass()
-
-
-def choose_item_from_list(list_: Sequence[T], criterion: Hashable) -> T:
-    """Choose an item in such a way that it is fully deterministic and reproducible. The items must also be chosen uniformly.
-
-    This is done by effectively using a poor-man's hash function with a co-domain of the length of the list.
-
-    Args:
-        list_: The list to choose from.
-        criterion: The criterion to choose the item by.
-
-    Returns:
-        An item from the list.
-
-    Raises:
-        ValueError: If the list is empty.
-    """
-    if len(list_) == 0:
-        raise ValueError("List must not be empty.")
-
-    index = hash(criterion) % len(list_)
-    return list_[index]
 
 
 def populate_tags(
     query: str,
     feature_type_name: str,
-    choose_name_function: Callable[[overpy.Node | overpy.Way], NameZoomIcon],
+    choose_name_function: Callable[[overpy.Node | overpy.Way], map_features_utils.NameZoomIcon],
     parent_tag: bs4.Tag,
     radius: float,
     latitude: float,
@@ -100,62 +49,10 @@ def populate_tags(
     return tags
 
 
-def choose_supermarket_name_zoom_icon(node: overpy.Node) -> NameZoomIcon:
-    """Choose the game name and map zoom level for a supermarket, based on the properties of the supermarket in the
-    real world.
-
-    Args:
-        node: The node in OpenStreetMap representing the supermarket.
-
-    Returns:
-        Game name and map zoom level for the supermarket.
-    """
-    name_from_node = node.tags.get("name", None)
-    # If the supermarket is not named in OpenStreetMap, we'll (unfairly) assume it's not a very important supermarket.
-    if name_from_node is None:
-        return None, mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.SUPER_DUPER_MART
-    # Super-Duper Mart is implied to be a chain of very large supermarkets, likely wholesale. In the video games, there
-    # is only one Super-Duper Mart in its corresponding city metro-area.
-    if "walmart" in name_from_node.lower() or "sam's" in name_from_node.lower() or "costco" in name_from_node.lower():
-        # Only a quarter of the supermarkets should be visible from the large wasteland map.
-        zoom_level = mapping.ZoomLevel.TOWN if node.id % 4 else mapping.ZoomLevel.WASTELAND
-        return "Super-Duper Mart", zoom_level, mapping.map_icons.MapIcon.SUPER_DUPER_MART
-    # TODO: Provide more plausible and generic names for super markets.
-    return "Supermarket", mapping.ZoomLevel.TOWN, mapping.map_icons.MapIcon.SUPER_DUPER_MART
-
-
-def choose_gas_station_name_zoom_icon(node: overpy.Node | overpy.Way) -> NameZoomIcon:
-    """Choose the game name and map zoom level for a supermarket, based on the properties of the supermarket in the
-    real world.
-
-    Args:
-        node: The node in OpenStreetMap representing the supermarket.
-
-    Returns:
-        Game name and map zoom level for the supermarket.
-    """
-    name_from_node = node.tags.get("name", "")
-    brand_from_node = node.tags.get("brand", "")
-    # Womb-ee's is a fictional gas station chain in the Fallout: Houston campaign.
-    # It is a parody of Buc-ee's, a real gas station chain in Texas.
-    if "buc-ee" in name_from_node.lower() or "buc-ee" in brand_from_node.lower():
-        return "Womb-ee's", mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.BEAVER
-    # If the gas station is not named in OpenStreetMap, we'll (unfairly) assume it's not very important.
-    if name_from_node is None:
-        return None, mapping.ZoomLevel.WASTELAND, mapping.map_icons.MapIcon.GAS_STATION
-
-    name, icon = choose_item_from_list(GAS_STATIONS, name_from_node)
-
-    # # We want only about a quarter of the gas stations to be visible from the large wasteland map.
-    # zoom_level = mapping.ZoomLevel.TOWN if hash((name_from_node, node.id)) % 4 else mapping.ZoomLevel.WASTELAND
-    zoom_level = mapping.ZoomLevel.TOWN
-    return name, zoom_level, icon
-
-
 def populate_features(
     query: str,
     feature_type_name: str,
-    choose_name_function: Callable[[overpy.Node | overpy.Way], NameZoomIcon],
+    choose_name_function: Callable[[overpy.Node | overpy.Way], map_features_utils.NameZoomIcon],
     radius: float,
     latitude: float,
     longitude: float,
@@ -201,24 +98,11 @@ def populate_features(
     return [geotag.get_tag() for geotag in geotags]
 
 
-@pydantic.dataclasses.dataclass
-class FeaturePopulateMetadata:
-    """Metadata for a feature type to populate the map with."""
-
-    feature_type_name: str
-    query: str
-    choose_name_function: Callable[[overpy.Node | overpy.Way], NameZoomIcon]
-
-
 class AutoPopulateConfig(pydantic.BaseModel):
     """The configuration for the auto-populate plugin."""
 
-    supermarket: Annotated[
-        bool, FeaturePopulateMetadata(feature_type_name="supermarkets", query=SUPER_MARKET_QUERY, choose_name_function=choose_supermarket_name_zoom_icon)
-    ] = False
-    gas_station: Annotated[
-        bool, FeaturePopulateMetadata(feature_type_name="gas stations", query=GAS_STATION_QUERY, choose_name_function=choose_gas_station_name_zoom_icon)
-    ] = False
+    supermarket: Annotated[bool, auto_populate_super_markets.SuperMarketFeatureMetadata] = False
+    gas_station: Annotated[bool, auto_populate_gas_stations.GasStationFeatureMetadata] = False
 
     @staticmethod
     def tag_name() -> str:
@@ -270,7 +154,8 @@ def find_auto_populate_geotags(
         bulleted_list = soup.new_tag("div")
         for field, field_info in geotag_config.model_fields.items():
             if getattr(geotag_config, field):
-                metadata: FeaturePopulateMetadata = field_info.metadata[0]
+                metadata: map_features_utils.FeaturePopulateMetadata = field_info.metadata[0]
+                assert isinstance(metadata, map_features_utils.FeaturePopulateMetadata)
                 populate_tags(
                     metadata.query,
                     metadata.feature_type_name,
