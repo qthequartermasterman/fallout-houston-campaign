@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import enum
 import json
+import os
 import pathlib
 import re
 import uuid
@@ -132,10 +133,11 @@ def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
     Returns:
         The map template.
     """
+    api_key = config.extra["GOOGLE_MAPS_API_KEY"] if "GOOGLE_MAPS_API_KEY" in config.extra else os.getenv("GOOGLE_MAPS_API_KEY")
     map_source = MAP_TEMPLATE
     map_source = map_source.replace("{{MAP_CENTER}}", json.dumps(config.extra["global_map"]["center"]))
     map_source = map_source.replace("{{MAP_ZOOM}}", json.dumps(config.extra["global_map"]["zoom"]))
-    map_source = map_source.replace("{{GOOGLE_MAPS_API_KEY}}", str(config.extra["GOOGLE_MAPS_API_KEY"]))
+    map_source = map_source.replace("{{GOOGLE_MAPS_API_KEY}}", str(api_key))
     markers = [geo_link.model_dump() for geo_link in GEO_LINKS]
     map_source = map_source.replace("{{MARKERS}}", json.dumps(markers))
 
