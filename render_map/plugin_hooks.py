@@ -4,6 +4,7 @@ import mkdocs.plugins
 
 from render_map import mapping
 
+
 @mkdocs.plugins.event_priority(0)
 def on_page_markdown(
     markdown: str,

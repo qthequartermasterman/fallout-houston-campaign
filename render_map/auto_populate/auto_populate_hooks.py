@@ -4,6 +4,7 @@ import mkdocs.plugins
 
 from render_map.auto_populate import auto_populate_map
 
+
 @mkdocs.plugins.event_priority(100)
 def on_page_markdown(
     markdown: str,
@@ -28,7 +29,8 @@ def on_page_markdown(
     latitude, longitude = config.extra["auto_populate"]["center"]
     radius = config.extra["auto_populate"]["population_radius"]
 
-    geolinks, markdown = auto_populate_map.find_auto_populate_geotags(markdown, latitude, longitude, radius)
+    geolinks, markdown = auto_populate_map.find_auto_populate_geotags(
+        markdown, latitude, longitude, radius
+    )
 
     return markdown
-

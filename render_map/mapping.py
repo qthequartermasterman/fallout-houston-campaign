@@ -35,11 +35,12 @@ MAP_TEMPLATE = (pathlib.Path(__file__).parent / "map_template.html").read_text(
 )
 MAP_TEMPLATE = MAP_TEMPLATE.replace("{{STYLE}}", json.dumps(MAP_STYLE_JSON))
 
+
 class ZoomLevel(enum.Enum):
     """The zoom level of the map."""
 
     WASTELAND = 0  # Always visible
-    TOWN=13
+    TOWN = 13
 
 
 class GeoLink(pydantic.BaseModel):
@@ -54,7 +55,7 @@ class GeoLink(pydantic.BaseModel):
     zoom: ZoomLevel = pydantic.Field(default=ZoomLevel.WASTELAND, validate_default=True)
     uuid: str = pydantic.Field(default_factory=lambda: str(uuid.uuid4()))
 
-    def get_tag(self, include_uuid:bool=False) -> bs4.Tag:
+    def get_tag(self, include_uuid: bool = False) -> bs4.Tag:
         """Get the geotag as a string.
 
         Args:
@@ -75,9 +76,13 @@ class GeoLink(pydantic.BaseModel):
 
         return tag
 
+
 GEO_LINKS: list[GeoLink] = []
 
-def resolve_enum(result:dict[str,str], enum_type: Type[EnumType], enum_key:str) -> None:
+
+def resolve_enum(
+    result: dict[str, str], enum_type: Type[EnumType], enum_key: str
+) -> None:
     """Resolve an enum from a string.
 
     If the enum key is in the result, then the enum is resolved. If the value of the enum key is empty, then the enum is removed from the result.
@@ -89,9 +94,10 @@ def resolve_enum(result:dict[str,str], enum_type: Type[EnumType], enum_key:str) 
     """
     if enum_key in result:
         if result[enum_key]:
-            result[enum_key] =  getattr(enum_type, result[enum_key])
+            result[enum_key] = getattr(enum_type, result[enum_key])
         else:
             result.pop(enum_key)
+
 
 def find_geo_links(markdown: str) -> tuple[list[GeoLink], str]:
     """Find all geotags in the markdown and process them into a list of GeoLink objects.
@@ -118,7 +124,7 @@ def find_geo_links(markdown: str) -> tuple[list[GeoLink], str]:
         # Replace the geotag with a span tag with the uuid as the id and the name as the text
         new_tag = soup.new_tag("span")
         new_tag.string = geo_link.name
-        new_tag['id'] = geo_link.uuid
+        new_tag["id"] = geo_link.uuid
         geo_tag.replace_with(new_tag)
     return geo_links, str(soup)
 
@@ -146,5 +152,3 @@ def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
     map_source = map_source.replace("{{MARKERS}}", json.dumps(markers))
 
     return map_source
-
-

@@ -578,8 +578,8 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
 ## Radiant Shores (formerly Pearland)
 
 <geotag 
-  latitude=29.560551516530104
-  longitude=-95.28420078774923
+  latitude=29.568509857469653
+  longitude=-95.28472826689617
   icon="RADIATION"
   name="Radiant Shores"
 />

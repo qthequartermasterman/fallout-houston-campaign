@@ -8,6 +8,17 @@ here.
 
 ## Raw Materials and Energy Corporations
 
+### Red Rocket
+
+*For more details, see the Red Rocket entry in the Fallout RPG Core Rulebook (pg 230) and the [Red Rocket entry from the Fallout wiki](https://fallout.fandom.com/wiki/Red_Rocket).*
+
+Many remnants of the Red Rocket Corporation in the Gulf Coast Wasteland eventually coalesced and joined the Oil Barons. For more details, see [Oil Barons](../denizens_of_the_wasteland/factions/oilbarons.md).
+
+### Poseidon Energy
+
+*For more details, see the Poseidon entry in the Fallout RPG Core Rulebook (pg 231) and the [Poseidon Energy entry from the Fallout wiki](https://fallout.fandom.com/wiki/Poseidon_Energy).*
+
+Many remnants of the Poseidon Energy Corporation in the Gulf Coast Wasteland eventually coalesced and joined the Oil Barons. For more details, see [Oil Barons](../denizens_of_the_wasteland/factions/oilbarons.md).
 
 ## Vault-Tec
 

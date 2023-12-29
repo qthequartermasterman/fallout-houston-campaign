@@ -11,6 +11,12 @@ class MapIcon(enum.Enum):
     )
 
     ROCKET = "https://static.wikia.nocookie.net/fallout_gamepedia/images/c/ce/153.svg"
+    GAS_STATION = (
+        "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/gas-pump.png"
+    )
+    POSEIDON = "https://game-icons.net/icons/ffffff/000000/1x1/lorc/trident.png"
+    SOMBRERO = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/sombrero.png"
+    BEAVER = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/beaver.png"
     SATELLITE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/ea/47.svg"
 
     BOAT = "https://static.wikia.nocookie.net/fallout_gamepedia/images/8/86/11.svg/"
@@ -60,7 +66,9 @@ class MapIcon(enum.Enum):
     LIGHT = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/ed/59.svg"
     RADIO = "https://static.wikia.nocookie.net/fallout_gamepedia/images/6/64/62.svg"
 
-    DOOR_TARGET = "https://static.wikia.nocookie.net/fallout_gamepedia/images/0/03/68.svg"
+    DOOR_TARGET = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/0/03/68.svg"
+    )
     FOOD = SETTLEMENT
     WATER = "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/bd/35.svg"
     POWER = RADIATION
@@ -68,9 +76,13 @@ class MapIcon(enum.Enum):
     CARAVAN = WAREHOUSE
     INN = DOOR_TARGET
 
-    SUPER_DUPER_MART = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/e9/14.svg"
+    SUPER_DUPER_MART = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/e9/14.svg"
+    )
     CEMETARY = "https://static.wikia.nocookie.net/fallout_gamepedia/images/d/df/144.svg"
-    RICE_VILLAGE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/c/c8/147.svg"
+    RICE_VILLAGE = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/c/c8/147.svg"
+    )
 
     DRIVE_IN = "https://static.wikia.nocookie.net/fallout_gamepedia/images/5/51/169.svg"
     CAR = "https://static.wikia.nocookie.net/fallout_gamepedia/images/3/31/200.svg"
@@ -79,15 +91,21 @@ class MapIcon(enum.Enum):
 
     MINE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/0/0f/76.svg"
     BUNKER = "https://static.wikia.nocookie.net/fallout_gamepedia/images/f/f3/206.svg"
-    TRAILER_PARK = "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/b4/203.svg"
+    TRAILER_PARK = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/b4/203.svg"
+    )
 
     STATUE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/be/50.svg/"
     POLICE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/3/3d/88.svg"
-    AMUSEMENT_PARK = "https://static.wikia.nocookie.net/fallout_gamepedia/images/8/84/185.svg"
+    AMUSEMENT_PARK = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/8/84/185.svg"
+    )
 
     SQUARE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/eb/173.svg"
 
     OVERPASS = "https://static.wikia.nocookie.net/fallout_gamepedia/images/a/a1/166.svg"
 
-    BEACH="https://static.wikia.nocookie.net/fallout_gamepedia/images/f/fa/123.svg"
-    PLANETARIUM = "https://static.wikia.nocookie.net/fallout_gamepedia/images/1/14/102.svg"
+    BEACH = "https://static.wikia.nocookie.net/fallout_gamepedia/images/f/fa/123.svg"
+    PLANETARIUM = (
+        "https://static.wikia.nocookie.net/fallout_gamepedia/images/1/14/102.svg"
+    )
