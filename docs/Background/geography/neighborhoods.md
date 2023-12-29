@@ -392,6 +392,34 @@ The PC with the highest Charisma makes a settlement reputation test **(CHA + Rep
   rocket launch. This district represents the hope and ambition of returning to the stars after centuries of
   devastation.
 
+### Satellite Arrays/Ground Stations
+
+There are many satellite arrays and ground stations scattered across the wasteland. These are used to communicate with satellites in orbit.
+
+
+| Name                                                                                                                                       | 
+|--------------------------------------------------------------------------------------------------------------------------------------------|
+| <geotag zoom=WASTELAND latitude=29.573215055042432 longitude=-95.0940195037338 name="Spaceport District Satellite Array" icon=SATELLITE /> |
+| <geotag zoom=WASTELAND latitude=29.648424964030287 longitude=-96.05961230779872 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=30.496249623127518 longitude=-95.86313360228489 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.995294632284764 longitude=-95.14918382643299 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.980112335696607 longitude=-95.31695980904652 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.64333945315287 longitude=-95.273763752717 name="Satellite Array" icon=SATELLITE />                     |
+| <geotag zoom=WASTELAND latitude=30.064099775231846 longitude=-95.54813540616497 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.861283994310817 longitude=-95.58390077157176 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.717904696820487 longitude=-95.41732433635413 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=30.070649956592845 longitude=-95.60574686143637 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.79732191911725 longitude=-94.40694268011607 name="Satellite Array" icon=SATELLITE />                    |
+| <geotag zoom=WASTELAND latitude=30.070649956592845 longitude=-94.86434518665628 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=30.2052619187626 longitude=-95.70678502706018 name="Satellite Array" icon=SATELLITE />                     |
+| <geotag zoom=WASTELAND latitude=30.329083976288928 longitude=-95.45145885176757 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=30.69021783456614 longitude=-95.55113163656236 name="Satellite Array" icon=SATELLITE />                    |
+| <geotag zoom=WASTELAND latitude=30.050560520675745 longitude=-94.18438562261834 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.310353157587734 longitude=-95.55113162735292 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=29.361535499947568 longitude=-95.76413100353282 name="Satellite Array" icon=SATELLITE />                   |
+| <geotag zoom=WASTELAND latitude=28.98122370816341 longitude=-95.38728595343919 name="Satellite Array" icon=SATELLITE />                    |
+
+
 ## The Energy Corridor
 
 ![Energy Corridor](../../Assets/concept-art/energy-corridor-ruins.jpeg)
