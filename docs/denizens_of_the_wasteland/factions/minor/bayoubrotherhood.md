@@ -20,6 +20,10 @@
       any practical reasons. Symbolically, however, they see the spaceport as an opportunity for humanity to reconnect
       with the cosmos and rediscover their place in the universe.
 
+## History
+### Origins
+The early members of the Bayou Brotherhood are descendants of Cajun swamp-dwellers who survived the Great War. A rocket crash lands into the Bayou, and its crew is rescued by the swamp-dwellers. Those aboard the rocket tell the story of a Moon Spirit that had intervened during an attack on their space station, saving their lives. The swamp-dwellers, who had long believed in the mystical power of the Bayou, saw this as a sign that the Moon Spirit had chosen them to be its guardians. The Moon Spirit is actually the player character interacting with the past. See [The Overseer's Surrender](dawn_of_tranquility.md#the-overseers-surrender) for more details.
+
 ## Notable Characters
 ### Cyrus "Gator" Boudreaux
 {{ render_character_block(character_gator) }}
