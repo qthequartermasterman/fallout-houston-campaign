@@ -8,8 +8,7 @@ import overpy
 import pydantic
 
 from render_map import mapping
-from render_map.auto_populate.map_features import auto_populate_gas_stations
-from render_map.auto_populate.map_features import auto_populate_super_markets
+from render_map.auto_populate import map_features
 from render_map.auto_populate.map_features import map_features_utils
 
 LOGGER = mkdocs.plugins.get_plugin_logger(__name__)
@@ -80,7 +79,7 @@ def populate_features(
         node_ids_to_ignore.extend([node.id for node in way.nodes])
         name, zoom, icon = choose_name_function(way)
         # Skip over unnamed features (they're likely not important enough to show up on the game map).
-        if name is None:
+        if name is None or len(way.nodes) == 0:
             continue
         latitude = way.center_lat or way.nodes[0].lat
         longitude = way.center_lon or way.nodes[0].lon
@@ -101,8 +100,10 @@ def populate_features(
 class AutoPopulateConfig(pydantic.BaseModel):
     """The configuration for the auto-populate plugin."""
 
-    supermarket: Annotated[bool, auto_populate_super_markets.SuperMarketFeatureMetadata] = False
-    gas_station: Annotated[bool, auto_populate_gas_stations.GasStationFeatureMetadata] = False
+    supermarket: Annotated[bool, map_features.SuperMarketFeatureMetadata] = False
+    gas_station: Annotated[bool, map_features.GasStationFeatureMetadata] = False
+    factory: Annotated[bool, map_features.FactoryFeatureMetadata] = False
+    cemetery: Annotated[bool, map_features.CemeteryFeatureMetadata] = False
 
     @staticmethod
     def tag_name() -> str:

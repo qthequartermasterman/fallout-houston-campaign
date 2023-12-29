@@ -25,3 +25,15 @@ Barons, and will often have a small convenience store attached to them.
 As the game master, you can decide whether a given gas station is maintained or not.
 
 <populate_geotag gas_station />
+
+## Factories
+
+Factories are a great place to find scrap, raw materials, and other useful items. Factories are generally unmaintained.
+
+<populate_geotag factory />
+
+## Cemeteries
+
+Cemeteries are a great place to find scrap, raw materials, and other useful items. Cemeteries are generally unmaintained, except those close to current settlements.
+
+<populate_geotag cemetery />

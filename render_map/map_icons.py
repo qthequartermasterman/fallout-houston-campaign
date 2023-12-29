@@ -59,7 +59,7 @@ class MapIcon(enum.Enum):
     INN = DOOR_TARGET
 
     SUPER_DUPER_MART = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/e9/14.svg"
-    CEMETARY = "https://static.wikia.nocookie.net/fallout_gamepedia/images/d/df/144.svg"
+    CEMETERY = "https://static.wikia.nocookie.net/fallout_gamepedia/images/d/df/144.svg"
     RICE_VILLAGE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/c/c8/147.svg"
 
     DRIVE_IN = "https://static.wikia.nocookie.net/fallout_gamepedia/images/5/51/169.svg"

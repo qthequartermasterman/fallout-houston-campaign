@@ -1,0 +1,4 @@
+from render_map.auto_populate.map_features.auto_populate_gas_stations import GasStationFeatureMetadata
+from render_map.auto_populate.map_features.auto_populate_super_markets import SuperMarketFeatureMetadata
+from render_map.auto_populate.map_features.factories import FactoryFeatureMetadata
+from render_map.auto_populate.map_features.cemeteries import CemeteryFeatureMetadata
