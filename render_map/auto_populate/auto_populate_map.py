@@ -1,7 +1,7 @@
 """Automatically populate the map with supermarkets and other landmarks using the Overpass (Open Street Map) API."""
-from __future__ import annotations
 
-from typing import Callable, Hashable, Sequence, TypeAlias, TypeVar
+import enum
+from typing import Annotated, Callable, Hashable, Sequence, TypeAlias, TypeVar
 
 import bs4
 import mkdocs.plugins
@@ -46,33 +46,6 @@ GAS_STATIONS: list[tuple[str, mapping.map_icons.MapIcon]] = [
 API = overpy.Overpass()
 
 
-class AutoPopulateConfig(pydantic.BaseModel):
-    """The configuration for the auto-populate plugin."""
-
-    supermarket: bool = False
-    gas_station: bool = False
-
-    @staticmethod
-    def tag_name() -> str:
-        """The name of the tag to search for."""
-        return "populate_geotag"
-
-    @classmethod
-    def from_dict(cls, config_dict: dict[str, str | bool]) -> AutoPopulateConfig:
-        """Create a config object from a dictionary.
-
-        Args:
-            config_dict: The dictionary to create the config object from.
-
-        Returns:
-            A config object.
-        """
-        for key in cls.model_fields:
-            if key in config_dict:
-                config_dict[key] = True
-        return cls(**config_dict)
-
-
 def choose_item_from_list(list_: Sequence[T], criterion: Hashable) -> T:
     """Choose an item in such a way that it is fully deterministic and reproducible. The items must also be chosen uniformly.
 
@@ -93,58 +66,6 @@ def choose_item_from_list(list_: Sequence[T], criterion: Hashable) -> T:
 
     index = hash(criterion) % len(list_)
     return list_[index]
-
-
-def find_auto_populate_geotags(
-    markdown: str, latitude: float, longitude: float, radius: float
-) -> tuple[list[AutoPopulateConfig], str]:
-    """Find all geotags in the markdown and process them into a list of GeoLink objects.
-
-    Args:
-        markdown: The markdown to search for geotags.
-        latitude: The latitude to search for supermarkets.
-        longitude: The longitude to search for supermarkets.
-        radius: The radius in meters to search for supermarkets.
-
-    Returns:
-        A list of GeoLink objects and the markdown with the geotags replaced.
-    """
-    soup = bs4.BeautifulSoup(markdown, "html.parser")
-    geo_tags = soup.find_all(AutoPopulateConfig.tag_name())
-
-    populate_geotags_configs = []
-    for geo_tag in geo_tags:
-        result = geo_tag.attrs
-
-        # Generate a GeoLink object from the result
-        geotag_config = AutoPopulateConfig.from_dict(result)
-        populate_geotags_configs.append(geotag_config)
-
-        # Replace the geotag with a list of supermarkets
-        bulleted_list = soup.new_tag("div")
-        if geotag_config.supermarket:
-            populate_tags(
-                SUPER_MARKET_QUERY,
-                "supermarkets",
-                choose_supermarket_name_zoom_icon,
-                bulleted_list,
-                radius,
-                latitude,
-                longitude,
-            )
-        if geotag_config.gas_station:
-            populate_tags(
-                GAS_STATION_QUERY,
-                "gas stations",
-                choose_gas_station_name_zoom_icon,
-                bulleted_list,
-                radius,
-                latitude,
-                longitude,
-            )
-        geo_tag.replace_with(bulleted_list)
-        bulleted_list.unwrap()  # If we don't unwrap the page will not treat all the bullet points as siblings under root, and thus the markdown will not be rendered correctly.
-    return populate_geotags_configs, str(soup)
 
 
 def populate_tags(
@@ -278,3 +199,89 @@ def populate_features(
         geotags.append(mapping.GeoLink(name=name, latitude=node.lat, longitude=node.lon, zoom=zoom, icon=icon))
     LOGGER.info(f"Added {len(geotags)} {feature_type_name}.")
     return [geotag.get_tag() for geotag in geotags]
+
+
+@pydantic.dataclasses.dataclass
+class FeaturePopulateMetadata:
+    """Metadata for a feature type to populate the map with."""
+
+    feature_type_name: str
+    query: str
+    choose_name_function: Callable[[overpy.Node | overpy.Way], NameZoomIcon]
+
+
+class AutoPopulateConfig(pydantic.BaseModel):
+    """The configuration for the auto-populate plugin."""
+
+    supermarket: Annotated[
+        bool, FeaturePopulateMetadata(feature_type_name="supermarkets", query=SUPER_MARKET_QUERY, choose_name_function=choose_supermarket_name_zoom_icon)
+    ] = False
+    gas_station: Annotated[
+        bool, FeaturePopulateMetadata(feature_type_name="gas stations", query=GAS_STATION_QUERY, choose_name_function=choose_gas_station_name_zoom_icon)
+    ] = False
+
+    @staticmethod
+    def tag_name() -> str:
+        """The name of the tag to search for."""
+        return "populate_geotag"
+
+    @classmethod
+    def from_dict_keys(cls, config_dict: dict[str, str | bool]) -> "AutoPopulateConfig":
+        """Create a config object from a dictionary.
+
+        Args:
+            config_dict: The dictionary to create the config object from.
+
+        Returns:
+            A config object.
+        """
+        for key in cls.model_fields:
+            if key in config_dict:
+                config_dict[key] = True
+        return cls(**config_dict)
+
+
+def find_auto_populate_geotags(
+    markdown: str, latitude: float, longitude: float, radius: float
+) -> tuple[list[AutoPopulateConfig], str]:
+    """Find all geotags in the markdown and process them into a list of GeoLink objects.
+
+    Args:
+        markdown: The markdown to search for geotags.
+        latitude: The latitude to search for supermarkets.
+        longitude: The longitude to search for supermarkets.
+        radius: The radius in meters to search for supermarkets.
+
+    Returns:
+        A list of GeoLink objects and the markdown with the geotags replaced.
+    """
+    soup = bs4.BeautifulSoup(markdown, "html.parser")
+    geo_tags = soup.find_all(AutoPopulateConfig.tag_name())
+
+    populate_geotags_configs = []
+    for geo_tag in geo_tags:
+        result = geo_tag.attrs
+
+        # Generate a GeoLink object from the result
+        geotag_config = AutoPopulateConfig.from_dict_keys(result)
+        populate_geotags_configs.append(geotag_config)
+
+        # Replace the geotag with a list of supermarkets
+        bulleted_list = soup.new_tag("div")
+        for field, field_info in geotag_config.model_fields.items():
+            if getattr(geotag_config, field):
+                metadata: FeaturePopulateMetadata = field_info.metadata[0]
+                populate_tags(
+                    metadata.query,
+                    metadata.feature_type_name,
+                    metadata.choose_name_function,
+                    bulleted_list,
+                    radius,
+                    latitude,
+                    longitude,
+                )
+        geo_tag.replace_with(bulleted_list)
+        # If we don't unwrap the page will not treat all the bullet points as siblings under root, and thus the markdown
+        # will not be rendered correctly.
+        bulleted_list.unwrap()
+    return populate_geotags_configs, str(soup)
