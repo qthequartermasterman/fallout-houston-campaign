@@ -7,7 +7,7 @@ repo_url: https://github.com/qthequartermasterman/fallout-houston-campaign
 edit_uri: edit/main/docs/
 
 nav:
-  - Home: index.md
+  - Welcome to the Wasteland: index.md
   - The Gulf Coast Wasteland:
       - "Geography":
           - 'Background/geography/map.md'
@@ -17,13 +17,13 @@ nav:
           - 'Background/geography/nuclear_targets.md'
           - 'Background/geography/misc.md'
           - 'Background/geography/loot_locations.md'
-      - "Pre-war Companies": Background/companies.md
+      - 'Background/companies.md'
       - "Sim Settlements 2 Elements": Background/sim-settlements-elements.md
       - 'Background/theming_music.md'
       - "Background Events": Background/background.md
   - Denizens of the Wasteland:
-      - "Animals & Insects": denizens_of_the_wasteland/fauna.md
-      - "Plants": denizens_of_the_wasteland/flora.md
+      - 'denizens_of_the_wasteland/fauna.md'
+      - 'denizens_of_the_wasteland/flora.md'
       - "Factions":
           - 'denizens_of_the_wasteland/factions/index.md'
           - 'denizens_of_the_wasteland/factions/bayoubrotherhood.md'

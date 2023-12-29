@@ -1,4 +1,4 @@
-# Common Flora in the Gulf Coast Wasteland
+# Plants
 
 ## Mutated Live Oaks:
 - Description: These mutated live oak trees have adapted to the post-apocalyptic conditions with tougher, more resilient bark and leaves. They might have mutated growths on their branches or eerie bioluminescent foliage.

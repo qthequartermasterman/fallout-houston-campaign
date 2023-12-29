@@ -1,4 +1,4 @@
-# Common Fauna in the Gulf Coast Wasteland
+# Animals & Insects
 
 [//]: # (Prompt to generate this &#40;via ChatGPT&#41;:)
 

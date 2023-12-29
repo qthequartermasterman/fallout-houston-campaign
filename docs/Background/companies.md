@@ -1,4 +1,4 @@
-# Corporations of Pre-War America
+# Corporations of Pre-War Houston
 
 This section augments the list of "Corporations of Pre-War America" from chapter 6 the Fallout Tabletop RPG core
 rulebook. Some of the companies listed there are included here (summarized) if highly relevant to the story and world of
