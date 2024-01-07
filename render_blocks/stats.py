@@ -293,17 +293,15 @@ class Character(Entity):
             raise ValueError(f"Invalid character type {self.type}")
         if self.type == Type.normal and special_sum != math.ceil(35 + self.level / 2):
             raise ValueError(
-                f"Normal characters must have a total of ceil(35 + level/2) SPECIAL points, but this character has {special_sum} points."
+                f"Normal characters must have a total of {math.ceil(35 + self.level/2)} SPECIAL points, but this character has {special_sum} points."
             )
-        elif self.type == Type.notable and special_sum != math.ceil(
-            42 + self.level / 2
-        ):
+        elif self.type == Type.notable and special_sum != math.ceil(42 + self.level / 2):
             raise ValueError(
-                f"Notable characters must have a total of ceil(42 + level/2) SPECIAL points, but this character has {special_sum} points."
+                f"Notable characters must have a total of {math.ceil(42 + self.level/2)=} SPECIAL points, but this character has {special_sum} points."
             )
-        elif self.type == Type.major and special_sum != math.ceil(49 + self.level / 2):
+        elif self.type == Type.major and special_sum != math.ceil(49 + self.level/2):
             raise ValueError(
-                f"Major characters must have a total of ceil(49 + level/2) SPECIAL points, but this character has {special_sum} points."
+                f"Major characters must have a total of {math.ceil(49 + self.level/2)=} SPECIAL points, but this character has {special_sum} points."
             )
         return self
 

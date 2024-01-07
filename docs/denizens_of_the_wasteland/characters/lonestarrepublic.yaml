@@ -1,0 +1,46 @@
+character_president_davis:
+  name: President Samuel Davis
+  level: 10
+  img: ../../../../Assets/characters/president.png
+  exp: 38
+  type: Notable
+  keywords:
+    - Human
+  description: President Samuel Davis is a rugged and imposing figure in the post-apocalyptic wasteland. Standing at 6 feet tall, he possesses a commanding presence with broad shoulders and a well-maintained physique that reflects his military background. Samuel's deep-set, steel-blue eyes radiate an air of authority, often leaving an indelible impression on those who meet him. His grizzled, salt-and-pepper hair and well-trimmed beard add to his distinguished appearance. Although the wasteland has aged him, it has also toughened him, and his weathered features tell the tale of a man who has faced the harsh realities of the new world.
+  special:
+    strength: 7
+    perception: 6
+    endurance: 8
+    charisma: 9
+    intelligence: 6
+    agility: 6
+    luck: 5
+  skills:
+    athletics:
+      tag: false
+      rank: 1
+    barter:
+      tag: false
+      rank: 1
+    sneak:
+      tag: true
+      rank: 2
+    speech:
+      tag: true
+      rank: 3
+    survival:
+      tag: true
+      rank: 3
+    melee_weapons:
+      tag: false
+      rank: 1
+    small_guns:
+      tag: false
+      rank: 1
+  special_abilities:
+    - name: Stratagem and Espionage
+      description: With his long military background, President Davis is a master of strategy and espionage. He can plan and execute covert operations, gather intelligence, and conduct reconnaissance. He can also train others in these skills, allowing them to perform more effectively in the field. When President Davis is present, Sneak-based skill checks have one less difficulty for all members of the party.
+    - name: Diplomatic Insight
+      description: The elder is a skilled diplomat and mediator. Their ability to read people and situations allows them to negotiate more effectively, make wise decisions, and find common ground during diplomatic discussions. They can also defuse tense situations and foster cooperation with other factions. Once per short rest, they can subtract 1 {CD} difficulty from a single Charisma-based skill check. If an Effect is rolled, then they can optionally re-roll one d20 dice used for the skill check.
+    - name: Politician's Charm
+      description: President Davis is a skilled orator and a master of persuasion. He can sway the opinions of others and convince them to see things his way. He can also train others in these skills, allowing them to perform more effectively in the field. On any Charisma-based skill check, President Davis can re-roll one d20 die.
