@@ -109,7 +109,7 @@ Although the Oil Barons had largely supported, and even financed to some extent,
 
 ### The Lone Star Republic Election of 2285: General Samuel Davis vs. Alexander Sullivan
 
-In 2285, the Lone Star Republic prepared for a significant election, as the incumbent Expansionist Party reached the end of its term with the sitting President, who had served the maximum allowable term and chose not to seek re-election. This set the stage for a competitive race, with the Expansionist Party looking to maintain its hold on power against the emerging Unity Party.
+In 2285, the Lone Star Republic prepared for a significant election, as the incumbent Expansionist Party reached the end of its term with the sitting President, who had served the maximum allowable term and did not seek re-election. This set the stage for a competitive race, with the Expansionist Party looking to maintain its hold on power against the emerging Unity Party.
 
 #### Candidates
 
@@ -132,6 +132,19 @@ General Samuel Davis and Vice President Isabella Torres won the election by a na
 Despite the narrow margin in the presidential election, their party won a majority of races for the Senate and Congress (albeit most individual races by a similarly narrow margin), giving them a strong mandate to pursue their agenda. The Expansionist Party's victory was a significant milestone for the Lone Star Republic, as it set the stage for a new era of expansion and growth.
 
 ### The Davis Administration (2285-)
+
+## Negotiation for Oilfield Output (2286)
+
+[Oilfield Outpost (formerly Pasadena)](neighborhoods.md#minor-settlements) is a small settlement that is rich in oil, after discovering additional oil fields under previously occupied areas. Although far from core Oil Baron territory (and thus the Oil Barons were unable to succesfully project full control over the settlement), the Oil Barons have been able to exert significant influence over the settlement, and have been able to extract a significant amount of oil from the settlement. There is also an old nuclear fusion power plant that the settlers had recently figured out how to activate, but needed additional engineering and scientist help to fully operate. Their tactics included frequent shake downs by Oil Barons-funded mercenaries, and the Oil Barons' ability to cut off the settlement's access to oil refining technology. As this pressure increased, the citizens of the settlement began to look to the Lone Star Republic for help, including a possible annexation.
+
+Under the authority of the new Davis administration, [Sarah Dawson](#sarah-dawson) and [Dr. Emily Wells](oilbarons.md#dr-emily-wells) represented the Lone Star Republic's interests. Although wanting to help the distressed settlers, their primary goal was to secure a more secure source of energy for the Lone Star Republic, as the Oil Barons' control over energy resources was a major concern for the Davis administration. [Leonard Petrovich](oilbarons.md#leonard-petrovich), himself, represented the Oil Barons' interests.
+
+After several days of tense negotiations, the Oil Barons agreed to remove all of their mercenaries from the settlement for complete control over the oil fields. The Lone Star Republic persuaded the settlement and the Oil Barons to allow annexation, but that the Republic and its engineers would operate the nuclear fusion power plant and its output. 
+
+At the end of the negotiations, Petrovich gained a respect for Dawson and Wells, and the Lone Star Republic's ability to negotiate effectively, which it had not often been able to do against the Barons in the past. Dawson and Wells gained a respect for Petrovich's ability to negotiate, and his willingness to compromise. Shortly after the negotiations, Petrovich reached out to Dr. Wells to offer her a lead scientist/research position within the Oil Barons to work on "special projects", which she accepted. Sarah Dawson took this accepted offer as a personal betrayal of her close friend.
+
+
+#### Spaceport Discovery and Annexation of Vault 117 (2288)
 
 It wasn't until 2288 that the Lone Star Republic's history took a new turn. The discovery of the spaceport and the ambitious goals associated with it would present a unique opportunity for the Republic. This potential resource windfall and symbolic endeavor would set the stage for the Republic's future as they embarked on a journey to secure their place in the Gulf Coast Wasteland and address its energy crisis, all under the leadership of President Samuel Davis.
 
@@ -295,3 +308,4 @@ As the Negotiator for the Lone Star Republic, Sarah Dawson plays a critical role
 - Crisis Management: In times of crisis or when urgent diplomacy is required, Sarah is tasked with swiftly addressing and resolving issues that could threaten the Republic's stability
 
 Sarah Dawson's expertise in diplomacy and her ability to communicate effectively make her a vital asset to the Lone Star Republic. Her dedication to securing the Republic's interests, maintaining peace, and forging alliances helps the Republic thrive in a world forever changed by the Great War.
+

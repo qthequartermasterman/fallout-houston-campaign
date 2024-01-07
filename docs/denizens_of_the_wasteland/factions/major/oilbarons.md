@@ -9,7 +9,7 @@
     - Mysterious Origins: Their connections to pre-war companies, such as Poseidon Energy, suggest a hidden history and
       potentially nefarious intentions.
 - **Notable Figures:**
-    - Leonard "Ironclad" Duvall: A high-ranking member of the Oil and Energy Barons, responsible for resource management
+    - Leonard Petrovich: A high-ranking member of the Oil and Energy Barons, responsible for resource management
       and trade negotiations. Ghoul who, prior to the Great War, was a high-ranking executive at Poseidon Energy.
     - Dr. Emily Wells: A scientist rumored to be working on advanced energy technologies within their ranks.
 - **Conflict:** The Oil and Energy Barons' monopoly over power sources has contributed to the energy crisis, leading to
@@ -31,5 +31,5 @@
       rigs and other key energy infrastructure.
 
 ## Characters
-### Leonard "Ironclad" Duvall
+### Leonard Petrovich
 ### Dr. Emily Wells
