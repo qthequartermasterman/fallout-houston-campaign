@@ -39,6 +39,20 @@ Survivors also continued to maintain the Vault's facilities and conduct research
 technologies and the construction of a fleet of rockets to be used for future missions. The Vault was discovered
 inhabited and forced open after a test flight for their upcoming manned Epsilon V rocket was shot down by Pirates.
 
+## Vault 26 - The Failed Demise of the Oil Barons
+
+<geotag 
+  latitude=29.78614512303396
+  longitude=-95.6260280230662
+  icon="VAULT"
+  name="Vault 26"
+/>
+
+- Purpose: Vault 26 was commissioned by leaders of the pre-war energy companies, including Poseidon Energy, Red Rocket, Womb-ee's. As Vault-Tec's leadership strongly opposed those the leadership of those companies, and sought to simply take control of their assets after the war, they spitefully (and secretly) designed Vault 26 to fail. The Vault was designed to be a "luxury" Vault, but a few days after Nuclear Armageddon, the air filters would "malfunction", cease scrubbing the air, and instead fill the Vault with the now-toxic atmosphere outside the Vault (as the many nearby nuclear power plants and oil yards would surely be nuclear strike targets). The vault door was also rigged to fail, being impossible to open after the life support failed, permitting no escape.
+- Experience: For the few days when the Vault functioned, the residents' experience was luxurious, vestiges of which remain to this day.  After the life support systems failed, however, the vault broke out into pandemonium and hysteria. Most residents succumbed to radiation  sickness within days to weeks. Many died in the panic as infighting broke out. About two dozen of the residents survived, but were transformed  into ghouls, including [Leonard Petrovich](oilbarons.md#leonard-petrovich). After several months, the survivors managed to hack their way  out of the vault, and escaped what would have otherwise been their tomb.   
+- Status: The Vault laid dormant for some time after the survivors' escape. On the fifth anniversary of the Great War, however, the survivors, who by this point had re-established control of many of the pre-war energy sources including the nearby oil yards and nuclear power plants, had the vault destroyed, and built a monument to their survival on the site. The monument, a massive oil derrick, was built to be visible from miles away, and was a symbol of the Oil Barons' power and resilience. The Oil Barons have since expanded their influence, and have become a major power in the region.
+- Location: The Oil Barons' monument is located in the core of the [Energy Corridor](neighborhoods.md#energy-corridor), just west of Houston. It is within walking distance of Helios Tower.
+
 ## Vault 37 - Geodesic Terrarium Experiment
 
 <geotag 

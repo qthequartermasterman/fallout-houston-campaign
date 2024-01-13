@@ -17,7 +17,9 @@ out meta;
 GAS_STATIONS: list[tuple[str, mapping.map_icons.MapIcon]] = [
     ("Red Rocket", mapping.map_icons.MapIcon.ROCKET),
     ("Poseidon Energy", mapping.map_icons.MapIcon.POSEIDON),
-    # ("Petro-Chico", mapping.map_icons.MapIcon.SOMBRERO),
+    ("Petro-Chico", mapping.map_icons.MapIcon.SOMBRERO),
+    ("Phoenix Gasoline", mapping.map_icons.MapIcon.GAS_STATION),
+    ("Nuka-Fuel", mapping.map_icons.MapIcon.GAS_STATION),
     ("Gas Station", mapping.map_icons.MapIcon.GAS_STATION),
 ]
 

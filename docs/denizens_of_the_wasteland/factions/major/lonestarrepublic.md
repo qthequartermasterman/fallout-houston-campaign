@@ -133,7 +133,7 @@ Despite the narrow margin in the presidential election, their party won a majori
 
 ### The Davis Administration (2285-)
 
-## Negotiation for Oilfield Output (2286)
+## Negotiation for Oilfield Outpost (2286)
 
 [Oilfield Outpost (formerly Pasadena)](neighborhoods.md#minor-settlements) is a small settlement that is rich in oil, after discovering additional oil fields under previously occupied areas. Although far from core Oil Baron territory (and thus the Oil Barons were unable to succesfully project full control over the settlement), the Oil Barons have been able to exert significant influence over the settlement, and have been able to extract a significant amount of oil from the settlement. There is also an old nuclear fusion power plant that the settlers had recently figured out how to activate, but needed additional engineering and scientist help to fully operate. Their tactics included frequent shake downs by Oil Barons-funded mercenaries, and the Oil Barons' ability to cut off the settlement's access to oil refining technology. As this pressure increased, the citizens of the settlement began to look to the Lone Star Republic for help, including a possible annexation.
 
@@ -296,6 +296,8 @@ Sarah Dawson is a gifted and highly capable negotiator who has become a valuable
 From a young age, Sarah exhibited an innate talent for bridging divides and finding common ground. Her passion for negotiation and conflict resolution was evident in her early years, and she quickly earned a reputation for her ability to mediate disputes and facilitate peaceful resolutions. Sarah's background was shaped by the post-apocalyptic world, where her experiences served as a valuable education.
 
 As she entered adulthood, Sarah was recognized for her exceptional diplomatic skills and selected to represent the Lone Star Republic in negotiations with other factions, settlements, and rival groups. Despite her relatively young age, her natural aptitude and dedication to the Republic's interests have earned her the trust and respect of her colleagues and counterparts.
+
+She was friends with [Dr. Emily Wells](oilbarons.md#dr-emily-wells) for many years in the Lone Star Republic. They ended up being frequent collaborators on various projects. However, after Dr. Wells accepted a position with the Oil Barons, Sarah felt betrayed by her close friend. She has not spoken to Dr. Wells since. See [Negotiation for Oilfield Output](#negotiation-for-oilfield-output-2286) for more details.
 
 #### Role as Negotiator
 
