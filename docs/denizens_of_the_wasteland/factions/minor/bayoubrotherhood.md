@@ -1,4 +1,4 @@
-# The Bayou Brotherhood
+# Bayou Brotherhood
 
 ## Overview
 - **Overview:** The Bayou Brotherhood consists of Cajun swamp-dwellers who have deep spiritual ties to the Bayou and

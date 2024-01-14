@@ -1,0 +1,97 @@
+character_leonard_petrovich:
+  name: Leonard Petrovich
+  level: 10
+  exp: 38
+  type: Notable
+  keywords:
+    - Ghoul
+    - Mutated Human
+  description: Leonard Petrovich, a formidable presence and a testament to the horrors of the wasteland, stands tall despite his ghoulified appearance. His once handsome features distorted by radiation, his skin peeling and mottled, Leonard commands attention with an undeniable air of authority. Though his once-chiseled features are now marred by the physical toll of his transformation, his piercing blue eyes shine with an unwavering intensity. He often wears a tailored charcoal gray suit, a stark contrast against his decaying flesh, a reminder of his aristocratic heritage and corporate success. Leonard's charismatic and jovial nature often puts others at ease, but when he enters the negotiation room, tension fills the air and his joviality gives way to a steely seriousness, revealing the depths of his calculated determination and commanding influence.
+  special:
+    strength: 4
+    perception: 10
+    endurance: 4
+    charisma: 10
+    intelligence: 9
+    agility: 4
+    luck: 6
+  skills:
+    barter:
+      tag: true
+      rank: 4
+    sneak:
+      tag: false
+      rank: 2
+    speech:
+      tag: true
+      rank: 4
+    survival:
+      tag: true
+      rank: 2
+    melee_weapons:
+      tag: false
+      rank: 1
+    small_guns:
+      tag: false
+      rank: 1
+    unarmed:
+      tag: false
+      rank: 1
+  special_abilities:
+    - name: Diplomatic Insight
+      description: A skilled diplomat and mediator. His ability to read people and situations allows them to negotiate more effectively, make wise decisions, and find common ground during diplomatic discussions. He can also defuse tense situations and foster cooperation with other factions. Once per short rest, he can subtract 1 {CD} difficulty from a single Charisma-based skill check. If an Effect is rolled, then they can optionally re-roll one d20 dice used for the skill check.
+    - name: Necrotic Post-Human
+      description: He is healed by radiation damage--regaining 1 HP for every 3 points of radiation damage inflicted upon him, and if he rests in an irradiated location, he may re-roll his dice pool when checking if your injuries heal.
+    - name: Cap Collector
+      description: When buying or selling items, he may increase or decrease the price othe good being traded by 10%.
+  inventory:
+    - name: 10mm Pistol
+    - name: Gold Pocket Watch
+    - name: Wealth 7
+  radiation_dr_override: Immune
+
+character_emily_wells:
+  name: Dr. Emily Wells
+  level: 6
+  exp: 38
+  type: Notable
+  keywords:
+    - Human
+  description: Dr. Emily Wells is a striking figure with a mane of fiery red hair that cascades around her shoulders. Her piercing blue eyes, framed by thick-rimmed glasses, reflect her brilliant mind and unwavering determination. Standing at an average height, she possesses a lithe and athletic build, a testament to her adventurous spirit and tireless work ethic. Emily exudes an air of confidence, carrying herself with a grace and poise that command attention. Behind her outward charisma lies a keen intellect and a relentless curiosity, always eager to explore new frontiers and challenge the status quo. She is driven by a strong sense of justice and an unwavering loyalty to her people, making her a natural leader and a force to be reckoned with. Emily's commitment to progress and innovation is matched only by her unwavering compassion, making her a true visionary with a heart of gold.
+  special:
+      strength: 4
+      perception: 9
+      endurance: 5
+      charisma: 6
+      intelligence: 10
+      agility: 4
+      luck: 7
+  skills:
+    barter:
+      tag: true
+      rank: 3
+    science:
+      tag: true
+      rank: 5
+    energy_weapons:
+      tag: false
+      rank: 2
+    repair:
+      tag: true
+      rank: 4
+    medicine:
+      tag: false
+      rank: 2
+  special_abilities:
+    - name: Chemist
+      description: Chems you create last twice as long as normal (see p 164 of Core Rulebook)
+    - name: Hacker
+      description: Dr. Wells can hack most computers and robots.
+    - name: Robotics Expert
+      description: Dr. Wells has access to all robot mods and can reprogram robots to fulfil a different function at the discretion of the GM.
+  inventory:
+    - name: Laser Pistol
+    - name: Pip-boy 3000
+    - name: Stimpak
+    - name: Note explaining Securitron Army Backdoor
+    - name: Wealth 2

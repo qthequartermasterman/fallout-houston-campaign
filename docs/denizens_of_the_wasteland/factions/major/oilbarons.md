@@ -1,4 +1,4 @@
-# The Oil Barons
+# Oil Barons
 
 ## Overview
 - **Overview:** The Oil Barons are an economic conglomerate with control over various power sources,
@@ -37,6 +37,7 @@ Leonard was among the handful of survivors from [Vault 26](vaults.md#vault-26-th
 
 Leonard Petrovich, with his sharp mind and business acumen, became known as "The Resilient Reclaimer." He focuses on restoring and expanding the oil industry, viewing it as a crucial element for rebuilding civilization in the wasteland. Despite the challenges, Leonard is a pragmatic leader, willing to make tough decisions to ensure the survival and prosperity of his conglomerate in the harsh, post-apocalyptic world. His overarching goal is to secure a lasting legacy, not just for himself but for the future generations who will rely on the energy resources he seeks to control.
 
+{{ render_character_block(character_leonard_petrovich) }}
 
 ### Dr. Emily Wells
 
@@ -50,18 +51,13 @@ As a proud graduate of Scholar's Summit, Emily was revered for her innovative mi
 
 However, Emily's steadfast commitment to the Lone Star Republic's future was tested when the Oil Barons tightened their control over energy resources. The Oil Barons' domination stifled progress and innovation, leaving the Republic vulnerable and dependent on their domain. The ambitious engineer despised the Oil Barons' iron grip and the limitations they placed on the potential of the Republic. She saw their restrictive policies as a direct obstruction to the prosperity and advancement of her people.
 
-As fate would have it, during a critical negotiation with the Oil Barons, Emily encountered Leonard Petrovich, a key representative of the faction. Their discussions were intense, filled with spirited debates and tense exchanges. However, through the heated words and impassioned arguments, an unspoken connection began to form between them. They recognized in each other a shared vision of progress and a longing for a brighter future.
+As fate would have it, during a [critical negotiation with the Oil Barons](lonestarrepublic.md#negotiation-for-oilfield-outpost-2286), Emily encountered Leonard Petrovich, a key representative of the faction. Their discussions were intense, filled with spirited debates and tense exchanges. However, through the heated words and impassioned arguments, an unspoken connection began to form between them. They recognized in each other a shared vision of progress and a longing for a brighter future.
 
-In a surprising turn of events, Leonard Petrovich offered Emily a unique opportunity—to join the Oil Barons and work on "special projects" that would shape the future of the faction's energy operations. Intrigued by the prospect of unraveling the secrets locked away within the Oil Barons' grasp, and driven by a deep sense of loyalty to her people, Emily accepted the offer, leaving behind her close friend, Sarah Dawson, who saw this as a personal betrayal.
+In a surprising turn of events, Leonard Petrovich offered Emily a unique opportunity—to join the Oil Barons and work on ["special projects"](#the-secret-project-securitron-army) that would shape the future of the faction's energy operations. Intrigued by the prospect of unraveling the secrets locked away within the Oil Barons' grasp, and driven by a deep sense of loyalty to her people, Emily accepted the offer, leaving behind her close friend, Sarah Dawson, who saw this as a personal betrayal.
 
-Within the confines of the Oil Barons' enclave, Emily's brilliance found a new stage. She spearheaded cutting-edge research, pushing the boundaries of energy production and innovation. Emily's commitment to her people never wavered, and she worked tirelessly to uncover solutions that would liberate her former home, the Lone Star Republic, from the shackles of the Oil Barons' control.
-
-Despite her intense focus on furthering the Oil Barons' technological capabilities, Emily secretly harbored a desire to open a new chapter for her people, one where the Lone Star Republic could become self-sufficient and free from the constraints of the Oil Barons' dominance. Deep within her heart, she longed for the day when she would be able to share her breakthroughs and noble intentions with her friend Sarah and the people she had fought so hard to uplift.
-
-As tensions rise in the Gulf Coast Wasteland, fueling the ever-present conflict between the Lone Star Republic and the Oil Barons, Emily remains a brilliant enigma, straddling both sides of the divide. With each discovery, she knows she holds the key to transforming the destiny of an entire region and reshaping the balance of power.
-
-Dr. Emily Wells journeys on, a figure of intellectual prowess and an agent of change. Her story weaves through the annals of the Lone Star Republic, leaving a mark on its history as she works tirelessly to bring light, innovation, and a glimmer of hope to her homeland once more.
-
+Within the confines of the Oil Barons' labs, Emily's brilliance found a new stage. She spearheaded cutting-edge research, pushing the boundaries of energy production and innovation. Most importantly, she helped architect Leonard Petrovich's Securitron army. Through all of this, Emily's commitment to her people never wavered, and she worked tirelessly to uncover solutions that would liberate her former home, the Lone Star Republic, from the shackles of the Oil Barons' control. As her project with the Securitrons drew to a close, she began to fear for her home and installed a backdoor into their programming, and she began to secretly work on a plan to return to the Lone Star Republic, and if Petrovich became too dangerous, to use the backdoor to disable the Securitron Army.
+ 
+{{ render_character_block(character_emily_wells) }}
 
 ## History
 ### Pre-War History
@@ -71,7 +67,23 @@ Dr. Emily Wells journeys on, a figure of intellectual prowess and an agent of ch
 Vault 26, commissioned by pre-war energy giants like Poseidon Energy, Red Rocket, and Womb-ee's, was secretly designed by Vault-Tec to fail as an act of spite against the energy companies. Intended as a "luxury" Vault, it experienced a brief period of opulence before its air filters malfunctioned days after the Nuclear Armageddon, flooding the Vault with the toxic outside atmosphere. The rigged vault door ensured no escape after life support failure, leading to pandemonium and infighting among residents. Most succumbed to radiation sickness, while a few, including Leonard Petrovich, survived as ghouls. Months later, the survivors hacked their way out and, having reclaimed pre-war energy sources, destroyed the Vault on the fifth anniversary of the Great War. They erected a symbol of their resilience, a massive oil derrick, in the Energy Corridor west of Houston, marking the rise of the Oil Barons as a dominant regional power.
 
 ### Forming the Oil Barons
+
+
 ### Rise of the Lone Star Republic
+**Main Article: [Tension with the Oil Barons](lonestarrepublic.md#tension-with-the-oil-barons-2284-)**
+
+As the Lone Star Republic solidified its presence in the Houston region, the Oil Barons played a crucial role in shaping its destiny. Their wealth and influence propelled the rise of the Republic, but as their power waned, tension between the two factions began to brew. 
+
+When the Lone Star Republic began its struggle against the cartels, the Oil Barons realized the potential benefits of supporting this emerging force. They provided financial backing to the Republic's military endeavors, seeing an opportunity to cleanse Houston of the cartels while maintaining their grip on the energy resources. Their financial support ensured that the Republic had the necessary resources to fight the cartels effectively.
+
+However, as the war drew to a close and the Lone Star Republic emerged victorious, the Oil Barons' relationship with the new governing power began to deteriorate. Initially, they believed that their support during the war would guarantee their continued influence over the region. But as the Republic's ambitions grew and its attention turned towards the expansion of its territory and acquisition of resources, discontent began to grow among the Oil Barons.
+
+The tension between the Oil Barons and the Lone Star Republic came to a head during the Lone Star Republic Election of 2285. While the Oil Barons had initially supported and funded the Republic's endeavors, they now saw their influence waning and felt the need to protect their interests. Alexander Sullivan and the Unity Party's focus on unity, diplomacy, and a cooperative approach posed a direct challenge to the Oil Barons' control. The Expansionist Party, led by General Samuel Davis, sought to negotiate better terms with the Oil Barons but still aimed for the Republic's expansion, leaving the Barons wary and concerned about their diminishing influence.
+
+In the aftermath of the election, tensions between the Oil Barons and the Lone Star Republic persisted. The Oil Barons, fearing further encroachment on their power, tightened their control over oil and nuclear energy resources in an attempt to limit the Republic's expansion. This move restricted the Republic's ability to grow, stalling their military ambitions and frustrating their efforts to secure vital resources for their population.
+
+The Lone Star Republic found themselves in a precarious position, in a struggle against a faction that had once supported and financed their rise to power. As the Oil Barons consolidated their hold over energy resources, the Republic faced the challenge of finding alternative energy solutions to break free from the Barons' control.
+
 ### Negotiation for Oilfield Outpost (2286)
 **Main Article: [Negotiation for Oilfield Output](lonestarrepublic.md#negotiation-for-oilfield-outpost-2286)**
 

@@ -166,7 +166,7 @@ def render_inventory(
     )
     if inventory:
         rows += (
-            f"<tr><td>{', '.join(str(equipment) for equipment in inventory)}</td></tr>"
+            f"<tr><td>{', '.join(equipment.name for equipment in inventory)}</td></tr>"
         )
     else:
         rows = rows or '<tr><td class="center">None</td></tr>'

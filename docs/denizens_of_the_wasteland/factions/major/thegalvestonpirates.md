@@ -1,4 +1,4 @@
-# The Galveston Pirates
+# Galveston Pirates
 
 ## Overview
 

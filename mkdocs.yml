@@ -112,6 +112,7 @@ plugins:
       include_yaml:
         - docs/denizens_of_the_wasteland/characters/bayoubrotherhood.yaml
         - docs/denizens_of_the_wasteland/characters/lonestarrepublic.yaml
+        - docs/denizens_of_the_wasteland/characters/oilbarons.yaml
         - docs/denizens_of_the_wasteland/creatures/corerulebook.yaml
         - docs/denizens_of_the_wasteland/creatures/new_creatures.yaml
       modules: [render_blocks]

@@ -1,4 +1,4 @@
-# The Spaceport Survivors
+# Spaceport Survivors
 
 ## Overview
 - **Overview:** The Spaceport Survivors are descendants of USSA astronauts, scientists, and military personnel who

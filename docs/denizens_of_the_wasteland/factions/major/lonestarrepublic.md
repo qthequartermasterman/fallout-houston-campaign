@@ -1,4 +1,4 @@
-# The Lone Star Republic
+# Lone Star Republic
 
 ## Overview
 - **Overview**: The Lone Star Republic is a confederacy of settlements in the Gulf Coast Wasteland, centered around the
