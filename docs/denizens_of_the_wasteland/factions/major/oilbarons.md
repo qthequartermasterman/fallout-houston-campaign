@@ -59,6 +59,10 @@ Within the confines of the Oil Barons' labs, Emily's brilliance found a new stag
  
 {{ render_character_block(character_emily_wells) }}
 
+## Kristi Taylor
+
+A young woman (19 years old) from the people of [Bountiful](neighborhoods.md#bountiful) recruited as a receptionist for the Oil Barons. She is a very friendly and outgoing person, and she is very good at her job.
+
 ## History
 ### Pre-War History
 ### Failure of Vault 26

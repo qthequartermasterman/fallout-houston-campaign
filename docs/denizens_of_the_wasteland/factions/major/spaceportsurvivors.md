@@ -25,8 +25,8 @@
         - Repairing existing satellites: The Spaceport Survivors aim to repair existing satellites, in an attempt to
           improve communication across the world.
     - The hidden Enclave cell within the Spaceport Survivors wish to hijack the mission (by way of placing crew members
-      from within their own ranks) so to retake
-      the [Ballistic Orbital Missile Base 001](https://fallout.fandom.com/wiki/Ballistic_Orbital_Missile_Base_001).
+      from within their own ranks) so to retake the 
+      [Ballistic Orbital Missile Base 001](https://fallout.fandom.com/wiki/Ballistic_Orbital_Missile_Base_001).
       Capturing this station would give this Enclave cell the ability to launch nuclear missiles at any target on the
       planet. This would be a major threat to any and all the Enclave's enemies.
 

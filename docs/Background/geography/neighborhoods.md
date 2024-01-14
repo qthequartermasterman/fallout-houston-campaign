@@ -445,6 +445,13 @@ There are many satellite arrays and ground stations scattered across the wastela
 - The Barons have set up a clandestine research facility within the Energy Corridor, where they explore new ways to
   harness energy and investigate the connection between their pre-war predecessors and the Enclave.
 
+- <geotag 
+  latitude=29.78475344563217
+  longitude=-95.63607055649126
+  icon="DRILL"
+  name="Helios Tower"
+/> is the headquarters of Phoenix Energy, Leonard Petrovich's Energy Company, as well as the _de facto_ headquarters of the Oil Barons organization, given that Leonard Petrovich's personal office sits in the building.
+
 ## Uptown Houston
 
 <geotag 
@@ -640,6 +647,37 @@ There are many satellite arrays and ground stations scattered across the wastela
 - With its vast farmlands and ranches, Cypress Fields contributes significantly to the Republic's self-sufficiency and
   stability, making it a linchpin in the region's efforts to rebuild and prosper.
 
+## Bountiful
+
+
+<geotag
+  latitude=30.000121379969222
+  longitude=-95.53270618931042
+  icon="CHURCH"
+  name="Bountiful"
+/>
+
+
+## Solaris Sanctuary
+
+<geotag
+  latitude=30.255585402743918
+  longitude=-95.83624947105992
+  icon="SETTLEMENT"
+  name="Solaris Sanctuary"
+/>
+
+In the irradiated remnants of Houston, where the echoes of a bygone era mix with the harsh realities of a post-apocalyptic world, the settlement of Solaris Sanctuary has emerged as a beacon of hope and resilience. Nestled in the ruins, this unique enclave draws inspiration from the Houston Renaissance Festival of ancient times, creating a fusion of Renaissance charm and survivalist pragmatism. The people of Solaris Sanctuary, known as "Solarites," are a tight-knit community of artisans, performers, and scavengers. Clad in makeshift Renaissance-style attire, they have embraced the spirit of creativity and adaptation, using their skills to transform the desolation around them into a thriving haven.
+
+Locations within Solaris Sanctuary:
+
+- The Solar Square: At the heart of the settlement lies the Solar Square, echoing the festive atmosphere of the Renaissance fair. Here, Solarites gather for celebrations, trade, and communal activities. A makeshift stage hosts performances ranging from post-apocalyptic minstrels to acrobatic feats.
+- The Tudor Tavern: A central hub for socializing, the Tudor Tavern is a repurposed structure adorned with salvaged tapestries and wooden furnishings. Solarites come here to share stories, trade goods, and enjoy drinks brewed from locally sourced ingredients.
+- The Jousting Grounds: Reminiscent of the Renaissance jousting tournaments, the Jousting Grounds serve as both an arena for combat training and a venue for thrilling competitions. Solarites showcase their combat prowess in friendly duels, reinforcing the settlement's commitment to self-defense.
+- The Artisan's Alley: Lining the settlement's pathways, the Artisan's Alley is a collection of makeshift stalls and workshops where skilled craftsmen and women create and trade their wares. From repurposed technology to handcrafted leather goods, Solarites display their ingenuity in this bustling marketplace.
+- The Garden of Renewal: A tranquil oasis within the settlement, the Garden of Renewal features a vibrant assortment of flora cultivated from pre-war seeds. Solarites come here to find solace and reflect, surrounded by the beauty of nature thriving amid the ruins.
+- The Fortune Teller's Tent: A mysterious tent adorned with scavenged fabrics and mystical trinkets, the Fortune Teller's Tent is a gathering place for those seeking guidance in this uncertain world. A wise Solarite known as Madame Celestia offers cryptic insights and advice to those who dare to peer into their fate.
+- The Blacksmith's Forge: Housed in a repurposed industrial building, the Blacksmith's Forge is where skilled artisans craft essential tools and weapons using salvaged materials. The clang of hammers on anvils resonates through the air as Solarites work diligently to ensure the settlement's survival.
 ## Galveston Docks (formerly Galveston)
 
 ![Galveston Docks](../../Assets/concept-art/moody-gardens-ruins.jpeg)
