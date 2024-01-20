@@ -669,7 +669,7 @@ There are many satellite arrays and ground stations scattered across the wastela
 
 In the irradiated remnants of Houston, where the echoes of a bygone era mix with the harsh realities of a post-apocalyptic world, the settlement of Solaris Sanctuary has emerged as a beacon of hope and resilience. Nestled in the ruins, this unique enclave draws inspiration from the Houston Renaissance Festival of ancient times, creating a fusion of Renaissance charm and survivalist pragmatism. The people of Solaris Sanctuary, known as "Solarites," are a tight-knit community of artisans, performers, and scavengers. Clad in makeshift Renaissance-style attire, they have embraced the spirit of creativity and adaptation, using their skills to transform the desolation around them into a thriving haven.
 
-Locations within Solaris Sanctuary:
+### Locations within Solaris Sanctuary
 
 - The Solar Square: At the heart of the settlement lies the Solar Square, echoing the festive atmosphere of the Renaissance fair. Here, Solarites gather for celebrations, trade, and communal activities. A makeshift stage hosts performances ranging from post-apocalyptic minstrels to acrobatic feats.
 - The Tudor Tavern: A central hub for socializing, the Tudor Tavern is a repurposed structure adorned with salvaged tapestries and wooden furnishings. Solarites come here to share stories, trade goods, and enjoy drinks brewed from locally sourced ingredients.
@@ -678,6 +678,41 @@ Locations within Solaris Sanctuary:
 - The Garden of Renewal: A tranquil oasis within the settlement, the Garden of Renewal features a vibrant assortment of flora cultivated from pre-war seeds. Solarites come here to find solace and reflect, surrounded by the beauty of nature thriving amid the ruins.
 - The Fortune Teller's Tent: A mysterious tent adorned with scavenged fabrics and mystical trinkets, the Fortune Teller's Tent is a gathering place for those seeking guidance in this uncertain world. A wise Solarite known as Madame Celestia offers cryptic insights and advice to those who dare to peer into their fate.
 - The Blacksmith's Forge: Housed in a repurposed industrial building, the Blacksmith's Forge is where skilled artisans craft essential tools and weapons using salvaged materials. The clang of hammers on anvils resonates through the air as Solarites work diligently to ensure the settlement's survival.
+
+### Notable Residents
+
+- Lord Cedric Ironheart: A charismatic and well-spoken leader, Lord Cedric Ironheart is the de facto ruler of Solaris Sanctuary. With a background in diplomacy and a vision for a united community, Lord Cedric strives to maintain order and ensure the well-being of all Solarites.
+- Lady Isabella Emberweave: A skilled herbalist and healer, Lady Isabella Emberweave tends to the sick and wounded in Solaris Sanctuary. Her knowledge of medicinal herbs and ancient remedies has made her an invaluable asset to the community, earning her the respect and admiration of her fellow Solarites.
+- Captain Reyna Stormblade: As the head of the settlement's militia, Captain Reyna Stormblade is a formidable warrior with a no-nonsense attitude. With a background in military tactics, she oversees the defense of Solaris Sanctuary and trains residents in combat techniques.
+- Maestro Lorenzo Bardolino: A talented musician and composer, Maestro Lorenzo Bardolino entertains the community with his haunting melodies played on a salvaged instrument. He also serves as the organizer of various musical events and celebrations within the settlement.
+- Aria Swiftwind: A nimble and agile acrobat, Aria Swiftwind enchants the Solar Square with her breathtaking aerial performances. Her skills not only entertain but also inspire others to push their physical limits in the name of self-expression.
+- Blacksmith Thorne Ironforge: A grizzled and experienced blacksmith, Thorne Ironforge operates the Blacksmith's Forge, crafting essential tools and weapons for the settlement. His skill with metal and dedication to his craft make him a respected figure in Solaris Sanctuary.
+- Madame Celestia the Seer: A mysterious fortune teller with an air of enigma, Madame Celestia operates the Fortune Teller's Tent. Residents seek her counsel for guidance in the uncertain world, and her cryptic insights have earned her a reputation as a wise oracle.
+- Elena Silverleaf: A skilled archer and scavenger, Elena Silverleaf is known for her prowess with a bow and her ability to navigate the treacherous outskirts of the settlement. She often leads expeditions to gather essential resources and defend against external threats.
+- Gideon Stonehaven: A jovial and friendly trader, Gideon Stonehaven manages a stall in the Artisan's Alley. His expertise lies in scavenging rare and valuable artifacts from the wasteland, making him a go-to source for unique items within the settlement.
+- Matilda Greenleaf: The caretaker of the Garden of Renewal, Matilda Greenleaf has a deep connection with nature and a talent for cultivating pre-war seeds. Her serene demeanor and green thumb make the garden a peaceful retreat for those seeking solace in the midst of chaos.
+
+### Quests
+#### The Lost Relic of Solaris
+_Quest Giver: Blacksmith Thorne Ironforge_
+Solaris Sanctuary's blacksmith, Thorne Ironforge, uncovers an ancient blueprint hinting at the existence of a powerful pre-war weapon known as the "Solaris Blade." The blueprint suggests that the components are scattered throughout the wasteland. The player must embark on a quest to locate these rare materials, facing challenges and uncovering the weapon's history. Once assembled, the Solaris Blade could become a symbol of hope and strength for the settlement.
+
+#### The Phantom Minstrel
+_Quest Giver: Maestro Lorenzo Bardolino_
+Maestro Lorenzo is disturbed by reports of a mysterious phantom minstrel haunting the outskirts of Solaris Sanctuary. The spectral musician's melancholic tunes are said to influence the emotions of those who hear them. The player must track down the phantom, unravel its backstory, and decide whether to help it find peace or confront the potential threat it poses to the settlement's emotional balance.
+
+#### Ephemeral Elixirs
+_Quest Giver: Lady Isabella Emberweave_
+Lady Isabella discovers an old alchemical recipe for a potion rumored to grant temporary glimpses into the past. In hopes of uncovering lost knowledge or locating valuable resources, she tasks the player with gathering rare ingredients scattered across the wasteland. As the player brews and consumes the elixir, they experience vivid visions that may hold clues to forgotten technologies or hidden dangers.
+
+#### The Great Solar Race
+_Quest Giver: Captain Reyna Stormblade_
+To boost morale and showcase Solaris Sanctuary's strength, Captain Reyna organizes a grand scavenger hunt and obstacle course known as "The Great Solar Race." The player is invited to participate, competing against other residents and overcoming challenges inspired by the Renaissance fair's activities. Success not only earns recognition but also contributes to the settlement's overall preparedness.
+
+#### The Enigmatic Engineer
+_Quest Giver: Lord Cedric Ironheart_
+Lord Cedric receives a distress signal from an unknown engineer claiming to possess advanced technological knowledge. The player is tasked with locating this mysterious individual and bringing them to Solaris Sanctuary. Upon finding the engineer, it becomes evident that they hold the key to unlocking dormant technologies that could greatly benefit the settlement. However, the engineer is wary of sharing their knowledge and may have alternative motives.
+
 ## Galveston Docks (formerly Galveston)
 
 ![Galveston Docks](../../Assets/concept-art/moody-gardens-ruins.jpeg)
