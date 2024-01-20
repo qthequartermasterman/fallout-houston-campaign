@@ -9,8 +9,9 @@ the Enclave has been reduced to a shadow of its former self. Splinter groups and
 exist, however, and some still seek to restore the Enclave to its former glory. There are two such groups in the Gulf
 Coast Wasteland: The Spaceport Enclave and the Oil Baron Enclave. Both of these groups do not consider themselves to be
 splinter groups, but rather secret cells put in place for some future purpose. Their members are also members of their 
-other corresponding organization, tasked with leading those groups to secretly fulfill Enclave goals. They become aware 
-of each other's existence shortly after the [emergence of the Spaceport Survivors](spaceportsurvivors.md). 
+other corresponding organization, tasked with leading those groups to secretly fulfill Enclave goals. They have been 
+aware of each other since long before [emergence of the Spaceport Survivors](spaceportsurvivors.md), this is
+significant, as the Spaceport Survivors _writ large_ are otherwise completely isolated from the ouside world.
 
 ## Spaceport Enclave
 

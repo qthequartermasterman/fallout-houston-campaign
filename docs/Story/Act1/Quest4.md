@@ -120,7 +120,7 @@ of the Oil Barons.
 
 Upon arriving at the Energy Corridor, the player enters Helios Tower, the headquarters of Phoenix Energy, the large of
 the Oil Barons' companies, as well as the personal office of Leonard Petrovich. In the lobby of Helios Tower, the player
-and Sarah are greeted by a receptionist [Kristi Taylor](enclave.md#kristi-taylor), who informs them that Leonard
+and Sarah are greeted by a receptionist [Kristi Taylor](oilbarons.md#kristi-taylor), who informs them that Leonard
 Petrovich has asked them to wait in the lobby. This is a stall tactic, to attempt to intimidate the incoming party.
 Players may choose to simply wait or may attempt to persuade Kristi to let them in.
 

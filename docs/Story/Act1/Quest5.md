@@ -39,7 +39,7 @@
     - Otherwise, the keycard has Level 2 Clearance and can access most of the Spaceport, but not the hidden storage chamber. Players will have to find the chamber on their own, as well as a way to access it.
 - The player investigates the hidden storage chamber and uncovers evidence of a plan to hijack the space mission for their own sinister purposes. They also find hints that suggest the Spaceport Survivors are not unified in their goals, and some may be complicit with an outside force.
 - As the player continues their investigation, they inadvertently set off an alarm, alerting the Spaceport Survivors loyal to the conspiracy. The player must escape the area before being apprehended.
-### The  Nefarious Plot
+### The Nefarious Plot
 - The player escapes the hidden chamber and returns to Stardust with their findings. Stardust is shocked by the evidence the player has uncovered.
     - The player may choose to reveal any amount of information to Stardust. The more information they reveal, the more concerned Stardust becomes.
 - Stardust believes that the player's visions are connected to their great-great-grandfather's role in the Sea of Tranquility campaign and to the hidden agenda the player had begun to uncover. He encourages the player to return to the Bayou Brotherhood and seek their guidance in interpreting the visions. He also tells the player that it may be worth investigating nearby pre-war military installations for additional clues.

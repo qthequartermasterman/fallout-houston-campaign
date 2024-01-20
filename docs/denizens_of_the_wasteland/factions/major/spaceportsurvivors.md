@@ -2,7 +2,7 @@
 
 ## Overview
 - **Overview:** The Spaceport Survivors are descendants of USSA astronauts, scientists, and military personnel who
-  survived in a hidden vault beneath the Johnson Space Center.
+  survived in a hidden vault beneath the Houston Space Center.
 - **Key Characteristics:**
     - Secret Vault: They operate from Vault 117, a hidden mission control center beneath the Johnson Space Center,
       preserving the legacy of space exploration.
@@ -24,7 +24,7 @@
           potentially finding new resources or safe havens beyond the wasteland.
         - Repairing existing satellites: The Spaceport Survivors aim to repair existing satellites, in an attempt to
           improve communication across the world.
-    - The hidden Enclave cell within the Spaceport Survivors wish to hijack the mission (by way of placing crew members
+    - The [hidden Enclave cell](enclave.md#spaceport-enclave) within the Spaceport Survivors wish to hijack the mission (by way of placing crew members
       from within their own ranks) so to retake the 
       [Ballistic Orbital Missile Base 001](https://fallout.fandom.com/wiki/Ballistic_Orbital_Missile_Base_001).
       Capturing this station would give this Enclave cell the ability to launch nuclear missiles at any target on the

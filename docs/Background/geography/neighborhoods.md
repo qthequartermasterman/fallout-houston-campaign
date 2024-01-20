@@ -649,7 +649,6 @@ There are many satellite arrays and ground stations scattered across the wastela
 
 ## Bountiful
 
-
 <geotag
   latitude=30.000121379969222
   longitude=-95.53270618931042
@@ -657,6 +656,48 @@ There are many satellite arrays and ground stations scattered across the wastela
   name="Bountiful"
 />
 
+Bountiful is a settlement full of (mostly) members of the Church of Jesus Christ of Latter-day Saints. The settlement is clustered around their pre-war temple, which they continue to use as a place of worship. The settlement is a farming community, and they are known for their generosity and hospitality. They are also known for their strong sense of community and their willingness to help others. Across the square from the temple is the <geotag latitude=30.00284108805913 longitude=-95.53162974704712 icon=WAREHOUSE zoom=TOWN name="Bountiful Harvest"/>, a reformed pre-war grocery store turned into the largest food storage warehouse in the Gulf Coast Wasteland. The warehouse is run by members of the Church and is stocked primarily from the farms of Bountiful. The warehouse is open to all, and the Church encourages people to take what they need, but will often request that those who partake give some sort of service. The Church also encourages people to donate what they can to the warehouse, so that they can continue to help others. 
+
+The settlement of Bountiful has a tenuous relationship with the Lone Star Republic, especially as the LSR continues to expand. The LSR attempted to diplomatically annex Bountiful, to gain access to their great food reserves and farms, but the settlers refused, given their strong sense of independence and colored history with governments coercing members of their faith. The LSR has since backed off, but several members of the LSR Senate have expressed interest in annexing Bountiful by force. The LSR has also attempted to establish a trade agreement with Bountiful, which the leaders of Bountiful have been open to, but the LSR has not been able to offer anything that Bountiful needs.
+
+Bountiful is lead by a Stake Presidency (a president and two counselors) and a High Council (a council of 12 elders), who members of the settlement view as leading by revelation from God. The Stake President is chosen by revelation the Church's First Presidency and Quorum of Twelve Apostles (who live in the Church's headquarters in Utah, but frequently travel to visit all the stakes of the Church in every land). The Stake President chooses his counselors, and the stake presidency together call the High Council. The settlement is further divided into wards (which are both congregations and communal subdivisions), each led by a Bishop and other leaders.
+
+The settlement is protected by a paramilitary organization called the Eagles, which is a volunteer militia formed of the men of the settlement.
+
+### Notable NPCs
+
+- Stake President Ezra Bennett: The spiritual leader of Bountiful, Stake President Ezra Bennett, is a wise and revered figure. Known for his humility and dedication to the settlers, he seeks divine guidance to navigate the challenges facing the community.
+- Bishop Richmond Taylor: Bishop Richmond Taylor oversees one of Bountiful's wards and is a compassionate leader. He is involved in community outreach and often tasks the player with missions that involve helping settlers in need. He is also the father of [Kristi Taylor](oilbarons.md#kristi-taylor)
+- Elder Matthias Harris: Elder Matthias Harris, a member of the High Council, is a shrewd and strategic thinker. He plays a key role in handling external threats and is willing to take bold actions to protect Bountiful.
+- Sister Miriam Young: Sister Miriam Young is an expert herbalist and healer, responsible for the settlement's medical well-being. She provides the player with quests related to finding rare herbs and treating ailments within the community.
+- Lone Star Republic Envoy, Ambassador Lorraine Clark: Ambassador Lorraine Clark represents the Lone Star Republic and is determined to establish a working relationship with Bountiful. Her motives may be more complex than they appear, and the player must navigate the political landscape to understand her true intentions.
+- Elderly Farmer, Sister Margaret Carter: Sister Margaret Carter is a respected elder in Bountiful known for her years of dedication to farming. Despite her age, she continues to work the fields and offers the player insights into traditional farming methods. She might task the player with preserving and passing on these agricultural practices.
+- Merchant and Trader, Brother Isaac Wallace: Brother Isaac Wallace operates a small trading post within Bountiful, dealing in surplus crops, handmade goods, and essential supplies. His shrewd business sense makes him a crucial figure in facilitating trade within the settlement. The player can engage in quests related to expanding trade connections or resolving trade disputes.
+- Youthful Engineer, Brother Caleb Parker: Brother Caleb Parker is a young and ambitious member of Bountiful with a talent for tinkering with pre-war technology. He dreams of revitalizing ancient machinery to improve the settlement's efficiency. The player may assist Brother Caleb in locating and repairing pre-war devices, uncovering forgotten technological marvels.
+- Devoted Teacher, Sister Emily Lewis: Sister Emily Lewis serves as an educator within Bountiful, ensuring the transmission of knowledge to the settlement's youth. She may request the player's help in acquiring educational materials from the wasteland, emphasizing the importance of preserving pre-war literature and scientific knowledge.
+- Wasteland Explorer, Brother Daniel Hughes: Brother Daniel Hughes is a daring adventurer who frequently explores the surrounding wasteland in search of valuable resources and information. His quests might involve recovering lost artifacts or uncovering pre-war secrets that could benefit Bountiful. Despite the risks, Brother Daniel's discoveries contribute to the settlement's resilience.
+
+### Quests
+
+#### The Harvest Festival Dilemma
+_Quest Giver: Bishop Elijah Stone_
+Bountiful is preparing for its annual Harvest Festival, a celebration of abundance and community. However, tensions arise when rumors spread that the Lone Star Republic might see the festival as an opportune time to assert control. The player is tasked with navigating the delicate situation, ensuring the festival proceeds smoothly while keeping an eye out for any potential threats or covert actions from Lone Star Republic spies.
+
+#### The Lost Livestock Predicament
+_Quest Giver: Sister Abigail Foster_
+Bountiful's livestock has been mysteriously disappearing, and the settlers suspect foul play. Sister Abigail, in charge of the settlement's animal husbandry, asks the player to investigate. As the player delves into the mystery, they discover a group of mutated creatures threatening the livestock. The challenge is not only to eliminate the threat but also to find a long-term solution to protect Bountiful's vital source of sustenance.
+
+#### The Lone Star Diplomat's Dilemma
+_Quest Giver: Elder Samuel Harris_
+A Lone Star Republic diplomat arrives in Bountiful, seeking to rekindle negotiations for a trade agreement. The player is asked to act as a mediator between the diplomatic envoy and the wary leaders of Bountiful. The challenge is to navigate the negotiations diplomatically while uncovering any hidden agendas that may affect the settlement's autonomy.
+
+#### The Hidden Threat
+_Quest Giver: High Councilor Esther Thompson_
+High Councilor Thompson receives troubling information about a potential internal threat to Bountiful's security. The player is tasked with discreetly investigating the matter, unraveling a plot that involves a group of dissenters within the settlement. Choices made during the quest can impact the community's unity and stability.
+
+#### The Exodus to Zion
+_Quest Giver: Brother Jacob Reynolds_
+Brother Jacob, a devout member of the Church who holds heterodox views, sometimes finds himself in conflict with Leadership. He believes that the Church should leave the Gulf Coast Wasteland and travel to Zion, a city and land in pre-war Missouri that early church leaders prophesied would be a place where Jesus Christ would return and reign personally upon the earth. He asks the player to help him convince others to start a convoy and travel to Zion. President Ezra Bennet and his Bishop Elijah Stone, although they affirm that one day all the Saints will gather in Zion, the Saints have not yet been commanded to gather there, and thus should remain in the Gulf Coast Wasteland. Depending on the player's choices, Brother Jacob may be convinced to stay in Bountiful, or he may leave with a group of dissenters to start a new settlement in Zion. The outcome will also  
 
 ## Solaris Sanctuary
 
@@ -712,6 +753,31 @@ To boost morale and showcase Solaris Sanctuary's strength, Captain Reyna organiz
 #### The Enigmatic Engineer
 _Quest Giver: Lord Cedric Ironheart_
 Lord Cedric receives a distress signal from an unknown engineer claiming to possess advanced technological knowledge. The player is tasked with locating this mysterious individual and bringing them to Solaris Sanctuary. Upon finding the engineer, it becomes evident that they hold the key to unlocking dormant technologies that could greatly benefit the settlement. However, the engineer is wary of sharing their knowledge and may have alternative motives.
+
+#### Other Quest Ideas
+
+As Solaris Sanctuary is on the outskirts of the Gulf Coast Wasteland, most players will not likely encounter it organically. As such, it may be worth considering a quest that will lead players to Solaris Sanctuary. A few ideas for such a quest are:
+
+##### Distress Signal from Solaris
+_Quest Trigger: Players intercept a distress signal or find a message mentioning a safe haven with a unique community._
+The players come across a distress signal originating from Solaris Sanctuary, indicating that the settlement is facing a threat or crisis. The signal may be picked up from a distant radio frequency, a bulletin board, or a survivor's journal. Intrigued by the call for help, the players decide to investigate and offer assistance, leading them to the distant and unique settlement.
+
+##### Trade Routes and Rumors
+_Quest Trigger: Players encounter traders or scavengers mentioning a prosperous settlement with valuable resources._
+Traveling merchants or scavengers in the wasteland share rumors about a thriving settlement known as Solaris Sanctuary. They speak of unique goods, skilled artisans, and the potential for valuable trade. Intrigued by the prospect of new opportunities, the players decide to seek out this hidden enclave and explore the potential benefits of establishing trade connections.
+
+##### The Wandering Bard's Tale
+_Quest Trigger: Players encounter a wandering bard or storyteller mentioning a sanctuary with a rich cultural heritage._
+A wandering bard crosses paths with the players, sharing tales of a settlement that blends Renaissance charm with survivalist ingenuity. The bard's stories speak of unique traditions, valuable relics, and a community that has managed to thrive against all odds. Intrigued by the tales, the players decide to seek out this intriguing settlement and experience its cultural richness firsthand.
+
+##### Artifacts of the Ancients
+_Quest Trigger: Players discover or are informed about the potential existence of valuable pre-war artifacts near Solaris Sanctuary._
+The players come across information or rumors about the presence of rare and valuable pre-war artifacts in the vicinity of Solaris Sanctuary. These artifacts could include advanced technology, historical documents, or even relics of cultural significance. Eager to uncover these treasures, the players decide to venture towards the settlement and explore the surrounding areas for these valuable finds.
+
+##### The Mysterious Invitation
+_Quest Trigger: Players receive a cryptic message or invitation from an unknown source leading them to Solaris Sanctuary._
+The players find or receive a mysterious invitation, beckoning them to visit Solaris Sanctuary for a purpose unknown. The message hints at unique opportunities, rewards, or challenges awaiting those who choose to accept. Intrigued by the enigmatic nature of the invitation, the players decide to follow the clues and uncover the secrets of Solaris Sanctuary.
+
 
 ## Galveston Docks (formerly Galveston)
 
