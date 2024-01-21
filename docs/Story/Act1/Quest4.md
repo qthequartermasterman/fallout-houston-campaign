@@ -70,46 +70,43 @@ This is an example message sent to the Players. The message's content should var
 
 ### The Negotiation: Day 1
 
-!!! note
-This section is written with Sarah Dawson leading the negotiations. From experience, simply having non player characters
-negotiate with each other is not very fun for players. Additionally, it makes the player characters' presence feel
-redundant. The gamemaster should encourage the players to lead the negotiations, with Sarah Dawson providing guidance
-and support. The gamemaster should also encourage the players to use their skills and abilities to influence the
-negotiations. Some gamemasters have even had success with giving the players a character sheet and background knowledge
-about Sarah Dawson, so that they can roleplay her during the negotiations. Use the list below of knowledge and
-bargaining chips that Sarah Dawson has access to.
+!!! warning
 
-!!! note "Things Sarah Dawson Knows about the Negotiations"
-- Ranger Intelligence says that the Oil Barons have at least six Fusion Core Stabilizers, but they are not willing to
-part with them or even acknowledge their existence.
-- Oil Barons want control of [Petroclave Oilfields](neighborhoods.md#petroclave-formerly-pasadena), which is currently
-controlled by the Lone Star Republic.
-- Oil Barons have struggled to maintained good relations with the Brotherhood of Steel Texas Chapter, which has recently
-caused them problems shipping oil and fusion cores west to Caesar's Legion by imposing customs fees and tariffs on
-caravan shipments.
-- Oil Barons have been planning a railway to transport oil and fusion cores west to Caesar's Legion and to New Vegas,
-but they lack the manpower to build or protect it.
-- Oil Barons are aware of the Emergence of the Spaceport survivors, and that the Lone Star Republic is planning some
-launch, but they do not know the details, including the secret fact that the mission is manned.
-- The Brotherhood of Steel, focused on reclaiming pre-war technology, might be interested in the Fusion Core Stabilizer,
-and might even be willing to use force to obtain it.
-- Leonard Petrovich convinced her former friend [Dr. Emily Wells](oilbarons.md#dr-emily-wells) to join the Oil Barons to
-lead "special projects" at the Oil Barons' headquarters in the Energy Corridor.
-- The Lone Star Republic needs the Fusion Core Stabilizer for their upcoming manned space mission
-- Leonard Petrovich is vehemently opposed to space exploration, believing it to represent the wastefulness and hubris of
-the pre-war world that led to its doom.
+    This section is written with Sarah Dawson leading the negotiations. From experience, simply having non-player characters
+    negotiate with each other is not very fun for players. Additionally, it makes the player characters' presence feel
+    redundant. The gamemaster should encourage the players to lead the negotiations, with Sarah Dawson providing guidance
+    and support. The gamemaster should also encourage the players to use their skills and abilities to influence the
+    negotiations. Some gamemasters have even had success with giving the players a character sheet and background knowledge
+    about Sarah Dawson, so that they can roleplay her during the negotiations. Use the list below of knowledge and
+    bargaining chips that Sarah Dawson has access to.
 
-!!! note "Things Leonard Petrovich Knows about the Negotiations"
-- The Lone Star Republic is interested in the Fusion Core Stabilizer, and that they claim to need it for their outskirt
-settlements, but Petrovich doubts their intentions.
-- The Lone Star Republic is planning some sort of launch, but Petrovich does not know the details, including the secret
-fact that the mission is manned.
-- Petrovich is working on a [secret army of securitrons](oilbarons.md#the-secret-project-securitron-army), lead
-by [Dr. Emily Wells](oilbarons.md#dr-emily-wells), to protect the Oil Barons' interests.
-- Petrovich suspects that the Lone Star Republic wants to use the Spaceport to gain control of pre-war military
-technology which could be used to threaten the Oil Barons and their interests.
-- Petrovich is vehemently opposed to space exploration, believing it to represent the wastefulness and hubris of the
-pre-war world that led to its doom.
+??? note "Things Sarah Dawson Knows about the Negotiations"
+
+      - Ranger Intelligence says that the Oil Barons have at least six Fusion Core Stabilizers, but they are not willing topart with them or even acknowledge their existence.
+      - Oil Barons want control of [Petroclave Oilfields](neighborhoods.md#petroclave-formerly-pasadena), which is currently
+      controlled by the Lone Star Republic.
+      - Oil Barons have struggled to maintained good relations with the Brotherhood of Steel Texas Chapter, which has recently
+      caused them problems shipping oil and fusion cores west to Caesar's Legion by imposing customs fees and tariffs on
+      caravan shipments.
+      - Oil Barons have been planning a railway to transport oil and fusion cores west to Caesar's Legion and to New Vegas,
+      but they lack the manpower to build or protect it.
+      - Oil Barons are aware of the Emergence of the Spaceport survivors, and that the Lone Star Republic is planning some
+      launch, but they do not know the details, including the secret fact that the mission is manned.
+      - The Brotherhood of Steel, focused on reclaiming pre-war technology, might be interested in the Fusion Core Stabilizer,
+      and might even be willing to use force to obtain it.
+      - Leonard Petrovich convinced her former friend [Dr. Emily Wells](oilbarons.md#dr-emily-wells) to join the Oil Barons to
+      lead "special projects" at the Oil Barons' headquarters in the Energy Corridor.
+      - The Lone Star Republic needs the Fusion Core Stabilizer for their upcoming manned space mission
+      - Leonard Petrovich is vehemently opposed to space exploration, believing it to represent the wastefulness and hubris of
+      the pre-war world that led to its doom.
+
+??? note "Things Leonard Petrovich Knows about the Negotiations"
+
+    - The Lone Star Republic is interested in the Fusion Core Stabilizer, and that they claim to need it for their outskirt settlements, but Petrovich doubts their intentions.
+    - The Lone Star Republic is planning some sort of launch, but Petrovich does not know the details, including the secret fact that the mission is manned.
+    - Petrovich is working on a [secret army of securitrons](oilbarons.md#the-secret-project-securitron-army), lead by [Dr. Emily Wells](oilbarons.md#dr-emily-wells), to protect the Oil Barons' interests.
+    - Petrovich suspects that the Lone Star Republic wants to use the Spaceport to gain control of pre-war military technology which could be used to threaten the Oil Barons and their interests.
+    - Petrovich is vehemently opposed to space exploration, believing it to represent the wastefulness and hubris of the pre-war world that led to its doom.
 
 Sarah Dawson explains the mission: to negotiate the purchase of a Fusion Core Stabilizer (an experimental pre-war device
 that stabilizes fusion cores when under highly variable, peaky load) from the Oil Barons, under the guise of improving

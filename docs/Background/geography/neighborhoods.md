@@ -680,23 +680,33 @@ The settlement is protected by a paramilitary organization called the Eagles, wh
 ### Quests
 
 #### The Harvest Festival Dilemma
+
 _Quest Giver: Bishop Elijah Stone_
+
 Bountiful is preparing for its annual Harvest Festival, a celebration of abundance and community. However, tensions arise when rumors spread that the Lone Star Republic might see the festival as an opportune time to assert control. The player is tasked with navigating the delicate situation, ensuring the festival proceeds smoothly while keeping an eye out for any potential threats or covert actions from Lone Star Republic spies.
 
 #### The Lost Livestock Predicament
+
 _Quest Giver: Sister Abigail Foster_
+
 Bountiful's livestock has been mysteriously disappearing, and the settlers suspect foul play. Sister Abigail, in charge of the settlement's animal husbandry, asks the player to investigate. As the player delves into the mystery, they discover a group of mutated creatures threatening the livestock. The challenge is not only to eliminate the threat but also to find a long-term solution to protect Bountiful's vital source of sustenance.
 
 #### The Lone Star Diplomat's Dilemma
+
 _Quest Giver: Elder Samuel Harris_
+
 A Lone Star Republic diplomat arrives in Bountiful, seeking to rekindle negotiations for a trade agreement. The player is asked to act as a mediator between the diplomatic envoy and the wary leaders of Bountiful. The challenge is to navigate the negotiations diplomatically while uncovering any hidden agendas that may affect the settlement's autonomy.
 
 #### The Hidden Threat
+
 _Quest Giver: High Councilor Esther Thompson_
+
 High Councilor Thompson receives troubling information about a potential internal threat to Bountiful's security. The player is tasked with discreetly investigating the matter, unraveling a plot that involves a group of dissenters within the settlement. Choices made during the quest can impact the community's unity and stability.
 
 #### The Exodus to Zion
+
 _Quest Giver: Brother Jacob Reynolds_
+
 Brother Jacob, a devout member of the Church who holds heterodox views, sometimes finds himself in conflict with Leadership. He believes that the Church should leave the Gulf Coast Wasteland and travel to Zion, a city and land in pre-war Missouri that early church leaders prophesied would be a place where Jesus Christ would return and reign personally upon the earth. He asks the player to help him convince others to start a convoy and travel to Zion. President Ezra Bennet and his Bishop Elijah Stone, although they affirm that one day all the Saints will gather in Zion, the Saints have not yet been commanded to gather there, and thus should remain in the Gulf Coast Wasteland. Depending on the player's choices, Brother Jacob may be convinced to stay in Bountiful, or he may leave with a group of dissenters to start a new settlement in Zion. The outcome will also  
 
 ## Solaris Sanctuary
@@ -735,23 +745,33 @@ In the irradiated remnants of Houston, where the echoes of a bygone era mix with
 
 ### Quests
 #### The Lost Relic of Solaris
+
 _Quest Giver: Blacksmith Thorne Ironforge_
+
 Solaris Sanctuary's blacksmith, Thorne Ironforge, uncovers an ancient blueprint hinting at the existence of a powerful pre-war weapon known as the "Solaris Blade." The blueprint suggests that the components are scattered throughout the wasteland. The player must embark on a quest to locate these rare materials, facing challenges and uncovering the weapon's history. Once assembled, the Solaris Blade could become a symbol of hope and strength for the settlement.
 
 #### The Phantom Minstrel
+
 _Quest Giver: Maestro Lorenzo Bardolino_
+
 Maestro Lorenzo is disturbed by reports of a mysterious phantom minstrel haunting the outskirts of Solaris Sanctuary. The spectral musician's melancholic tunes are said to influence the emotions of those who hear them. The player must track down the phantom, unravel its backstory, and decide whether to help it find peace or confront the potential threat it poses to the settlement's emotional balance.
 
 #### Ephemeral Elixirs
+
 _Quest Giver: Lady Isabella Emberweave_
+
 Lady Isabella discovers an old alchemical recipe for a potion rumored to grant temporary glimpses into the past. In hopes of uncovering lost knowledge or locating valuable resources, she tasks the player with gathering rare ingredients scattered across the wasteland. As the player brews and consumes the elixir, they experience vivid visions that may hold clues to forgotten technologies or hidden dangers.
 
 #### The Great Solar Race
+
 _Quest Giver: Captain Reyna Stormblade_
+
 To boost morale and showcase Solaris Sanctuary's strength, Captain Reyna organizes a grand scavenger hunt and obstacle course known as "The Great Solar Race." The player is invited to participate, competing against other residents and overcoming challenges inspired by the Renaissance fair's activities. Success not only earns recognition but also contributes to the settlement's overall preparedness.
 
 #### The Enigmatic Engineer
+
 _Quest Giver: Lord Cedric Ironheart_
+
 Lord Cedric receives a distress signal from an unknown engineer claiming to possess advanced technological knowledge. The player is tasked with locating this mysterious individual and bringing them to Solaris Sanctuary. Upon finding the engineer, it becomes evident that they hold the key to unlocking dormant technologies that could greatly benefit the settlement. However, the engineer is wary of sharing their knowledge and may have alternative motives.
 
 #### Other Quest Ideas
@@ -759,23 +779,33 @@ Lord Cedric receives a distress signal from an unknown engineer claiming to poss
 As Solaris Sanctuary is on the outskirts of the Gulf Coast Wasteland, most players will not likely encounter it organically. As such, it may be worth considering a quest that will lead players to Solaris Sanctuary. A few ideas for such a quest are:
 
 ##### Distress Signal from Solaris
+
 _Quest Trigger: Players intercept a distress signal or find a message mentioning a safe haven with a unique community._
+
 The players come across a distress signal originating from Solaris Sanctuary, indicating that the settlement is facing a threat or crisis. The signal may be picked up from a distant radio frequency, a bulletin board, or a survivor's journal. Intrigued by the call for help, the players decide to investigate and offer assistance, leading them to the distant and unique settlement.
 
 ##### Trade Routes and Rumors
+
 _Quest Trigger: Players encounter traders or scavengers mentioning a prosperous settlement with valuable resources._
+
 Traveling merchants or scavengers in the wasteland share rumors about a thriving settlement known as Solaris Sanctuary. They speak of unique goods, skilled artisans, and the potential for valuable trade. Intrigued by the prospect of new opportunities, the players decide to seek out this hidden enclave and explore the potential benefits of establishing trade connections.
 
 ##### The Wandering Bard's Tale
+
 _Quest Trigger: Players encounter a wandering bard or storyteller mentioning a sanctuary with a rich cultural heritage._
+
 A wandering bard crosses paths with the players, sharing tales of a settlement that blends Renaissance charm with survivalist ingenuity. The bard's stories speak of unique traditions, valuable relics, and a community that has managed to thrive against all odds. Intrigued by the tales, the players decide to seek out this intriguing settlement and experience its cultural richness firsthand.
 
 ##### Artifacts of the Ancients
+
 _Quest Trigger: Players discover or are informed about the potential existence of valuable pre-war artifacts near Solaris Sanctuary._
+
 The players come across information or rumors about the presence of rare and valuable pre-war artifacts in the vicinity of Solaris Sanctuary. These artifacts could include advanced technology, historical documents, or even relics of cultural significance. Eager to uncover these treasures, the players decide to venture towards the settlement and explore the surrounding areas for these valuable finds.
 
 ##### The Mysterious Invitation
+
 _Quest Trigger: Players receive a cryptic message or invitation from an unknown source leading them to Solaris Sanctuary._
+
 The players find or receive a mysterious invitation, beckoning them to visit Solaris Sanctuary for a purpose unknown. The message hints at unique opportunities, rewards, or challenges awaiting those who choose to accept. Intrigued by the enigmatic nature of the invitation, the players decide to follow the clues and uncover the secrets of Solaris Sanctuary.
 
 
@@ -801,35 +831,55 @@ The players find or receive a mysterious invitation, beckoning them to visit Sol
 ### Battleship Texas
 
 The <geotag latitude=29.27994354782519 longitude=-94.87713915249228 icon=MARINA name="Battleship Texas" /> is a formerly decommissioned Battleship used by the United States Navy during World Wars I and II. It was decommissioned and converted into a Museum Ship after WWII, floating in the Houston Ship Channel just outside the Buffalo Bayou (near the San Jacinto Monument). In 2280, with the assistance of the Cartels, the Galveston Pirates managed to get the ship operational again, and sailed it to its current location in the Galveston Docks. The ship was then renovated and is now the Galveston Pirates' primary (yet mobile) base of operations, and is used to launch raids on the Port of Houston and other settlements along the coast.
+
   - Ship Retrofitting:
+    
     - Purpose: Originally a naval vessel, the Battleship Texas underwent extensive retrofitting to serve as the Galveston Pirates' mobile base.
     - Nuclear Engines: Fitted with Fallout-themed nuclear engines for propulsion, providing both power and mobility.
     - Weapon Systems: Enhanced with a mix of energy weapons, ballistic cannons, and salvaged pre-war naval weaponry for defense and offense.
+
   - Command and Control:
+    
     - Bridge Overhaul: The original ship's bridge has been transformed into a high-tech command center where the Council of Captains makes strategic decisions.
     - Communications Array: Powerful long-range communications equipment salvaged from pre-war military installations, allowing the Pirates to stay informed and coordinate operations.
+
   - Living Quarters:
+    
     - Captain's Quarters: Each captain has their own private quarters with a mix of salvaged pre-war luxury items and functional, post-apocalyptic necessities.
     - Crew Dormitories: Spacious communal living areas for the crew, maximizing efficiency in the limited space available.
+
   - Workshop and Repair Facilities:
+    
     - Engineering Bay: A dedicated area for repairs and modifications, equipped with tools salvaged from pre-war military and industrial facilities.
     - Technical Expertise: Skilled engineers and mechanics among the crew ensure the Battleship Texas remains operational in the harsh post-apocalyptic environment.
+
   - Security Measures:
+    
     - Automated Defenses: Integrated automated defense systems, including turrets and security robots, protect the Battleship Texas from external threats.
     - Guard Posts: Manned security posts strategically placed throughout the ship to deter potential internal threats.
+
   - Resource Storage:
+    
     - Cargo Holds: Repurposed cargo holds store the plundered resources, weapons, and supplies acquired during raids and smuggling operations.
     - Trade Goods: A section dedicated to storing items for trade, including chems, technology, and other valuable commodities.
+
   - Cultural and Recreational Spaces:
+    
     - Common Areas: Spaces for socializing and relaxation, fostering a sense of community among the crew.
     - Training Facilities: Areas for combat training, ensuring the crew remains proficient in both individual and group combat scenarios.
+
   - Navigation and Stealth Systems:
+    
     - Stealth Modifications: Stealth technology salvaged from pre-war military vessels enables the Battleship Texas to approach targets discreetly.
     - Navigation Computer: A sophisticated navigation computer assists in plotting courses and avoiding hazards in the treacherous Gulf waters.
+
   - Flagship Aesthetics:
+    
     - Pirate Insignia: Prominent displays of the Galveston Pirates' insignia and flags to establish a distinct identity as a formidable maritime force.
     - Intimidating Appearance: The Battleship Texas is adorned with fearsome imagery and symbols, reflecting the ruthless nature of the Galveston Pirates.
+
   - Maintenance and Sustainability:
+    
     - Resource Gathering: Specialized equipment for gathering resources while at sea, such as water purification systems and improvised farming setups.
     - Sustainable Practices: Efforts to maintain the ship's functionality with limited resources, recycling and repurposing materials whenever possible.
 
