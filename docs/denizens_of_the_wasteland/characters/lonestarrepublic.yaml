@@ -6,7 +6,7 @@ character_president_davis:
   type: Notable
   keywords:
     - Human
-  description: President Samuel Davis is a rugged and imposing figure in the post-apocalyptic wasteland. Standing at 6 feet tall, he possesses a commanding presence with broad shoulders and a well-maintained physique that reflects his military background. Samuel's deep-set, steel-blue eyes radiate an air of authority, often leaving an indelible impression on those who meet him. His grizzled, salt-and-pepper hair and well-trimmed beard add to his distinguished appearance. Although the wasteland has aged him, it has also toughened him, and his weathered features tell the tale of a man who has faced the harsh realities of the new world.
+  description: President Samuel Davis is a rugged and imposing figure in the post-apocalyptic wasteland. Standing at 6 feet tall, he possesses a commanding presence with broad shoulders and a well-maintained physique that reflects his military background. Samuel's deep-set, steel-blue eyes radiate an air of authority, often leaving an indelible impression on those who meet him. His grizzled, salt-and-pepper hair and well-trimmed beard add to his distinguished appearance. Although the wasteland has aged him, it has also toughened him, and his weathered features tell the tale of a man who has faced the harsh realities of the new world. Unbeknownst to most (including many of his closest friends), he wears a wig made from his own hair laced with ballistic weave, which serves as a hidden layer of protection.
   special:
     strength: 7
     perception: 6
@@ -44,3 +44,9 @@ character_president_davis:
       description: The elder is a skilled diplomat and mediator. Their ability to read people and situations allows them to negotiate more effectively, make wise decisions, and find common ground during diplomatic discussions. They can also defuse tense situations and foster cooperation with other factions. Once per short rest, they can subtract 1 {CD} difficulty from a single Charisma-based skill check. If an Effect is rolled, then they can optionally re-roll one d20 dice used for the skill check.
     - name: Politician's Charm
       description: President Davis is a skilled orator and a master of persuasion. He can sway the opinions of others and convince them to see things his way. He can also train others in these skills, allowing them to perform more effectively in the field. On any Charisma-based skill check, President Davis can re-roll one d20 die.
+  inventory:
+    - name: Ballistic Weave Formal Clothing (+6 Physical damage resistance, +6 Energy damage resistance, +60 cost)
+    - name: Ballistic Weave Wig (+6 Physical damage resistance, +6 Energy damage resistance, +60 cost)
+    - name: 10mm Pistol
+  phys_dr_override: 0 (+6 from Ballistic Weave Formal Clothing/Wig)
+  energy_dr_override: 0 (+6 from Ballistic Weave Formal Clothing/Wig)

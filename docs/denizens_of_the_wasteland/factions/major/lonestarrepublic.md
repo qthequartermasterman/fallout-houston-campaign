@@ -311,3 +311,19 @@ As the Negotiator for the Lone Star Republic, Sarah Dawson plays a critical role
 
 Sarah Dawson's expertise in diplomacy and her ability to communicate effectively make her a vital asset to the Lone Star Republic. Her dedication to securing the Republic's interests, maintaining peace, and forging alliances helps the Republic thrive in a world forever changed by the Great War.
 
+### Warden Jim Wiles
+- Name: Jim Wiles
+- Title: Warden of the Scholar's Summit Prison; Major of the Texas Rangers
+
+#### Background
+
+Jim Wiles is a seasoned and respected figure within the Lone Star Republic, serving as the Warden of the Scholar's Summit Prison and holding the rank of Major in the Texas Rangers. His dual roles as a law enforcement officer and a prison warden have made him a key figure in maintaining order and security within the Republic. He was appointed by President Davis to the position of Warden after demonstrating exceptional leadership and a deep commitment to the Republic's values, replacing the previous Warden who had been removed due to corruption.
+
+#### Appearance
+
+Jim Wiles is a rugged and imposing figure, standing at 6 feet 2 inches with a sturdy build that reflects his years of military and law enforcement experience. His piercing blue eyes and close-cropped salt-and-pepper hair give him a distinguished appearance. He typically dresses in the uniform of the Texas Rangers, a symbol of his authority and dedication to maintaining law and order in the Lone Star Republic.
+
+#### Personality
+
+Warden Jim Wiles is known for his unwavering dedication to justice, discipline, and the safety of the Republic's citizens. He is a no-nonsense leader who values order and security above all else. Jim's commitment to upholding the law and protecting the Republic's interests has earned him the respect and trust of his colleagues and subordinates. He is a firm believer in the principles of duty, honor, and service to the Republic. Although stern, he knows how to deal in levity and humor when the situation calls for it. He is known for his ability to inspire and lead his subordinates, and his dedication to the Lone Star Republic is unwavering. Beloved by the Rangers and staff of the Scholar's Summit Prison, he is even respected by many of the prisoners.
+
