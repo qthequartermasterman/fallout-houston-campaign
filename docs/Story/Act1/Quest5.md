@@ -28,7 +28,7 @@
 - As the vision continues, the player's great-great-grandfather makes a choice to override a system, which results in a loss of communication with the lunar base. The astronaut's distorted voice seems to express both concern and frustration.
 - The vision ends with a sense of foreboding, leaving the player with the impression that there was a hidden agenda or conspiracy even during the Moon mission.
 ### Seeking Stardust's Assistance
-- The player, intrigued and unsettled by the vision, seeks out Agent Victor "Stardust" Caldwell within the Spaceport Survivors. They believe that Stardust, as an insider, may have knowledge about the vision and its connection to their great-great-grandfather's campaign.
+- The player, intrigued and unsettled by the vision, seeks out Agent Catherine "Stardust" Caldwell within the Spaceport Survivors. They believe that Stardust, as an insider, may have knowledge about the vision and its connection to their great-great-grandfather's campaign.
 - Stardust is initially cautious and puzzled by the player's inquiry. He explains that he doesn't understand their origins or significance, but has suspected for some time that certain parties with the Starport may be acting on a secret, hidden agenda. Stardust is unaware of the Enclave's presence within the Spaceport Survivors.
 - However, Stardust suggests that the player's unique perspective as an outsider might be valuable for uncovering any hidden agendas within the Spaceport Survivors.
     - If the player is on good terms with the Spaceport Survivors and/or the Lone Star Republic, then Stardust is more trusting of the player and is willing to share the identities of a few Spaceport Survivors of whom he is suspicious.
