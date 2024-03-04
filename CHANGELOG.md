@@ -2,6 +2,55 @@
 
 
 
+## v0.36.0 (2024-03-04)
+
+### Chore
+
+* chore: wordcount shell file ([`ce7a6f6`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ce7a6f627262f6f322919b6ae0db442dda2a4d48))
+
+### Documentation
+
+* docs: Summits Shadow quest ([`0fa933b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0fa933b6afc9b1f6c1f46352a7720a53323b05fb))
+
+* docs: Information about the sinking of the Costa Concodria ([`373483d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/373483d0e2098f62283060497c547497dcc129c8))
+
+* docs: Information about the sinking of the Costa Concodria ([`f6f84c5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/f6f84c520ccadd0b02a3976017b1ccd880b8cd3d))
+
+* docs: Information about the sinking of the Costa Concodria ([`fbd6255`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fbd6255c861cfd78bfb3cebae960aff082ca6ab0))
+
+* docs: Add President Davis&#39;s ballistic weave + Warden Wiles description ([`ea04b0c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ea04b0c61ca67ca2503aa8054aa215325cf6829e))
+
+* docs: update content for quests 4 and 5 ([`fb618ce`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fb618ce88c110b031ca1dfc02569b8013b1bdc90))
+
+* docs: update content for quests 4 and 5 ([`b35a76c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/b35a76c768e1033835442e216aa87125b05fe69a))
+
+* docs: More Solaris details ([`bd06839`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/bd06839ba3a1fa523ff87d7a6debbf0cb4d8abd7))
+
+* docs: Flesh out Quest 4 ([`e16e49b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e16e49bca6ead072da41e4e00b16a4d89c12fb1f))
+
+* docs: refinements to stat blocks ([`554e34e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/554e34e1a1559a55fb0f948dcee54558c57bbaad))
+
+* docs: flesh out Leonard Petrovich&#39;s Backstory, and some of the Oil baron Backstory ([`d299e51`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d299e51db27d3a13c83ce530154048fa66c16de7))
+
+* docs: oilfield outpost negotiations ([`25cf283`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/25cf283e75bf3ad8a942627e8e9ee593bad72976))
+
+* docs: president samuel davis character block ([`fbfe929`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fbfe929cee3ffbed1a867b33b47863159e34eb2c))
+
+* docs: add dawn of tranquility visions ([`9d96a29`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/9d96a29e138a2f2d8337be503b19e2e879d37078))
+
+* docs: add dawn of tranquility visions ([`06ca50c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/06ca50c85104a293f864d7864b2c7d84fa10aaa1))
+
+* docs:  rename DLC campaigns ([`407d501`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/407d50130e713b7d11a2acc5c58499e57f79ce30))
+
+### Feature
+
+* feat: Summits Shadow quest ([`38ba55b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/38ba55bc3f342d58668411c8ff5bdff50561b095))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`171debc`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/171debc1120b3d8375bc4a34bb0fce7187e69487))
+
+
 ## v0.35.0 (2023-12-29)
 
 ### Documentation
