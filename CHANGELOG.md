@@ -2,6 +2,17 @@
 
 
 
+## v0.36.1 (2024-03-04)
+
+### Fix
+
+* fix: Summits Shadow quest formatting ([`d69cdad`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d69cdadf6c5137aed6c6cd5d5092a2c4ba1f641b))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`02c8ce3`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/02c8ce36bd6b2701f09e0ce4772bb413d5585802))
+
+
 ## v0.36.0 (2024-03-04)
 
 ### Chore
