@@ -145,4 +145,3 @@ Additionally, the plot to assassinate President Samuel will come to head, unless
 If the President is shot, then he will be rushed by the Texas Rangers to the hospital at [Scholar's Summit](../../Background/geography/neighborhoods.md#scholars-summit-formerly-huntsville). In most cases, the President should survive the attack (thanks to his ballistic weave), but he will likely be in critical condition. If the players did not betray the Lone Star Republic in any of the subplots, then they will be asked to help with the investigation. If one of the players has high medical skills, then they can help treat the President at the scene.
 
 If the players were involved in any of the subplots (or help undermine those subplots), then they will be approached by the faction they helped/undermined and offered a reward for their assistance or a threat for their betrayal.
-
