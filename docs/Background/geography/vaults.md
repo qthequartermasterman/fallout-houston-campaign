@@ -96,6 +96,33 @@ inhabited and forced open after a test flight for their upcoming manned Epsilon 
   adapt to perpetual darkness. They may uncover secrets hidden in the shadows or assist the vault's stealthy inhabitants
   in shadowy quests. The vault could be a refuge for characters with nocturnal abilities.
 - Location: Situated beneath the Woodlands area, northeast of the Mall
+- Gardening: Crops are grown using UV grow lights, but the lights are turned off before the gardeners enter the room, to avoid the light
+hurting their eyes. 
+
+### Residents
+
+- Overseer Vladimir Darkwood
+- Doctor Leonard Darkwood, Vault mortician
+- Waitress Lyra Darkwood
+- Gardener Raven Darkwood
+
+### Side Quest: Bloodstained Shadows
+
+Quest is given by Vladimir Darkwood, the Overseer of Vault 61. He asks the player to investigate a series of mysterious deaths that have occurred within the vault. The victims have been found with strange bite marks on their necks, and shortly after arriving in the Vault morgue, their blood has been drained.
+
+- Vladimir Darkwood is the vampire that kills the residents. He was turned into a vampire during his time at Vault-Tec University, where he was studying the effects of small dosages of radioactive substances injecting into human blood. Vault-Tec officials, seemingly finding his vampiric experiments fitting, assigned him as the Overseer of Vault 61, which studied the effects of Eternal Darkness.
+- Vladimir Darkwood has actually been the overseer since the Great War.
+- Vladimir kills his victims by sneakingly biting them in the neck, but he does not drain the blood then. He waits until the victim is in the morgue, where he will drain the blood with his fangs and drink it.
+- Recently, in the past year or so, Vladimir's victims have often had their blood drained shortly after arriving in the morgue, but before he can return to drink it. This has caused him to become more desperate and more careless in his killings. Additionally, he wants to know if there is a competing vampire.
+- Doctor Leonard Darkwood, the Vault Mortician, and son of Vladimir, has recently grown into his own vampirism, but knows nothing about his Father's condition, and thus hides it from everyone. He has been attracted to mortuary work since he was a child, and had a biting problem into his late childhood, but he never felt the need to drink blood until about two years previously.
+- Lyra Darkwood, the waitress, is the daughter of Vladimir and the sister of Leonard. She is about a year younger than Leonard. She has just recently developed cravings for blood, but has not yet acted on them.
+- Raven Darkwood, the gardener, is the youngest of the Darkwood family, about two years younger than Lyra. He has not yet developed any vampire symptoms, and in fact faints at the sight of blood.
+- All four have a garlic allergy, completely unrelated to their vampirism; it's just a family allergy that goes back generations.
+- None of the family members know about Leonard or Vladimir's vampirism.
+- Players must unravel the mystery of the blood-drained bodies and confront the family. Their investigation should probably start with a list of the vault gardeners. Raven is the only one who never works on the garlic crop, due to his allergy.
+
+
+
 
 ## Vault 84 - Sleep Deprivation Experiment
 
