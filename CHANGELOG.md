@@ -2,6 +2,17 @@
 
 
 
+## v0.38.0 (2024-04-26)
+
+### Feature
+
+* feat: add hex grid ([`59ae83c`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/59ae83cee447c8ed31d84139f27d4076899fd4f8))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`33901cd`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/33901cd1e648c35ccdf71b5004aa3a642374a6af))
+
+
 ## v0.37.0 (2024-03-23)
 
 ### Feature
