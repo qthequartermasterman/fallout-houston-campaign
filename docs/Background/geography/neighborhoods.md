@@ -1457,3 +1457,7 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
   name="Spring"
 />: A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
   neighborhood's houses into shelters and trading posts. Spring is known for its scavenging operations.
+
+
+<geotag latitude=28.518411059657137 longitude=-80.67816409203829 icon="ROCKET" name="Kennedy Space Center"/>
+<geotag latitude=29.086461187947474 longitude=-94.06750414525914 icon="BOAT" name="Wreckage of the Costa Concordia"/>
