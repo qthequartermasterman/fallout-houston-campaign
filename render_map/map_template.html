@@ -6,12 +6,15 @@
 </script>
 
 <script type="text/javascript"
-        src="https://maps.googleapis.com/maps/api/js?key={{GOOGLE_MAPS_API_KEY}}&callback=initMap"
+        src="https://maps.googleapis.com/maps/api/js?key={{GOOGLE_MAPS_API_KEY}}&callback=initMap&libraries=geometry"
         async defer
 ></script>
 
 <script type="text/javascript">
+
+    const CLOSE_THRESHOLD = 1e-2;
     let markers = [];
+
     // Hide town markers when zoomed out.
     /**
      * @param {google.maps.Map} map
@@ -19,12 +22,13 @@
      * @param {number} zoomLevel
      */
     function updateMarkerVisibility(map, marker, zoomLevel) {
-        if (zoomLevel>=marker.zoom) {
+        if (zoomLevel >= marker.zoom) {
             marker.marker.setMap(map);
         } else {
             marker.marker.setMap(null);
         }
     }
+
     /**
      * @param {google.maps.Map} map
      */
@@ -41,7 +45,7 @@
      * @param {{name: string, latitude: number, longitude: number, icon: string, zoom: number}} mapMarker
      * @param {google.maps.Map} map
      */
-    function addMarker(mapMarker, map){
+    function addMarker(mapMarker, map) {
         const title = mapMarker.name;
         let marker = new google.maps.Marker({
             position: {lat: mapMarker.latitude, lng: mapMarker.longitude},
@@ -77,16 +81,144 @@
         marker.addListener('mouseout', closeInfoWindow);
     }
 
+
+    function hexagon(center, borderColor, fillColor, map, cell_radius) {
+        hex = RegularPoly(center, cell_radius, 6, 90, borderColor, 1, 1, fillColor, 0.2);
+        hex.setMap(map);
+        return hex
+    }
+
+    function neighbors(center, cellRadius) {
+        const d = 2 * cellRadius * Math.cos(Math.PI / 6);
+        new_centers = []
+        for (var i = 0; i < 6; i++) {
+            new_centers.push(EOffsetBearing(center, d, 60 * (i) + 30));
+        }
+        return new_centers
+    }
+
+    function close(point1, point2) {
+        return (Math.abs(point1.lat() - point2.lat()) < CLOSE_THRESHOLD && Math.abs(point1.lng() - point2.lng()) < CLOSE_THRESHOLD)
+    }
+
+    function expand_once(points, cellRadius) {
+        new_points = [];
+        for (const point of points) {
+            new_centers = neighbors(point, cellRadius);
+            for (const new_center of new_centers) {
+                var duplicate = false;
+                for (const existing of points) {
+                    if (close(new_center, existing)) {
+                        duplicate = true;
+                        break
+                    }
+                }
+                for (const existing of new_points) {
+                    if (close(new_center, existing)) {
+                        duplicate = true;
+                        break
+                    }
+                }
+                if (!duplicate) {
+                    new_points.push(new_center);
+                }
+
+            }
+        }
+
+        points.push(...new_points)
+    }
+
+    function drawHexGrid(center, map, numRings, fillColor, borderColor, cellRadius) {
+        let centers = [center];
+
+        for (let i = 0; i < numRings; i++) {
+            expand_once(centers, cellRadius);
+        }
+
+        for (const hex of centers) {
+            hexagon(hex, borderColor, fillColor, map, cellRadius)
+        }
+
+    }
+
+
+    // EShapes.js
+    //
+    // Based on an idea, and some lines of code, by "thetoy"
+    //
+    //   This Javascript is provided by Mike Williams
+    //   Community Church Javascript Team
+    //   http://www.bisphamchurch.org.uk/
+    //   http://econym.org.uk/gmap/
+    //
+    //   This work is licenced under a Creative Commons Licence
+    //   http://creativecommons.org/licenses/by/2.0/uk/
+    //
+    // Version 0.0 04/Apr/2008 Not quite finished yet
+    // Version 1.0 10/Apr/2008 Initial release
+    // Version 3.0 12/Oct/2011 Ported to v3 by Lawrence Ross
+    // Version 4.0 25/Apr/2024 Ported to v4 by Andrew Sansom
+
+    Shape = function (point, r1, r2, r3, r4, rotation, vertexCount, strokeColour, strokeWeight, Strokepacity, fillColour, fillOpacity, opts, tilt) {
+        var rot = -rotation * Math.PI / 180;
+        var points = [];
+        var latConv = google.maps.geometry.spherical.computeDistanceBetween(point, new google.maps.LatLng(point.lat() + 0.1, point.lng())) * 10;
+        var lngConv = google.maps.geometry.spherical.computeDistanceBetween(point, new google.maps.LatLng(point.lat(), point.lng() + 0.1)) * 10;
+        var step = (360 / vertexCount) || 10;
+
+        var flop = -1;
+        if (tilt) {
+            var I1 = 180 / vertexCount;
+        } else {
+            var I1 = 0;
+        }
+        for (var i = I1; i <= 360.001 + I1; i += step) {
+            var r1a = flop ? r1 : r3;
+            var r2a = flop ? r2 : r4;
+            flop = -1 - flop;
+            var y = r1a * Math.cos(i * Math.PI / 180);
+            var x = r2a * Math.sin(i * Math.PI / 180);
+            var lng = (x * Math.cos(rot) - y * Math.sin(rot)) / lngConv;
+            var lat = (y * Math.cos(rot) + x * Math.sin(rot)) / latConv;
+
+            points.push(new google.maps.LatLng(point.lat() + lat, point.lng() + lng));
+        }
+        return (new google.maps.Polygon({
+            paths: points,
+            strokeColor: strokeColour,
+            strokeWeight: strokeWeight,
+            strokeOpacity: Strokepacity,
+            fillColor: fillColour,
+            fillOpacity: fillOpacity
+        }))
+    }
+
+    RegularPoly = function (point, radius, vertexCount, rotation, strokeColour, strokeWeight, Strokepacity, fillColour, fillOpacity, opts) {
+        rotation = rotation || 0;
+        var tilt = !(vertexCount & 1);
+        return Shape(point, radius, radius, radius, radius, rotation, vertexCount, strokeColour, strokeWeight, Strokepacity, fillColour, fillOpacity, opts, tilt)
+    }
+
+    function EOffsetBearing(point, dist, bearing) {
+        var latConv = google.maps.geometry.spherical.computeDistanceBetween(point, new google.maps.LatLng(point.lat() + 0.1, point.lng())) * 10;
+        var lngConv = google.maps.geometry.spherical.computeDistanceBetween(point, new google.maps.LatLng(point.lat(), point.lng() + 0.1)) * 10;
+        var lat = dist * Math.cos(bearing * Math.PI / 180) / latConv;
+        var lng = dist * Math.sin(bearing * Math.PI / 180) / lngConv;
+        return new google.maps.LatLng((point.lat() + lat), (point.lng() + lng))
+    }
+
+
     async function initMap() {
         // Request needed libraries.
-        const { Map } = await google.maps.importLibrary("maps");
+        const {Map} = await google.maps.importLibrary("maps");
 
         // Basic options for a simple Google Map
         const mapOptions = {
                 // How zoomed in you want the map to start at (always required)
                 zoom: mapZoom,
                 // The latitude and longitude to center the map (always required)
-                center: {lat:mapCenter[0], lng:mapCenter[1]}, // Houston
+                center: {lat: mapCenter[0], lng: mapCenter[1]}, // Houston
                 // How you would like to style the map.
                 // This is where you would paste any style found on Snazzy Maps.
                 styles: styleDict,
@@ -100,12 +232,28 @@
         // Create the Google Map using our element and options defined above
         const map = new Map(mapElement, mapOptions);
 
+        // Draw hexagon grid
+        // 6 miles in meters for hex radius
+        const hexRadiusMiles = 6;
+        const hexRadiusMeters = hexRadiusMiles * 1609.34;
+        const center = new google.maps.LatLng(mapCenter[0], mapCenter[1]);
+        FILL_COLOR = "#214D14"
+        BORDER_COLOR = "#000000"
+        drawHexGrid(center, map, 9, FILL_COLOR, BORDER_COLOR, hexRadiusMeters);
+
         // Add markers to the map
         for (const mapMarker of mapMarkers) {
             addMarker(mapMarker, map);
         }
         updateMarkersVisibility(map);
-        map.addListener('zoom_changed', () => {updateMarkersVisibility(map);} );
+        map.addListener('zoom_changed', () => {
+            updateMarkersVisibility(map);
+        });
     }
+
     window.initMap = initMap;
+
+
+
+
 </script>
