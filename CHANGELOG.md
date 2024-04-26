@@ -2,6 +2,13 @@
 
 
 
+## v0.37.0 (2024-03-23)
+
+### Feature
+
+* feat: side quest bloodstained shadows ([`a2ece97`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a2ece97c55bb4d4d11cac11406137bac670b3dc7))
+
+
 ## v0.36.1 (2024-03-04)
 
 ### Fix
