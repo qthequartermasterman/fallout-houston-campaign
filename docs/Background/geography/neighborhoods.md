@@ -1226,27 +1226,36 @@ The field's runways and hangars, while still standing, have deteriorated over th
 become shelter for survivors, scavengers, or even small factions.
 While some of the old military equipment and aircraft may remain in various states of disrepair, they are often
 cannibalized for spare parts or repurposed for makeshift defenses.
-### Faction Interests
 
-Ellington Field has attracted the attention of various factions in the Gulf Coast Wasteland due to its strategic
-location, historical significance, and potential resources.
-The Lone Star Republic may have established a presence at Ellington Field, using it as a staging area for military
-operations or as a key location for safeguarding their territory.
-The Spaceport Survivors might be interested in Ellington Field as a possible site for aerospace-related research or as a
-location where they store or repair spacecraft components.
-Other smaller factions or groups may have taken up residence in the field, using it as a base of operations, a trading
-post, or a refuge from the dangers of the wasteland.
-Gameplay Opportunities:
 
-Ellington Field can serve as a pivotal location in the game's narrative, offering quests, challenges, or storylines tied
-to the factions and resources present in the area.
-The player may encounter diverse characters, from veteran pilots to engineers attempting to restore a semblance of
-functionality to the field's facilities.
-Exploring the field could yield valuable salvage, technology, or historical artifacts that shed light on the pre-war
-world and contribute to the player's survival.
-Ellington Field, once a hub of aerospace and military activity, now stands as a symbol of both the world's past
-achievements and its post-apocalyptic challenges. Its location and history make it a captivating setting for
-exploration, interaction with factions, and storytelling within the game.
+### Ghoul Farm
+
+In the years leading up to the Great War, Ellington Field, located in Houston, Texas, served as a vital joint military airbase, housing various units from the Army, Air Force, and even civilian contractors. Among the personnel stationed there were a group of soldiers and support staff, including Corporal Riley Mitchell, Private Carmen Rodriguez, Specialist Jackson "Jack" Harper, Private First Class Emily "Skye" Thompson, and Sergeant Marcus "Quill" Williams.
+
+When the bombs fell, chaos erupted, and the once bustling military base became a scene of devastation. The radiation unleashed by the nuclear blasts had a profound and unexpected effect on the surviving personnel stationed at Ellington Field. Instead of perishing in the initial blasts, they were transformed into ghouls—immortal beings with rotting flesh, sustained by radiation but cursed with eternal life.
+
+For the first few decades after the Great War, the ghoul survivors of Ellington Field struggled to come to terms with their new existence. They witnessed the world they once knew crumble into ruin, overrun by mutated creatures, and plagued by the harsh realities of post-apocalyptic life. Despite their shared bond as ghouls, they found it challenging to integrate into the new world, often facing discrimination and hostility from humans and other wasteland denizens.
+
+Seeking a semblance of normalcy and purpose in their eternal existence, the group banded together and decided to make use of the land they once called home. Over the course of two hundred years, they gradually transformed a portion of Ellington Field into a feral ghoul farm—a macabre endeavor born out of necessity and survival instincts.
+
+Utilizing their military training and collective skills, they established a system for capturing and corralling feral ghouls that roamed the surrounding wasteland. Through trial and error, they learned to domesticate and manage these creatures, turning them into a renewable resource for sustenance and protection. The feral ghoul farm provided them with a means of survival in the harsh post-apocalyptic world, supplying them with food, labor, and even a form of defense against would-be attackers.
+
+Despite their isolation and the grotesque nature of their occupation, the ghoul survivors of Ellington Field remained fiercely loyal to one another. They found solace and camaraderie in their shared struggles and victories, forging bonds that transcended their decaying flesh and immortal souls. As the centuries passed, they became known as the "Ghoulish Guardians of Ellington," a testament to their resilience and adaptability in the face of unimaginable adversity.
+
+Today, the feral ghoul farm at Ellington Field stands as a grim reminder of the world that was lost and the sacrifices made by those who survived. Though they may be shunned by society and haunted by their past, the Ghoulish Guardians continue to persevere, determined to carve out a place for themselves in the unforgiving wasteland they now call home.
+
+### Characters
+
+- Corporal Riley Mitchell:
+  - A former flight mechanic turned ghoul, Riley Mitchell possesses a keen mind for machinery and a knack for keeping things running smoothly. Despite the decay of his flesh, he remains as sharp-witted and resourceful as ever, using his technical expertise to maintain the feral ghoul farm and keep his fellow survivors safe.
+- Private Carmen Rodriguez:
+  - Once a military police officer tasked with maintaining order and security, Carmen Rodriguez now channels her combat skills and sense of justice into protecting her ghoul comrades. Her unwavering loyalty and determination make her a formidable ally and a force to be reckoned with in the wasteland.
+- Specialist Jackson "Jack" Harper:
+  - As a former communications specialist, Jack Harper's knowledge of technology and knack for deciphering codes make him an invaluable asset to the group. Despite the decay of his body, his mind remains sharp, and he uses his skills to maintain communication with the outside world and gather valuable intelligence.
+- Private First Class Emily "Skye" Thompson:
+  - Skye Thompson, once an aerial reconnaissance scout, now navigates the wasteland with the same precision and determination she displayed in the skies. Her keen observation skills and marksmanship make her an expert hunter and scout, essential for securing resources and defending the feral ghoul farm from threats.
+- Sergeant Marcus "Quill" Williams:
+  - Marcus Williams, the former supply quartermaster, brings order and efficiency to the group, managing resources and overseeing the day-to-day operations of the feral ghoul farm. His strategic thinking and negotiation skills ensure the survival of the group in the harsh post-apocalyptic wasteland.
 
 ## Houston International Airport (IAH)
 
