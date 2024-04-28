@@ -90,6 +90,12 @@
 ### Captain Ironsides - The Ruthless Raider:
 - Background: Ironsides led a notorious raider gang in the post-apocalyptic wasteland, known for his brutality and cunning tactics. His notoriety attracted the attention of Captain Redhawk, who saw potential in Ironsides' combat prowess. Through a series of events, Ironsides joined forces with the Galveston Pirates, bringing his raider gang under the faction's banner.
 - Party Representation: Represents the raider gangs and those who thrive on chaos.
+### Captain "Blackbeard" O'Malley:
+- Background: A former raider captain known for his ruthless tactics and fearsome reputation, Blackbeard O'Malley commands one of the most feared pirate crews within the Galveston Pirates. His crew, the Black Sails, is known for their brutal raids and merciless approach to their enemies.
+- Role: Leads the Black Sails crew, specializing in naval combat and raiding operations. 
+### Captain Isabella Maraña
+- Background: A former smuggler and pirate captain, Isabella Maraña commands a crew of skilled navigators and smugglers within the Galveston Pirates. Her expertise in navigating the treacherous waters of the Gulf and evading Lone Star Republic patrols makes her a valuable asset to the faction.
+- Role: Leads the Maraña crew, specializing in smuggling operations and covert missions.
 ### Lieutenant Elena "Whisper" Cortez - Intelligence Specialist:
 - Background: A former intelligence operative before the Great War, Whisper's survival instincts and skills made her invaluable to Captain Redhawk. Fluent in both English and Spanish, she serves as a liaison between the native Houstonians and the Cartel members within the Galveston Pirates. Her ability to gather and analyze information contributes significantly to the faction's success.
 - Role: Handles intelligence gathering, diplomatic relations, and ensures effective communication among the diverse factions within the Galveston Pirates.
@@ -102,6 +108,7 @@
 ### First Mate Raul "Stormblade" Rodriguez - Combat Leader:
 - Background: Raul, once a member of a raider gang, rose through the ranks due to his combat prowess and leadership skills. Recognizing the potential for a more organized and powerful force, he aligned himself with Captain Ironsides and the Galveston Pirates.
 - Role: Leads the faction's ground operations, overseeing raids and providing strategic guidance during conflicts.
+
 
 ## Character Blocks and Stats
 
