@@ -2,6 +2,35 @@
 
 
 
+## v0.39.0 (2024-04-29)
+
+### Feature
+
+* feat: main story graph/flowchart ([`a55857d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/a55857dc9ffb876f5c89922f2e905f49ff444acf))
+
+* feat: flesh out Galveston ([`e04501d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/e04501d2db2d377646d501a99f99fa43c95c6fa4))
+
+### Fix
+
+* fix: improve story outline flowchart ([`1bc3d52`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/1bc3d526a944fb08e5c9be70a606a04d317c5db1))
+
+* fix: :bug: fix issue where mermaid symbols are not parsed properly because of the plugin hooks ([`0be5ff7`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/0be5ff721c296891d5578ef4065bdba574d7c8eb))
+
+* fix: add side quest to names ([`d25e443`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/d25e443d3983450f4409bce5819a618834fbe1b7))
+
+* fix: add title and descriptions for additional locations ([`914e4c6`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/914e4c69cda33fb6776536f707f34ecb7efcb81d))
+
+* fix: update pirate descriptions ([`ccf8167`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/ccf8167e12dfc7fa70ca2e93fb508e28ba5f287d))
+
+* fix: update ellington field ([`6bfa542`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/6bfa54204ff2094d605ce9d0d7820474e6d6d775))
+
+* fix: add kennedy space center and costa concordia to map ([`900515d`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/900515d57ab9c10823a6f5df8c244373050ce096))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`7d24fd5`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/7d24fd5d6afb7552073b428e3671794af34de896))
+
+
 ## v0.38.0 (2024-04-26)
 
 ### Feature
