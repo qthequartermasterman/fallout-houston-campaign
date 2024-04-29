@@ -20,14 +20,13 @@
       significant advantage in the wasteland. This could include sabotaging the launch or capturing the spaceport for
       themselves.
     - Although they are perfectly fine with the destruction of the spaceport, they would prefer to capture it for
-      themselves. This would give them a significant advantage over the Lone Star Republic and the Spaceport Survivors.
-      They would be able to use the spaceport to launch their own rockets, giving them the ability to exert control and
-      intimidation over the wasteland and expand their influence. Additionally, they could use the spaceport's resources
-      to improve their technology and weaponry, making them a formidable force in the region.
+      themselves. This would give them a significant advantage over the Lone Star Republic and the Spaceport Survivors, 
+      especially after they hear about the [Ballistic Orbital Missile Base](./enclave.md#ballistic-orbital-missile-base-001).
 - **Government**:
   The Galveston Pirates is a loose confederation of pirate crews, each led by a captain. There are efforts to better
   unify the pirates under a single banner, but these efforts find opposition.
 
+  - Pirate King: The Pirate Code establishes that the pirates, during emergency, can be governed by a singular Pirate King. This position is currently vacant (and has always been, except during a brief period during the [Lone Star Republic-Cartel War (2255-2260)](./lonestarrepublic.md#the-lone-star-republic-cartel-war-2255-2260). The Pirate King is expected to be a unifying figure, capable of leading the pirates in times of crisis. The position remains vacant, because it requires a majority vote of the Council of Captains, and except during the aforementioned period, no captain has ever voted for someone other than himself.
   - High Leadership: The Galveston Pirates are governed by a Council of Captains, each leading crews with similar interests.
     - Captain Redhawk - The Naval Strategist:
         - Background: Redhawk was a skilled naval tactician before the Great War. Exposure to radiation during the nuclear fallout transformed him into a ghoul, granting him an extended lifespan. Witnessing the chaos, he gathered remnants of the naval forces, leveraging his strategic prowess to form the Galveston Pirates.

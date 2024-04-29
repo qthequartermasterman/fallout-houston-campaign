@@ -809,28 +809,47 @@ _Quest Trigger: Players receive a cryptic message or invitation from an unknown 
 The players find or receive a mysterious invitation, beckoning them to visit Solaris Sanctuary for a purpose unknown. The message hints at unique opportunities, rewards, or challenges awaiting those who choose to accept. Intrigued by the enigmatic nature of the invitation, the players decide to follow the clues and uncover the secrets of Solaris Sanctuary.
 
 
-## Galveston Docks (formerly Galveston)
+## Galveston 
 
-![Galveston Docks](../../Assets/concept-art/moody-gardens-ruins.jpeg)
+![Galveston](../../Assets/concept-art/moody-gardens-ruins.jpeg)
 
 <geotag 
   latitude=29.271817270864048
   longitude=-94.85169693780138
-  icon="SHIP"
-  name="Galveston Docks"
+  icon=PIRATE
+  name="Galveston"
 />
 
-- The Galveston Docks is a major settlement on Galveston Island, known for its bustling maritime activity and the
+- Galveston is a major settlement on Galveston Island, known for its bustling maritime activity and the
   stronghold of the Galveston Pirates. The docks serve as the pirates' primary base of operations, from where they
   control access to the Port of Houston.
-- Some parts of the Galveston Docks have been transformed into ramshackle communities where indentured servants and
+- Some parts of Galveston have been transformed into ramshackle communities where indentured servants and
   those forced into the pirates' service live in squalor, constantly seeking opportunities for escape.
 - Despite the dangers posed by the pirates, some independent traders and factions maintain a presence in the area, drawn
   by the potential for lucrative maritime trade and access to the Gulf of Mexico.
 
+### Landmarks
+
+- <geotag latitude=29.30406673538081 longitude=-94.79083962164606 icon=CHURCH name="St. Mary's Cathedral Basilica" zoom=TOWN /> is a Pre-war catholic church that repurposed as a place for worship by many of the settlers in Galveston. The church is known for its beautiful stained glass windows and its bell tower, which still rings every Sunday.
+- <geotag latitude=29.303592296370436 longitude=-94.79556064626323 icon=HAUNTED_HOUSE name="The Haunted Hotel" zoom=TOWN /> is a pre-war hotel that has been abandoned since the Great War. The hotel is rumored to be haunted by the spirits of those who died during the war, and many settlers avoid the building at all costs. Despite the spooky sightings, many scavengers still venture into the hotel in search of pre-war artifacts.
+- <geotag latitude=29.308933433767418 longitude=-94.79426192576881 icon=MARINA name="Galveston Docks" zoom=TOWN /> serves as the primary settlement on Galveston Island and is the stronghold of the Galveston Pirates. The docks bustle with maritime activity, with various ships coming and going under the control of the pirates. The docks themselves are fortified, with makeshift barriers and watchtowers manned by pirate guards. Within the docks, there are ramshackle communities where indentured servants and captured settlers live in poor conditions, forced to serve the pirates under threat of violence. The docks are also home to black market traders who operate discreetly under the pirates' watchful eye.
+- <geotag latitude=29.28769522061656 longitude=-94.79049190118054 icon=AMUSEMENT_PARK name="Pleasure Pier" zoom=TOWN /> is a pre-war amusement park that has been converted into a center of trade and commerce. Many vend and peddle their wares along the boardwalk. Many other events and activities also occur here:
+  - **Trade and Commerce**: The Pleasure Pier would still be a focal point for trade and commerce, with settlers and independent traders setting up makeshift stalls and marketplaces to sell goods and services. These traders would offer a variety of items, ranging from scavenged supplies and weapons to homemade crafts and foodstuffs.
+  - **Black Market: Beneath** the surface of legitimate trade, the Pleasure Pier would also be a hotspot for illicit dealings and black market transactions. Pirates and smugglers would frequent the pier to fence stolen goods, acquire contraband items, and engage in underground trade with settlers and traders willing to turn a blind eye to the pirates' activities.
+  - **Information Exchange**: The Pleasure Pier would serve as a gathering place for rumors, gossip, and intelligence gathering. Settlers, traders, and pirates alike would congregate at the pier to exchange information, share news about recent pirate raids or Lone Star Republic movements, and form alliances or rivalries based on mutual interests or conflicts.
+  - **Recruitment Center**: The pirates would use the Pleasure Pier as a recruitment center, seeking to bolster their ranks with willing volunteers or captured prisoners forced into servitude. Pirate recruiters would roam the pier, offering promises of wealth, adventure, and protection to those willing to join their crew, while simultaneously intimidating or coercing reluctant recruits into compliance.
+  - **Entertainment and Distraction**: Despite the harsh realities of the post-apocalyptic wasteland, the Pleasure Pier would still offer a semblance of entertainment and distraction for the inhabitants of Galveston Island. Performers, musicians, and entertainers would ply their trade along the pier, providing moments of respite and escapism amidst the chaos and uncertainty of daily life.
+- <geotag latitude=29.266046640682312 longitude=-94.8285072739211 icon=DEFENSE name="Seawall Stronghold" zoom=TOWN /> is a fortified defensive position along the coast of Galveston Island, built to protect the settlement from external threats. The Seawall Stronghold is manned by the Galveston Pirates' elite guards and serves as a last line of defense against hostile forces attempting to breach the island's defenses. The stronghold features watchtowers, barricades, and artillery emplacements, providing a strategic advantage in repelling attacks from land or sea. The Seawall Stronghold also houses the pirates' armory, where weapons, ammunition, and supplies are stockpiled to ensure the settlement's security.
+- <geotag latitude=29.274104955672872 longitude=-94.8513744838117 icon=FARM name="Garden Pyramid" zoom=TOWN /> is a pre-war botanical garden that has been repurposed into farmland feeding the settlement.
+- <geotag latitude=29.285244477697365 longitude=-94.80729874919265 icon=LIGHT name="Abandoned Lighthouse" zoom=TOWN /> has been abandoned since the Great War. The lighthouse is rumored to be haunted by the ghosts of its former keepers and is avoided by superstitious locals. However, brave adventurers may find valuable treasures hidden within its decaying walls.
+- <geotag latitude=29.31275678680049 longitude=-94.77584211277309 icon=HOSPITAL name="Hospital" zoom=TOWN />
+- <geotag latitude=29.335404488063293 longitude=-94.75324347675392 icon=DEFENSE name="Lone Star Ferry Checkpoint" /> is a fortified checkpoint recently established by the Lone Star Republic and managed by the Texas Ranger Coast Guard. The checkpoint serves as a strategic location for monitoring maritime traffic, inspecting vessels for contraband, and enforcing the Republic's laws along the coast. The Texas Rangers stationed at the checkpoint are responsible for maintaining order, preventing piracy, and safeguarding the waters surrounding Galveston Island. The checkpoint also acts as a diplomatic outpost, facilitating communication between the Lone Star Republic and independent settlements in the region. Although the Rangers have not managed to expand their influence further onto the island, this checkpoint and [Fort Travis](#bolivar-settlement-bolivar-peninsula) allow the Lone Star Republic to protect many of its interests along the coast.
+- <geotag latitude=29.302934537457975 longitude=-94.78229830867977 icon=SETTLEMENT name="Bishop's Bastion" /> is a fortified mansion atop a hill overlooking the Galveston, inspired by the pre-war Bishop's Palace. The mansion currently serves as the residence of Captain Redhawk, one of the leaders of the Galveston Pirates. It is heavily guarded and contains a treasure trove of stolen riches and valuable artifacts looted from raided settlements.
+- <geotag latitude=29.292917090362376 longitude=-94.78604407408724 icon=DICE name="Lone Star Casino" /> is a pre-war resort converted into a casino frequented by pirates. The casino serves as a hub for gambling, entertainment, and illicit dealings, attracting settlers, traders, and pirates looking to test their luck or engage in high-stakes games of chance. The Lone Star Casino is known for its opulent decor, extravagant shows, and underground gambling dens where fortunes can be won or lost in an instant.
+
 ### Battleship Texas
 
-The <geotag latitude=29.27994354782519 longitude=-94.87713915249228 icon=MARINA name="Battleship Texas" /> is a formerly decommissioned Battleship used by the United States Navy during World Wars I and II. It was decommissioned and converted into a Museum Ship after WWII, floating in the Houston Ship Channel just outside the Buffalo Bayou (near the San Jacinto Monument). In 2280, with the assistance of the Cartels, the Galveston Pirates managed to get the ship operational again, and sailed it to its current location in the Galveston Docks. The ship was then renovated and is now the Galveston Pirates' primary (yet mobile) base of operations, and is used to launch raids on the Port of Houston and other settlements along the coast.
+The <geotag latitude=29.282711453852222 longitude=-94.839582835665 icon=BOAT name="Battleship Texas" /> is a formerly decommissioned Battleship used by the United States Navy during World Wars I and II. It was decommissioned and converted into a Museum Ship after WWII, floating in the Houston Ship Channel just outside the Buffalo Bayou (near the San Jacinto Monument). In 2280, with the assistance of the Cartels, the Galveston Pirates managed to get the ship operational again, and sailed it to its current location in the Galveston Docks. The ship was then renovated and is now the Galveston Pirates' primary (yet mobile) base of operations, and is used to launch raids on the Port of Houston and other settlements along the coast.
 
   - Ship Retrofitting:
     
@@ -882,6 +901,97 @@ The <geotag latitude=29.27994354782519 longitude=-94.87713915249228 icon=MARINA 
     
     - Resource Gathering: Specialized equipment for gathering resources while at sea, such as water purification systems and improvised farming setups.
     - Sustainable Practices: Efforts to maintain the ship's functionality with limited resources, recycling and repurposing materials whenever possible.
+
+### Notable NPCs
+- **Marisol "Marauder" Cortez**: A fierce and cunning pirate captain known for her ruthless tactics and daring raids. Marauder commands her own crew of cutthroats and is feared by both settlers and rival pirates alike.
+- **Doctor Ezekiel "Doc" Blackwood**: The resident medic of Galveston, Doc Blackwood operates a makeshift clinic in the settlement, providing medical care to pirates and settlers alike. Despite his gruff exterior, he genuinely cares for the well-being of those in need.
+- **"Lucky" Louie Malone**: A charming and charismatic gambler who runs the Lone Star Casino. Louie is always looking for new patrons to fleece and is willing to offer information or assistance to those who catch his eye.
+- **Samantha "Siren" O'Malley**: A talented musician and entertainer who performs at the Pleasure Pier. Siren's captivating voice and mesmerizing performances draw crowds from far and wide, making her a popular figure among the residents of Galveston.
+- **Elijah "Scrapheap" Ramirez**: The chief engineer of the Battleship Texas, Scrapheap is a brilliant inventor and tinkerer who keeps the ship's systems running smoothly. He is always on the lookout for salvageable technology and is willing to trade or sell his inventions to those with the caps to pay.
+- **Carter "Ratcatcher" Thompson**: A skilled tracker and scout who prowls the outskirts of Galveston, hunting down threats to the settlement. Ratcatcher is a loner by nature but is always willing to lend a hand to those in need, especially if it means eliminating a common enemy. He laments the fact that his home has been taken over by pirates and is always looking for a way to take it back.
+- **Isabella "Buccaneer" Vasquez**: A former member of the Mexican Cartels who defected to the Galveston Pirates, Buccaneer now serves as Captain Mariposa's second-in-command. She is fiercely loyal to her captain and will stop at nothing to ensure the Cartel's interests are protected.
+- **Reverend Jeremiah "Preacher" Monroe**: The spiritual leader of the settlers in Galveston, Preacher Monroe offers guidance and comfort to those who seek solace in the wasteland. He preaches a message of hope and redemption, urging his followers to resist the temptations of the pirates and find strength in their faith.
+- **Madame Delphine LeBeau**: The enigmatic proprietor of the Haunted Hotel, Madame LeBeau is rumored to possess mystical powers and a connection to the supernatural. She welcomes guests to her establishment with a knowing smile and offers them a chance to confront their deepest fears.
+- **Gideon "Grim" Blackwood**: Doc Blackwood's estranged brother and a notorious raider who leads a gang of cutthroats known as the Blackwood Marauders. Grim is a merciless killer who delights in causing chaos and mayhem wherever he goes.
+- **Captain Evelyn "Tempest" Shaw**: A former member of the Lone Star Republic who defected to the Galveston Pirates, Tempest now commands her own crew of skilled sailors. She is known for her tactical prowess and fierce loyalty to Captain Redhawk.
+- **Milo "Mute" Rodriguez**: A mute scavenger who roams the ruins of Galveston in search of valuable salvage. Despite his inability to speak, Mute communicates through gestures and expressions, and his keen eye for treasure makes him a valuable ally to those who earn his trust. He was captured by the pirates and forced to work for them, but he secretly longs for freedom.
+- **Lucinda "Lucky Lou" Sanchez**: The savvy operator of a smuggling operation based out of Galveston. Lucky Lou specializes in trafficking chems and contraband across the Gulf of Mexico, using her wits and charm to evade the authorities and turn a tidy profit.
+- **Captain Hector "Harpoon" Vega**: The grizzled captain of the Lone Star Republic Coast Guard patrol boat stationed at the Lone Star Ferry Checkpoint. Harpoon takes his duty seriously and is determined to keep the waters around Galveston safe from pirates and other threats.
+
+### Side Quests
+
+#### Side Quest: Pirate's Trial
+*Quest Giver: A member of the Pirate Council*
+A member of the Galveston Pirates has been accused of betraying the Pirate's Code and faces execution. The player characters must gather evidence, interrogate witnesses, and decide the accused pirate's fate in a trial by combat or diplomacy.
+#### Side Quest: Pirate's Code
+*Quest Giver: Carter "Ratcatcher" Thompson*
+A group of settlers living under pirate rule seeks to overthrow their oppressors but lacks the strength to do so alone. The player characters must help them rally support, train fighters, and launch a rebellion against the Galveston Pirates.
+#### Side Quest: "Raiders on the Run"
+*Quest Giver: Carter "Ratcatcher" Thompson*
+Description: Ratcatcher asks the player to track down a group of raiders who have been ambushing travelers along the road to Galveston. The player must investigate possible hideouts, gather information, and confront the raiders to put an end to their reign of terror.
+#### Side Quest: "Medicine Run"
+*Quest Giver: Doctor Ezekiel "Doc" Blackwood*
+Description: Doc Blackwood needs the player to retrieve a shipment of medical supplies from a nearby abandoned hospital. The hospital is infested with mutants and scavengers, making the task dangerous but essential for the survival of the settlement.
+#### Side Quest: "The Ghost Ship"
+*Quest Giver: Madame Delphine LeBeau*
+Description: Madame LeBeau tells the player about rumors of a ghost ship that has been spotted off the coast of Galveston. She asks the player to investigate the ship and uncover the truth behind its spectral appearances.
+#### Side Quest: "Pirate's Gambit"
+*Quest Giver: "Lucky" Louie Malone*
+Description: Lucky Louie challenges the player to a high-stakes game of cards at the Lone Star Casino. The player must use their wits and luck to outplay Louie and win a valuable prize.
+#### Side Quest: "The Lost Treasure of Buccaneer Bay"
+*Quest Giver: Isabella "Buccaneer" Vasquez*
+Description: Buccaneer Vasquez tasks the player with finding a legendary treasure hidden somewhere on Galveston Island. The player must decipher clues, navigate treacherous terrain, and overcome obstacles to claim the pirate's fortune.
+#### Side Quest: "Botanical Troubles"
+*Quest Giver: Milo "Mute" Rodriguez*
+Description: Mute Rodriguez tells the player about a mutant infestation at the Garden Pyramid, threatening the settlement's food supply. The player must exterminate the mutants and ensure the safety of the farmers.
+#### Side Quest: "The Lone Star Saboteur"
+*Quest Giver: Captain Redhawk*
+Description: Captain Redhawk suspects that there is a saboteur within the ranks of the Galveston Pirates, compromising their operations. The player must uncover the traitor's identity and put an end to their treachery before it's too late.
+#### Side Quest: "Family Feud"
+*Quest Giver: Gideon "Grim" Blackwood*
+Description: Grim Blackwood asks the player to settle a long-standing feud between two rival families in Galveston. The player must mediate between the feuding parties and find a peaceful resolution to their conflict.
+#### Side Quest: "Siren's Song"
+*Quest Giver:Samantha "Siren" O'Malley*
+Description: Siren O'Malley requests the player's help in retrieving her stolen musical instruments, which were taken by a group of raiders. The player must track down the raiders and recover the stolen instruments to restore Siren's livelihood.
+#### Side Quest: "A Pirate's Past"
+*Quest Giver: Lucinda "Lucky Lou" Sanchez*
+Description: Lucky Lou Sanchez shares her troubled past as a former member of the Galveston Pirates and asks the player to help her make amends for her past crimes. The player must assist Lou in righting her wrongs and finding redemption.
+#### Side Quest: "The Pirate Couriers"
+*Quest Giver: A member of the Pirate Council or another pirate leader*
+Description: Pirate leaders entrust the players with delivering a crucial message to a distant outpost. The player must brave the dangers of the wasteland to ensure the safe delivery of the message and the success of the Pirate's mission.
+#### Side Quest: "Rescue Mission"
+*Quest Giver: A pirate captain or another settler*
+A group of settlers acting as indentured servants to a crew of pirates have been captured by a competing crew and are being held prisoner. The player characters must infiltrate the competing crew's ship, rescue the captives, and escort them safely back to Galveston.
+#### Artifact Retrieval
+Rumors abound of a valuable pre-war artifact hidden within the Haunted Hotel. The player characters must brave the haunted halls, confront supernatural threats, and retrieve the artifact for a wealthy collector in Galveston.
+#### Side Quest: "Smuggler's Run"
+*Quest Giver: A pirate captain*
+A smuggler's cache of contraband goods has been confiscated by the Lone Star Republic and stored in their checkpoint. The player characters must infiltrate the checkpoint, retrieve the smuggled goods, and deliver them to their rightful owners in Galveston.
+#### Side Quest: "The Lone Star Checkpoint"
+*Quest Giver: Captain Hector "Harpoon" Vega*
+Description: Harpoon Vega needs the player to assist with patrolling the waters around Galveston Island. The player must confront pirates, smugglers, and other threats to the Lone Star Republic's security.
+
+
+## Bolivar Settlement (Bolivar Peninsula)
+
+<geotag 
+  latitude=29.455829628874557
+  longitude=-94.64104080246054
+  icon=""
+  name="Bolivar Settlement"
+/>
+
+- The Bolivar Settlement is a coastal community of survivors who found refuge on the Bolivar Peninsula, a challenging
+  environment marked by constant threats from both the sea and the mainland.
+- Originally fishermen and vacationers, the settlers banded together to protect their way of life. They've become
+  skilled at coastal survival, using fishing and scavenging from shipwrecks to sustain themselves.
+- Despite the ongoing pirate raids from nearby Galveston, the residents of Bolivar Settlement are a tight-knit group,
+  determined to defend their home and preserve the coastal heritage of the region.
+### Fort Travis
+
+<geotag latitude=29.36479325762109 longitude=-94.75879207907833 icon=DEFENSE name="Fort Travis" /> is a fortified military installation located on the Bolivar Peninsula, overlooking the entrance to Galveston Bay. Originally constructed as a coastal defense fort during the 19th century, Fort Travis has been repurposed as a strategic outpost for the Lone Star Republic. The fort serves as a vital defensive position, protecting the region from external threats and monitoring maritime traffic along the Gulf Coast. The Texas Rangers stationed at Fort Travis are responsible for maintaining order, enforcing the Republic's laws, and safeguarding the waters surrounding Galveston Island. The fort's strategic location allows the Rangers to respond quickly to threats, coordinate with nearby settlements, and project the Republic's influence across the region.
+
+Fort Travis formed the launching point of the spearhead operation that established the Lone Star Ferry Checkpoint, and the Texas Rangers stationed there are responsible for maintaining the checkpoint's security and operations. The fort's garrison is well-equipped and well-trained, with a mix of military veterans, law enforcement officers, and skilled marksmen among its ranks. The Rangers at Fort Travis are known for their discipline, professionalism, and dedication to upholding the Lone Star Republic's values of justice, freedom, and unity.
 
 ## Brazos Haven (formerly Lake Jackson)
 

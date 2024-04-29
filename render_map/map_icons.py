@@ -13,6 +13,7 @@ class MapIcon(enum.Enum):
     BEAVER = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/beaver.png"
     SATELLITE = "https://static.wikia.nocookie.net/fallout_gamepedia/images/e/ea/47.svg"
 
+    PIRATE = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/pirate-flag.png"
     BOAT = "https://static.wikia.nocookie.net/fallout_gamepedia/images/8/86/11.svg/"
     SHIP = "https://static.wikia.nocookie.net/fallout_gamepedia/images/b/bc/120.svg"
     MARINA = "https://static.wikia.nocookie.net/fallout_gamepedia/images/8/81/96.svg"
@@ -81,3 +82,6 @@ class MapIcon(enum.Enum):
 
     BEACH = "https://static.wikia.nocookie.net/fallout_gamepedia/images/f/fa/123.svg"
     PLANETARIUM = "https://static.wikia.nocookie.net/fallout_gamepedia/images/1/14/102.svg"
+
+    HAUNTED_HOUSE = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/spooky-house.png"
+    DICE = "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/rolling-dices.png"
