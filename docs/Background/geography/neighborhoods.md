@@ -744,31 +744,31 @@ In the irradiated remnants of Houston, where the echoes of a bygone era mix with
 - Matilda Greenleaf: The caretaker of the Garden of Renewal, Matilda Greenleaf has a deep connection with nature and a talent for cultivating pre-war seeds. Her serene demeanor and green thumb make the garden a peaceful retreat for those seeking solace in the midst of chaos.
 
 ### Quests
-#### The Lost Relic of Solaris
+#### Side Quest: The Lost Relic of Solaris
 
 _Quest Giver: Blacksmith Thorne Ironforge_
 
 Solaris Sanctuary's blacksmith, Thorne Ironforge, uncovers an ancient blueprint hinting at the existence of a powerful pre-war weapon known as the "Solaris Blade." The blueprint suggests that the components are scattered throughout the wasteland. The player must embark on a quest to locate these rare materials, facing challenges and uncovering the weapon's history. Once assembled, the Solaris Blade could become a symbol of hope and strength for the settlement.
 
-#### The Phantom Minstrel
+#### Side Quest: The Phantom Minstrel
 
 _Quest Giver: Maestro Lorenzo Bardolino_
 
 Maestro Lorenzo is disturbed by reports of a mysterious phantom minstrel haunting the outskirts of Solaris Sanctuary. The spectral musician's melancholic tunes are said to influence the emotions of those who hear them. The player must track down the phantom, unravel its backstory, and decide whether to help it find peace or confront the potential threat it poses to the settlement's emotional balance.
 
-#### Ephemeral Elixirs
+#### Side Quest: Ephemeral Elixirs
 
 _Quest Giver: Lady Isabella Emberweave_
 
 Lady Isabella discovers an old alchemical recipe for a potion rumored to grant temporary glimpses into the past. In hopes of uncovering lost knowledge or locating valuable resources, she tasks the player with gathering rare ingredients scattered across the wasteland. As the player brews and consumes the elixir, they experience vivid visions that may hold clues to forgotten technologies or hidden dangers.
 
-#### The Great Solar Race
+#### Side Quest: The Great Solar Race
 
 _Quest Giver: Captain Reyna Stormblade_
 
 To boost morale and showcase Solaris Sanctuary's strength, Captain Reyna organizes a grand scavenger hunt and obstacle course known as "The Great Solar Race." The player is invited to participate, competing against other residents and overcoming challenges inspired by the Renaissance fair's activities. Success not only earns recognition but also contributes to the settlement's overall preparedness.
 
-#### The Enigmatic Engineer
+#### Side Quest: The Enigmatic Engineer
 
 _Quest Giver: Lord Cedric Ironheart_
 
@@ -778,31 +778,31 @@ Lord Cedric receives a distress signal from an unknown engineer claiming to poss
 
 As Solaris Sanctuary is on the outskirts of the Gulf Coast Wasteland, most players will not likely encounter it organically. As such, it may be worth considering a quest that will lead players to Solaris Sanctuary. A few ideas for such a quest are:
 
-##### Distress Signal from Solaris
+##### Side Quest: Distress Signal from Solaris
 
 _Quest Trigger: Players intercept a distress signal or find a message mentioning a safe haven with a unique community._
 
 The players come across a distress signal originating from Solaris Sanctuary, indicating that the settlement is facing a threat or crisis. The signal may be picked up from a distant radio frequency, a bulletin board, or a survivor's journal. Intrigued by the call for help, the players decide to investigate and offer assistance, leading them to the distant and unique settlement.
 
-##### Trade Routes and Rumors
+##### Side Quest: Trade Routes and Rumors
 
 _Quest Trigger: Players encounter traders or scavengers mentioning a prosperous settlement with valuable resources._
 
 Traveling merchants or scavengers in the wasteland share rumors about a thriving settlement known as Solaris Sanctuary. They speak of unique goods, skilled artisans, and the potential for valuable trade. Intrigued by the prospect of new opportunities, the players decide to seek out this hidden enclave and explore the potential benefits of establishing trade connections.
 
-##### The Wandering Bard's Tale
+##### Side Quest: The Wandering Bard's Tale
 
 _Quest Trigger: Players encounter a wandering bard or storyteller mentioning a sanctuary with a rich cultural heritage._
 
 A wandering bard crosses paths with the players, sharing tales of a settlement that blends Renaissance charm with survivalist ingenuity. The bard's stories speak of unique traditions, valuable relics, and a community that has managed to thrive against all odds. Intrigued by the tales, the players decide to seek out this intriguing settlement and experience its cultural richness firsthand.
 
-##### Artifacts of the Ancients
+##### Side Quest: Artifacts of the Ancients
 
 _Quest Trigger: Players discover or are informed about the potential existence of valuable pre-war artifacts near Solaris Sanctuary._
 
 The players come across information or rumors about the presence of rare and valuable pre-war artifacts in the vicinity of Solaris Sanctuary. These artifacts could include advanced technology, historical documents, or even relics of cultural significance. Eager to uncover these treasures, the players decide to venture towards the settlement and explore the surrounding areas for these valuable finds.
 
-##### The Mysterious Invitation
+##### Side Quest: The Mysterious Invitation
 
 _Quest Trigger: Players receive a cryptic message or invitation from an unknown source leading them to Solaris Sanctuary._
 
