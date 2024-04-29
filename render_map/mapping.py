@@ -121,7 +121,7 @@ def find_geo_links(markdown: str) -> tuple[list[GeoLink], str]:
         new_tag.string = geo_link.name
         new_tag["id"] = geo_link.uuid
         geo_tag.replace_with(new_tag)
-    return geo_links, str(soup)
+    return geo_links, str(soup).replace("--&gt;", "-->")
 
 
 def create_map_template(config: mkdocs.plugins.MkDocsConfig) -> str:
