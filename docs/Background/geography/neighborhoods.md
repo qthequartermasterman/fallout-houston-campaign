@@ -1577,6 +1577,6 @@ Remains of an airport, used by the Lone Star Republic as a base of operations fo
 />: A minor settlement located in the ruins of a pre-war suburban community. The residents have repurposed the
   neighborhood's houses into shelters and trading posts. Spring is known for its scavenging operations.
 
-
-<geotag latitude=28.518411059657137 longitude=-80.67816409203829 icon="ROCKET" name="Kennedy Space Center"/>
-<geotag latitude=29.086461187947474 longitude=-94.06750414525914 icon="BOAT" name="Wreckage of the Costa Concordia"/>
+## Additional Locations
+- <geotag latitude=28.518411059657137 longitude=-80.67816409203829 icon="ROCKET" name="Kennedy Space Center"/>, in Florida, had significant pre-war importance as a hub for space exploration and research. The remnants of the space center hold valuable technology and resources, attracting scavengers and factions seeking to unlock its secrets. The [Costa Concordia](../background.md#sinking-of-the-costa-concordia) was en route from the Kennedy Space Center to the Gulf Coast Wasteland, carrying cargo (including rockets and artifacts) salvaged from the space center.
+- <geotag latitude=29.086461187947474 longitude=-94.06750414525914 icon="BOAT" name="Wreckage of the Costa Concordia"/> is the site where the [Costa Concordia](../background.md#sinking-of-the-costa-concordia) sank.
