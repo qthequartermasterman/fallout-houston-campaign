@@ -1,5 +1,33 @@
 # Fallout: Houston Outline
 
+## Quest Diagram
+    
+``` mermaid
+flowchart LR
+    subgraph prologue["Prologue: Dawn of Tranquility"]
+        P1[Main Quest: Lunar Conspiracy Unveiled]
+    end
+    subgraph act1["Act 1: Rising Tensions"]
+        A1[Main Quest: Lost in the Bayou];
+        A2[Main Quest: Diplomatic Relations];
+        A3[Main Quest: Pirate's Plunder];
+        A4[Main Quest: Lone Star Ambitions];
+        A5[Main Quest: Visions of Betrayal];
+        A6[Main Quest: Unveiling the Conspiracy];
+        A1 --> A2;
+        A2 --> A3;
+        A2 --> A4;
+        A3 --> A5;
+        A4 --> A5;
+        A5 --> A6;
+    end
+    subgraph act2["Act 2: The Faction Game"]
+    end
+    subgraph act3["Act 3: The Battle for the Spaceport"]
+    end
+    prologue --> act1 --> act2 --> act3;
+```
+
 ## Prologue: Dawn of Tranquility
 
 ### Plot Beats:

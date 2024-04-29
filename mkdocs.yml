@@ -102,7 +102,11 @@ markdown_extensions:
       permalink: true
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -121,7 +125,7 @@ plugins:
   - autolinks
 
 hooks:
-  - render_map/auto_populate/auto_populate_hooks.py
+#  - render_map/auto_populate/auto_populate_hooks.py
   - render_map/plugin_hooks.py
 
 extra:
