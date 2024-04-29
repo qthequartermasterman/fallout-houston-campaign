@@ -6,6 +6,7 @@
 flowchart LR
     subgraph prologue["Prologue: Dawn of Tranquility"]
         P1[Main Quest: Lunar Conspiracy Unveiled]
+        P_rest[Other vignettes from _Dawn of Tranquility_ are presented throughout the rest of the campaign as narrative devices.]
     end
     subgraph act1["Act 1: Rising Tensions"]
         A1[Main Quest: Lost in the Bayou];
@@ -21,7 +22,37 @@ flowchart LR
         A4 --> A5;
         A5 --> A6;
     end
-    subgraph act2["Act 2: The Faction Game"]
+    subgraph act2[Act 2: The Faction Game]
+        B1[Main Quest: Summit's Shadow]
+        subgraph pirate["Galveston Pirates"]
+            B2pirate[Main Quest: Sunken Treasure]
+            B3pirate[Main Quest: You and What Army?]
+            B4pirate[Main Quest: Rallying the Reavers]
+            B5pirate[Main Quest: Tides of Conquest]
+            B6pirate[Main Quest: The Pirate King] 
+            
+            B2pirate --> B3pirate --> B5pirate --> B6pirate;
+            B2pirate--> B4pirate --> B5pirate;
+        end
+        subgraph oilbaron["Oil Barons"]
+            B2oilbaron
+        end
+        subgraph lsr["Lone Star Republic"]
+            B2lsr[Main Quest: Ghosts of the Costa Concordia]
+            B3lsr[Main Quest: Black Gold Machinations]
+            B4lsr[Main Quest: Fortifying the Frontier]
+            B5lsr[Main Quest: The Enemy of my Enemy is not my Friend]
+            
+            B2lsr --> B3lsr --> B4lsr --> B5lsr;
+        end
+        subgraph enclave["Enclave"]
+            B2enclave
+        end
+        
+        B1 --> B2pirate;
+        B1 --> B2lsr;
+        B1 --> B2oilbaron;
+        B1 --> B2enclave;
     end
     subgraph act3["Act 3: The Battle for the Spaceport"]
     end
