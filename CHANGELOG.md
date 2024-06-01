@@ -2,6 +2,13 @@
 
 
 
+## v0.40.1 (2024-06-01)
+
+### Fix
+
+* fix: fix typo ([`fa314ad`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/fa314adafcfdf9ac76d7ab46a9d4ba558a58f7a6))
+
+
 ## v0.40.0 (2024-06-01)
 
 ### Documentation
