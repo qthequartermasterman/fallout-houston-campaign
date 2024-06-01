@@ -98,7 +98,7 @@
 
 You are a member of the Texas Ranger Coast Guard, an elite force protecting the waterways and coasts of the wasteland. With a legacy combining the Texas Rangers' law enforcement and the Coast Guard's maritime expertise, you are highly trained in combat, navigation, and survival in aquatic environments.
 
-Your training began in one of the fortified river settlements of the Lone Star Republic, such as [Harbor's Rest](../../../Background/geography/neighborhoods.md#harbors-rest-formerly-baytown), where you learned to navigate treacherous waters, conduct rescue missions, and enforce the law. Alternatively, you might hail from among the [Bayou Brotherhood](../minor/bayoubrotherhood.md, Cajun swamp-dwellers who have deep spiritual ties to the Bayou.
+Your training began in one of the fortified river settlements of the Lone Star Republic, such as [Harbor's Rest](../../../Background/geography/neighborhoods.md#harbors-rest-formerly-baytown), where you learned to navigate treacherous waters, conduct rescue missions, and enforce the law. Alternatively, you might hail from among the [Bayou Brotherhood](../minor/bayoubrotherhood.md), Cajun swamp-dwellers who have deep spiritual ties to the Bayou.
 
 Whether patrolling river routes or defending coastal areas from threats like raiders and mutant sea creatures, your commitment to justice and protection is unwavering. You bring hope and order to the chaotic world, responding wherever your duty calls with the skill and determination of the Texas Ranger Coast Guard.
 
