@@ -3,7 +3,7 @@
 ## Quest Diagram
     
 ``` mermaid
-flowchart LR
+flowchart TB
     subgraph prologue["Prologue: Dawn of Tranquility"]
         P1[Main Quest: Lunar Conspiracy Unveiled]
         P_rest[Other vignettes from _Dawn of Tranquility_ are presented throughout the rest of the campaign as narrative devices.]
@@ -26,7 +26,7 @@ flowchart LR
         B1[Main Quest: Summit's Shadow]
         subgraph pirate["Galveston Pirates"]
             B2pirate[Main Quest: Sunken Treasure]
-            B3pirate[Main Quest: You and What Army?]
+            B3pirate[Main Quest: You and What Army? (Pirates)]
             B4pirate[Main Quest: Rallying the Reavers]
             B5pirate[Main Quest: Tides of Conquest]
             B6pirate[Main Quest: The Pirate King] 
@@ -35,11 +35,12 @@ flowchart LR
             B2pirate--> B4pirate --> B5pirate;
         end
         subgraph oilbaron["Oil Barons"]
-            B2oilbaron
+            B2oilbaron[Main Quest: Dawson's Betrayal]
+            
         end
         subgraph lsr["Lone Star Republic"]
             B2lsr[Main Quest: Ghosts of the Costa Concordia]
-            B3lsr[Main Quest: Black Gold Machinations]
+            B3lsr[Main Quest: You and What Army? (Lone Star Republic)]
             B4lsr[Main Quest: Fortifying the Frontier]
             B5lsr[Main Quest: The Enemy of my Enemy is not my Friend]
             
@@ -53,10 +54,19 @@ flowchart LR
         B1 --> B2lsr;
         B1 --> B2oilbaron;
         B1 --> B2enclave;
+        
+        B2pirate o-.-o b2lsr;
+        B3pirate o-.-o b3lsr;
     end
     subgraph act3["Act 3: The Battle for the Spaceport"]
     end
     prologue --> act1 --> act2 --> act3;
+    
+    subgraph Legend
+        direction LR
+        a[]-- Leads to -->b[]
+        c[] o-. is parallel to (i.e. covers the same/similar events) .-o d[]
+    end
 ```
 
 ## Prologue: Dawn of Tranquility
