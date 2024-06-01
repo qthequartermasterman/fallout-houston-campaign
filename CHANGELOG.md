@@ -2,6 +2,19 @@
 
 
 
+## v0.40.0 (2024-06-01)
+
+### Documentation
+
+* docs: update story outline ([`4c42b20`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/4c42b20816be0d98c1a1f712439a0dc7c1017842))
+
+* docs: fix license ([`50c39ac`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/50c39ac6820e542996848c2b2340762f0f52cbd7))
+
+### Feature
+
+* feat: add coastguard origin ([`59c2ab2`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/59c2ab2341530589a5f05a05c8f04a35a7625737))
+
+
 ## v0.39.0 (2024-04-29)
 
 ### Feature
