@@ -5,10 +5,12 @@
 ``` mermaid
 flowchart TB
     subgraph prologue["Prologue: Dawn of Tranquility"]
+    direction TB
         P1[Main Quest: Lunar Conspiracy Unveiled]
-        P_rest[Other vignettes from _Dawn of Tranquility_ are presented throughout the rest of the campaign as narrative devices.]
+        P_rest["`Other vignettes from _Dawn of Tranquility_ are presented throughout the rest of the campaign as narrative devices.`"]
     end
     subgraph act1["Act 1: Rising Tensions"]
+    direction TB
         A1[Main Quest: Lost in the Bayou];
         A2[Main Quest: Diplomatic Relations];
         A3[Main Quest: Pirate's Plunder];
@@ -23,10 +25,11 @@ flowchart TB
         A5 --> A6;
     end
     subgraph act2[Act 2: The Faction Game]
+    direction TB
         B1[Main Quest: Summit's Shadow]
         subgraph pirate["Galveston Pirates"]
             B2pirate[Main Quest: Sunken Treasure]
-            B3pirate[Main Quest: You and What Army? (Pirates)]
+            B3pirate["Main Quest: You and What Army? (Pirates)"]
             B4pirate[Main Quest: Rallying the Reavers]
             B5pirate[Main Quest: Tides of Conquest]
             B6pirate[Main Quest: The Pirate King] 
@@ -40,7 +43,7 @@ flowchart TB
         end
         subgraph lsr["Lone Star Republic"]
             B2lsr[Main Quest: Ghosts of the Costa Concordia]
-            B3lsr[Main Quest: You and What Army? (Lone Star Republic)]
+            B3lsr["Main Quest: You and What Army? (Lone Star Republic)"]
             B4lsr[Main Quest: Fortifying the Frontier]
             B5lsr[Main Quest: The Enemy of my Enemy is not my Friend]
             
@@ -55,17 +58,18 @@ flowchart TB
         B1 --> B2oilbaron;
         B1 --> B2enclave;
         
-        B2pirate o-.-o b2lsr;
-        B3pirate o-.-o b3lsr;
+        B2pirate o-.-o B2lsr;
+        B3pirate o-.-o B3lsr;
     end
     subgraph act3["Act 3: The Battle for the Spaceport"]
+    direction TB
     end
     prologue --> act1 --> act2 --> act3;
     
     subgraph Legend
         direction LR
-        a[]-- Leads to -->b[]
-        c[] o-. is parallel to (i.e. covers the same/similar events) .-o d[]
+        a[" "] -- "Leads to" --> b[" "]
+        c[" "] o-. "is parallel to (i.e. covers the same/similar events)" .-o d[" "]
     end
 ```
 

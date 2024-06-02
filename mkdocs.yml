@@ -125,7 +125,7 @@ plugins:
   - autolinks
 
 hooks:
-  - render_map/auto_populate/auto_populate_hooks.py
+#  - render_map/auto_populate/auto_populate_hooks.py
   - render_map/plugin_hooks.py
 
 extra:
