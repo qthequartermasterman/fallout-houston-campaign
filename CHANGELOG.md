@@ -2,6 +2,13 @@
 
 
 
+## v0.40.2 (2024-06-03)
+
+### Fix
+
+* fix: story outline flowchart renders in the correct direction ([`5963c5e`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/5963c5e00a5e7e33b8bb7cd4bea92730e6989620))
+
+
 ## v0.40.1 (2024-06-01)
 
 ### Fix
