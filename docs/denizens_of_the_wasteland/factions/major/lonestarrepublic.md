@@ -363,3 +363,30 @@ Jim Wiles is a rugged and imposing figure, standing at 6 feet 2 inches with a st
 
 Warden Jim Wiles is known for his unwavering dedication to justice, discipline, and the safety of the Republic's citizens. He is a no-nonsense leader who values order and security above all else. Jim's commitment to upholding the law and protecting the Republic's interests has earned him the respect and trust of his colleagues and subordinates. He is a firm believer in the principles of duty, honor, and service to the Republic. Although stern, he knows how to deal in levity and humor when the situation calls for it. He is known for his ability to inspire and lead his subordinates, and his dedication to the Lone Star Republic is unwavering. Beloved by the Rangers and staff of the Scholar's Summit Prison, he is even respected by many of the prisoners.
 
+### General Thomas "Tom" McCallister
+
+- Name: General Thomas "Tom" McCallister
+- Title: General of the Texas Rangers Air Division
+
+#### Background
+General Thomas "Tom" McCallister is one of the most seasoned and strategic military minds within the Lone Star Republic. A veteran of the Lone Star Republic-Cartel War, he made a name for himself through his cunning tactics and calculated risk-taking in aerial operations. A native Texan, McCallister grew up in the outskirts of Houston, where his family was known for their patriotism and dedication to the old Texas ways. His early life exposed him to stories of bravery and heroism, which fueled his own ambitions to lead and serve the Republic.
+
+#### Appearance
+Standing tall at 6 feet 3 inches, General McCallister cuts an impressive figure. His signature look includes aviator sunglasses and a neatly pressed Texas Rangers uniform adorned with his medals and badges, symbolizing his hard-earned accomplishments. He carries himself with a confident, sometimes brash demeanor, which both his troops and his peers have come to recognize as part of his larger-than-life persona.
+
+#### Personality
+McCallister is known for his outspoken, tenacious attitude and his unwavering belief in the Republic's potential. He combines a bold, sometimes audacious leadership style with an undeniable charisma that makes him both respected and, at times, polarizing. Known for his affinity for calculated risks, McCallister believes that bold moves, especially when dealing with resource shortages and hostile factions, can be the difference between survival and defeat. He balances his assertive nature with a keen sense of strategy, and his loyalty to the Republic is indisputable.
+
+#### Background
+McCallister's military career took off during the Lone Star Republic-Cartel War, where he distinguished himself as a daring yet methodical tactician. He played a key role in establishing control over key territories, securing resources, and executing coordinated strikes against the cartel forces. This earned him the respect of President Samuel Davis and his fellow officers, as well as a friendly rivalry with Davis himself.
+
+The rivalry with Davis has roots in the war when McCallister's strategies sometimes clashed with Davis’s more cautious, ground-based approaches. Despite their differences, the two men developed a mutual respect, each appreciating the other's dedication and talents. Their friendly rivalry continued after the war, with McCallister occasionally challenging Davis's decisions in the Republic’s leadership forums, bringing a balance of perspectives to the administration.
+
+#### Role in the Lone Star Republic
+As the head of the Texas Rangers Air Division, General McCallister is responsible for overseeing all air-based operations within the Republic, including reconnaissance, supply drops, and, when necessary, aerial assaults on hostile factions. His strategic mindset and tactical prowess have been essential in securing key resources and territories for the Republic. Additionally, McCallister is often consulted for his expertise in planning large-scale military campaigns.
+
+#### Relationship with President Samuel Davis
+McCallister’s friendly rivalry with President Davis has become legendary in the Lone Star Republic, with the two men sharing a unique dynamic that combines camaraderie, competition, and respect. Davis sees McCallister as a valuable counterbalance to his own leadership style, and he values McCallister's input, especially in matters of defense and expansion. McCallister, in turn, respects Davis's vision and political acumen, though he often pushes Davis to take bolder military actions. The two have a standing tradition of private meetings where they debate, share insights, and, ultimately, work toward the Republic’s best interests.
+
+#### Motivation
+General McCallister is driven by a profound sense of duty to protect the Republic and secure its future. He believes that the Lone Star Republic has the potential to become a powerful and respected force in the wasteland, and he sees himself as a key architect of that vision. His commitment to the Republic’s growth, coupled with his ambition and competitive spirit, fuels his desire to leave a lasting legacy as one of its most influential leaders.
