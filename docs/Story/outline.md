@@ -69,7 +69,7 @@ flowchart TB
             
             B2enclave --> B3enclave --> B4enclave --> B5enclave --> B6enclave;
         end
-        subgraph enclave["Independent"]
+        subgraph independent["Independent"]
             B2independent[Main Quest: Unmasking the Hidden]
             B3independent[Main Quest: Allies in the Shadows]
             B4independent[Main Quest: Sabotaging the Scheme]
@@ -82,6 +82,7 @@ flowchart TB
         B1 --> B2lsr;
         B1 --> B2oilbaron;
         B1 --> B2enclave;
+        B1 --> B2independent;
         
         B2pirate o-.-o B2lsr;
         B3pirate o-.-o B3lsr;
