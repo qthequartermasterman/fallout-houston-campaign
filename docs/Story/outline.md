@@ -31,14 +31,25 @@ flowchart TB
             B2pirate[Main Quest: Sunken Treasure]
             B3pirate["Main Quest: You and What Army? (Pirates)"]
             B4pirate[Main Quest: Rallying the Reavers]
-            B5pirate[Main Quest: Tides of Conquest]
-            B6pirate[Main Quest: The Pirate King] 
+            B5pirate[Main Quest: The Pirate King] 
+            B6pirate[Main Quest: Tides of Conquest]
             
             B2pirate --> B3pirate --> B5pirate --> B6pirate;
             B2pirate--> B4pirate --> B5pirate;
         end
         subgraph oilbaron["Oil Barons"]
             B2oilbaron[Main Quest: Dawson's Betrayal]
+            B3oilbaron[Main Quest: Blood and Oil]
+            B4oilbaron[Main Quest: Grease and Gears]
+            B5oilbaron[Main Quest: Allies or Adversaries]
+            B6Aoilbaron[Main Quest: Shadow Games]
+            B6Boilbaron[Main Quest: Fire and Steel]
+            B7Aoilbaron[Main Quest: Judgment of the Betrayer]
+            B7Boilbaron[Main Quest: A Throne of Iron]
+            
+            B2oilbaron --> B3oilbaron --> B4oilbaron --> B5oilbaron;
+            B5oilbaron --> B6Aoilbaron --> B7Aoilbaron;
+            B5oilbaron --> B6Boilbaron --> B7Boilbaron;
             
         end
         subgraph lsr["Lone Star Republic"]
@@ -50,7 +61,21 @@ flowchart TB
             B2lsr --> B3lsr --> B4lsr --> B5lsr;
         end
         subgraph enclave["Enclave"]
-            B2enclave
+            B2enclave[Main Quest: The Greater Good]
+            B3enclave[Main Quest: Eliminating Loose Ends]
+            B4enclave[Main Quest: Experiments in Control]
+            B5enclave[Main Quest: Playing with Fire]
+            B6enclave[Main Quest: Shadows and Doubts]
+            
+            B2enclave --> B3enclave --> B4enclave --> B5enclave --> B6enclave;
+        end
+        subgraph enclave["Independent"]
+            B2independent[Main Quest: Unmasking the Hidden]
+            B3independent[Main Quest: Allies in the Shadows]
+            B4independent[Main Quest: Sabotaging the Scheme]
+            B4independent[Main Quest: Confrontation]
+            
+            B2independent --> B3independent --> B4independent --> B5independent;
         end
         
         B1 --> B2pirate;
