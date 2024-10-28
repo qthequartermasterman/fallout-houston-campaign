@@ -1,6 +1,13 @@
 # CHANGELOG
 
 
+## v0.42.0 (2024-10-28)
+
+### Features
+
+* feat: update act 2 descriptions ([`118b16b`](https://github.com/qthequartermasterman/fallout-houston-campaign/commit/118b16ba5f5a7220923de3d0f0522e5c4af01da4))
+
+
 ## v0.41.0 (2024-10-28)
 
 ### Bug Fixes
